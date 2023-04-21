@@ -17,6 +17,8 @@ export type Topic = {
 export type Chunk = {
   title: string;
   date: string;
+  context: string;
+  people: string;
   content: string;
   content_length: number;
   content_tokens: number;

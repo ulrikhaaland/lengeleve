@@ -1,7 +1,7 @@
-import { OpenAIStream } from "@/utils";
+import { OpenAIStream } from '@/utils';
 
 export const config = {
-  runtime: "edge"
+  runtime: 'edge',
 };
 
 const handler = async (req: Request): Promise<Response> => {
@@ -10,13 +10,13 @@ const handler = async (req: Request): Promise<Response> => {
       prompt: string;
       apiKey: string;
     };
-
     const stream = await OpenAIStream(prompt, apiKey);
 
     return new Response(stream);
   } catch (error) {
+    console.log('gothere');
     console.error(error);
-    return new Response("Error", { status: 500 });
+    return new Response('Error', { status: 500 });
   }
 };
 

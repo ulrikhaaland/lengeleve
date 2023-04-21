@@ -101,7 +101,6 @@ export default function Home() {
 
     console.log('chunks' + chunks.length);
 
-
     const prompt = endent`
     Use the following passages to provide an answer to the query: "${query}"
 
@@ -364,6 +363,9 @@ export default function Home() {
                           <div>
                             <div className='font-bold text-xl'>
                               {chunk.title}
+                            </div>
+                            <div className='mt-1 font-bold text-sm'>
+                              {chunk.context}
                             </div>
                             <div className='mt-1 font-bold text-sm'>
                               {chunk.date}

@@ -1,1204 +1,1288 @@
 export const trainingText =
-  'Andy’s path to expertise in exercise [3:30]\
-Peter has wanted to speak with Andy for quite some time and listeners to this podcast know how much of an emphasis he places on exercise\
-Peter has said it many times before, “There’s really no more potent tool to improve longevity (meaning extending the length of life and improving the quality of life) than exercise. And that includes nutrition, and that includes sleep, and that includes the entire pharmacopeia of medication, supplements, drugs, hormones, etc.”\
-Peter divides exercise into different pillars\
-1) Strength\
-2) Stability\
-3) & 4) Cardiorespiratory fitness (further subdivided by the metabolic state and energy state)\
-Zone 2\
-Zone 5\
-Today we’re going to focus on strength and things that stem from that (like hypertrophy) which are of huge interest to people\
-Andy’s background in exercise \
-Andy begins by stating a conflict of interest, “I’m an exercise scientist… I actually assign strength training”\
-He is biased to giving more credit to exercise for longevity and wellness\
-Andy grew up in a very small town in southwest Washington\
-College\
-He played everything in high school‒ football, basketball, baseball, track and field\
-He went to a small school in Oregon where he played college football and got his undergraduate degree in exercise science\
-After that he worked in Arizona training professional athletes\
-He went back and got his Master’s degree in human movement sciences, which is just another fancy way of saying kinesiology or exercise science\
-Then he got his PhD in human bioenergetics\
-In 2011 he came out to California and has been working at Cal State Fullerton ever since\
-For a while now, he’s been the director for the Center for Sport Performance there\
-He also runs a Biochemistry and Molecular Exercise Physiology lab at Cal State Fullerton\
-In terms of sports, Andy played college football and then training professional athletes \
-He started competing in weightlifting (which colloquially is Olympic weightlifting) and then combat sports a while after that\
-He has continued to work with athletes in just about every sport while running his lab (doing research) over the last 10 years\
-His research and interests come back to the same point‒ the details for training and recovery are important for performance\
-He was a decent athlete and felt like he was in the perfect spot because he wasn’t so good that these details didn’t matter\
-The details of effective training and recovery mattered\
-This was the difference between him being a starter and not\
-He was good enough to know where he got rewarded\
-If you’re not good enough, then it doesn’t matter what you do because you’re not going to play at the next level\
-He was totally obsessed with giving himself every advantage\
-He wanted to go All Pro (but that didn’t happen)\
-He knew he was never going to be a professional level caliber or even Division I, but he wanted to play college football\
-This is where his passion came from\
-He grew up in a small town, a very working class place where losing was always fine\
-There was always someone better than you\
-But losing because you didn’t prepare was totally unacceptable\
-Most of the kids he grew up with worked before school (on farms or cleaning stalls)\
-His parents worked in construction\
-The whole idea of fending for yourself and getting what you earn was something he grew up with\
-He moved into sports and academia with the expectation that, “If you want a chance, it’s on you and nobody else. And so do the work or don’t do the work.”\
-This pushed him to get where he is\
-After his own athletic career…\
-He worked with athletes who wanted to pursue tremendous goals like go to the Olympics\
-He also found that some sports (like women’s wrestling) have no funds; no one is going to help them\
-Andy became very interested in these people because he saw that he could help them a lot, and no one else cares about them\
-This is what motivated him to get his Master’s and PhD\
-He wanted to learn more and find all the all the answers he can\
-Contrasting strength, power, and force production and how they inform us about training for longevity [9:30]\
-How does Olympic lifting contrast with powerlifting? \
-Layne Norton has been on the podcast several times [see the Selected Links section at the end]; he’s a very successful powerlifter\
-In powerlifting, you get three lifts and it’s all about your total in those three lifts\
-“I’ll preface the question for the listener by saying, even if you never plan to powerlift or Olympic lift, this is going to be germane to our discussion”‒ Peter Attia\
-Andy recently published the most in-depth analysis of muscle composition of Olympic weightlifters\
-Comparing/contrasting powerlifting, Olympic weightlifting, and Strongman competitions to help define strength, force production, and power\
-When you think about powerlifting, force production is a one-rep max (in the case of lifting)\
-It’s the most amount of weight you can lift one time (not how many times you can do it)\
-Not how fast you can do it\
-In the sport of powerlifting (like what Layne does), it is three exercises‒ the deadlift, bench and the squat\
-It’s how much weight can you lift one time\
-You get a couple of tries at it, but that’s effectively what it is\
-Powerlifting is an expression of pure strength, not power (because the speed component is very poor)\
-It doesn’t matter how long the deadlift takes\
-This can be confusing because the sport is called powerlifting, despite the fact that it is not a power exercise, nor is it determined by power\
-When you move over to Olympic weightlifting, it’s the same basic idea\
-There are now two lifts instead of three‒ one lift being called the snatch and the other one’s called the clean and jerk \
-It’s called the clean and jerk because it has two parts‒ you clean it to your chest and then you jerk it over your head (but it’s still considered one lift)\
-Whoever can lift the most amount one time is the winner (one-rep max)\
-There’s no repetition method to it\
-The difference is this is now more an expression of power because although it’s all about one-rep max, it’s difficult to lift something over your head as high as possible slowly (there’s a speed component)\
-It is an expression of tremendous strength, but there’s this velocity component to it\
-When you multiply force by velocity, now you’ve got power, and so technically the Olympic weightlifters are significantly more powerful than a powerlifter (despite the confusing name)\
-This gets worse when we start roping in things like strongman \
-You would think that must be the biggest expression of strength, where in fact it’s not because strongman is contested over multiple repetitions\
-It is an expression of very, very high strength repeated several times\
-It’s not technically a true one-rep max\
-Andy points out about powerlifting, weightlifting, and strongman, “None of those three things are actually explaining what they do correctly”\
-This is important because it also explains training adaptations \
-It’s a perfect way to outline to understand what’s happening\
-If you train like a powerlifter, that probably represents the best way to get truly strong \
-Powerlifting is very controlled‒ very specific foot position and hand position\
-You’re minimizing range of motion intentionally because you want to minimize work, (work being force times distance), and if the name of the game is who can create the most force\
-If you can minimize the distance you’re going to win, and that’s why they take those funny positions\
-If you train like a weightlifter, it represents the best way to get powerful \
-With Olympic weightlifting, more coordination required because you’re going to take a weight from the ground, throw it over your head and catch it over your head in a full squat\
-This requires things like balance and proprioception and eccentric catching\
-If you train like a strongman, it represents a fantastic way to get very, very strong in more life-functional movements \
- Walking, carrying, lifting objects and doing it probably multiple times\
-How does hypertrophy fit within this trio? \
- Hypertrophy would be more of your bodybuilding \
-Which Layne has also done\
-Holly was just on the podcast and whether you call it bodybuilding or general physique, she can smash with physique\
-Bodybuilding is simply improving generally leanness and total muscle mass\
-There’s a component of symmetry and shape, things like that that don’t really matter for this conversation\
-Now you’re talking about optimized muscle size as well as leanness with no consideration for function\
-It doesn’t matter if you’re strong or fast or athletic or any of those thing\
-Andy remarks, “It’s so interesting that you started the conversation like this because this is day one of my Strength and Conditioning course”\
-He spends the first week going over these different categories of sport because it outlines exactly how to train\
-Andy adds two more training categories \
-1 – Competitive circuit training sports (like CrossFit)\
-These people are very strong, they have a lot of muscle, but they’re not nearly as strong as powerlifters or the World’s Strongest Men, but they do a lot more repetitions\
-A World’s Strongest Man is going to win an event doing something like 5-15 repetitions\
-In CrossFit, you might have to do 90 reps in a given workout \
-It’s way higher up that scale of number of repetitions\
-Of course, they do some that are one-repetition\
-They do a lot of different functional movements and a lot of workouts repeated in the same day\
-It’s a very different test of recovery over three or four days of just brutal onslaught, where you’re asked to do things in a lot of different areas and a lot of different energy systems and movement patterns etc.\
-CrossFit is a really interesting test of total physical fitness\
-2 – Track and field is the truest expression of velocity \
-These are the people who are going to be the best at getting truly fast\
-What do you need to have as a functional human being for lifespan longevity or sport? \
-Think of this as a spectrum, and consider the questions‒ \
-How do I get to be absolutely the fastest? \
-How do I get the most powerful? \
-How do I get strong?\
-How do I add muscle size/loose body fat? \
-How do I improve my muscular endurance? \
-How do I improve my cardiovascular and metabolic endurance? \
-This is now occupied in all of those sports, and so we can look at them as a model for training and saying, “The best in the world at getting stronger have been doing this.” \
-We have different models of that, and that is a nice foundation for all training\
-Muscle energetics: Fuels that provide energy to muscles, and the importance of protein [17:45]\
-What is a muscle? What is the functional unit? How does it generate force? What are the metabolic demands? What makes these cells that are so ubiquitous in our body different from, say, the cells in our liver, the cells in our gut, the cells in our brain? What are these cells that we almost take for granted sometimes?\
- What is the biggest organ in your body? \
-Most people generally say the skin\
-As an exercise scientist and muscle physiologist, Andy gives all the credit to muscle\
-He doesn’t care about the organs that support muscles‒ the heart, the liver, the lungs, or his “worst enemy”, the nervous system\
-Andy is biased towards muscle\
-Muscle is going to be the largest organ in your body.  It’s doing everything from supporting function, locomotion, to being your biggest reserve for amino acids, and your biggest dump for regulating metabolism \
-“I could go on and on and on about the physiological, the practical, the general health benefits of skeletal muscle”‒ Andy Galpin \
-Peter hones in on this idea of muscle as a storage depot for amino acids\
-Layne did a great job talking about this in the podcast, explaining that we are constantly breaking down and adding new \
-There’s a pool of amino acids that’s turning over, and it’s very difficult to study them from a flux perspective\
-If you’re working out, it’s a plausible scenario that proteins are being broken down and amino acids released\
-These may not be resynthesized back into that same piece of skeletal muscle\
-They may be used for another application (Andy thinks this is guaranteed to happen)\
-Andy uses an analogy to explain energetics \
-Andy shot a cheesy video 10 years ago in his backyard about the basics of energy using the analogy of a campfire\
-If you’re a outdoorsman and you are going to be out camping, you may need to create a fire\
-1 – The first option is to use a match‒ it’s going to give you instantaneous energy (the fire) but it only lasts a few seconds\
-If you need energy right now, this is where you start\
-In terms of your tissue, this is going to be ATP and your phosphocreatine energy system \
-The stoichiometry is one to one, you break down one phosphocreatine to get one mole of ATP\
-It’s generally loaded up on the myosin head or close to it so it can contract tissue (we’ll come back to actin and myosin)\
-2 – Now if you were a little more forward thinking, you would use the match to light a newspaper \
-Paper would provide a fairly quick light, not as fast as a match, but it would give you a few minutes of energy (conceptually)\
-The paper here is carbohydrates \
-Carbohydrate is stored both in the cell as well as outside, but in the cell it’s going to give you a lot more energy\
-You’re going to get a couple of moles of ATP per molecule of carbohydrate\
-So carbohydrate is better than phosphocreatine, but it’s splitting hairs \
-When carbohydrates get low, you can pull glucose out of the blood\
-In the tissue carbohydrates are called glycogen\
-Glycogen is also stored in the liver; it functions as a backup storage system for glucose to help you regulate blood glucose\
-Blood glucose is one of the four things your body will regulate over almost anything else (the others are pH, blood pressure, and electrolyte concentrations); these need to be stable\
-3 – Next in the analogy for fuel to burn is a piece of wood \
-Lighting firewood in the wild is very difficult to do; it doesn’t happen in seconds, but it’s going to give you exponentially longer burn time (hours)\
-Think about that as fat  \
-If you know a little bit about the chemistry of fat versus carbohydrate, they’re both big long chains of carbon (just like a paper is actually made of wood)\
-You get a small, six carbon chain from glucose\
-You can get any number of lengths of chains of fat, such as a 18 carbon fatty acid chain\
-You can put three of those on a backbone of glycerol and you’ve gotten yourself 50 carbon molecules per triglyceride or something like that\
-The stoichiometry gets better here\
-You’re going to get something like three or 400 ATP per molecule of fat, and that’s where things get actually better\
-The fat is actually coming mostly from outside of the muscle\
-So, energy from fat mobilization comes throughout the body somewhat evenly\
-Glucose comes mostly from inside the muscle itself, and then a little bit from the backup supplies if it gets low\
-Phosphocreatine comes directly from the muscle\
-But how does protein fit into this analogy? \
-Protein in this analogy would be functioning more like a piece of metal\
-If you had metal in the woods and you needed a fire and you had absolutely nothing else, you can in theory melt metal with a fire\
-But it is a very, very low end proposition\
-If you absolutely have to do it, you can do it to survive\
-But if that’s your fueling strategy, you’re in a big, big problem because you’re going to run out of metal very quickly in the woods\
-It’s mostly there for you to reconstruct new tools; it’s meant to be broken back down and recreated in different forms \
-Andy’s summary \
-What we’re looking at is the ability to play back and forth with carbohydrate and fat as a different fuel system\
-The point of protein in tissue is its function for skeletal muscle; it is not fuel\
-We need it for our immune system and other functions\
-The importance of protein in your diet  \
-If your body is choosing between keeping a 24-inch biceps or clearing up something immunologically, it’s going to go toward the latter\
-Let’s say you spend a lot of time on your biceps and they get really, really big, but you don’t train your calves and your protein intake is insufficient\
-You will start redistributing protein from the calf to the bicep to enable that growth\
-You think you’re getting bigger, but you’re really just taking it from other places if protein intake itself is not sufficient\
-This is why people are so diligent about protein intake and why this has become such a big deal\
-Protein is the raw material you really can’t get anywhere else \
-You can get carbohydrates and fat in a lot of ways\
-You can’t make muscle without protein \
-When you start losing muscle, you enter a whole cascade of problems with physical performance\
-More muscle means a longer life\
-When you look at people across lifetimes and divide them by amount of mass it’s clear they live longer\
-Note that strength is the better determinant for longevity than mass, however, mass it very easy to identify and it’s correlated to strength\
-It’s easier to measure muscle mass than strength; all you need to do is put somebody in a DEXA and you can figure out their appendicular lean mass index (ALMI)\
- “There’s no ambiguity about the fact that more muscle means a longer life. It’s as clear as high VO2 max means a longer life.”‒ Peter Attia\
-The structure and microanatomy of muscle, muscle fibers, and more [29:30]\
-Creating movement requires three core functions \
-1 – It begins with a direction or signal coming from your nervous system, telling the muscle what to do\
-It doesn’t matter if this is central or peripheral, autonomic or controlled somatic action\
-A nerve has to go into a muscle fiber and tell that muscle fiber to contract\
-2 – Muscle fiber contraction\
-This doesn’t cause movement\
-Muscles are not attached to bone\
-Muscle fibers are surrounded by connective tissue, and all that connective tissue is bundled together in a package\
-Imagine buying a bunch of strips of bacon from the butcher all wrapped up in saran wrap together; that’s what a muscle looks like\
-If you pulled on one piece of bacon, you’d notice the whole package moves\
-3 – You’re transferring force from muscle through connective tissue\
-That connective tissue comes together into a tendon, and that tendon then attaches to bone\
-To summarize what generates human movement‒ a signal causes a muscle to contract, and that muscle makes connective tissue pull on a bone \
-Andy will leave step 1 (neuroscience) to other people\
-A nerve will come down and attach and innervate a whole host of muscle fibers\
-It’s difficult to understand what’s happening with connective tissue; it’s not very plastic\
-Muscle is tremendously plastic, meaning it adapts and changes very rapidly in response to a lot of things\
-Connective tissue doesn’t have a blood flow supply, it doesn’t have an energetic demand\
-“The core of the issue of adaptations, whether they are pro or negative, is going to be in skeletal muscle”‒ Andy Galpin \
-Special properties of skeletal muscle \
-Skeletal muscle fibers are some of the largest cells in all of biology (by diameter)\
-In humans, they’re tremendous \
-What makes humans special is that our muscle fibers are what’s called multinucleated \
-It’s very uncommon in nature to see cells that have more than one nucleus\
-The nucleus is the control center of the cell; that’s what holds your DNA and tells you when to replicate proteins to grow, shrink, die, repair \
-Skeletal muscle has thousands of nuclei per cell; it can be extraordinarily large (see the video below)\
-A single muscle fiber from a human is large enough to pick up with tweezers; you can see the whole muscle cell with your naked eye\
-They can be very, very long (several inches in length)\
-Figure 1. A single muscle fiber is a large, multinucleated cell. Image credit: Andy Galpin CSUF\
-How do you define a muscle cell? \
-Normally, we define a cell by the constitutive elements of a cell membrane, a single nucleus, etc.\
-For a muscle cell (aka muscle fiber), we are looking at a longer tube as opposed to a sphere\
-It’s still circular like any other cell, but it’s a very long tube\
-Think of a muscle cell like a ponytail and compare to the figure below\
-A ponytail is made up of a bunch of individual hairs that are bound together and form a long tube\
-This is what a skeletal muscle system looks like\
-Figure 2. Muscle fiber organization. Image credit: OpenStax Anatomy and  Physiology. \
-Skeletal muscle is quite different from cardiac muscle\
-Cardiac muscle cells are more rectangular\
-Skeletal muscle fibers are very long and narrow but still circular\
-Skeletal muscle cells still have a cell membrane, more of the organelles are the same as any other cell, but they have a bunch of nuclei\
-What is the typical length of a skeletal muscle cell? \
-For skeletal muscle, structure is function so you can’t give a typical length\
-Contrast this with cardiac tissue, the ultimate slow-twitch fiber\
-Cardiac tissue is even more slow-twitch than skeletal tissue and it tends to be fairly uniform\
-If you look at your sartorius (the muscle that goes from the pointy part of the front of your hip down to the inside middle of your knee), theoretically those fibers (a single cell) could run that whole distance \
-If you consider an ocular muscle (in the eye), it’s going to be extremely small in length\
-A muscle cell in your fingers are also going to be very, very short\
-There is not classic range; a skeletal muscle cell could be anywhere from mm to inches in length\
-Presumably the reason these cells have multiple nuclei is to decentralize the actions of cellular construction \
-The DNA is used to make RNA in the proximity of the nucleus; from this proteins are made\
-Even a 1 cm long cell would be enormous, and you simply couldn’t make all of that work with one nucleus\
-Do these nuclei in a single muscle cell act independently? Where is the central command? \
-The nucleation question is very interesting and amazingly adaptive\
-Andy has shown in his lab that a lot of professional athletes have more nuclei per volume\
-He posit’s this may be why they can adapt so well\
-With more nuclei, they can handle the volume of exercise\
-How much is the number of nuclei per muscle cell genetic and how much is adaptation to training? \
-Andy thinks both are important\
-Numerous lifestyle factors influence this\
-It’s not just the number of nuclei that matters; the shape matters\
-There are spheres, ovals, etc\
-“[For nuclei] It looks like the shape determines the function; the location determines the function.”‒ Andy Galpin \
-For example, there are subtypes of nuclei that surround the mitochondria and are very specific to mitochondria repair\
-There are other subtypes of nuclei that are more specific to jobs in the periphery of the cell, responsive to the cell membrane and injury\
-This is a very recent understanding and is probably why some folks recover or respond to injury more than others\
-They may simply have more of a subtype of nuclei\
-What’s challenging about addressing the question of nature versus nurture is the difficulty with measurement fidelity\
-The tech is moving quickly; every couple years microscopes get better and we realize that the work of the three previous years are now invalidated\
-In the area of cell growth (hypertrophy), there is tremendous confusion about the role of these nuclei in growth \
-We used to think about mononuclear domain limitation‒ the idea that the cell would only grow in diameter to the extent to which the nuclei could control it\
-In order to gain more growth, you have to get more satellite cells to come in and add nuclei\
-Then when you de-train, that cell reduces in diameter, but you preserve the additional nuclei\
-This is why retraining is easier than training the first time\
-This is the old adage of muscle memory\
-Now it looks like this mechanism (of mononuclear domain limitation) is not correct; certainly it remains to be determined\
-Peter notes that this question lends itself to a longitudinal study\
-In an ideal world you would take young, pliable athletes in their teens and study them over time under different training demands\
-The dream scenario is to study identical twins (we’ll come back to this)\
-Energy demands of skeletal muscle compared to other tissues in the body [39:45]\
-How hungry are muscle cells for energy?\
-The liver is an amazing organ, Peter points out there is not extracorporeal support for the liver because we simply can’t replicate its complexity\
-Extracorporeal simply means outside the body\
-For example, dialysis is extracorporeal support for the kidney\
-A VAD or an ECMO is extracorporeal support for the heart or heart and lungs combined \
-A ventilator is extracorporeal support for lungs\
-If a patient tragically overdoses on Tylenol in an attempt to take their life and they reach a point of irreversibly damaging the liver, you can’t put them on liver support until they get a transplant\
-The liver controls glucose homeostasis with an amazing level of precision\
-The liver is not a metabolically greedy organ; on its own it doesn’t consume much energy\
-In contrast, the brain is a very complex organ and incredibly metabolically greedy\
-Which is probably why we need the liver to support the brain\
-Without the liver being so good at maintaining glucose homeostasis, our brain would’ve either needed an adaptation strategy away from glucose or  we wouldn’t have brains as large as we do\
-Peter asks, “Where does the muscle fit into this hierarchy? Is the muscle a high maintenance organ?”\
-Andy compares the liver to a professional fighter, where you can beat it up a lot\
-Kidneys don’t have this sustainability\
-Andy also loves the liver, because it’s the closest thing in the body to skeletal muscle in terms of its ability to respond and change\
-Story about liver transplants from Peter’s residency \
-In his residency, Peter was involved with a number of live donor liver transplants\
-This is an operation when an individual would donate a third to half of their liver to another person who was a really good HLA match\
-What was interesting was the speed with which that portion of their liver would regenerate\
-If you didn’t anticipate that growth with doses of intravenous phosphorus, they would have an enormous metabolic crisis\
-There is no amount of food you could give this person to allow them to have enough phosphate backbone for the DNA and RNA and protein synthesis that was going on to reproduce their liver\
-You had to give them IV phosphorus nonstop\
-They could regenerate a third of their liver in two weeks (simply staggering)\
-The caveat is, this only works when the architecture of the liver is preserved\
-Once you cross into the path of cirrhosis and inflammation, it’s over\
-Unfortunately, people with post- NAFLD, NASH, alcoholic liver disease, they have gotten to a point where their liver no longer has that capacity to regenerate\
-When Andy does his single fiber experiments with skeletal muscle, you have to use a permanent bath of phosphorus\
-Andy notes about the liver, “You can mess up for a long time, but if you do take action before you hit that level… you can get a lot of regeneration/ recovery.”\
-The kidneys are different; they are so sensitive to blood pressure and the damage of high glucose\
-The lungs are sensitive to smoking and things like that\
-Peter thinks the liver is an unsung hero of the body\
-Andy agrees, it’s the thing that keeps you from bonking during endurance sports\
-When the liver is finished, it doesn’t matter how much mental strength you have, you are going down\
-If you watch any sports, someone gets hit in the liver and instantaneously, they’re crippled\
-Peter asks, “Isn’t that what happened to Oscar de la Hoya against Bernard Hopkins?”\
-Andy doesn’t remember, but he works a lot with UFC fighters, and he’s seen just the tip of a toe clip the liver and world champions get locked up and fall to the ground\
-The liver does not like to be aggravated like that, but it will handle a beating for the most part\
-Back to the question of the energy demands of the muscle \
-The muscle is tremendously responsive to everything you’re doing \
-People will say that if you add more muscle mass, that’s going to elevate your basal metabolic rate so you’ll burn more calories just sitting there\
-That is true, but it’s not to a level that you actually think\
-It’s probably something like 30 calories per pound of added muscle\
-People tend to think their basal metabolic rate is going to go from 1500 calories a day to 2,500 because they put on five pounds of muscle\
-Andy adds, “That’s way outside the realm of what’s going to happen”\
-There are many reasons you probably want to put some muscle on, but the metabolic boost is probably not one of them\
-In terms energetic demands, skeletal muscle is pretty lazy \
-Skeletal muscle wants to be as efficient as possible\
-Think about the functionality of physiology, you want your brain running full course as often as possible\
-Skeletal muscle is a backup system; it’s there when you need something done to elevate your function\
-Otherwise it’s in rest mode\
-If you need it, muscle will jump into action\
-If you have an energetic NEAT (non-exercise activity thermogenesis) to burn 200 calories, your foot will start tapping\
-NEAT is non-exercise energy, burning energy that’s not physical activity or exercise or the energy needed to survive (breathe, digest, etc.)\
-NEAT accounts for about 10% of our energy throughout the day\
-This changes depending on your metabolic health, total size, and other stuff\
-When you see people who just can’t sit still, they probably have a pretty high NEAT\
-This also helps to explain how people can maintain the same amount of physical training (exercise performance) as well as health at tremendously different levels of calorie intakes because we can adjust NEAT very quickly \
-There is a huge buffer where you can increase or decrease NEAT\
-Andy adds, “We can kind of change our metabolic set point if you will, to keep you at the same body size, irrelevant of going up and down in calories”\
-How a muscle contraction works and why it requires ATP [48:00]\
-How does a contraction actually work and why does it require ATP? \
-A signal from a nerve is needed to begin a contraction\
-A nerve (or motor unit) comes into a skeletal muscle\
-In the eye, there is a single motor unit that comes in and activates each single muscle fiber; this gives an extraordinary control of dexterity\
-In the glutes, in contrast, you need to contract with as much force as possible, but you don’t need a high fidelity or precision of movement\
-Fingers are second to the eye in terms of fidelity of movement\
-So if there is one to one (nerve to muscle fiber) in the eye, it could be one to thousands in the glutes\
-Contracting the glutes on/off, at 50% of maximal force, at 20%\
-The SAID principle is a specific adaptation for closed demand\
-The Henneman’s size principle (named after the scientist Elwood Henneman) says there are low threshold and high threshold motor units\
-This means some motor units are very easy to turn on while others are more difficult \
-How does a nerve deliver its signal? \
-A contraction requires a fun interplay between chemistry, electricity, and chemistry \
-You have to go from an electro signal to chemical signal back to electrical signal\
-Sodium and potassium and chloride are your main players\
-Chloride has a negative charge\
-Potassium and sodium have a positive charge\
-The fun way to look up this is to look at patient assisted suicide with Dr. Kevorkian\
-You give a giant bolus of potassium to somebody and their heart is going to slowly stop contracting\
-Why? Because the amount of intracellular potassium is going to become fairly equivalent to the amount of extracellular potassium\
-And so the change in electrical gradient between the outside of the cell and the inside of the cell becomes neutral, and now no action potential occurs\
-What you need to have happen is a change in electrical voltage from outside of the cell to inside the cell (typically we’re talking like negative 30 millivolts)\
-Once enough of the sodium and potassium start moving in the correct directions (see the figure below), then the electricity changes because our positive is moved more negative, and boom, we hit this all or none switch \
-Figure 3.  Movement of electrical charge and sodium during propagation of an action potential. Image credit: Medical gallery of Blausen Medical 2014 \
-And so skeletal muscle fibers can’t contract at different levels of force\
-Once this action potential threshold occurs (you flick the switch), the muscle fully contracts\
-The analogy Andy uses is a light switch\
-Once you hit that certain threshold of millivolts, the muscle fiber contracts as hard as it possibly can\
-There’s no dimmer switch here\
-Once you get to that action potential, the millivolts just rocket back up and then there’s this whole cascade of recovery\
-This is what your sodium, potassium pumps are doing to try to reset that gradient, put them back in the right direction so you can have another contraction\
-This explains tetany‒ if you can track that fiber multiple times in a row before it’s reset then it feels like it’s in an isometric contraction\
-But what actually happens is you have so many muscle fibers contracting and relaxing at such a fast rate , it feels like the whole thing’s is locked up; but they’re actually flicking on flicking off\
-Muscle fibers: modulation between fiber types with movement and changes in fibers with training and aging [53:15] \
-Explain how despite an all or none action potential and an all or none contraction of a single fiber, you can still get variable degrees of strength at the level of the muscle\
-This is why Andy brought up Henneman’s size principle\
-Within these motor units you have sizes\
-Most of the time in normal situations, all the muscle fibers in that motor unit are of the same fiber type\
-Let’s just say we had two motor units\
-One of those motor units is slow-twitch and one of those motor units is fast-twitch fibers \
-So if we had five fibers in that motor unit (or 500, it doesn’t really matter) we have a couple of factors coming on, but they’re generally going to be within that same motor unit\
-Thinking about how we relegate force production is this‒ we know that once all five of those muscle fibers get turned on, they are going to contract at full speed\
-The only way to change how much force is created in a whole muscle is by altering how many motor units get turned on \
-So the size principle tells us we’re going to turn on the low-threshold units first\
-And so if you go to do what you just did (reach over and grab a glass of water), it’s probably best we don’t turn on our high-threshold/ high force production units\
-High-threshold/ high force production units are generally larger (not always) motor units that have faster fibers \
-You don’t want to turn on your high-threshold units and produce unnecessary force\
-Second, these high-threshold, fast-twitch muscle fibers burn more energy than slow-twitch muscle fibers (generally), and you don’t want to waste energy\
-This is why your car starts off in first gear, then second, etc\
-We lose efficiency as we go up but we gain performance\
-You always start with the smallest unit possible and turn on more motor units if more force production is required \
-(The mechanics/ molecular biology of a muscle contraction is revisited later, in the section‒  Differences between fast-twitch and slow-twitch muscle fibers [1:11:15])\
-Changes in muscle fiber types associated with aging and professional athletes [55:15]\
-How quickly is that response modulated in an athlete? \
-Let’s say you want to deadlift something\
-Initially, you’re going to activate the lower threshold motor units (these are almost exclusively slow-twitch fibers)\
-The only way that we really know to increase that is through force production demands\
-The challenge with fast-twitch muscle fibers is they’re only activated under high-threshold demands, which are high force demands\
-Interestingly, with aging you see virtually no reduction in slow-twitch fibers (no reduction in size)\
-More than a few papers show a hypertrophic effect of slow-twitch fibers with aging\
-There is no loss in specific tension (which is like force per unit of size)\
-There is no loss in power\
-It appears to be very easy with any level of activity to maintain and preserve health of slow-twitch fibers\
-But because fast-twitch fibers require force production and you generally don’t get high force production in activities of daily living, then those fibers go unutilized for long stretches of time\
-Eventually they go away\
-What we see happen is this really interesting thing called fiber type grouping, where the nerve will basically say, “Okay, that fiber is being not used,” and that whole motor unit will decay, and the fibers will be preserved\
-The other neighboring motor units will actually grow new extensions, activate some of the previously gone motor units and then convert those fibers into whatever fiber type of that previous motor unit\
-In general, what we see happening is slow-twitch motor units start absorbing fast-twitch fibers and bringing them to their motor unit  \
-So we see these large patches of single fiber types throughout the muscle\
-In a motor unit those fibers are connected by the same neuron and they’re the same fiber type, but they’re not laying next to each other\
-You don’t want them in the same spot\
-They’re sort of dispersed throughout the muscle\
-And that gives you smoothness of contraction\
-If you start punching, the entire right side of your bicep is one motor unit, the entire left side is another\
-One of the things that happens when you contract that motor unit alone is you get super spastic, out of control, twitchy, unregulated movements\
-When we see this fiber type grouping thing occur with aging, it’s almost exclusively a problem of fast-twitch fibers, not loss of slow-twitch fibers. That also explains lack of fidelity as well as potentially some problems with fine unit movements.  \
-What is the heterogeneity of fast and slow-twitch mixtures within different areas? \
-Presumably the eye is all slow-twitch; it doesn’t require much force, but it does require a lot of speed\
-Andy doesn’t know\
-In big skeletal muscle like the lats or glutes, there is a huge amount of person-to-person variation\
-There is also tremendous difference between muscle to muscle\
-If you compared the soleus in two people, one person might be 90% slow-twitch and another 70% (the figure below shows the location of the soleus muscle in the lower leg)\
-And there would be a large variation in that muscle \
-If you look in animal models, you’re going to see 100% slow-twitch in the soleus\
-The reasons is because we walk, the soleus has to be a majority slow-twitch muscle fiber\
-We can’t risk any inefficiency in that system\
-If you look at the shank in general, you’ve got two primary muscles of movement there (see the figure below)\
-The soleus being the smaller one, it sits underneath the gastrocnemius at the bottom of the calf where it goes into that long piece\
-They both attach at the bottom of your foot \
-The gastrocnemius can be seen if you point your toe towards your face and flex your calf, it has a kind of U-shape that pops up in the middle\
-The gastroc is almost exclusively fast-twitch but not nearly as exclusive as your soleus is\
-The soleus is what we call postural or anti-gravity\
-You can have a soleus contractor for hours and be totally fine, not even realize it\
-If you had your gastroc contracted for more than a few seconds, you would feel a burn\
-Figure 4. Muscles of the leg. Image credit: NCI\
-Contrast the variation in the soleus with the VL (vastus lateralis) in the outside quad muscle \
-The variation in the vastus lateralis gets extraordinarily large\
-The VL is typically 50/50 fast-twitch/ slow-twitch and the record\
-It gets far more complicated than a fast-twitch/ slow-twitch, but we’re keeping it at that level for now\
-Andy’s lab biopsied a whole bunch of people who are Olympians, world caliber men and women, and the VL in some of those individuals are 80-85% fast-switch\
-Is this true across all sports?  Would you expect a Tour de France champion to have that high fast-twitch muscle fibers in his VL? \
-Some of the folks Andy biopsied involved in endurance exercise have as high as 90% slow-twitch in the VL\
-So basically zero fast-twitch\
-You can run the whole gamut of composition in the VL \
-If you had a time machine and could go back and biopsy these same people as five-year-olds… we don’t know what they looked like then \
-Andy got this kind of information with his twin study\
-Andy’s study of twins demonstrating the difference in muscle fibers between a trained and untrained individual [1:02:30]\
-This was a study of monozygotic twins (identical) who had about 35 years of different training\
-One of Andy’s graduate students who had been in the lab for three years was sitting next to Jimmy Bagley; they were staring at a microscope, pulling out individual muscle fibers with tweezers for hours\
-As they talked, this student commented on her Dad’s twin\
-She mentioned that her Dad doesn’t exercise but her uncle has been competing in Iron Mans for 35 years\
-Andy’s response was, “Wait, wait, so let me get this straight. You have identical twin father, one of them has 30 plus years of documented endurance exercise. The other… has never exercised since high school… and you’ve been in my lab for three years.”\
-It was a dream experiment\
-They were able to bring them into the lab\
-The uncle was a classic endurance nerd; he had documented every workout for 30 years (50 hand-written journals)\
-They knew the caloric expenditure, the miles, half-marathons, marathons, everything\
-Phenotypically, how different did they look? \
-They looked almost identical\
-The only difference was the non-exercising twin was a little bit less lean\
-He had maybe 3-4 kg of body fat (6-9 lbs)\
-Peter notes, “It really speaks to the hereditary nature”\
-One is an exercise fanatic and the other is a couch potato but on the outside they look relatively equivalent\
-Body habitus is remarkably hereditary; it’s on par with height and eye color\
-What did their muscles look like? \
-Andy was super excited to study these twins\
-He took every measure possible‒ DEXA scans, this is vertical jump, VO2 max, blood chemistry, muscle biopsies, psychological evaluations with an IQ test\
-Peter asked, “How long did it take? Just so people understand the pace at which science moves from the microscope discussion until you’ve got these guys in your lab.”\
-Andy took the time to design the study, put in an IRB, etc…It took maybe 8 months \
-Peter remarks on how fast this was, “You already had the funding, I assume”\
-Andy didn’t wait for funding, he paid for their plane tickets out of his pocket\
-“What’s interesting was that body composition lies”‒ Andy Galpin \
-The untrained person had 5-6 lbs more fat mass (maybe 3 kg was too high)\
-On DEXA, what was the difference in muscle mass? \
-Around 100 g; Andy thinks the number was 71 (way beyond the detection limit of the machine)\
-They were almost identical in muscle mass\
-What’s interesting is that the endurance guy did not lift at all (no strength training)\
-He did strictly running, cycling, swimming\
-Peter asks, “Can you imagine the experiment of triplets where you had a third guy here that only lifted weights?”\
-This question was an hour of Andy’s student’s thesis defense\
-Andy did another study in Stockholm, Sweden with lifelong skiers\
-People who were world champions in the 1940s-50s, and cross-country skiing Olympic gold medalists who didn’t stop competing\
-Now they’re in the age of 85 plus up to 92 years old and they’re still competitive skiers\
-Andy compared them to age-match healthy folks over here in America (we’ll come back to this)\
-“I’ve spent a little bit of time in this aging athlete thing”‒ Andy Galpin \
-Back to the muscle quality of the twins, one way leg extension strength is measured is by using echo intensity on an ultrasound while the subject perform a vertical jump\
-These results were either identical or favored the non-exercising twin\
-The same was true for total muscle mass\
-Everything else that you would classically associate as an exercise adaptation favored the exerciser\
-Blood lipid panel, blood pressure, body composition, VO2 max, a higher resting heart rate, blood glucose\
-Peter asks, “Just to make sure I understand, the non-exerciser was stronger?”\
-Yes, the non-exerciser was stronger, a better jumper, with higher quality muscle\
-You can measure muscle quality with an ultrasound using echo intensity\
-This is akin to measuring how much intramuscular fat is inside the actual tissue\
-The exercising twin had more intramuscular lipid\
-Peter asks, “Isn’t that an adaptation to his endurance training where he wants to have more intramuscular lipid because he wants to have more logs near the fire, he’s burning those logs?”\
-Yes, Andy agrees\
-This is different from the intramuscular lipid you see in a diabetic or someone with insulin resistance\
-Peter finds it interesting that the strength metrics favored the non-exerciser\
-Andy points out, “It was all favored to neutral. Either some of the metrics were similar or not statistically different, but they hedged towards the non-exerciser… But there’s not a metric there that favored the exerciser on that side of the house.”\
-Muscle biopsy results \
-This is where there were big differences between the twins\
-The quick version‒ the non-exerciser was almost identical to what you’d see in the literature, he had a mixed phenotype between fast-twitch and slow-twitch muscle fibers\
-About 20% of his fibers were this hybrid format\
-There are fast-twitch fibers and slow-twitch fibers, but the story goes much deeper\
-These hybrids are a single individual cell\
-One muscle fiber (aka muscle cell) co-expresses fast and slow twitch in different areas throughout the length of the fiber\
-So the muscle fiber will be exclusively fast-twitch in one portion, fast- and slow-twitch in another portion, and exclusively slow-twitch in another portion\
-Microanatomy of fast-twitch and slow-twitch muscle fibers [1:11:15]\
-Fast-twitch means the speed of muscle contraction is higher\
-Fast-twitch fibers tend to be larger \
-Though not always, not in endurance trained individuals and not with aging\
-Fast-twitch fibers are more glycolytic driven\
-They have more of the enzymes responsible for anaerobic glycolysis\
-They have more glucose in the cell and less intramuscular triglycerides\
-They generally have more phosphocreatine\
-Slow-twitch fibers are fatigue resistant\
-They can contract all day long\
-They don’t use much glucose\
-They are better at using fat as a fuel\
-They tend to have more and larger mitochondria\
-The downside is they don’t contract with as much velocity\
-Figure 5. Slow-twitch and fast-twitch muscle fiber types in humans. \
-Is there a force difference between them or just velocity difference? \
-In large part force production from muscle fibers is determined mostly by size‒ cross-sectional area\
-So getting the fiber bigger is the play to get it faster\
-Having said that, power is markedly different; power is force x velocity \
-The metric Andy uses in single fiber experiments is specific tension, which is sort of like relative strength\
-You take the size portion out of the equation\
-What you’re going to see is a true slow-twitch; these are also called type I fibers\
-Compared to a type I fiber (slow-twitch), a type IIa (fast-twitch muscle fiber) will have around 5-6X more power \
-So it’s not a small difference when you normalize for size and cross-sectional diameter\
-The IIx fibers is a special class of fast-twitch fiber, now you’re talking 20X that power\
-Peter asks, “Is that mostly explained by more metabolic apparatus?”\
-No\
-Why does the IIx fiber go faster? Deep dive into what happens during a muscle contraction  \
-In the laboratory muscle fibers are differentiated by what’s called the myosin heavy chain \
-Visualize how a muscle fiber works in 3D (see the figure below)\
-Imagine a cylinder\
-Andy explains it in 2D, but it actually occurs in 3D\
-Figure 6. Structure of muscle. Image credit: Frontiers in Physiology 2019\
-There are two microfilaments actin and myosin, and they overlap but they’re not touching each other \
-Myosin is a big thick tube laying in the middle; it has these heads that flick off the top\
-In the two figures below myosin is shown in purple and actin in green\
-The myosin heads extend and reach up in 3D and grab onto actin\
-Shown in the figure below; this refers to the sliding filament model of muscle contraction\
-Myosin (making up the thick filament) is shown in purple in the figure below; actin (making up the thin filament) is shown in green\
-Figure 7. Close-up view of myosin and actin in a muscle fiber.  Image credit: OpenStax Anatomy and Physiology\
-The idea is when you contract a muscle, myosin will reach outward and grab onto the actin, then pull the actin closer together\
-The figure below shows a macro view of muscle contraction\
-The green actin filaments on the left and right are brought closer together when the muscle contracts\
-What actually happens in real life is those start stacking on top of each other\
-And that’s why when you squeeze your bicep, it actually glows larger vertically because those muscle fibers are stacking on top of each other and actually elevating in size\
-Figure 8. Macro view of a muscle contraction.  Figure credit: OpenStax Anatomy and Physiology Figure 10.10\
-Force production is determined by cross-bridges \
-What determines force production versus velocity is what we call cross-bridges\
-Cross-bridges are the connection between myosin heads and actin\
-The number of times these myosin heads grab onto actin, that little place of connection is called a crossbridge\
-The more those cross bridges you have, the more effectively you can pull the actin closer to each other\
-The faster the contraction\
-The more force that contraction is going to be\
-The thicker the myosin, the more likely it is to grab actin faster and stronger\
-Compare it to grabbing something with your hands versus your fingertips and trying to pull it close to you\
-There are six actin arranged in a circle surrounding each myosin in human skeletal muscle (depicted in the figure below)\
-Figure 9. Arrangement of actin filaments around a single myosin filament in human muscle. \
-How many heads does a myosin filament have? \
-Bajillions\
-Peter asks, “Okay, so you have billions of heads to grab onto six potential targets. So you’re always going to grab a target.”\
-Yes, you’re going to grab one\
-We can increase the amount of actin around each myosin fiber, but we see this in other animals\
-Fruit flies and spiders can contract with much more force relative to humans because they have 8, or 10, or 12, or 20 actin per myosin (humans have 6)\
-Andy summarizes, “The more things I can give you to grab onto, the stronger you are”\
-Peter thinks there is somebody out there right now using CRISPR to figure out how to double the number of this arrangement in humans \
-Andy has worked with some bear muscle tissue and it’s quite unique \
-Humans have IIa and IIx (which was formerly and incorrectly identified as IIb)\
-Most other animals do have IIb muscle fibers, and the IIb is even faster than the IIx\
-Bears have extraordinarily high amounts of of IIb fibers, which allows them to go super fast\
-Do bears have more actin targets? \
-Andy thinks this 6 to 1 ratio is pretty similar in mammals, but when you get to insects and things that number jumps off (but he would have to look this up to be sure)\
-Back to what determines the speed of contraction \
-The myosin head is where the myosin connects to the actin, and part of it is called the heavy chain\
-There is also a light chain portion\
-The way we get a muscle to contract is ATP\
-The myosin are loosely connected to the actin at all times, but in order for it to grab and pull, you need a strong connection\
-For a strong connection to happen and for it to be able to pull it together, it requires energy\
-A crude analogy is to imagine cocking a pistol\
-Squeezing the trigger takes a lot less energy than cocking the pistol\
-The energy we need from muscle contraction is not the pulling together; that’s almost passive\
-It’s the cocking it back part that takes energy\
-This energy comes from ATP\
-On the tip of that myosin head is an enzyme called ATPase \
-The –ase ending means it’s an enzyme\
-ATPase hydrolyzes ATP, and that gives you energy to put that myosin back into place (at the starting point of the cycle, ready for another contraction)\
-The figure below shows the movement of the myosin head throughout the contraction cycle\
-Myosin cannot bind strongly until calcium comes into the picture\
-Calcium is released from the sarcoplasmic reticulum and causes a conformational change in actin, thereby allowing myosin to connect to actin \
-Part (a) of the figure below shows calcium binding to the thin filament (containing actin, shown in green) and this reveals the myosin binding site which allows myosin heads (shown in purple) to bind to actin\
-Part (b) shows the cross-bridge formed when a myosin head binds actin\
-Part (c) shows the power stroke where myosin uses the energy from ATP hydrolysis to move actin, this is the movement of a muscle contraction\
-Now ADP is released and myosin can bind another ATP (for another contraction)\
-Part (d) shows another ATP binding to the myosin head\
-The ATPase on the myosin head hydrolyzes ATP→ ADP + Pi and the energy released is used to cock the myosin head back in the starting position shown in part (e)\
-Part (e) the myosin head is now in a high-energy configuration and ready to form another cross-bridge to generate a muscle contraction\
-Figure 10. Mechanism of a muscle contraction.  Image credit: OpenStax Anatomy and Physiology\
-Myosin connects and snaps as hard as it possibly can (part c in the figure above, the power stroke)\
-This is why you can’t regulate force production\
-It’s just going to catch and snap\
-In order for Myosin to go back, you have to invest more ATP (part d and e in the figure above)\
-As a side note, this explains rigor mortis‒ a contraction happens but you don’t have the energy to then pull it back in; so you stay in a locked skeletal muscle contraction position\
-The speed of ATPase determines single muscle fiber contractile speed \
-Myosin heavy chain is measured in the lab, and that’s how fast-twitch versus slow-twitch is determined \
-You can use a technique called gel electrophoresis to compare different muscle fibers\
-It uses a solid gel between two pieces of glass\
-You put each individual muscle fiber in its own vertical lane\
-You run an electrical charge through the gel (positive charge at the top and negative charge at the bottom), and the muscle fibers move through the gel\
-You stop the electricity at some point, and the smaller fibers have moved further through the gel (because they are smaller, they move through the gel faster)\
-You take a picture of the gel, and the muscle fibers that have gone down further are slow-twitch \
-The muscle fibers that remain higher up in the gel are fast-twitch \
-Molecular weight markers are used to confirm this\
-This means the myosin heavy chain molecular weight determines the fiber type and that regulates its twitch ability \
-The more heavy chains there are and the faster they work, the faster ATPase can operate, resulting in faster muscle fiber contraction\
-That’s why muscle fiber type is not predicated on signs\
-It’s specific to either metabolic abilities (in the old days) or twitch velocity (currently)\
-Factors that determine one’s makeup of muscle fibers and how adaptable they are with training [1:22:15];\
-Understanding the biopsy studies in these identical twins \
-The fiber profile of the untrained twin lines up very closely to what you will see in a textbook\
-It’s around 50% slow-twitch and 30% fast-twitch IIa form\
-About 20%+ is in this hybrid format\
-What about IIx fast-twitch muscle fibers? \
-When you get into the IIx conversation, the ability for humans to express IIx is extraordinarily rare  \
-What tends to happen is if you find somebody who has pure IIx fibers (IIx fibers that only express IIx), that muscle fiber has probably been deactivated for decades\
-If you look at folks with a spinal cord injury and muscles that have been denervated for decades t hey as high as 50-60% of their total fiber being IIx\
-The default strategy if the muscle is not activated or utilized, is for it to eventually become IIx\
-We have no idea why\
-IIx as a pure fiber type is the ultrafast one but it is extraordinarily rare\
-Andy’s lab has gone through hundreds of thousands of individual fibers and have probably seen only 20-30 pure IIx fibers\
-Maybe 0.1% of fibers are pure IIx\
-There are hybrids‒ IIa/IIx (this hybrid is very common), a triple hybrid (I/IIa/IIx this hybrid is uncommon), \
-If you dive into the literature you’re going to get confused very quickly because a lot of people don’t use detailed enough methods to differentiate these fibers, and they’re going to say there are all kinds of IIx fibers\
-This is not true\
-There are IIa/IIx fibers\
-If you don’t run high enough fidelity methods, you will pick up any fiber having some portion of IIx \
-It’s a big deal to distinguish a fiber containing some IIx versus one that is purely IIx\
-Andy points out, “If you find somebody with a high percentage of 2X fibers, something odd is going on, the only exception here is there’s no data really on truly fast people.”\
-We have a lot of data on powerful people‒ kayakers, bodybuilders, and weightlifters\
-But we don’t have data on sprinters\
-It’s hard to get these folks in the lab\
-There is one case study, a guy who has the record for the 110-meter and 60-meter hurdles, and he had 24% pure IIx fibers\
-Andy would like to see this replicated; he was a graduate student at the time of this study\
-Peter asks, “So the untrained guy was 50% slow (type I), 30% IIa, and 20% hybrid IIa/IIx… What about the cardio-only trained individual?”\
-The cardio-only trained individual was about 95% pure slow-twitch (type I muscle fibers)\
-Is this the explanation for why the trained twin was weaker, he just couldn’t generate force? \
-It’s a couple things; #1 do they change?\
-We know muscle fiber types are highly malleable \
-There is data on nutritional aspects that alter fiber type composition\
-There are a whole host of nutritional interventions\
-Anything that’s going to go activate PGC-1 alpha and that whole cascade\
- There was a recent study on resveratrol, a reasonable 5 g dose in cattle (which is not much for a 2000-lb animal) caused significant changes in fiber type profile\
-The question with these nutritional interventions is, does it change physical activity\
-The answer is clear; this has been answered many times for so many decades\
-But, we don’t know what these default for these people are\
-One could argue the untrained guy was actually in an adaptation state, deviated away from his potential\
-Andy notes, “One thing that seems to be very clear is these IIa/IIx fibers are generally associated with poor health”\
-IIx by itself are irrelevant because they just don’t exist\
-If you have them, it’s generally bad news\
-You don’t want to train into them\
-The ideal scenario here is IIa\
-If you do any sort of physical training, those hybrids tend to go down (IIa/IIx go away) \
-Andy is not surprised that the trained twin had none of them (IIa/IIx hybrid type muscle fibers); it’s pretty textbook\
-The figure below shows the distribution of muscle fiber type in the trained twin (TT) and untrained twin (UT)\
-Figure 11. Composition of muscle fiber type in the vastus lateralis. Image credit: European Journal of Applied Physiology 2018\
-The magnitude of change between the twins is meaningful\
-It’s only a case study, but it matters\
-What is your hypothesis, if there was a third brother (triplets) who was a weightlifter or powerlifter? \
-Andy doesn’t think this would matter a ton, you would get the same answer\
-He would not be surprised if the third brother was 70% fast-twitch (type IIa) and 30% type I\
-If they are trained, they will probably have very few hybrid type fibers \
-The one distinction is the IIa/IIx fibers; they tend to be a little more responsive to workload (to get them to go away)\
-So if you’re a laissez-faire lifter, you’ll still have these hybrids\
-But if you’re training seriously, they are going to go away\
-“Given enough time and exposure, I don’t really think that there’s a limit to the plasticity among fiber types”‒ Andy Galpin \
-These twins had different exercise habits for 35 years\
-Do we have a sense about the window in which you have maximally plasticity in response to training? \
-So if someone listening to this is 50-years-old and they have been sedentary a lot of their lives, but now they get the motivation to become big-time exercisers; Peter asks, “How much can they bend the arc of their fiber curve?” \
-Andy points out, “Fiber type is actually really quite cool because it doesn’t seem to matter what age you are”\
-Training studies in 70-year-olds show dramatic changes in fiber type in six weeks, certainly eight weeks, and the magnitude of change doesn’t seem to differentiate \
-The way that you want to think about this is, it’s kind of like an asymptote \
-The less trained you are, the faster the initial adaptation\
-The closer you are to your edge, the slower the adaptation\
-Andy compared world caliber weightlifters to national caliber lifters (summarized in the figure below)\
-The world caliber lifters had been lifting at a very high level for 8 years\
-The national caliber lifters had been lifting at this level for more like 4 years\
-They saw the initial changes happened very quickly, but getting that last few percent changes in that second group took years\
-Figure 12. Distribution of muscle fiber types in World-caliber females (WCF), National-caliber females (NCF), and National-caliber males (NCM). Image source: PLoS One 2019\
-In 4-6 weeks we can see a demonstrable change in fiber type composition, and it doesn’t seem to matter what age you are \
-Hypertrophy and what happens at the cellular level when a muscle grows [1:30:00]\
-When a person wants to have bigger muscles, what is happening at the cellular level with their muscle fibers? \
-Hypertrophy generally refers to the diameter of the muscle fiber or cross-sectional area\
-If you think about the muscle fiber as a cylinder, the width of the cylinder expands\
-Think about that circle getting larger\
-Peter compares this to a fat cell, “A crude analogy is getting fatter means each adipocyte is getting bigger. It’s taking on and storing more triglyceride.”\
-For years “Bro science” has compared sarcoplasmic hypertrophy to contractile hypertrophy\
-The question is‒ is the change coming from fluid retention or is it actually enhanced contractile tissue (which would be actin and myosin)\
-It seems to be a little bit of both, and it happens in different phases of training\
-Do different types of training increase sarcoplasmic versus contractile hypertrophy? \
-Peter asks, “Is a bodybuilder a bodybuilder because their sarcoplasmic reticulum is huge, but their contractile units are not that much bigger than the average person?”\
- It’s what we call sarcoplasmic hypertrophy (not the sarcoplasmic reticulum), and this would be an increase in diameter \
-In other words do all increases in muscle size through strength training happen because myosin actin are getting thicker? \
-Remember you can’t add actin [filaments]\
-We don’t know the answer to that question yet \
-More data is coming out\
-Even a few years ago, the idea that sarcoplasmic hypertrophy was a thing was thought of as garbage science\
-The idea that anytime muscles got bigger, the contractile units were getting bigger\
-Peter notes, “I’m not shocked that that was the default hypothesis. I’m shocked that it wasn’t definitively known.”\
-It’s a technology issue/ assay problem to figure out how to measure this \
-The issue is the standardization of fluids\
-When you sample the tissue, how do you lock the fluid into place\
-How do you take this cell out of a living human and preserve its fluid architecture without contaminating it\
-You can’t do this with liquid nitrogen, the flash freeze will create ice crystals\
-Mike Roberts out of Auburn has produced a lot of interesting work in this area\
-Preservation in liquid nitrogen is actually fine, but from there you have to thaw it correctly\
-Mike Roberts spent a couple years trouble shooting this process\
-Peter adds, “I hope there’s some high school college kid listening to this who’s studying chemistry, who’s realizing just how cool and interconnected all of these worlds are. Chemistry, biology, physics, they’re just so linked.”\
-Andy always jokes that there’s only one science, it’s just math\
-As much as he hates math, chemistry is math, energy is math, biomechanics is math\
-Math and reductionism\
-Why is it that a bodybuilder can have more muscle, yet they’re not stronger than a strong man or a weightlifter? \
-The easy sophomore answer is, “Oh, neurological adaptations”\
-But there’s nothing happening intracellularly? \
-Andy doesn’t think that’s correct, and it doesn’t look to be the case\
-The juxtaposition \
-There’s a thing called lattice spacing, which is there’s an optimal distance between that myosin and actin\
-When trying to produce a powerful contraction, if myosin and actin are buttered up next to each other, they can’t actually squeeze that hard because there’s nowhere to go\
-Likewise, if they’re too extended, then they can’t squeeze\
-Peter adds, “It’s the same idea as preload in a heart”\
-Preload is going to determine stroke volume, everything coming in\
-Thinking about this spacing, if you start adding contractile units, then one way or another, you have to preserve the spacing somehow\
-The idea is it will expand hyperotrophically only to the level…\
-There is a mathematical optimization for the exact strike distance between actin and myosin to not be overextended or under extended, a dn to have that perfect preload for maximum contraction \
-Peter asks, “If your hypertrophy training interfered with that and compromised it, you might gain size at the expense of potential strength” \
-Fluids in muscle \
-Andy adds another alternative, “If that hypertrophy was coming simply from excessive fluid and not actually contractile fluids, then you would actually have a larger muscle”\
-These fluids are not acute fluid retention (not bloated water loading)\
-Rather, there can be enhanced fluid in a homeostatic balance inside the tissue because the diameter has gotten larger, but it wasn’t met with an equal amount of increase in contract value\
-People are familiar with the idea that about 70% of our weight is water\
-Most of this water is in the cells of our body, and the muscle is no exception\
-Going back to bodybuilding, Peter loves following Jay Cutler on Instagram \
-He’s one of the guys who in retirement is still training hard and paying attention to his nutrition\
-There was an interesting video where he went to In-N-Out Burger for his cheat meal\
-He places this monster order, and what surprised Peter was how much he said, “No salt, no salt”\
-He ordered two burgers and two fries, both with no salt\
-Clearly this guy knows something about the effect of sodium on fluid retention\
-This is a different fluid than what we are talking about now\
-How athletes quickly cut water weight and the rehydration process [1:37:30]\
-Andy works with a lot of athletes, and weight cut is a huge deal\
-Managing 15+ lb reduction in water of the course of 48 hours and then putting that back in\
-If you don’t understand being hyperosmotic or hyperosmotic or isosmotic, you’re going to cause a whole host of problems from kidney issues to diarrhea to bloating etc.\
-You have to actually understand what you put back in them has to be the same thing as what’s intracellular or there’s a huge shift and you’re not going to drive fluid into tissues\
-You get into situations where guys become severely dehydrated\
-They’re peeing but very little fluid is getting into tissue because blood volume expanded so quickly without the electrolytes being balanced\
-What’s the rule of thumb on hydration? \
-Before the podcast they were talking about how Peter had food poisoning, and in a span of two days he lost seven pounds\
-Which is a lot for someone whose weight is very stable\
-Let’s posit that 6.5 lbs of that weight loss was water\
-Peter asks, “What’s the ideal strategy to replenish that in terms of hyper-, hypo-, or iso- osmotic?”\
-#1 go slowly and make sure you don’t get too excessive \
-Shoot for something in the neighborhood of 110-125% fluid weight because you’re going to lose some\
-If you lost 7 lbs, go for 8-9 lbs or a gallon \
-A gallon is 4 liters and a liter is a kilo, so your talking 4 kilos\
-Drink that over the course of 3-4 hours\
-Andy works with fighters who have to weigh-in for competition\
-Last week a guy in Abu Dhabi weighed-in at 136 lbs and within five hours was back at 152 lbs\
-With no urine, no diarrhea, no GI issues\
-What’s the osmolarity of the fluid he took in? \
-That can fluctuate depending on if the person is a high-salt or low-salt sweater\
-It also depends on how much salt they pulled out of their diet that week\
-Obviously you don’t pull out salt 5-6 days away from the weigh-in\
-But if you have 7-8% of your weight in body fluid to lose, you’re going to take some salt out for a couple days to get there\
-How many grams of sodium per day are they down to? \
-You’re going down to zero on those last couple days\
-A classic example is we might have them at 2.5 g\
-On the day before, on water cut day, it’s zero\
-So you’re boiling chicken to get as much possible stuff out and you’re eating as close to zero salt as possible for that 24 hour period\
-Salt has a bigger impact than cutting calories at this point when you’re staring down the barrel of an 8-15 lb water cut in a day\
-Peter finds this incredible that someone can go from 160 to 147 lbs in a day simply losing water\
-What is an ideal time to lose 8-15 lbs of water weight? \
-Ideally you come into a fight week hydrated on normal or even slightly higher salt, normal or higher carbohydrate\
-You need to come in healthy, recovered, not over trained\
-Monday through Thursday, you’re going to start getting off as much water passively as you can\
-You will typically keep carbohydrates very low, 50 g or less depending on what you’re doing (this will help pull some water out)\
-You can play games with fiber and have a low residue diet the last couple of days so you can make sure you’re not holding onto food in your gut\
-That can buy you a couple of kilos, depending on the size of the person\
-So Monday of fight week you might weigh 170 lbs and you can get down to 164-165 by Thursday with passive water loss\
-Now 9 lbs need to be lost over 24 hours\
-You’re going to float a couple throughout the day urinating (because you’re being very hydrated)\
-You’re going to float one or so over night \
-So this brings us to 3 lbs, and we have 6-7 lbs of active water dropping that needs to happen\
-15 lbs in a week is not that bad\
-Peter asks about those 6 lbs, is this from complete sodium restriction?\
-You’re going to have to add in some sort of sweat component, do sauna or something like that\
-Ideally, you would do a little bit of physical activity to burn any last bit of glycogen without feeling too bad\
-Then you do what’s called a mummy wrap‒ you lay down and put a bunch of blankets on yourself\
-It’s very easy to regulate blood pressure and make sure you’re not at risk of passing out\
-You’ll sweat a good amount\
-Friday morning, 9:00 is weigh-in\
-In the best case scenario, you don’t lose much the night before\
-You wake up in the morning 4 lbs over and you can sweat out those 4 lbs pretty easily in a sauna (20 minutes)\
-The fight is Saturday night; so, you’ve got 30-36 hours to put it back on\
-You would ideally be back to your normal Monday weight within four to five hours after that weigh-in\
-You’re only touching that final scale number for a very short amount of time\
-So you’re back to that normal weight number by the next morning\
-If you do it correctly you can have recovery of muscle glycogen in 36 hours\
-The difficult part is getting brain fluid back\
-Andy is not convinced that gets all the way back in 36 hours\
-But there’s just no way around that\
-The advantage of a fighter who weighs-in at 147 lbs and lives/ trains at 150 instead of 160 \
-Peter thinks this person has the physiological advantage of going through less metabolic shift in the two days prior to the fight\
-The drawback is they are going to weigh less in the ring\
-There is a good amount of research looking at performance testing pre and post this weight loss\
-Actually, it’s not that bad from a performance perspective as long as you stay within certain reigns\
-Look at the UFC fighter Frankie Edgar, he’s won multiple world championships and is significantly undersized; so that works\
-In general, it starts to become challenging in MMA because the weight classes are so large\
-In boxing you’ve got a weight class every 4-7 lbs\
-So if a guy is really 6 lbs heavier than you, it’s not a big deal\
-It’s different if a guy is 15 lbs heavier than you in a grappling sport\
-In an idea situation, nobody cuts weight; but how do you ever do that?\
-If you come into fight week 6% over fight weight, it should be no problem performance wise to get to that weight\
-When you come in at 10% over your fight weight, it’s going to be really, really challenging\
-Different types of athletes [1:47:30]\
-Comparing athletes \
-Think about different types of athletes that are a beacon of excellence in anything that has to do with muscle\
-A powerlifter is the strongest athlete at the all out one-rep max\
-The Olympic weightlifter who is also doing a one-rep max had to be incredibly coordinated because of the nature of the movement, they are incredibly explosive (but it’s just one rep)\
-The strongman is throwing boulders and having to pick them up and throw them again and again\
-This is an insane amount of strength\
-You’re not relying on just one energy system\
-You’ve got to have a little bit of endurance, both muscularly and cardiovascularly\
-The CrossFit athlete, is also very strong and is agile, mobile\
-He isn’t as good as any of the first three, but has something none of them have, which is a greater degree of endurance\
-The bodybuilder aesthetically looks better than all of them, has bigger muscles, but meets no other requirement\
-You could argue that the sprinter has the highest ratio of power to weight and has optimized locomotion\
-Peter remarks, “I will never be half as good as any of those six. And most people listening to this don’t need to be, but we probably want bits of each of them in us.” \
-Training advice for a hypothetical client who’s untrained and wants to add muscle and functional strength for longevity [1:49:45]\
-Hypothetical patient:\
-They were active in highschool and college, but over the last 10 years, their only exercise has been activities of daily living (hiking with the kids, etc.)\
-They have started doing a couple of hours of week of zone II on the bike, but they don’t know how to approach strength training\
-They are willing to put three hours a week in the gym, 1 hour at a time \
-Their DEXA scan shows that their ALMI is about 40th%\
-They want to aim for the 75% for lean mass (or above) in 2-3 years\
-They also want to be stronger; they want to be able to do stuff when they get older\
-Peter asks “What other questions do you have for them before you design their program?” \
-Andy remarks, “You’ve basically described every one of our executive clients in our Rapid Health Optimization program”\
-They have zone II knocked out (at a couple hours per week); that’s steady state\
-“We need hypertrophy. This is a basic foundation of everything.”‒ Andy Galpin \
-You’re going to get stronger by doing hypertrophy, at this stage of your training \
-This is not always coupled; you can get stronger without getting more muscle mass, and you can get a lot of muscle without optimizing strength\
-Spending time initially getting physically fit before trying to add muscle mass for someone like this is a very fruitful investment \
-A study came out more recently showing six weeks of endurance exercise (steady state cycling) prior to hypertrophy, actually enhanced muscle growth\
-At this stage there is not an interference effect, but zone II exercise is complimentary\
-*(This discussion is continued at time stamp [1:59:30] AND is fully summarized at the end of the show notes)\
-Changes in muscle and muscular function that occur with aging [1:53:45] \
-Andy notes, “You also mentioned, you said three years from now or something, which tells me your mind is really thinking about long term investment here… One of the things that you’ll see very specifically with aging is a loss of physical function, and that’s more geared for power.”\
-As you age, the rate of loss of muscle mass is something like 0.5-1% per year\
-Loss of muscle strength is double or triple that\
-Loss of muscle power is triple that; you see a very precipitous drop in muscle power\
-Why is that happening?\
-The loss of speed explains a little bit; look at the world record in the 100-meter dash for different age groups (see the table below)\
-Figure 13. Work record in 100-meter dash by age. Image credit: Wikipedia\
-Andy notes that in strength sports (like powerlifting), the world record doesn’t go down that much with age \
-Andy’s friend Greg Grosicki just published a paper in the Journal of Physiology looking at how at single fiber contractile function changes with aging \
-The data here are extraordinarily clear\
-You see very little loss of function in the slow-twitch fibers with aging (regardless of exercising or not)\
-But you see a dramatic reduction in the fast-twitch fibers\
-But you don’t see a drop of power\
-So there’s nothing internal to the muscle fiber that’s going down with aging; it’s atrophy of fast-twitch muscle fibers \
-“The atrophy of fast-twitch fibers is the almost exclusively the problem with aging muscle”‒ Andy Galpin\
-There is some loss of total muscle fiber, but that is actually very difficult to find scientifically\
-Counting the total amount of fibers in a live human muscle is extraordinarily difficult\
-Thinking about longevity, absolute force and power has to be preserved, and the issue here is fiber atrophy\
-Peter’s takeaway: \
-At age 50, you want to live for another 40 years and be functioning\
-The most important thing to do in the gym is focus on what is declining rapidly (fast-twitch muscle fibers)\
-If you focus on what’s declining then as a corollary, you’re going to get a bunch of other stuff for free\
-If you ignore the decline of fast-twitch muscle fibers, you might as well be the high exercise twin who only does cardio\
-“He’s going to be this hyper-cardio athlete who’s still a decrepit person in the last decade of their life”\
-Fast-twitch fibers require specific types of training \
-Slow-twitch fibers are going to get activated with any activity of daily living\
-Whether you’re doing zone 2, zone 6, whatever you want\
-Slow-twitch fibers are good but fast-twitch fibers require attention;\
-You can’t accidentally get fast-twitch fibers\
-Just like you can’t accidentally get too muscular\
-We also know you have to take care of VO2 max (covered in a previous podcast)\
-Training plan for the hypothetical client [1:59:30]\
-Basic info\
-For the person starting out, you also have to be considerate of their lack of training in the previous 10 years\
-In the previous episode with Holly, she talked about starting out with a very low volume (way lower than you would think)\
-Andy is going to be very cautious of eccentric movements as they will generate more soreness\
-You want to build some muscle mass without getting excessively sore\
-You also want to start building movement patterns that you will need over time\
-Think of this as an investment\
-We want to get good at these movements so we don’t pick up injuries later\
-Andy’s advice for the first six months \
-Zone 2 training is covered with two hours a week\
-Start with 1-3 working sets of 4 exercises a day\
-You want to spread those across the upper and lower body, and use different movement patterns\
-You want to practice compound movements (not isolated/single joint movements, yet)\
-Spend 30 minutes on these exercises \
-Learn how to do a goblet squat\
-You’re going to hold the dumbbell in front of your chest\
-Learn to do a hip extension \
-Learn to do a basic overhead press or some bent rows \
-The goal is to get the movement pattern down and master the foundational stuff before you start progressing the load \
-Brace your spine in the proper position\
-Breathe through your nose and through the proper position\
-Is your neck in the right spot?\
-Advice for the second six months \
-The hypothetical person enjoys going to the gym but can’t commit any more than three, 60-minute sessions a week\
-This is in addition to two hours a week of zone 2 training\
-Their goal is to get bigger, stronger, and more functional\
-Address power and speed in the first 10-15 minutes \
-First, we need to we need to introduce those movement patterns and those velocities and those tissue tolerance (not focus on the creation of power)\
-Your ability to land and absorb should focus on‒ How did I stop that movement? How do I land from it?\
-Do a box jump‒ jump from the ground and land on a box that is 18-inches in the air\
-Practice that movement pattern\
-Land on the box (not on the ground), because that reduces the eccentric landing\
-There should be no fatigue\
-This is simply about load tolerance and introducing power\
-You’re going to start learning how to move fast, but you’re going to do it in a safe way where you’re not going to pull a hamstring\
-Benefits of power and speed work for preventing injury \
-Just to be clear, this person is not competing in sports; all they want to  do is be able to pick up their grandkids in 20-30 years\
-The box jump is needed to prevent injury\
-Andy adds, “Do you know what puts people in an assisted living home? Falling and breaking a hip.” \
-The connection between morbidity and mortality with a hip break is extraordinary after the age of 60 (it’s not even 90)\
-A large reason why people fall is they don’t have foot speed \
-If you catch your toe on the corner or you slip\
-You need the foot speed to be able to put your other foot (or that foot back out in front of you) in the proper position\
-Then you have to have the eccentric strength to stop that fall\
-Andy summarizes, “You need foot speed to get there and then eccentric strength to brace the fall so you don’t land and break your hip. That’s what’s going to keep you playing with your kids when you’re 60.”\
-This is just 10 minutes of your workout\
-Peter had a patient explain his goals for aging‒ he wanted to always be able to go see his grandkids\
-He meant this both micro and macro\
-He never wanted to be in the position where he was not physically able to get on an airplane and travel\
-If he goes on a hike with his grandkids, he’ll need to be able to get up and do a little scramble (and then help his grandkid get up on that rock)\
-You’ve got to have a little pot to get up there\
-Back to the first 10 minutes‒ work on power, speed, and agility \
-In that first 10 minutes, you have box jumps with landing on top, bounds, skips, medicine ball throws are great (medicine ball tosses up in the air as high as you can go as far as you can go behind you), medicine ball slams\
-These are reinforcing movement patterns you’ve built the previous six months‒ proper hip extension versus low back extension\
-It’s also what we call triple extension‒ extending the hip, knee, and ankle\
-This is a very important human movement pattern. You can do that without jumping and landing by throwing a medicine ball, tossing it. \
-If you go to plyometrics, you have to be a little bit careful here\
-Plyometrics are totally safe for all ages; as long as you count for volume\
-You just can’t do too many of them at too high of an intensity, in this case the eccentric load\
-A five-minute jump rope is just plyometrics\
-When you go single leg to single leg, you start increasing risk\
-The hopscotch is just two-legged plyometrics to single leg to back forward progression lateral (a wonderful little exercise)\
-Andy loves sprinting‒ it feels great/ terrible\
-Do a 15-second, 70% sprint; then slowly come back down; wait a minute or two to fully recover\
-Then roll back into it 2, 3, 4 seconds, and then pick it up for five seconds, six seconds; then, slowly back down\
-One last example, from middle school and high school sports is playing racquetball or two on two badminton for a warmup\
-You can do a lot of little different things that are going to be multi-point targeting going to be speed, agility, change of direction, quickness at this point\
-Suggestions for planning the warm-up for three gym workouts each week \
-Monday‒ do stuff with the medicine ball\
-Wednesday‒ play pickleball\
-Friday‒ do some jump stuff and medicine ball horizontal throws\
-Other options‒ jump rope, hopscotch, bounding broad jumps\
-“Honesty, you’ll be surprised… but that stuff’s actually kind of fun”‒ Andy Galpin \
-After 10-15 minutes of this, you’re hot and ready to move into strength training\
-Keep the same structure of a total body workout on all three days\
-Why?\
-Because once a month, you’re going to miss one of those days (or more), and if you do body part splits you’ll start missing big things\
-You can do a different rep range on each day\
-Monday: 3-4 sets of 5-7 reps\
-You’ll be able to use heavier weights\
-You’ll have a 1.5 minute rest in between each one\
-Aim for a RPE of 7-8 so you’re ending up with maybe two reps left in the tank\
-Wednesday: go 15-20 reps per set\
-You’re probably going to drive less soreness, because you’re activating less fast-twitch fibers\
-You’re going to get more of a pump\
-As you push the repetitions, you can work harder and feel a little less sore and more acute satisfaction\
-Friday: you could do something like isometrics, where you’re just holding positions\
-This is very good for joints and connective tissue\
-It’s good to do something different\
-All three of these are equally effective for hypertrophy \
-Now that you’ve introduced three different elements, your gains in muscle size are going to be identical across the board\
-What drives muscle hypertrophy? [2:12:15]\
-Why is it that isometric training can elicit the same hypertrophy response as isotonic or movement-based contraction? \
-Isometric is a forced muscle contraction without movement\
-A big part of Peter’s recovery from shoulder surgery began with humeral extension (inflection without movement) \
-Peter had a labral repair, see the podcast with Alton Barron\
-He had not spent much time doing isometrics outside of that\
-The exception was isometric deadlifts; he used isometric training to warm up as a precursor to deadlift\
-For example, if you do a biceps curl, you can get every range of the bicep, but is there an isometric benefit to begin in one position versus another?\
-Andy asks, “Are you 10% flexion, 30% flexion, 110% flexion?”\
-He could go on about this topic for three hours\
-Clearly we are going to do a part-two of this podcast\
-The question is‒ what is actually driving muscle hypertrophy? \
-It’s not the workout per se, it’s the stimuli\
-What are those stimuli? That’s a whole conversation\
-The reason hypertrophy is training wise (in terms of what reps to do, what type of exercise) is because the mechanisms are spread across different areas\
-You can go from A, B, or C\
-You don’t have to have all three\
-You can get there using A and B or A and C, and so it’s very easy to land accidentally in the hypertrophy range as long as a couple of things happen \
-As long as sufficient overload occurs, you’re going to get there \
-Overload can happen over time with different strategies for progression\
-Move volume\
-More reps per set\
-More weight\
-Extra range of motion\
-Isometrics is going to activate a number of those same mechanisms and cause the same amount of hypertrophy\
-The primary downside of isometric is range of motion, and this is where you can mix it up\
-Consider the position and muscle stretch \
-In general, muscles respond best to being at the higher stretch\
-So if you can have that thing at the highest level of extension \
-But it depends on the muscle\
-You can actually take a muscle fiber and hang it vertically with a weight at the end of it and it will grow\
-Being stretched that long is a very strong signal to grow\
-When you generally train a muscle over a large range of motion, you’re putting the muscle on a larger stretch, and that signal alone activates a whole anabolic cascade for hypertrophy\
-If you’re going to do an isometric, Andy recommends you do it closer to the end range of motion where it feels the most tight, not the finish position \
-But it very much depends on what you’re after\
-The tricky thing is that many muscles are single joint\
-Take the the soleus for example\
-We talked about it earlier; it’s the muscle that crosses the ankle joint only\
-In contrast, the gastroc crosses the knee and ankle joint\
-So putting the soleus in the right position is only dependent upon the ankle, but putting the gastroc in the right position is dependent upon the ankle and knee\
-If the knee is flexed, you’re never going to get the gastroc to contract properly\
-You have to have an extended knee and extended ankle, because it’s going to get short on one end of that spectrum\
-The same thing happens with the biceps muscle\
-Peter asks, “So a seated calf raise only works the soleus. A standing calf raise works both the gastroc and soleus?”\
-Correct\
-The same it true with a triceps push down versus an overhead triceps extension behind the neck\
-The triceps muscles across the shoulder joint are now going to be put on stretch when you go behind the neck\
-Peter recently saw a study looking at triceps extension in the flexed versus extended humeral position\
-The difference in muscle mass as significant when the arm was up (when the humerus was flexed)\
-Andy agrees, muscles respond to being stretched\
-He sees this with the hamstrings and with the glutes \
-This changes in a situation where there is pain \
-Some people have nagging elbow pain when they do a lot of bicep curls, etc. \
-Can you train the biceps without aggravating the elbow?  \
-This is hard because all brachialis are going to cross the elbow joint\
-What about a nagging shoulder problem?\
-If you do a preacher curl (where you arm is out in front of you), you’re shortening the biceps part that crossed the shoulder joint, but you can still work across the elbow joint and not aggravate your shoulder\
-If you were to do an incline curl (where your shoulder and arm was behind you), you’re putting it on stretch across your shoulder joint and now those bicep curls could theoretically aggravate your shoulder\
-More about isometric exercise [2:18:00]\
-The benefits of isometric exercise depend on your specific surgery and what your therapist had you doing\
-You want to activate the joint a little but not aggravate it\
-You want to let things recover\
-A powerlifter may want to train in the final position of their squat, and get very used to being strong there\
-Going extra depth will make you worse as a lifter, because you’re not traveling a further distance and have to do more work\
-There’s no easy answer, and one of the reasons why we generally frown on isometrics is they take a lot of intention \
-It’s easier to do a normal, full-range squat; then you don’t have to guess\
-How to properly incorporate isometric exercises into a workout [2:19:00]\
-If you had an athlete who was willing to do a little bit of isometric exercise \
-Take the squat, for example\
-Peter asks if you would load the bar in a low position, and stand under a weight that is much heavier than you could ever lift, and basically push up against the bar\
-You can do an isometric squat in a number of ways, a bench or a squat\
-Typically Andy would put the bar belt in the rack like a squat rack\
-You have safety pins that run horizontal (perpendicular to the ground)\
-Instead of putting the bar on top of those, you put the bar below them so you lift up against the rack and nothing moves\
-You can set your position to push up on those\
-Whether you’re putting it behind your neck for a squat\
-Or putting a bench below it\
-In the lab, Andy had built on the bottom of this a force plate that allows them to measure force produced in the ground at various positions\
-Does isometric offer any other advantage over safety? \
-There are a ton of advantages\
-You have less degrees of freedom, less moving parts\
-For example, if you get in a squat and your spine looks good and everything looks good, there’s a very low likelihood you’re going to get out of position\
-The back squat is extraordinarily complicated; there’s a lot of moving parts\
-There are degrees of freedom at the ankle, knee, hip, low back, ribs, shoulder, neck\
-“In an isometric, nothing moves. All we have to deal with is compression.”‒ Andy Galpin \
-Sometimes compression (specifically axial loading) is aggravating, but axial loading is also fantastic for long movements\
-Andy added isometrics in for a client for the purpose of low risk and getting a lot of stimuli without having to worry about getting in position at different parts\
-Benefits of lifting with bands \
-There is a thing called a strength curve, and when you do a typical isotonic movement (a normal lift), you’re only challenged in the areas in the range of motion where you’re the weakest\
-Andy did a study on lifting with bands, using heavy bands for a deadlift\
-He found there was a very low load at the bottom; as much as a 40% reduction in load at the bottom\
-But when you come up and start crossing the knee joint and start gaining mechanical advantage, it becomes extraordinarily easy, but the bands start getting heavier\
-So the actual tenacity that happens throughout the entire thing is greater at the top\
-This is why people use bands (and chains and things) to train the whole area of the strength curve\
-Bands allow you to be able to produce more resistance in areas where you’re stronger while not being held back by the weakest position \
-You can the use isometric to go into that weakest position without having to put a whole bunch of load on your body\
-You can get into an RDL position (Romanian deadlift, like a hinge), which is a complicated movement, and you can grab and pull as hard as you want and nothing moves\
-It’s very difficult for people with a low training age to truly express maximum force output on a free range motion, because there are too many variables\
-Am I in the right position?\
-Is my back safe?\
-Am I losing my balance?\
-It’s easier to just say, “Grab this bar and pull on it as hard as you possibly can”\
-Walk me through how you do that for an RDL-Romanian deadlift-(a kettlebell, dumbbell, and barbell RDL) \
-Set the barbell in the squat rack, and set the height of the safety pins to w whatever height feels comfortable for you\
-You will pull up against that bar and nothing will move\
-Your back will feel comfortable wherever that range of motion is for you\
-Your glutes can be there; your feet can be in the right position\
-You’ll get total foot, big toe activation\
-You would start this things two-footed, but could do it one-legged\
-The goal is to express peak force output while feeling comfortable \
-Stay in this isometric position for three seconds\
-Some of Andy’s athlete’s will go up to five minutes on isometric holds\
-They’ll do a rear foot elevated split squat, isometric hold for up to five minutes, which presents a tremendous neurological challenge\
-Peter reacts, “I’m generally up for things that are ridiculous. I don’t know if I could do it.”\
-Andy asks, “Have you ever done super high volume lunges or split squats like hundreds, things like that?”\
-The other day, Peter did a four-minute set of split squats\
-Andy suggests getting into that position (or have your foot elevated just a little bit), and hold it for two minutes\
-In this particular scenario you don’t need to create any resistance; time will be your resistance\
-It’s isometric only in that you are just holding a position\
-It’s like a better version of a wall squat; you can go for a long time\
-Back to the hypothetical patient \
-The third day could be a whole day of isometrics\
-You could hold plank as an isometric exercise\
-Hold a hip extension position and make sure your glutes are on and utilized\
-You can do a squat in a couple of ways\
-You can go all the way down and hold that bottom position for 30 seconds (this is challenging if you don’t have the right positioning)\
-Andy would cap this when you break position (not when you get fatigued)\
-One of the tests Peter does with patients is to see how long they can hold a full 90-degree squat (with the thigh parallel to the ground)\
-2 minutes is excellent\
-You don’t fail when you give up, but when you make a compensatory movement (shoot your butt out or lunge forward)\
-This is a great test of strength without having to put people at risk\
-Additional training tips: movement patterns, how to finish a workout, and more [2:25:45]\
-Three major planes of movement \
-There are three major planes of movement‒ frontal, sagittal, and transverse\
-This means you need to be moving up and down, like a squat \
-You need to be moving things away from and towards you, like a bench press\
-And you also need to be moving things laterally, like a lateral lunge\
-“It’s important that you’re moving in multiple planes”‒ Andy Galpin\
-Other movement considerations \
-You also need to include twisting and rotation\
-The other thing you want to keep in mind is single leg versus either split stance or unilateral\
-There is not perfect number to hit, just select something across those three days where you’re not doing everything supported by two feet\
-For example, one-footed RDL, step-ups, split squats or rear foot elevated split squats, single-leg press, single-leg extension\
-Don’t think you have to do everything using a barbell\
-If it’s a movement with a rotation, maybe use a kettlebell\
-Use a dumbbell for some movements and a machine for others\
-For the hypothetical person who is beginning a strength training program \
-This person is only six months into training; you don’t want their whole day being learning how to do a movement\
-You also don’t want to stay on the machines the whole time\
-You do want to invest a little bit into growth\
-Spend 60% of time in what you need to be here, 20% in long-term development, and the other 20% is fun\
-How to end your workout  \
-Andy recommends finishing every session with something that gets the heart rate close to its maximum or close to your personal pain point\
-Peter always finishes with KAATSU, and there’s some intense pain\
-The last two minutes of BFR (blood flow restriction) on the air bike combines two beautiful personal pieces of pain \
-Andy recommends finishing by targeting “the thing you love to hate”, or an area you want to grow\
-“We’re going to finish the session with a triceps blast. We’re just going to smash it.”‒ Andy Galpin\
-Make sure in one of those days we touch high heart rate\
-Peter thinks a classic way to touch high heart rate would be with at Tabata type exercise \
-Ways to incorporate high heart rate exercise into a workout plan [2:28:45]\
-What are some ways that you might recommend getting high heart rate exercise in, for this hypothetical person? \
-You typically want to avoid eccentrics\
-This is where CrossFit has done very poorly, putting people in a position of fatigue and very risky situations\
-For other individuals, CrossFit can be fantastic\
-Air bikes (work your arms and legs); rowers are also good\
-You can do specific breath hold manipulation to alter CO2 tolerance (CO2 can get very high)\
-In the pool, you can do a lot of stuff with weights underwater and just changing what you’re doing with ventilation and you can get to a level of pain very quickly that requires very little physical trauma\
-Simple examples would be to do a ten-second sprint on the bike and then go into a breath hold\
-You want to see your heart rate shoot up incredibly fast and then you’re going to come back out of that and you got 30 seconds, but you’re only going to use nasal recovery breath\
-How long would you do a breath hold? \
-The goal is your maximum\
-Peter asks, “In other words, go 10 seconds all out, breath hold until failure, 30 second recovery nasal only. How many rounds of that?”\
-Aim for three \
-One might be the answer if you’re not even close to ready to do this again\
-You can do an inhale-hold, breath-in-hold, and then hit that sprint\
-There’s a ton of ways you can play with CO2 tolerance, and you’ll see your heart rate get up near maximum without much physical work \
-Breath holds are a good way to get that fitness in if you need to spare your joints, spare soreness, spare energy \
-Looking toward part two of this podcast \
-We went through one case study‒ they guy who never exercised\
-We didn’t talk about much physiology, and Peter had 10 pages of notes on physiology that he wanted to talk about\
-We got through half of the first page\
-Plus Peter has a bunch of questions that we didn’t get to\
-Hopefully in a couple months we can come back and have part two of this discussion\
-Peter can’t wait to get into other case studies which are more his phenotype‒ “I do exercise, but how do I take it to the next level?”\
-Andy can also speak to what professional athletes do for sleep, nutrition, training\
-***\
-Summary of training advice for the hypothetical client\
-Background on this hypothetical person \
-They were active in highschool and college, but over the last 10 years, their only exercise has been activities of daily living (hiking with the kids, etc.)\
-They have started doing a couple of hours of week of zone II on the bike, but they don’t know how to approach strength training\
-They are willing to put three hours a week in the gym, 1 hour at a time \
-Their DEXA scan shows that their ALMI is about 40th%\
-They want to aim for the 75% for lean mass (or above) in 2-3 years\
-They want to gain functional strength for the purpose of longevity, and they want to add some muscle mass\
-General advice\
-Begin with hypertrophy \
-Spending time initially getting physically fit before trying to add muscle mass for someone like this is a very fruitful investment \
-Start out with low volume, and be very cautious of eccentric movements (that will generate more soreness)\
-Begin by building movement patterns that you will need over time (to prevent injury)\
-Master the movement pattern before progressing the load\
-The first six months \
-Continue zone 2 training, 2 hours per week\
-Add three, one-hour sessions of strength training per week\
-1-3 working sets of 4 exercises a day, spread across both upper and lower body\
-Practice compound movements\
-Spend 30 minutes on these exercises\
-Goblet squat, hip extension, and a basic overhead press (or some bent rows)\
-The second six months \
-In the first 10-15 minutes focus on power, speed, and agility; this will prevent injury and preserve function in old age\
-Box jump (jump from the ground and land on an 18-inch box)\
-If you do plyometrics, don’t do too many at high intensity (five minutes of jumping rope)\
-15-second intervals of sprinting at 70% effort with 1-2 minutes of rest\
-Play racquetball or badminton\
-Switch it up each day at the gym, using any of the above \
-Next, move into strength training\
-Keep a structure of total body workouts on all three days but vary the rep range\
-Monday: 3-4 sets of 5-7 reps using heavier weights (aim for a RPE of 7-8; rest 1.5 minutes in between)\
-Wednesday: 15-20 reps per set\
-Friday: do something like isometrics where you’re just holding different positions\
-All three are equally effective for hypertrophy \
-End the workout by targeting either the thing you hate doing or an area you want to grow\
-At least one of these days, touch a high heart rate\
-End each workout with two minutes of something that gets the heart rate close to its maximum (many options are discussed including breath holds)\
-***';
+  'Layne Norton holds a Ph.D. in nutritional sciences and is a physique coach, natural bodybuilder and powerlifter, and two-time previous podcast guest. In this episode, Layne discusses his training as a powerlifter and shares training principles that non-powerlifters can apply to improve muscle strength and mass. Layne goes in-depth on creatine supplementation, including the benefits for lean mass and strength, and addresses the common arguments against its regular usage. Additionally, Layne touches on many areas of nutrition, including how his opinions have changed on certain topics. Layne also touches on the subjects of protein, fiber, and fat in the diet, as well as the different tools and dietary approaches for energy restriction.\\\
+You do all 3 squats go, then all 3 bench presses, then all 3 deadlifts\\\
+The time between can vary\\\
+The last time Layne did Worlds was in 2015, and that was a very, very fast meet\\\
+That whole meet took just over 2 hours\\\
+In his flight, there was only 11 people\\\
+The person who has the lightest squat will go first up to the heaviest squat\\\
+The same thing happens for the bench press and deadlift\\\
+Layne has been at meets where it took as long as 3.5 hours\\\
+ Usually you get at least 30 minutes between lifts \\\
+They run it so there are no real breaks for spectators\\\
+They’ll have 2 flights going at the same time\\\
+While the other folks are lifting, you’re warming up and getting ready\\\
+What do you do in between? Does it matter what you eat?  How do you maximize your odds?  \\\
+Usually between the lifts (squat and bench press) we’ll have 30-60 minutes\\\
+Between the actual attempts (1st, 2nd, & 3rd) themselves, Layne will take a drink of water or might eat some candy quickly if he feels like he needs it\\\
+For the most part, he’s mentally trying to get himself in the right zone\\\
+This is a little tricky, because you can’t keep yourself at that really high level of arousal the entire time\\\
+It will wear you out\\\
+The trick is to bring the arousal down for 5 minutes or so (to relax), and the start to focus back up\\\
+It’s almost like a wave\\\
+ Timing is a big thing because when they call “bar is loaded,” you have 1 minute to get the down command for squat or bench press or whatever it is\\\
+There can be mistakes where you come out and forget your belt or something happens\\\
+So when they say “bar is loaded”, he gets out there very quickly so that if there is anything wrong, so he can address it and still have time\\\
+He likes to have 2-3 minutes to get very aroused and amped up\\\
+He’ll do visualization and breath work in the last few minutes leading up to his lift\\\
+He wants to have his heart rate around 160-170 by the time he goes out to hit his lift\\\
+Peter wonders about his blood glucose, he imagines glucose output would be at its max\\\
+Layne has never measured this\\\
+Perception is important \\\
+Layne notes, “Your stress hormones are going to be high… This is a little bit off topic, but I was listening to a sports psychologist talk about how the differences between excitement and anxiety and anxiousness, you can’t almost pick them out. It’s just your perception.” \\\
+He relates it to watching an episode of The Ultimate Fighter many years ago where it was Matt Serra versus Matt Hughes\\\
+And one of the fighters was vomiting before a match, because he was so nervous\\\
+He was over the bucket going, “I can’t do this anymore. I hate the way this feels. I can’t do this.”\\\
+And Matt Serra just looked at him and said, “What are you talking about, man? That’s the feeling of being alive. You care about something so much that your body is reacting this way.”\\\
+That reframing of things and just accepting and being okay with the anxiety has helped Layne so much \\\
+“Ever since then, it completely flipped the way I looked at competition… And now, when I feel those nerves start to kick in, I just tell myself  ‘this is a good thing, this is a good thing. This is your body getting you ready.’”‒ Layne Norton \\\
+Have you ever injured yourself in a meet? \\\
+Peter notes the stakes in powerlifting are really high and the meet is really short\\\
+He wonders if the states are high from an injury standpoint, because you’re pushing at your limit\\\
+Layne has not injured himself to the point where he had really bad pain or couldn’t continue\\\
+But at the Arnold Pro Meet back in 2015, he aggravated his back pretty badly, a week out\\\
+The day of the meet, when he hit his last squat (661 lbs), he rotated a little bit coming up and he could definitely feel it the next day\\\
+It was closer to his upper lumbar or lower thoracic, he had a lot of pain there\\\
+Typically don’t see people get injured at meets\\\
+It does happen, but Layne guesses it’s less frequent than during training\\\
+Peter notes the volume of exercise when training probably leaves your more fatigued\\\
+Layne agrees\\\
+If you’ve done your due diligence to get ready for a meet, hopefully, you’ve dissipated a lot of that fatigue through rest and tapering\\\
+However, when you’re in the throes of training and you have high levels of fatigue, maybe you’re just not able to execute the lifts as well (because of that fatigue), and that’s where things tend to happen\\\
+Especially if you’re doing multiple repetitions\\\
+As you get close to the failure, there is the opportunity to get out of position or make mistakes\\\
+Injury is definitely one of the things that is part of the game\\\
+You’re going to deal with pain\\\
+Layne always tells people “I’m 40 now, and most 40 year olds, 50 year olds, they have pain anyway. So I’d rather be strong and have pain than be weak and have pain.” \\\
+How many times a year can you peak for a meet at the top level of powerlifting? \\\
+Layne has done 1 per year and 4 per year (high level meets)\\\
+4 is way too much\\\
+He thinks the sweet spot for him is probably 2\\\
+Really, it’s about getting to competition day with enough fitness level, in terms of being able to execute heavy lifts, while dissipating fatigue and being in low enough levels of pain that you can execute \\\
+Afterwards when he feels good after a meet is the most dangerous because he tends to go right back into training\\\
+The smart thing to do is take some time to train for fun, keep that core strength, but move  towards accessory movements and things that don’t beat you up so much for several months\\\
+Then you could re-enter more of a building/ accumulation phase\\\
+Where the volume is going up, but the weights still aren’t super heavy\\\
+In those last 3 months, at the end of his training in preparation for competition, he ramps up to more heavy weights\\\
+He’s mostly hitting heavy singles\\\
+Training for strength: advice for beginners and non-powerlifters [13:15]\\\
+What can the rest of us learn about strength? \\\
+Peter notes the 2 metrics most significantly associated with longevity are strength and cardiorespiratory fitness (as measured by VO2 max)\\\
+Risk factors for all-cause mortality include smoking (50% increase), type 2 diabetes (30% increase in mortality), high blood pressure (20% increase in mortality), coronary artery disease, end stage kidney disease, being in the bottom 25% of the population for VO2 max (having a low VO2 max)\\\
+Being weak, relative to being strong, is about 250%\\\
+Having a very low Vo2 max in the bottom 25% of the population versus being in the top 2.5% of the population is about 400%\\\
+The 3rd thing that stands out is muscle mass \\\
+But when you look at the data, you realize muscle mass is tightly associated with strength\\\
+For listeners whose eyes are sort of glazing over as they talk about powerlifting, it’s worth pointing out that even if you never do a heavy squat, heavy bench press, or heavy deadlift, you have to be strong\\\
+These associations show up over and over again in studies\\\
+They use measures like grip strength, bench press, leg extension\\\
+It becomes important for people to understand how to train for power \\\
+Advice for training to get stronger \\\
+Layne notes, “The principles are pretty much the same, it’s just the level to which they’re applied. And I think it’s important to point out that there are diminishing returns with strength.”\\\
+He doesn’t think the studies are refined enough to pick this out at this point, because they’re not getting a population of powerlifters and looking at their longevity\\\
+His guess is that at a certain point, you pretty much get all the benefits [for longevity], and just getting even stronger is probably not going to give you more\\\
+Risk of injury is also something you want to avoid\\\
+You see this with running, a J-shaped curve\\\
+People can take it so far (be it powerlifting, running, or whatever) that being an extremist in their sport can make them more prone to early mortality\\\
+As far as strength goes, the most important core principle is progressive overload \\\
+When people hear this, many just think “weight on the bar”\\\
+So if you are a beginner and start doing squats, you do 95 lbs for 5 reps\\\
+Then next week you do 100 lbs for 5 reps\\\
+The next week you do 105 lbs for 5 reps\\\
+This is 1 form of progressive overload, and for most people coming to the gym, this is their experience\\\
+But another effective form of progressive overload is increasing the reps (more on this below)\\\
+But when you’re getting started, just putting more weight on the bar every week is a perfectly reasonable way to progress\\\
+-Example of how progressive overload works for anyone\\\
+People will say, “Well, I’m postmenopausal woman” or “I’m a 75 year old male. It’s too late for me.”\\\
+No it’s not\\\
+ Now is the best time \\\
+When Layne was at the University of Illinois in the Department of Nutritional Sciences, he was right across the street from the Exercise Physiology Department, and they were conducting a study on frail elderly people (who almost couldn’t walk)\\\
+They used progressive overload\\\
+In the beginning, they were squatting to a really high chair\\\
+Their progress was incredible\\\
+In 12 weeks, they had people who could squat down to a below parallel chair and come back up (which is really something for a frail elderly person)\\\
+“The difference in functionality and their lifestyle is going to be incredible, in terms of what they can do” \\\
+So, one aspect of progressive overload is to add weight on the bar\\\
+“But nobody’s able to increase weight on the bar forever”‒ Layne Norton  \\\
+The longer you get into it, the more nonlinear it’s going to be\\\
+The various ways to achieve progressive overload \\\
+1 – Adding more weight (as mentioned above)\\\
+2 – More repetitions \\\
+3 – More hard sets (this is really something you only need to get to, as you get to be more advanced) \\\
+Peter notes, “This is one thing that, from one of our earlier discussions, that really started to change my training. I started adding a little bit more sets at slightly lower RPE to net increase volume.”\\\
+He was doing a lot more RPE 8-9, but only a few sets before he was really, really spent\\\
+So he started doing a little more RPE 6-7 with more sets (more volume)\\\
+He felt like this lowered his risk of injury\\\
+And it was another way to progressively overload\\\
+Layne agrees, “You’re always weighing those 2 things, your stimulus versus fatigue ratio”\\\
+Layne is coached by a guy named Zach Robinson, who’s doing his PhD in Mike Zourdos’ lab at FAU\\\
+He talks about stimulus versus fatigue a lot\\\
+They do a lot of training in the RPE 5-6 area, which some people call easy\\\
+When it comes to compound lift, Layne wouldn’t really call it easy, but he thinks about, “How can we maximize our stimulus and minimize fatigue?”\\\
+If you’re talking about an RPE 9, how many sets at RPE 9 can you get?\\\
+For Peter it’s 1-2 reps before he starts to compromise his form \\\
+Layne knows from doing sets to failure of 10 reps, for a free barbell squat he might not be able to get 2-3 reps on his next set because it’s so fatiguing\\\
+When we talk about RPEs (a measure for proximity to failure), this is important to point out\\\
+How RPE works \\\
+RPE has been adapted from running to lifting\\\
+It’s on a scale of 1-10\\\
+At RPE 10, you have no more reps left\\\
+This was your absolute 100% effort\\\
+At RPE 9, you could have done 1 more rep\\\
+At RPE 8, you could have done 2 more reps, so on and so forth\\\
+We know you don’t have to train to failure to grow muscle \\\
+Training to failure may even be a bit counterproductive in terms of the fatigue it causes relative to the stimulus\\\
+For most movements, you get the most hypertrophy and strength benefits going within a few reps of failure (a RPE of 7 or 8) \\\
+If you can do more volume, it may be even more beneficial\\\
+The downside is that people are really bad at estimating this, especially if you’ve never actually taken something to failure\\\
+Beginners and intermediates tend to underestimate their RPE by about 5, which is pretty incredible\\\
+When research makes them take the weight to failure (by yelling at them and encouraging them), on average they’ll get in 5 more reps than they had estimated\\\
+The RPE validity in advanced lifters tends to be much more accurate\\\
+Layne was at a powerlifting meet where they had a Tendo unit on the bar and were measuring bar velocity as they asked  them to rate their RPE after each attempt\\\
+They found that RPE, as validated by velocity data, was a pretty good measure in that population of powerlifters, because they’ve taken so many sets near failure\\\
+Layne’s summary: “You do need some experience going really hard and really close to failure. But once you have that experience and you understand what that feels like, then you can estimate better. You’re probably better off staying a few reps shy of failure and accumulating volume that way, just because going to failure is just so incredibly fatiguing.”\\\
+Low-rep training, compound movements, and more tips for the average person [23:15]\\\
+For a person who is not planning to go to a power meet, is there a need for them to go below four reps in training? \\\
+Probably not, you can get plenty strong even doing sets of 10-15\\\
+Now you will not be as strong (even per cross-sectional area) as somebody who trains for strength, because strength is a specific skill\\\
+Layne’s best squat and summary on strength\\\
+Layne’s best squat was 668 lbs\\\
+6 months out from this, he was able to squat with added weight\\\
+But he has not added much more lean body mass\\\
+He was practicing the skill of a one rep max (which allowed him to do better on the one rep max)\\\
+What % of his max was he training at?\\\
+Mostly at 90% for singles, sometimes 95%\\\
+His RPE was 8-9\\\
+Considering multiples, would Layne do a 600 lb single, 3 times in a workout? \\\
+Something like that\\\
+This teaches you how to grind through a lift\\\
+A lot of people have never had the experience of really sticking with a lift\\\
+Interestingly, the more advanced somebody gets (in terms of strength), the slower their one rep max velocity will be\\\
+Research studies show this all the time, somebody who’s kind of new will come in, they will absolutely smoke a weight, then you put 5 lbs on, and they get stapled\\\
+Because they don’t have that grind capacity\\\
+They don’t know how to do it\\\
+Part of it may be psychological, but part of that’s probably physiological too\\\
+They haven’t trained their body to recruit all the fibers that it can get\\\
+Layne’s summary on strength:\\\
+Lean body mass and strength are very closely tied together\\\
+But when it gets to those finer levels of strength, it’s kind of just practicing the actual one rep max\\\
+So when it comes to getting strong, you can absolutely get strong doing sets of 10, 15, because you’re increasing your lean body mass\\\
+Do you need to do sets of 3, 4? No\\\
+But don’t count them out because a lot of people actually just do really well with variety\\\
+Periodization (the planned manipulation of training variables (load, sets, and repetitions) in order to maximize training adaptations and to prevent the onset of overtraining syndrome) was kind of a big thing for lifting, back in the day, and now research studies show, it doesn’t appear to produce greater gains in lean body mass\\\
+It may provide a little bit better strength gains, but that’s probably just because people peak better when you’re periodizing things\\\
+People tend to like periodization better because they’re varying their repetition and are not as bored\\\
+“So you never want to poo poo the psychological effects of those things… Adherence is the most important thing.”‒ Layne Norton \\\
+Adherence to training\\\
+Layne always asks people, “Well, what do you enjoy? What’s going to get you to show up consistently?”\\\
+There are many ways to skin a cat, slightly less technical lifts that are still going to produce really great gains, in terms of strength and lean body mass\\\
+How important are compound movements?\\\
+Do you think there is still an essential need for some sort of compound movement, like a hip thruster, at least as a complement, or a leg press? \\\
+Peter is asking for the person who isn’t confident they have the technical ability to execute a squat or deadlift\\\
+You could mess up something like a hip thruster and hurt yourself, but it’s a lot harder with this exercise\\\
+Layne went through a phase where he thought everything learned from the magazines (the “bro science”) was junk, but now studies are coming out that validate some of this “bro science” from 20, 30 years ago\\\
+There does appear to be different areas of the leg muscles (the quadriceps for example) that are better activated by, say, a leg extension, as compared to a leg press, compared to a squat\\\
+Layne thinks it’s good to have variety \\\
+He thinks it’s good to have compound lifts as well\\\
+There’s some interesting data that suggests that you don’t have to get as close to failure on compound lifts to still get the same stimulation, compared to isolation exercises (where you do seem to have to get much closer to failure to get those benefits)\\\
+See studies listed in the selected links section at the end\\\
+How strength training supports longevity and quality of life: bone density, balance, and more [28:15]\\\
+If you’re looking at longevity or the quality of life the question is, “What is most analogous to what these people are going to be doing and where they’re going to be needing it?”\\\
+If it’s bending over and picking something up, that’s some kind of hinge\\\
+If it’s sitting down and standing back up, that’s some kind of squat\\\
+You can use variations\\\
+For a beginner \\\
+Start with no weight and just teach them how to hinge\\\
+How to use their hips\\\
+How to use their knees\\\
+How to track their legs with their feet\\\
+How to balance and this sort of thing\\\
+Once they’re established with that, have them move on to holding a kettlebell in front of them\\\
+Then you can progress with the weight of that\\\
+Then progress to something like a safety bar (where they’re not having to worry so much about hands and whatnot)\\\
+Next to a box\\\
+Eventually take the box away and maybe they can progress to a barbell squat\\\
+Layne’s summary: The puritan in me would be like, “Yes, everybody should barbell squat,” but I know that that’s not true. I think the biggest thing is just getting something close and analogous to the things that are going to be important in your day to day life as you get older. \\\
+Risk of falls for seniors \\\
+When you think about elderly people who fall, the stats are insane, something like half the people over age 65 who go to the hospital for a fall never come out\\\
+Peter has seen many studies on this, 30-40% of people over the age of 65 who break their hip will be dead within a year \\\
+This is due to infection, immobilization, or they get pneumonia (or something like that)\\\
+The benefits of lifting heavy weights for bone density \\\
+There was an Australian study of older women who had osteopenia (if not osteoporosis) who were put on a simple lifting program\\\
+Peter saw the PI on YouTube discussing their results\\\
+He remembers one lady deadlift her body weight\\\
+These are women who had never lifted a weight before\\\
+And their symptoms got so much better\\\
+Layne agrees the best thing you can do for bone density is lift weight\\\
+Other benefits of strength and balance  \\\
+He also points out that people get very focused on bone density, but what if they didn’t fall in the first place?\\\
+What if they had the strength (&/or balance) to catch themselves?\\\
+With resistance training, even if you did fall, you’re going to have more muscle mass and you’re probably going to have more bone density‒ these are going to help\\\
+You can have all sorts of other interventions to improve lean body mass, but they all work way better with resistance training because you’re creating a need for the tissue\\\
+An teleological perspective on building muscle mass \\\
+Layne thinks this is something that has been missed in the teleological perspective of this‒ “You have to give your body a reason to lay down tissue”\\\
+Muscle is energetically expensive\\\
+The body is not going to go, “Oh yeah, we got some extra calories. Let’s just lay down some lean tissue.”\\\
+This doesn’t make sense from the body’s perspective\\\
+The body wants to keep you alive long enough to reproduce, and once you’ve done that, it’s just trying to prevent you from starving\\\
+Over the course of human history, the risk of dying from starvation is magnitudes greater than from diseases from too much nutrition\\\
+If you eat more protein you can lay done more lean mass, but it’s going to be minimal compared to what you can build through resistance training \\\
+“When you couple resistance training with high enough protein (or any of these other modalities), now you’re creating the turnover in the tissue, that the body has the requirement to lay down that tissue”‒ Layne Norton\\\
+Peak capacity for strength as a person ages and variations in men and women [33:00]\\\
+Is Layne stronger today than he was at 20? \\\
+Yeah\\\
+Is he stronger than he was at 35? \\\
+Layne has come off his peak a little bit\\\
+He doesn’t think it’s a sarcopenia thing but an accumulation of injuries and not being able to train the way he used to train\\\
+Peter summarizes Layne answer: Layne’s lower strength compared to age 35 is not necessarily because he’s losing type II fibers with age, it’s more about his capacity to train due to pain\\\
+Figure 1. Characteristics of different muscle fiber types. \\\
+Does Layne believe he could be as strong now as at age 30 (on a muscle biopsy basis)? \\\
+He thinks he probably could \\\
+In the literature, you do see differences between young and old, but most of those get ameliorated when you start adding in resistance training\\\
+MEN vs WOMEN:\\\
+Women can gain lean mass and strength just as much as men \\\
+Women have been shown to gain just as much lean mass as a percentage of their starting lean mass\\\
+The increase is relative\\\
+For example, if one added 10% lean mass\\\
+If you’re a male with 70 kg of lean mass, now you have 77 kg (154 lbs → 170 lbs)\\\
+If your a female with 50 kg of lean mass, now you have 55 kg (110 lbs → 121 lbs)\\\
+The literature shows women can add the same % of lean mass as men, and the same thing for strength\\\
+Differences in men and women \\\
+There is some evidence that women may be able to tolerate higher training volumes than men\\\
+Most of these studies only looked at young adults (20s-30s)\\\
+Layne wonders if this is more of a function of having a smaller body and handling less weight\\\
+Peter relates, “My wife would tell you that no one can handle a cold less than me, and I think it’s true. I have an insanely high pain tolerance except for when my sinuses are congested and I have a miserable cough, then I turn into a little baby. So there might be something about women just being tougher too.” \\\
+Layne has thought about this quite a bit\\\
+Take super heavyweight powerlifters an an extreme example\\\
+Ray Williams is one of the greatest drug tested powerlifters in history\\\
+He’s the first man to raw squat over 1,000 pounds\\\
+He was a college football player\\\
+On a DEXA, he had 308 pounds of lean mass (and he’s probably over 400 pounds of total body weight)\\\
+Let’s say we’re talking about working with 80% of a one-rep max\\\
+His 80% is 800 lbs\\\
+A female’s, if she’s doing a one-rep max of 300 lbs, 80% is 240 lbs\\\
+The % is the same but Layne is not sure you can say the same thing happens with the body because at the end of the day connective tissue is connective tissue \\\
+Layne knows very, very few super heavyweight powerlifters who train the main lifts 3-4 times a week\\\
+Some of the lighter weight classes do\\\
+Layne thinks there’s something about the absolute load \\\
+Part of him thinks the idea that women can recover a little bit better might be that they’re just using absolute lower loads\\\
+But we’d have to have some more intricate data\\\
+Effects of testosterone (endogenous and exogenous) on muscle gain in the short- and long-term [36:45]\\\
+Peter adds that men and women have a full log difference in testosterone\\\
+He has heard people suggest that testosterone is not important in muscle gain\\\
+But, you only need to look at tested versus untested powerlifters and bodybuilders to know testosterone’s doing something\\\
+How does Layne reconcile this?\\\
+Layne thinks one of the main benefits of testosterone is the increase in satellite cell number, which is going to increase your potential for increasing muscle mass\\\
+This is a theory called the mononuclear dominant theory, but he doesn’t want to talk about it like it’s set in stone proven\\\
+Satellite cells are quiescent cells that sit on the outside of a muscle fiber\\\
+And through various ways (resistance, training, testosterone, whatever), you can get those satellite cells to be donated to the muscle fiber\\\
+Muscle fiber is the only cell type that is multinucleated \\\
+And we think the reason is each myonuclei can only control protein synthesis for a certain area\\\
+The muscle fiber can only grow as big as it has myonuclei \\\
+So the more myonuclei you can donate, the greater your potential is\\\
+One reason we think that men have more lean mass than women is during puberty hormonal difference emerge, and exposure to testosterone increase the number of myonuclei\\\
+This gives men a greater overall potential for lean mass\\\
+Up until puberty, males and females tend to have similar amounts of lean mass\\\
+So now when you talk about taking exogenous levels of testosterone, now you’re donating even more myonuclei, and so, you can reach a higher ceiling\\\
+Layne thinks this is the strongest argument against the crossover of transgender sports for people who were previously male but now identify as female, you can’t get rid of the long term benefit conveyed by the fusion of those myonuclei\\\
+He acknowledges this statement might get him in trouble\\\
+Compare it muscle memory‒ if you have trained before but stop training, you can gain back muscle much faster than it takes to build it\\\
+This is true even for people who have stopped training for years\\\
+They gain it back faster than it originally took to build it\\\
+Animal study found muscle growth boosted by previous exposure to testosterone \\\
+There was a mouse study where they gave the animals testosterone and resistance trained them \\\
+One group received testosterone and the other did not\\\
+Both groups gained strength and lean mass, but the group getting testosterone gained more \\\
+Then they had a washout period, for a long as it took both groups to get back to their original lean mass number\\\
+They had both groups train again, without drugs in either group\\\
+The group that originally had testosterone gained muscle significantly faster than the other group\\\
+Our best understanding is it’s probably these myonuclei that got fused through that extra testosterone that confers that long-term benefit, and that’s how we think about max potential \\\
+Do we think that occurs only during a critical window of development, or does that happen if you’re 40 years old and you’re taking exogenous testosterone? \\\
+We don’t really know because there’s no data on this\\\
+Layne speculates that if you have a certain level of testosterone through puberty and now you’re an adult and you maintain that as your natural state (you don’t get too obese or too underweight)\\\
+You’ve probably fused the amount of myonuclei that you’re going to fuse (at least from testosterone)\\\
+Now if you start taking testosterone exogenously, you’ve ramped that up another notch\\\
+And now you can fuse more myonuclei\\\
+Anecdotally, this would make sense because drug use in bodybuilding has continued to go up, up, up\\\
+We’re getting to the point where guys aren’t getting much bigger\\\
+Last year, there was about half a dozen professional bodybuilders who died \\\
+It’s getting to the point where they can’t go any higher with drugs and you’re seeing lean mass start to cap out\\\
+To compete in natural bodybuilding you have to test drug-free and take a polygraph that says you haven’t used drugs in 5 years\\\
+Peter thinks this timeframe is interesting\\\
+In theory they care because you may still confer a benefit 5 years later, even if you’ve been drug free\\\
+A polygraph is not always accurate\\\
+As an aside, in powerlifting they don’t use a polygraph\\\
+The way the water drug testing works is, once you enter the water drug testing pool (so you’ve qualified for some international competition), you could be drug tested at any time\\\
+You have to use a whereabouts form to provide your whereabouts\\\
+And if they select you to be drug tested and you don’t do it, you can get a strike against you and be out of competition for a certain period of time\\\
+Layne thinks there are cheaters but it’s not rampant\\\
+There’s simply not that much money in it\\\
+The most that has ever been on the line for him in competition is $3000\\\
+How Layne is prepping for his upcoming IPF World Masters Powerlifting competition [44:00]\\\
+*After this recording, Layne finished in 1st place at the 2022 IPF World Masters Powerlifting Championships\\\
+***\\\
+Layne is training for worlds, this is his first major international meet in about 7 years\\\
+He mentioned yesterday that his back hurt and he really backed off\\\
+He also has some knee and hip pain\\\
+How do you think about injuries?  How much longer do you want to be loading yourself to the level of basically putting cars on your back and lifting cars off the ground? \\\
+Candidly, Layne thinks if he wins Masters Worlds Powerlifting Competition, he’d probably give a hard thought to being done competing \\\
+Part of his problem is that he loves to train so much\\\
+He never really gave himself time to get pain free\\\
+As soon as he started feeling better, he would start pushing again\\\
+He has slowly gotten more intelligent because he used to think he was Superman\\\
+For example yesterday when he was warming up on squats he was saying, “All right, it’s not happening today. There’s no reason to try and force this” \\\
+Previously, his narrative would have been to power through it because that’s what it takes\\\
+“I think one of the most important things is knowing when to press the gas pedal and knowing when to back off a little bit. Sometimes discretion is the better part of valor.”‒ Layne Norton  \\\
+Layne is probably a little bit weird in that he would train for 3-4 hours a day because he just loves to train \\\
+He loves the way it makes him feel\\\
+He loves feeling strong\\\
+The egocentric part of him probably loves to feel like a badass loading up 500-600 lbs in the gym \\\
+But he’s gotten to the point now where he’s like, “All right, if it’s there today, we take it. If it’s not there, we take what’s there and then we live to fight another day” because he’s had so many experiences where he’s tried to press on this\\\
+The way pain works, the more pain you have, the more pain you’re going to have because you just end up getting fixated and ruminating on it\\\
+Research shows that the more you ruminate on the pain, the more you think about it, and the more times you trigger it, the worse it’s going to get\\\
+It’s this delicate balance between, I kind of know how far I can press something before I’m making it worse\\\
+The research also shows that you don’t want to completely just stop lifting because you detrain \\\
+And then when you come back (even if you’re pain-free), you’re more likely to retrigger it because you’ve lost that adaptation\\\
+So when you have those pain triggers, you want to find, either a weight amount or a movement pattern or something similar to what you’re trying to do, but at low enough pain that you can start to build back \\\
+For example, yesterday he would have done some squats and deadlifts but couldn’t\\\
+So today he did some leg press\\\
+He’s still going to get some stimulation for his quads (the primary movers of the squat)\\\
+He did  a single-leg dumbbell RDL\\\
+He was able to do those with no pain\\\
+It’s not loading as much as he would like, but he’s still using his hamstrings and lower back, and he’s still gettin in some of that movement pattern\\\
+He’s getting a training effect and some adaptation without further triggering that pain\\\
+Layne’s workout today \\\
+He did some stuff he missed throughout the week\\\
+Dumbbell pressing\\\
+More single-leg RDLs\\\
+Mobility work\\\
+Not a lot of intensive stuff\\\
+Ideally he would do squat, bench press, and deadlift because it’s completely specific to what he’s going to express on competition day, but those are very fatiguing movements\\\
+Anxiety is part of it too\\\
+When you know how much you can do and how much you’ve done, you have anxiety about those movements because it’s like you’re being tested and compared to what you’ve previously done\\\
+Sometimes just creating a little bit of a variation of that movement where you can just let the weight happen and pick your RPE, and if it’s not a previous set weight, it doesn’t bother you\\\
+He’s started using a lot more variations to build that baseline level of strength\\\
+And then when it comes to the actual competition lifts, he’s mostly just focusing on doing heavy singles and building his volume through other areas\\\
+How many times a week will you do those heavy single workouts? \\\
+Once or twice, depending on how he feels\\\
+Peter’s experiment to take the psychology out of training \\\
+Take a powerlifter and their entire training cycle (6 months building up to a competition) and have them lift without knowing the weight on the bar\\\
+Their coach would tell them how many reps to do for every set or to what RPE to go until\\\
+It would be completely programmed, but take away the psychology and don’t let the athletes suffer from knowing, “Oh, my god, I should be able to do this many reps”\\\
+One day they might get down on a bar and the bar is going to be really light and they will be told, “I think you’re going to get 10 reps here. Let’s see it.”\\\
+And they have  no idea what % of their max it is\\\
+Layne knows a guy who completed his entire training cycle that way, Bryce Lewis\\\
+One of the top lifters in the world\\\
+Layne competed against him multiple times\\\
+Bryce would have his girlfriend put trash bags over the weights \\\
+She was also a competitive powerlifter\\\
+But Layne wants to know how much he’s lifting\\\
+He also has trust in his coach to know they’re not going to put something on the bar they don’t think he can do\\\
+Layne told Peter once that the difference between powerlifting and bodybuilding is in powerlifting, all of your pain is compressed into the gym\\\
+In bodybuilding, most of your pain is actually out of the gym\\\
+Is there anything you do with your nutrition as you get closer to the meet? \\\
+Not really\\\
+Layne is sitting very close to the weight class he’s going to compete in so he doesn’t have to make a bunch of changes (he’s 208 lbs)\\\
+If he was at 215-217 lbs, then it gets to the point where a weight of 205 becomes a little bit untenable\\\
+When he competes, it’s a 2 hour weigh-in (2 hours between weigh-in and lifting)\\\
+So if you cut 10-15 lbs, you’re not going to be able to rehydrate and refuel quickly enough\\\
+There are organizations where you can weigh-in a day before, and one organization had 48 hour weigh-in\\\
+In a way, this makes it more dangerous because people will really cut\\\
+For example, Dan Green (a well-known, untested powerlifter) weighed-in at 220 and the next day was walking around at 255 or something\\\
+It’s just incredible the amounts of weight these guys are cutting\\\
+You see them with IVs and all that kind of stuff\\\
+For Layne, he can cut 2-3, maybe 4% of his body weight, but he doesn’t want to go much more than that because with 2 hours, you just don’t have time\\\
+Are you taking 5 g of creatine daily? \\\
+Layne keeps taking creatine because he can modify sodium and fiber to get some water weight out on those last few days\\\
+He tries to be a little bit underweight the day before the meet so he can eat enough calories the day before and not feel like he has to shovel food down\\\
+He will go pretty aggressive on Thursday and Friday for a Saturday meet\\\
+On Saturday after weigh-in, he has 2 hours to get food down, but there’s also a lot of other stuff he has to do (like warm-up)\\\
+He wants his brain to be free to think about the stuff he’s got to do and not thinking about nutrition or electrolytes\\\
+For the most part, he’s never really had issues with cramping\\\
+He’s never had issued with energy on the meet day\\\
+He thinks a lot of that is simply keeping himself pretty close to within striking distance\\\
+Your leverages can change based on your weight thickness\\\
+The tightness of your belt can change\\\
+All that stuff can make a difference in terms of the style of squat you do or how you feel\\\
+Layne adds, “Just being able to train in a manner that’s going to be very similar to how I compete, I feel like is a little bit of an advantage for me, compared to people who have to cut quite a bit of weight”\\\
+If you had to guess, what would your body fat be at weigh-in? \\\
+He calipers at around 8%, so by DXA it is probably 11-12%\\\
+In his experience DXA is 3-4% higher than calipers\\\
+Creatine supplementation [54:30]\\\
+Creatine is one of the supplements Peter gets the most questions about\\\
+It’s also one of the supplements that he feels most confident telling patients this is a supplement worth taking\\\
+It’s safe\\\
+It probably has efficacy\\\
+Is Layne okay with a little bit of weight gain because he’s going to pull in more water?  Why is creatine so important? \\\
+Creatine is great for bodybuilding\\\
+Creatine is a high energy phosphate donor\\\
+In muscle, it exists as phosphocreatine\\\
+And when you take supplemental creatine, it’ll come into the muscle, and it’ll get a phosphate attached to it (creating phosphocreatine)\\\
+Originally, the only mechanism for enhancing performance that we thought of, was it’s role as a high energy phosphate donor\\\
+Benefits of creatine‒ people would perform better, people increase their lean body mass and strength, there’s even some cognitive benefits \\\
+Layne likes to tell people, “I don’t even know why we’re having this conversation anymore”\\\
+It’s incredibly inexpensive for what you’re getting\\\
+When he sees people talk about some of these other supplements and they’re not even taking creatine monohydrate, he thinks, “You’re stepping over dollars to pick up pennies because this is just the lowest hanging fruit”\\\
+Even at your size and your demand, is there any benefit to taking more than 5 g a day? \\\
+Some people have postulated there might be\\\
+Layne hasn’t seen really clear evidence for it yet\\\
+You could argue that there’s really no downside to taking the extra\\\
+However, for some people, creatine can be a GI irritant \\\
+Action of creatine \\\
+We know creatine can act as a high energy phosphate donor\\\
+The energy currency of your cells is ATP\\\
+So when you are exercising or just doing anything, in order to drive muscular contraction, your ATP donates a phosphate\\\
+The liberation of that phosphate to form ADP and a free phosphate is energetically favorable and it helps drive these muscular contractions\\\
+Creatine (or phosphocreatine) can act as a high energy phosphate donor to regenerate ATP and allow you to perform better\\\
+Creatine is also a really powerful osmolite\\\
+It pulls water into muscle tissue, which in and of itself may actually be anabolic\\\
+But regardless of the mechanism, we do know that when you take creatine, you see improvements in lean mass\\\
+Some people will say, “Well, that’s just water”\\\
+But muscle is 70% water\\\
+There’s research to show that even non-contractile mass (just water) may improve strength and contractibility\\\
+We’re not sure exactly how\\\
+But it could just be a that the volumization of the cell is a benefit\\\
+Peter thinks conceptually a more hydrated cell may be better able to carry out its function\\\
+So if the function of a myofibril is contractile, release, contract, release, and it has more water, it seems logical that it’s going to be better at clearing metabolic waste and recruiting fuel, which would at least be 2 things that would factor into its ability to do that\\\
+If you look at anything that improves hypertrophy, a big portion of it is water \\\
+It’s not just all myofibril\\\
+Layne thinks regardless of the mechanisms, it’s pretty clear that creatine works and it’s safe \\\
+They’ve done numerous randomized control trials, some of them being well over a year long\\\
+Concerns about creatine \\\
+You get an increase in creatinine, which can be a marker of renal function\\\
+Peter recalls a recent article in JAMA which said we should look at cystatin C instead of creatinine to assess renal function\\\
+This is a PSA for other docs out there listening and other patients to say, “Please look at my cystatin C as a way to estimate kidney function”\\\
+Every time you order labs on somebody and you see their creatinine, it’ll tell you what their estimated glomerular filtration rate (eGFR) is\\\
+Peter just ignores this and only looks at cystatin C\\\
+Layne adds that some other things can get a bit wonky from lifting weights, like liver enzymes\\\
+He tells people these are markers\\\
+If you have liver failure or kidney failure, it’s very, very likely you will have elevated liver enzymes and elevated creatinine\\\
+But just because you have elevated liver enzymes or elevated creatinine, does not mean that you necessarily have damage to those tissues\\\
+You have to disconnect those two\\\
+Layne feels that correlation versus causation is something that’s not taught very well in school because he sees some physicians get hung up on values that are not in the normal range\\\
+Instead, just look at the person sitting in front of you who obviously works out, who is in good shape\\\
+If you’re concerned about your kidneys, then do a 24-hour urine collection or an ultrasound or whatever you have to do to verify that they’re safe, but Layne doesn’t worry about that kind of stuff\\\
+Some people claim creatine can cause hair loss, but Layne doesn’t think the data on that is very compelling\\\
+There was a single study in 2009 that showed an increase in DHT from supplementing with creatine\\\
+They reported that levels of DHT increased by 56% after 7 days of creatine loading and remained increased 40% above baseline after 14 days maintenance\\\
+He’s never seen it replicated or followed-up\\\
+Layne adds, the interesting thing we know is that creatine doesn’t affect androgen levels\\\
+So where is this increase in DHT coming from? \\\
+No randomized control trials has shown that creatine actually causes changes to hair follicles or causes hair loss\\\
+Maybe it does, but he would think that if that data existed, we would’ve seen it already\\\
+Are there significant benefits from creatine supplementation on non-lifting days? \\\
+Such as a hard cardio day\\\
+We’re not talking about sprints where there would be a clear benefit for that type of high intensity effort\\\
+Layne would guess yes \\\
+A recent meta-analysis evaluated different ways of taking creatine and showed if you take 5 g a day, you get increases in lean mass, strength, and performance\\\
+If you take more than 5 g per day, you also get increases\\\
+But it’s hard to compare them directly because of the way they did the meta-analysis\\\
+They looked at taking it on lifting days‒ they saw benefits\\\
+They looked at taking it on non-lifting days‒ they also saw benefits\\\
+Layne thinks you can probably get away with just taking it on lifting days, but keep in mind the benefits of creatine come from accumulation\\\
+So it’s key to saturate the muscle cell \\\
+When Peter was a kid reading Bro Science magazines, he remembers taking 30 g a day for a week or something crazy, then taking 5 g thereafter\\\
+You would do that for a couple months\\\
+Then come off it for a month\\\
+Then repeat the cycle\\\
+Layne agrees, that was definitely a thing\\\
+Research does show if you load it, you will saturate the muscle cell faster\\\
+Layne tells people, “There’s no solutions, there’s only trade-offs”\\\
+The trade-off with creatine loading is that a lot of people will get bad GI irritation (bloating, nausea, etc.)\\\
+If you’re playing the long game, it doesn’t matter\\\
+You’re talking about getting the results you want in one week as opposed to three weeks\\\
+If you take 5 g a day, within a few weeks you’ll be saturated and you’ll be getting the same benefits \\\
+People will ask about taking it just on lifting days\\\
+But it’s pretty cheap\\\
+It’s easier to forget something when you only do it on certain days; sometimes it’s easier to make it part of the routine\\\
+People ask about the timing of when to take creatine\\\
+There is very small bit of evidence that it might work better taking it after a workout\\\
+But Layne tells people to just take it whenever you would regularly take it\\\
+For him, he takes it first thing in the morning\\\
+As far as cycling on and off creatine\\\
+There is evidence that you reduce your endogenous production of creatine when you’re on it, and that the creatine receptor on the muscle cell down-regulates a little bit\\\
+The important thing to keep in mind is this doesn’t mean that your intracellular levels of creatine are falling\\\
+Layne doesn’t think there is a reason to come off because they’ve shown that if you do come off, everything goes back to normal and you lose the benefit of the supplemental creatine within a month or so\\\
+He thinks as long as intramuscular levels of creatine are not falling, there’s no benefit to coming off\\\
+People used to equate supplements with steroids, and you’re supposed to cycle steroids\\\
+This is why they think we should cycle supplements\\\
+But creatine is not hormonal, and it doesn’t have the same biofeedback loop so there’s no reason to cycle it\\\
+How important is rep speed and time under tension? [1:05:30]\\\
+One of Newton’s laws is force = mass x acceleration\\\
+If you’re going to press your dumbbells, one school of thought is to press them as quickly as possible\\\
+Because the mass is fixed, so any speed of lifting is acceleration because you’re moving against gravity\\\
+But the faster you can do it, the greater the force\\\
+At some point, the weight becomes so heavy that you increase the effort more on the mass variable than on the acceleration variable\\\
+So you can manipulate mass and acceleration to reach maximal force\\\
+An extreme example is a one-rep max\\\
+But as Layne pointed out earlier, the more elite a powerlifter becomes, the slower it is\\\
+So the emphasis is on mass, which is what you get scored on\\\
+How do we think about the mixing and matching of the mass versus the acceleration in an effort to optimize force? (on the concentric) \\\
+Of course, we also don’t want to go to maximum force every time because using a light weight you could move too quickly and injure yourself\\\
+Layne points out that strength is basically force\\\
+Using the same force, you will move a heavy weight slower than a light weight\\\
+Layne’s coach Zach advises doing a heavy single or double followed by back-off sets are relatively light (RPE 4-5) but moving as quickly as possible\\\
+Peter’s takeaway: On the heavy weights, you’re going to move slow because they have to, but to keep training strength, you want to move as quickly as possible as the weight decreases \\\
+Does this happen with Layne? \\\
+It’s hard to tell because he’s never actually done the calculation of force\\\
+He imagines there’s a sweet spot where too heavy probably has less force, but he’s not sure where that is\\\
+For hypertrophy, he thinks force is probably less important \\\
+It’s more about having enough sufficiently hard sets, however you slice that\\\
+The idea of time under tension training was very popular\\\
+In the initial research, one study had people doing curls, something around 6 second eccentric, 6 second concentric, to failure\\\
+Another group did the normal cadence and match the number of reps in the first group\\\
+They found the group doing slow eccentrics and concentrics gained more muscle\\\
+The problem is, they were using 30% of their one-rep max for 10 reps going really slow\\\
+If you were going at a normal pace, how many times could you do 30% of a one-rep max (30, 40, 50)?\\\
+Layne’s not saying the study was bad, it simply answered the question it wanted to answer\\\
+If you are going to compare them straight up, you need both groups to work to failure to achieve the same level of intensity\\\
+ When they do that, they see very little difference between slow lifting and fast lifting \\\
+A couple studies recently came out looking at fast eccentrics versus slow eccentrics and found there was a little bit better outcome with fast eccentrics with respect to muscle mass\\\
+See the selected links section at the end\\\
+Peter notes, “The only time I’ve ever done a fast eccentric is on my Exerfly machine because you’re forced to. It’s pulling you down so quickly that you’re screaming down and you’re coming to a stop. Outside of that it never occurred to me to do an eccentric quickly.”\\\
+If he’s doing eccentric deadlifts, he’s trying to come down as slowly as possible, thinking that it is more time under tension\\\
+Layne thinks the time is part of the lift as well\\\
+You don’t want to take it too extreme and dive bomb a squat when there’s no tension on the bar\\\
+Consider a bicep curl \\\
+Have 2 people curl the same weight, using the same speed on their concentric\\\
+1st person does a 2 sec concentric and 2 sec eccentric\\\
+2nd person does a 2 sec concentric and a 6 sec eccentric\\\
+Will the 1st person produce more hypertrophy? \\\
+Layne thinks it might be better\\\
+If you think about mechanical transduction and the force (the mechanical tension being applied to a muscle) when you’re getting to that point where the muscle is stopping and then having to come the other way, if it’s fast, that’s probably more tension at that specific point\\\
+So we just don’t know enough about this stuff right now to really be able to say for sure\\\
+But there is benefit from slow movements for people who have pain or don’t want to use a heavy weight\\\
+A lot of time pain can be tied to velocity, and if you slow down a movement, it won’t be as painful\\\
+Layne has used tempo training pretty liberally in some of his training cycles to make it so he had to use less weight but still keep it difficult\\\
+Now is this as good as his regular movement?  \\\
+Maybe not, but it’s better than doing nothing\\\
+“Don’t let perfection be the enemy of progress.  I do think that slow movements still have application for people.”‒ Layne Norton\\\
+At the end of the day, the biggest determinant of hypertrophy is just doing enough number of hard sets, however that looks \\\
+Validity of super slow rep protocols, and the overall importance of doing any exercise [1:12:45]\\\
+A 30-minute, once-a-week workout  \\\
+Peter has had a couple patients whose disdain for exercise is so great that the most he can negotiate them doing is one 20-30 minute workout per week doing the super slow protocol\\\
+At a specific gym with specific types of equipment, they do 8-10 different machines and they only do 1 set and it’s to failure\\\
+The sets are typically titrated to be somewhere between 90 and 105 seconds\\\
+If you’re going more than that, the weight is too light\\\
+If you’re less than that, the weight is too heavy\\\
+They might do 4 simple upper body exercises and 4 lower\\\
+So there might be a press, a pull, a bicep, a tricep, a leg press\\\
+The reason he negotiates is because otherwise they will do nothing, and he can’t think of any better benefit in 30” once a week than this\\\
+The challenge is, it’s’ really hard to go to failure\\\
+And it’s hard to do it 8 consecutive times, which is what you asking a person to do in 30 minutes\\\
+What is your take on the super slow protocols? \\\
+Famous bodybuilders like Mike Mentzer have taken these protocols to the limits \\\
+Layne thinks, when it comes to hypertrophy, you have a lot of options \\\
+A friend of Layne’s (Jeremy Loenneke) posted a paper on social media looking at isometric contraction, and they were able to show some hypertrophy with a long isometric contraction\\\
+Before we used to think that isometric doesn’t grow muscle\\\
+Jeremy was on the podcast in 2021\\\
+Layne’s claim to fame is he introduced him to BFR (blood flow restriction) training \\\
+Super slow is one tool in the toolkit to get some of the benefits from resistance training\\\
+The point is to get to the gym consistently \\\
+Are super slow protocols as good as compound movements with a free bar and training at a normal pace?\\\
+Probably not, but it’s better than sitting at home and doing nothing\\\
+Super slow and the physiology of hypertrophy \\\
+When it comes to the super slope, we still don’t fully understand how the process of muscle hypertrophy occurs\\\
+For hypertrophy we know that you need to progressively overload\\\
+But we still have a lot of gaps in our understanding\\\
+One of the things we think matters is metabolic stress, this idea that you’re accumulating metabolic byproducts inside the muscle as you work it out\\\
+Hence BFR (blood flow restriction)\\\
+There is some decent mechanistic data to support this in terms of hydrogen ion accumulation, how that may affect signaling and even calcium release into the sarcoplasm\\\
+Layne thinks when you’re dealing with that super slow protocol, you’re kind of pushing a little bit more on that metabolic stress as opposed to the mechanical tension portion of it\\\
+But there still is mechanical tension\\\
+A lot of people think about mechanical tension just literally as weight on the bar\\\
+What people don’t realize is mechanical tension is cumulative, because otherwise why wouldn’t we just load up a heavy single and just do that every time? \\\
+That’s the most amount of mechanical tension you can get in terms of a set point in time\\\
+So it seems pretty obvious that mechanical tension has to be a little bit cumulative throughout a set\\\
+If you’re doing super slow, you might have a light weight, but you also have a really long time that you’re under that light weight accumulating metabolic stress and mechanical tensions\\\
+So it makes sense that you would have some of those benefits\\\
+Downsides to super slow \\\
+Layne thinks the bigger downside is you’re probably not going to get as strong doing that methodology as you are doing a little bit more normal pace\\\
+And it may have a little bit less functionality than somebody who’s done kind of more traditional strength training\\\
+Peter’s bigger issue with super slow‒  “I don’t think people really can go to failure”\\\
+It’s really difficult\\\
+It’s easier to do an exercise when you don’t have to go to failure, but you make up for in with volume\\\
+The other point is the reason why we exercise\\\
+To live well\\\
+Peter notes, “I do worry that when we rob people of movements that require more than one plane, movements that require balance and some coordination, we’re not giving them the full benefit of the exercise, of the reason to exercise”\\\
+Any exercise is better than no exercise [1:18:15]\\\
+Layne thinks when a lot of people get into things, they have “paralysis by analysis”\\\
+At a certain point, this is an excuse to do nothing\\\
+Just go do something\\\
+When it comes to people who have been sedentary, Layne asks what they like doing\\\
+If the only outcome you’re going for is perfection, few people are going to be able to hit that\\\
+A lot of the conversation boils down to this isn’t as good as this, but it’s still better than that\\\
+Do we really need optimal to see a benefit?\\\
+“Do people really need optimal to get out of the state we’re in where so many people have type 2 diabetes and have obesity and are dying from heart disease and cancer?  Honestly, if we can get 50% of the way there, we’ll probably see a huge benefit”‒ Layne Norton\\\
+Peter adds, when you divide people into quartiles of fitness and strength, the improvement in benefit always comes from moving from the bottom quartile to the next one \\\
+You’re going to achieve the most benefit when you go from being in the lowest 20% of the population to the second 20th percentile population\\\
+Layne agrees, “One of the biggest failures of the fitness industry, quite honestly, is convincing people that they need to have a shredded six pack and be really muscular to be fit. No, you don’t have to.”\\\
+He thinks most people who are lean probably don’t feel that fit\\\
+When he was very lean for body building, he had no energy, no sex drive, thought about food all the time, and was miserable\\\
+The real sweet spot is probably where you got a little bit of fluff, you’re still relatively lean\\\
+Data on steps per day \\\
+The step data is pretty clear, there’s a huge inflection at about 8,000 steps per day\\\
+You still get benefits by going up to 20,000 steps a day\\\
+But the vast majority of benefits (the drop in mortality) is from going from 2,000 to 8,000 steps\\\
+Layne doesn’t think there is anything magic about steps, it’s just looking at people getting more active\\\
+One of the biggest failures of the fitness industry is the messaging that you need to look a certain way to be healthy\\\
+The messaging should be, it’s a very low barrier to be healthy\\\
+Even if you just get out and walk for 30 minutes a day, there is so much benefit from that compared to just sitting\\\
+Layne advises, “Just doing anything in the gym” \\\
+People say machines are worthless, but they are great tools for applying tension to muscle\\\
+A free barbell movement might be more functional, but if it’s the difference betweening training and not, then use the machines\\\
+Peter doesn’t think most people listening to this (himself included) ever want to be 4-5% body fat\\\
+Layne agrees, “You don’t, trust me”\\\
+But someone who is 25% body fat would like to be 20% body fat\\\
+Navigating social media: advice for judging the quality of information from “experts” online [1:23:00]\\\
+How can a person make sense of the never ending sea of experts out there? \\\
+A couple years ago Layne had Alan Levinovitz on his podcast\\\
+He’s a religious studies expert, he wrote a book on the fallacy of naturalism\\\
+They talked about how hard it is for people to identify experts\\\
+He said something really insightful, “What you should look for in an expert is the exact opposite of what you probably think you should look for. If somebody sounds really confident, they’re probably not an expert. What you really want to look for is people who sound kind of doubtful and they say things like, “Probably, maybe, possibly.””\\\
+And when you speak to true experts, if you ask them a question, the first thing they’ll do is ask you a question back (unless the questions is very contextual)\\\
+An expert needs to know the context to be able to answer correctly\\\
+For example, if someone asks Layne about his thoughts on X, he’ll reply, “Okay, well as it pertains to what? Hypertrophy or strength or fitness?”\\\
+ Credentials help\\\
+If Layne sees somebody with a PhD in a certain subject, he’s probably going to give them a lot more leeway if they say something he disagrees with\\\
+He will dig a little deeper to see what they said that\\\
+But he’s seen some PhDs say some really dumb stuff (even from Harvard)\\\
+Credentials are a nice thing, but they’re not foolproof\\\
+Peter adds that with Layne’s knowledge background, it’s a lot easier for him to look at someone’s Instagram account and quickly realize this person knows nothing\\\
+What are some criteria the average person (who doesn’t have the knowledge base) can use to disentangle this world? \\\
+Layne doesn’t think magic words exist\\\
+Part of his PhD program was a qualifying exam \\\
+This was a 4 hour oral examination in front of 4 professors\\\
+When he was prepping for this Dr. Layman (his advisor, who has also been on the podcast) said, “They’re going to push you in whatever subject they start out on until you don’t know, and you need to be able to say, “I don’t know””\\\
+They did exactly that\\\
+And at the end they said, “You’re actually one of the best students we’ve had the last few years because you knew what you knew and you knew what you didn’t know”\\\
+That division puts such an emphasis on not going outside your lane, not speaking about something, not speculating about something that you didn’t know and trying to pass it off like you did \\\
+A good metric is if a person is willing to know their scope and not feel the need to comment on every single thing\\\
+Advice to avoid (these people probably aren’t experts) \\\
+Also avoid people who use tips, tricks, hacks, 5 things to never do, 5 things to always do\\\
+Avoid people who use superlatives‒ the best, the worst (that’s not how experts talk)\\\
+Layne often says, “There’s no solutions, there’s only trade-offs.  There’s certain tools that make a lot more sense depending on somebody’s goals and where they’re at than compared to somebody else and vice versa.”\\\
+Navigating social media \\\
+This suggests that social media is negatively selecting, because the flare for showmanship, tips, tricks, and listicles get attention\\\
+The algorithm likes things that get a lot of attention even if it isn’t warranted\\\
+Social media adds another layer of confusion to this difficult topic\\\
+When he scrolls through Instagram, he’s amazed at how much it’s trying to push to him\\\
+Social media also acts as an information silo\\\
+If you follow a few people and then accounts that are suggested to you, you’re not actually getting broader information\\\
+Previously in the ‘80s, ‘90s, and 2000s when you would come across people with differences of opinion you could have a conversation with them\\\
+It was not as confrontational\\\
+ Now we have whole generations of people who are not used to seeing opinions/ thoughts/beliefs different than their own because they’re in those information silos, and when they get exposed to something different, they just don’t know how to handle it\\\
+Layne has seen some really extreme responses to advice on nutrition\\\
+He can’t name how many times he’s been called a shill for big meat, big dairy, artificial sweeteners, big sugar, etc. \\\
+He just has a different opinion based on the data, but people think he must be a bad person\\\
+Peter notes, “You’re an interesting person because your personality on Twitter and your personality on Instagram are quite different, and your personality in real life is totally different.”\\\
+How has Layne’s personality evolved on Twitter and Instagram? \\\
+Layne just made the decision that he’s not going to get drawn into it\\\
+He doesn’t really look at comments on Twitter anymore\\\
+Post and ghost\\\
+Peter sees enough negative comments to want to eviscerate them with words but 99.9% of the time he refrains from doing so\\\
+Layne thinks his styles isn’t for everybody\\\
+He has the most vitriol for people who post misinformation and clearly have a pattern of behavior where that is being monetized\\\
+He has very little sympathy for those who prey on the desperation and ignorance of people\\\
+This probably comes from his experience being bullied as a kid\\\
+It also evolved out of his coaching experience, seeing many people come to him feeling broken because they tried so many of these things touted as a solution/ cure, and when it didn’t work for them, they thought something was wrong with them\\\
+“Nothing’s wrong with you. You haven’t been executing on principles that work.”‒ Layne Norton \\\
+Layne has tried to dial it back a bit because he thinks he took it too far at some point\\\
+Now he tries to use it to be funny and get some attention\\\
+His best Instagram posts are screenshots of his Twitter\\\
+One of his top rated posts was when Mark Hyman said something and his response was, “Stop making shit up”\\\
+Some people would be turned off by this\\\
+Other people are tired of things being overly sanitized and wish somebody would say what they really feel\\\
+Layne has had so many academics reach out to him behind closed doors and say, “I love your Twitter, I love just watching you break this stuff down”\\\
+Layne doesn’t attack people but provides logic, data, and citations\\\
+He’s also trying to make it a funny and engaging conversation\\\
+Thomas DeLauer is a great example where Layne has done several videos debunking claims he made\\\
+One day Thomas reached out to him and said, “Hey man, I want you to know that I actually really respect you and you’ve actually made me change the way I think about some of this stuff. Would you want to come on my podcast?”\\\
+Layne did, and their conversation is on YouTube\\\
+Layne respects anybody who can be self-reflective enough to go, “You know what? I might have been wrong”, or even wanting to get a different perspective on things \\\
+Layne is speaking at a low carb conference next year and the joke is, does he need to bring bodyguards?\\\
+Peter is not close enough to any of the dietary communities he knows\\\
+He still gets very strongly associated with a low carb ideology, which is funny when you see how many carbohydrates he eats\\\
+Layne’s views on low-carb diets, the tribal nature of nutrition, and the importance of being able to change opinions [1:34:45]\\\
+Layne always tells people, “How could I be anti-low-carb? If you go to our nutrition coaching app, Carbon Diet Coach, two of the six settings are low carbohydrate. There’s low carbohydrate and there’s ketogenic.” \\\
+He thinks this is an example of the Tim Tebow effect, but it’s just polarization\\\
+When Tim Tewbow was playing NFL football, Layne’s view was very few people were in the middle about Tim Tebow‒ you either love him or hate him\\\
+But if you watch him, he’s not really that good, but he’s all right\\\
+He has weird mechanics\\\
+He’s more of a running back than a quarterback\\\
+His completion was about 45%\\\
+But many people were saying, “He’s the Heisman, he’s going to the playoffs. He’s better than your quarterback”\\\
+Layne thinks this happens with many different subjects\\\
+For example, Layne’s not a “car guy” but one time he took a picture of himself outside his new house with his car (a 2003 Alero) and posted it to social media\\\
+This was his grad school car\\\
+He never felt the need to get rid of it\\\
+He got about 1500 comments, and people would ask him why he hates people who buy nice cars (he never said that)\\\
+He was making a point about his ability to delay gratification and how it got him this new house \\\
+Figure 2.  Layne’s “controversial” photo of his new house.  Image credit: Instagram\\\
+It’s the same thing with low carb, his messaging has consistently been to refute the claim that you can eat as many calories as you want as long as it’s low carb and not gain fat\\\
+Low carb does not appear to be better for fat loss than calorie protein equated diets that are not low carb\\\
+“That means choose what you prefer because it’s not worse”‒ Layne Norton \\\
+If you like low carb, then go ahead\\\
+He doesn’t enjoy low carb but many people do\\\
+One of the reasons people get so tribal about this is they find something that worked for them and then they retroactively try to find the evidence to show that it’s the best thing that there is \\\
+Which is more cult-like, nutrition or exercise? \\\
+Definitely nutrition\\\
+Is that because of the ubiquity of food in our lives and the fact that we all have almost equally a personal relationship with food, whereas not everybody exercises the same amount?  \\\
+In America, we come from a Puritan background, and there’s a thinking that anything that is pleasurable must be bad for you\\\
+You can’t have it, and you should feel bad about it\\\
+Layne has had people say horrible moral judgements because he posted a picture of him eating a bag of Skittles \\\
+Nevermind that he just trained for 3 hours\\\
+The Puritan influence is one part of this, but the bigger part is people want to validate what they already believe to be true  \\\
+When Layne meets new people and they don’t know anything about him, he is hesitant to tell them about his background in nutrition (PhD in nutrition)\\\
+They’ll either clam up real quick and get self-conscious about what they’re eating\\\
+Even though he orders fries\\\
+Or he’ll get blitzkrieged with questions\\\
+If he said he was a  theoretical astrophysicist, they might talk about space a little bit, but they’re probably not going to question his beliefs or opinions on string theory\\\
+But, because everyone eats and everyone knows something about their body (right or wrong), they have drawn certain conclusions about what they put in their body and what happens to their body\\\
+This is why everybody has an opinion about nutrition\\\
+It makes it really tough because people natively have certain beliefs, and we know how hard it is to change people’s beliefs\\\
+Layne remembers a study in politics, something about George W. Bush stopped or outlawed funding for stem cell research \\\
+The reality was he just stopped federal funding; he didn’t outlaw it\\\
+They showed people these facts and it didn’t matter, they just reinforced their preexisting belief\\\
+They had data on this for both parties, Republican or Democrat\\\
+“I think it’s a people problem to be honest”‒ Layne Norton \\\
+Layne recalls a benefit he gained very early on in grad school‒ Dr. Layman just absolutely dismantled so many of his beliefs\\\
+But he did it in a way that wasn’t judgemental or made Layne feel bad\\\
+Layne tells people, “Being wrong about something is a beautiful thing, because if I’m already right about everything, then I’m already doing everything the best I can and I can’t get better. If I’m wrong about something, that’s actually awesome because now I have something I can improve on.”\\\
+Of course he likes being right\\\
+But if he’s wrong, he doesn’t take much offense because it’s just data, there’s no ethical judgment\\\
+He’s changed his mind about a myriad of things over the years\\\
+Where Layne has changed his views: LDL cholesterol, branched-chain amino acid supplementation, intermittent fasting, and more [1:42:00]\\\
+1 – LDL cholesterol \\\
+It used to be about HDL: LDL ratio and the particle size\\\
+Only in the last 4-5 years, after seeing enough Mendelian randomization studies did he realize the lifetime exposure to LDL is what is important\\\
+The mortality rate is linear with the lifetime exposure to LDL\\\
+Now he’s a little more conscious about the saturated fat he consumes, and he started taking a low dose of a statin\\\
+He never had super high LDL (150-125)\\\
+Even if he reduces his saturated fat and increases fiber intake\\\
+He probably eats 60-70 grams of fiber a day\\\
+He thinks people get that one twisted a little bit because they’ll hear things like, “It doesn’t consider HDL. It doesn’t consider this.” \\\
+You have to understand what an independent risk factor means\\\
+It means that all things being equal, are you better off having higher HDL? \\\
+Yeah, but HDL is more of a marker of metabolic health because we have some drug trials and Mendelian randomizations now where they modulate HDL and it doesn’t really seem to make a difference\\\
+Whereas a lower LDL is almost always better for cardiovascular disease and mortality\\\
+Peter notes he should do a podcast on Mendelian randomization, it’s very powerful\\\
+He doesn’t understand why it doesn’t get more attention\\\
+You have to get into the weeds of genetic sorting and statistical methods\\\
+He wrote in his book about it being one of the 5 pillars of evidence we should use to formulate insights with respect to anything \\\
+Layne adds that nutrition science becomes limited when you look at mortality and cardiovascular disease\\\
+The power of Mendelian randomization is you’re looking at a lifetime randomized control \\\
+People point to the Minnesota coronary study (and another Australian study) to say that a randomized control trial comparing high saturated fat to low saturated fat found no difference\\\
+But these studies were only for 2 years\\\
+This is a long time for a clinical trial, but when you’re talking about a disease that is a lifetime exposure, you’re not going to have many incidences to pick up on in 2 years for people in their 40s\\\
+Mendelian randomization allows you to get around that because you’re looking at people across their lifetimes\\\
+Layne doesn’t consider himself a lipid expert, but he compares lifetime exposure risk to investing\\\
+If 2 people invest $10,000, and one person gets 8% and another 6%\\\
+If you only look at the difference in a year or 2, it won’t be statistically different\\\
+If you look out to 4 years, the 1st person is going to have a lot more\\\
+Now think how much more that is going to be over a lifetime\\\
+Peter has done this exercise, it was initially in his book\\\
+He compared investing $1,000 at 6% versus 4%\\\
+At 5 and 10 years the difference wasn’t enormous\\\
+But at 40, 50, and 60 years, it was staggering\\\
+“The cumulative effect of compounding over a lifetime is so nonlinear that I don’t think we are capable of understanding it. I don’t think we can ever cognitively realize it, until we literally just do the calculations and they’re staring us in the face.”‒ Peter Attia\\\
+LDL is one thing Layne has changed his mind on\\\
+He still see’s LDL denialists\\\
+How much more evidence do they need?\\\
+Peter feels this is very dangerous\\\
+The mechanism is clear‒ LDL penetration of the endothelium\\\
+Animal models show linear dose independent effects\\\
+Many studies support this\\\
+Mendelian randomization\\\
+Clinical trials in humans\\\
+Prospective cohort studies\\\
+Genetic studies\\\
+PCSK9-over and under expressors\\\
+2 – Supplemental branched chain amino acids \\\
+Layne use to be a big advocate for supplemental branched-chain amino acids (BCAAs)\\\
+The first supplement company he started (5 years ago) sold a product with branched-amino acids in it\\\
+This was basically taking 3 branched-chain amino acids as a workout supplement (as opposed to a workout recovery supplement)\\\
+His current supplement company (Outwork Nutrition) does not have a branched-chain amino acid product\\\
+He still thinks there may be a small benefit for delayed onset muscle soreness with branched-chain amino acids outside of regular protein, but based on the cost and negative impact on taste, it isn’t worth it\\\
+Leucine tastes horrible\\\
+Peter used to spike 5 g of leucine in his water during a workout and it tasted awful\\\
+Are there other amino acids that taste as bad a leucine? \\\
+Probably some of the sulfur ones (cysteine or methionine), but they’re non-polar so they don’t dissolve \\\
+Layne was sponsored by a company called Scivation for years that had a branched-amino acid product\\\
+BCAAs (branched-chain amino acids) are a big product, but most evidence based folks will say, “It’s not better than protein”\\\
+Moreover, research tends to suggest that whey protein is better than branched-chains, even when you equate the dose of BCAAs in the protein\\\
+Layne got to the point where he couldn’t hold the position on BCAAs and their effects on muscle supporting synthesis because evidence was just too strong\\\
+3 – Intermittent fasting [1:49:15]\\\
+Layne used to say he was worried about the catabolic effects of intermittent fasting (such as 16/8) when combined with resistance training and sufficient total protein\\\
+Layne thinks the caveat in these studies should be that they train within their feeding window\\\
+Grant Tinsley has some good studies on this\\\
+There doesn’t appear to be statistical differences in lean mass between people who do 16/8 intermittent fasting versus people who eat continuously\\\
+Layne used to advocate eating protein every 4 hours to improve lean mass\\\
+Maybe if you plot it out over 30 years it would make a difference in how much lean mass you’re getting\\\
+If you’re a bodybuilder and want to squeeze out every last ounce of muscle you can get, he still thinks any form of intermittent fasting isn’t optimal\\\
+But the average person can get plenty big and strong doing 16/8 intermittent fasting\\\
+Peter’s experience with intermittent fasting with his patients \\\
+Peter has gone the other way on this one\\\
+He used to be a big proponent \\\
+But what he was seeing clinically, anecdotally, over and over again on so many patients who he had decks of data on, is a real deterioration of body composition \\\
+He knows they were falling behind on protein\\\
+The question became one of efficacy versus effectiveness \\\
+If this were done under controlled settings where the total protein intake was identical that would be one thing\\\
+Instead, the effectiveness of this in practice led to reduced protein intake\\\
+Peter still uses intermittent fasting in patients as one of the 3 big levers of energy restriction\\\
+But he has a big red caution button all over it to make sure patients patients are not compromising protein \\\
+Nuances of intermittent fasting\\\
+Layne thinks people get too hung up on the fasting part of intermittent fasting \\\
+It’s a tool to reduce energy intake\\\
+People ask, “Is it going to break the fast if I have coffee? Chew gum? Have a protein shake?”\\\
+Peter used to really think about the details of that\\\
+He thinks autophagy is an incredibly important part of our ability to regenerate, and you’re not getting any meaningful amount of it in 16 hours\\\
+So now he tells patients to have a protein shake outside of that feeding window\\\
+The point of intermittent fasting is energy restriction, so what’s an extra 200 calories outside of your feeding window? \\\
+Layne points out that some of the effects of high protein diets are not dissimilar from fasting in terms of liver metabolism\\\
+He’s concerned with having carbohydrates and fats during the fasting period (not protein)\\\
+Layne and Dr. Laymen think breakfast is probably the most important meal for protein dosing of the day because you’re coming off a significant period of fasting\\\
+So if you extend that with intermittent fasting, what does that mean long term?\\\
+Protein intake \\\
+Peter has taken to bribing his 14 year old daughter to get her to eat a minimum of 30 g of protein before she goes to school in the morning\\\
+Layne thinks it’s interesting how that dogmatism plays out\\\
+You have the same thing with low carb\\\
+People so worried about getting any carbs, meanwhile, they’re dumping oil on their salad, putting butter in their coffee, and eating loads of bacon or they’re eating keto ice cream because it’s not spiking their blood sugar\\\
+Have you looked at the keto ice cream? It’s actually more calories \\\
+“We’re missing the entire point here. The same thing goes for flexible dieting. I had people who were trying to hack the system of how can I eat as much junk food as I want?”‒ Layne Norton \\\
+Layne’s point is you can take anything too far\\\
+We know that fiber is really important\\\
+There are some folks who are anti-fiber (carnivores)\\\
+Layne laughs because he was in a debate one time with a carnivore advocate and his research was sponsored by the Egg Nutrition Center, the National Dairy Council, and the National Cattleman’s Beef Association\\\
+Layne adds, “The fact that I’m sitting here defending plants, is actually mind blowing to me” \\\
+If anything, it should increase your trust in what he’s saying because he is a fan of high quality animal protein\\\
+The carnivore diet, elimination diets, and fruits and vegetables [1:55:15]\\\
+What is the argument for the carnivore diet? \\\
+It’s a diet where you only eat meat\\\
+Layne has heard some versions where people eat honey and fruits\\\
+The reason is basically anecdotal‒ people lose weight\\\
+With any strict dietary restriction you are ultimately going to reduce intake\\\
+Really, how much meat can you eat?\\\
+The justification is that people still go to the bathroom just fine\\\
+Some people have said it helped clear up autoimmune issues\\\
+That’s hard to quantify\\\
+Some people say it lowered their inflammation and GI problems\\\
+A lot of people get mixed up and equate getting bloated or GI dysfunction with inflammation\\\
+You might have some localized inflammation, but based on what we know about IBS \\\
+It’s not the same thing as getting your CRP or IL-6 measured (that’s inflammation)\\\
+A carnivore diet is an elimination diet  \\\
+Let’s assume that on the carnivore diet your biomarkers of inflammation improved, and symptoms improved\\\
+How many foods do you think an average person eats in a given week?\\\
+In the 10s, maybe 100\\\
+If you eliminate all but 1 of them, it’s not a good experiment because you haven’t really learned a lot\\\
+You’ve learned that something in those 99, might have been the problem\\\
+Layne thinks that a lot of people who are getting benefits are basically doing an elimination diet \\\
+Most people don’t have sensitivities to meat\\\
+Many people, just not being in tune with their body, probably have IBS, FODMAP sensitivities where they’re fermenting a lot of fructans, oligosaccharides, those sorts of things,\\\
+Even though it’s a healthy thing, bacteria getting fuel from fiber is a healthy thing\\\
+If it’s causing pain, they’re equating that with being something negative\\\
+Obviously, we don’t want anybody to be in pain\\\
+Peter thinks a lot of people have wheat sensitivities that are not full-on gluten sensitivities\\\
+That don’t rise to the level of Celiac disease\\\
+Layne thinks once people have eliminated all plants from their diet, the next step should be adding things back in 1 by 1 to figure out what is actually causing problems\\\
+There is a negative perception of eating animal protein in terms of longevity and health\\\
+Most people who eat high amounts of animal protein aren’t eating lean cuts of sirloin and chicken breast\\\
+Instead they’re eating high amounts of processed meat and less amounts of fruits and vegetables\\\
+A classic study from Maximova in 2020 looked at different serving amounts of fruits and vegetables and also meats\\\
+Going from high to low vegetable intake there was a liner effect on the incidence of cancer\\\
+Eating more meat also shows a linear effect on the incidence of cancer when you don’t correct for fruit and vegetable intake\\\
+In those who had the highest intake of meat along with the highest intake of fruits and vegetables there was no effect on cancer incidence \\\
+The risk was the same as the group who at low amounts of meat and high amounts of fruits and vegetables\\\
+Layne’s takeaway: “That suggests it’s less about the meat you’re eating and what you’re eating it instead of… I like high quality protein… but for God’s sake, have some fruits and vegetables with it because it’s what’s going to mitigate your risk.” \\\
+When we tell people to eat more or less of something, usually a replacement happens\\\
+Fiber: Layne’s approach to fiber intake, sources of fiber, benefits, and more [2:00:15]\\\
+How much fiber are you eating a day, and what are your main sources?\\\
+Around 60 g total (soluble + insoluble)\\\
+Layne eats a lot of riced cauliflower, broccoli, beans, apples\\\
+There’s about 3-4 g fiber in an apple\\\
+Berries tend to be really fiber dense compared to apples\\\
+Bananas have relatively low fiber, but even the higher sugar, lower fiber fruits are still associated with good health outcomes\\\
+He loves popcorn; it’s high fiber\\\
+You could eat more corn than popcorn; popcorn is very filling\\\
+Layne started eating popcorn during body building competitions\\\
+Air popped popcorn with a little cinnamon, Splenda, and butter spray\\\
+For 50 g of carbohydrate, it will take you 20-30 minutes to eat it and it helped him controlhis hunger\\\
+You get 6-10 g fiber depending on the brand\\\
+It’s probably not as healthy as some fruits and vegetables, but as far as snacks go, i’t pretty good and very filling\\\
+Layne was in a debate with Paul Saladino (a big carnivore advocate), they were talking about fiber and Paul said, “Well, this stuff with fiber, it’s just healthy user bias” \\\
+People who eat more fiber have other health promoting behaviors\\\
+Healthy user bias is a real thing, in terms of cohort studies, cross-sectional data, and observational data\\\
+But when you’re dealing with a healthy user bias, typically the data’s not consistent\\\
+One study will say one thing, one study might have no effect, one study might say a different thing\\\
+You see that with meat longevity\\\
+You don’t see it with exercise, smoking studies (in the opposite direction), or fiber\\\
+Layne was just looking at a meta-analysis earlier, that controlled for confounding variables, and they reported that animal protein was not associated with increased mortality\\\
+Fiber has a very consistent effect across all meta-analysis\\\
+Even without a 10 year RCT of giving people enough fiber versus not and tracking health outcomes, Layne feels very comfortable saying that fiber helps reduce the risk of cardiovascular disease and cancer\\\
+The RDA for fiber is 20-30 g (or 14 g per 1,000 calories of food)\\\
+Layne tells people to shoot for 15 g per 1000 calories\\\
+He would love to go for more, but at some point it becomes intractable to get that much fiber at low calories\\\
+What about getting fiber from bars and things? \\\
+Layne is eating real food to get fiber\\\
+Peter has heard things that suggest the fiber in a processed bar is not contributing to health the way fiber in food such as cauliflower or beans does\\\
+Layne tries not to fall into the naturalistic fallacy\\\
+He cringes when he cringes processed and unprocessed because everything is processed now\\\
+Peter doesn’t meant to say that processing is bad, but is thinking about this through the lens of destruction of the actual kernel and what that does at the GLP-1 level\\\
+Layne replies, “Mother nature’s kitchen is probably better than a fiber bar that’s some indigestible form of glucose or some less digestible form of starchy carbohydrate”\\\
+But, is a processed bar better than nothing? Probably\\\
+He also thinks that eating 3 protein bars that have 14 grams of fiber is probably not equivalent to getting 6-8 servings of fruits and vegetables\\\
+Confusion around omega-6 polyunsaturated fatty acids and the Minnesota Coronary Experiment [2:05:00]\\\
+Peter notes, “There’s nothing in nutrition that I’m more confused about than the role of Omega-6 PUFAs”\\\
+The Minnesota coronary experiment \\\
+The Minnesota coronary experiment (mentioned earlier) was very unique and probably will never be replicated\\\
+It would never get approved now\\\
+Peter is still trying to track down Chris Ramsden who wrote the paper on all that data that was never published in Franz’s first study\\\
+This study was carried out in a mental facility\\\
+What makes it special is that the subjects were fed every meal\\\
+It was not a free living study, though it had free living duration\\\
+The average duration was just over 2 years\\\
+The study was conducted over 4.5 years\\\
+1568 participants were on the diet for over 2 years\\\
+The diet had a big reduction in saturated fat\\\
+Saturated fat was reduced by 50%, from 18.5% of calories to 9.2%\\\
+Corn oil was used to replace cooking oil and used in many foods\\\
+Corn oil margarine was used in place of butter\\\
+The hypothesis being tested was that the group on the lower saturated fat diet should have fewer cardiovascular events\\\
+This was at the time (1961) when Ancel Keys proposed that saturated fat was the driver of blood lipids (the lipid heart hypothesis) \\\
+This was a large study, over 500 subjects\\\
+The original publication stated 1568 participants were on the diet for over 2 years\\\
+Ramsden’s paper reports 2355 participants\\\
+The participants in this study were old which meant you were going to see events\\\
+Peter notes, “You couldn’t do a 2-year study in 40 year olds. You’d see no events in anybody.”\\\
+The results came out in 1973 but there weren’t published until 1989 (16 years later)\\\
+When asked about this Franz says, “We didn’t like the way it turned out”\\\
+A guy named Chris Ramsden who is still at the NIH come along 5 years ago and finds a bunch of unpublished data and republishes it in BMJ \\\
+Peter’s interpretation of this study 10 years ago was that saturated fats are not causing heart disease, but now his interpretation is that the study wasn’t long enough to see a difference \\\
+In this study they measured total cholesterol levels but didn’t fractionate cholesterol\\\
+So they couldn’t measure LDL or HDL\\\
+Still, there was a 30 mg/dL reduction in total cholesterol in the low saturated fat group\\\
+The majority of that 30 mg/dL was probably LDL-cholesterol if they could have measured it \\\
+Peter’s interpretation now is that a 2-year intervention is not long enough \\\
+If you put a bunch of people on a statin for 2 years, you probably wouldn’t see a difference\\\
+Now, the PCSK9 trials suggest otherwise\\\
+The ODYSSEY and FOURIER trials in 2015 tested the most potent lipid lowering drugs and did show a benefit in 2.5-3 years, but they were crushing LDL\\\
+The modifications you can make to cholesterol from diet (in some cases) can be quite small compared to what you can get with pharmaceutical interventions \\\
+For an extreme example, if somebody went on a diet of zero saturated fat, 12% total fat, calorie restriction‒ they could probably cut their cholesterol in half, but they’d be doing a bunch of harm along the way\\\
+On the other end of the spectrum, some people in the low-carb community are bragging about LDL-cholesterol levels in the 500s\\\
+It’s much easier to raise your LDL-cholesterol with diet\\\
+It’s an unbounded problem above and a bounded problem below\\\
+Ramsden’s data suggests that people in the PUFA (polyunsaturated fatty acid) group had worse outcomes\\\
+This throws Peter for a loop and  is why he wants to have Chris Ramsden on the podcast\\\
+If the details of that study are consistent, it would be the most damning evidence against N6 PUFAs in terms of lowering lipids but raising cardiac events\\\
+There’s a precedent for this, a drug (triparanol) approved in the 60s lowered cholesterol but increased cardiovascular events (it was withdrawn)\\\
+The drug was believed to prevent the conversion of desmosterol to cholesterol (the final step of cholesterol synthesis in 1 of 2 pathways)\\\
+Perhaps desmosterol acted as bad or worse than cholesterol, in terms of the oxidative process\\\
+Today cholesterol drugs are only approved on the basis of outcomes (like lower cardiac events), but then it was approved on the basis of cholesterol lowering\\\
+The point is, there is a precedent for lowering cholesterol and worsening events \\\
+Ramsden proposes a series of mechanisms by which that might be the case with at least this polyunsaturated fat\\\
+Conversely, there is a lot of epidemiology that says the opposite, that whenever you substitute saturated for polyunsaturated fats, things get better\\\
+Nobody’s disputing MUFA (monounsaturated fatty acids)\\\
+The data seems unambiguously clear that MUFA is the best of the 3 fats, both epidemiologically and experimentally\\\
+Layne’s views on fats in the diet [2:13:00]\\\
+How does Layne think about the distribution of fats in the diet? \\\
+Layne has seen some epidemiology that showed PUFAs were lowering events more\\\
+They are more favorable than SFA\\\
+Studies that have swayed his opinion were those that had other contextual data where their findings made sense\\\
+One study came out and concluded they don’t know how to reconcile their findings because the mechanisms proposed for Omega-6 fats are they will increase inflammation because their double bonds can be oxidized\\\
+The oxidation causes inflammation\\\
+But if you look at the hard outcome data and RCTs where they give oleic or alpha linoleic acid, you don’t see inflammation go up if they’re not increasing total calories\\\
+In particular, if they replace it for saturated fat, you sometimes see inflammation go down\\\
+“So I don’t feel bad saying, I just have no clue”‒ Peter Attia\\\
+Layne looks at the weight of the evidence and couples it with mechanistic evidence and human outcome mechanisms\\\
+Maybe we can’t do a 2 year randomized control trial, but 12 weeks is enough time to see differences in inflammation \\\
+It’s been a long time since Peter looked through the BMJ paper (Minnesota coronary experiment), but he recalls a figure that walks through the proposed mechanisms (shown below)\\\
+Figure 3.  Potential consequences of high linoleic acid intake.  Image credit: BMJ 2016\\\
+What have we added to our diet in the last 20-30 years? \\\
+When you think of cutting something out, you replace it with other things\\\
+Layne thinks the biggest contribution to added calories in the diet in the last 20-30 years is oils \\\
+“The big demon right now is seed oils”‒ Layne Norton\\\
+The anti-seed oil crowd is just so vitriolic and so nuts that Layne wonders if he wants to wade into this conversation\\\
+They’re definitely more toward the low-carb carnivore\\\
+There’s a lot of people in the low carb community who’ve tried to abdicate saturated fat\\\
+They will say that people who have higher LDL-cholesterol live longer\\\
+Layne thinks that’s probably because they’re actually eating enough food\\\
+When you’re elderly, the problem is wasting not obesity\\\
+As people wanted to make saturated fat a “good guy,” seed oils became the “bad guy” \\\
+If you look at the top-level stuff, it fits a pretty good story\\\
+We never ate seed oils 120 years ago\\\
+Today they’re a huge part of our fat calories and look at all the things that are wrong with the world today\\\
+It’s the same story for sugar\\\
+We ate this much sugar in 1900 and this much in 2000\\\
+Look what got worse\\\
+It’s really easy to make sugar a boogeyman\\\
+Layne’s takeaway: I think when you look through the data and try to be unbiased about it, the continuous boogeyman is just energy toxicity \\\
+Problems arise when you’re dealing with extra energy\\\
+People will say they did the food guide pyramid, but they didn’t really do it because it also said exercise and reduce your calorie consumption \\\
+They added in more carbohydrates, but didn’t really decrease their fat intake\\\
+So we added more calories and had more of these problems \\\
+Flexible dieting, calorie tracking, and the benefits of tracking what you eat to understand your baseline [2:18:00]\\\
+Peter finds it impossible to estimate what he eats; there’s no way he could tell you within 500 calories what he’s eaten in a day\\\
+He thinks in the low fat craze, we probably underestimated how much fat didn’t go down and how much low fat stuff went up\\\
+Density in food calories comes from fat\\\
+Fat will take a dish from 500 calories to 1500 calories\\\
+Can Layne look at a brownie or sandwich and know how many calories he’s getting? \\\
+He’s done enough food logging in his life\\\
+For some people, that’s not a sustainable way to live\\\
+The bigger picture is, “If you want to lose fat or control body weight, you have to practice some form of restriction” \\\
+You can pick the form of restriction you want \\\
+1 – Restrict calories\\\
+Restrict portion size\\\
+2 – Restrict time\\\
+3 – Restrict a certain macronutrient group\\\
+4 – Only eat minimally processed food\\\
+For Layne, the easiest thing is to eat what he wants within reason (control the amount)\\\
+If you do that, you’re going to have to track calories or macros or whatever\\\
+What’s interesting is none of these forms of restriction seem to be better than another in terms of adherence at a population level \\\
+“Choose the form of restriction that feels the least restrictive for you”‒ Layne Norton \\\
+Other forms of restriction Layne has tried \\\
+He tried clean eating back in the early 2000s\\\
+This focused on minimally processed foods and high fiber\\\
+He kind of started binge eating then\\\
+The psychology of binge eating is really interesting\\\
+Layne had Professor Jake Linardon on his podcast a while back (an expert in eating disorders), and he said 2 theres are essential for an eating disorder to emerge\\\
+1 – Some sort of poor body image perception\\\
+2 – Hard food rules\\\
+So when you create hard food rules, it just does a weird thing in your mind \\\
+Binging just means overeating, but Layne doesn’t know the actual criteria\\\
+It’s periods of intense food consumption followed by a lot of guilt\\\
+We’re not talking about having an extra cookie\\\
+We’re talking about eating a whole box of Oreos\\\
+For Layne the rules for what was clean to eat seemed very arbitrary\\\
+The Bodybuilding Magazine said he couldn’t have sugar or this or that\\\
+As he started to avoid these “bad foods” he actually started eating more of them because when he was exposed to them he wasn’t able to moderate it\\\
+“I would just end up eating way more than I had intended to or even felt hungry for” \\\
+He had the mindset that if it is bad, he’s not going to eat it again\\\
+It became, “This is my last time eating this cause I’m going to be really serious after this. So since I’ve already broken the seal, might as well just go all way.”\\\
+He realized it was ineffective towards his goals\\\
+He wondered if the problem was having pizza or eating an entire large pizza, and that’s when he decided to try portion control\\\
+“I was able to modulate my body composition by eating foods I still enjoyed but controlling portion size”‒ Layne Norton \\\
+Flexible dieting and tracking macros \\\
+Layne began practices flexible dieting which involves tracking macros, kind of treating it like a budget\\\
+About 7-8 years ago he was going to debate a bodybuilding coach about clean eating versus flexible dieting\\\
+In his opening argument Layne looked on the guy’s Facebook page and compared the weekly calories of his meals to the calories Layne ate each week (including junk food)\\\
+His calories were higher\\\
+Layne’s point was this guy was telling him it was really bad to have a cookie, but if he binged on it 1 day a week, that’s okay\\\
+This seemed like an odd metric\\\
+The calorie comparison is very different\\\
+What fraction of the population would have the best physical and psychological response to calorie restriction as a tool or flexible dieting? \\\
+There’s no data on this, but from Layne’s experience with clients, some people will be resistant at first then really enjoy it later\\\
+It all boils down to how willing somebody is to make this part of their lifestyles\\\
+All forms of restriction have downsides\\\
+If you’re on a ketogenic diet and you go out to eat, there’s a lot you can’t eat, but you can usually make do\\\
+If you’re on time restricted feeding you can join your friends for a breakfast out\\\
+With flexible dieting you have to keep track of what you eat\\\
+Data on food reporting consistently show people under report by 50%\\\
+People take this stat as an affront, “I’m not a liar”\\\
+Instead people are just really horrible estimators of what they eat\\\
+Layne adds, “If you ever want to be depressed, go weigh-out of serving of cereal, or a serving of ice cream, or a serving of peanut butter”\\\
+A serving of ice cream is not a bowl of ice cream\\\
+A bowl of ice cream is probably 3 servings, so it makes sense why people underestimate their energy intake\\\
+Even if you don’t practice flexible dieting, tracking and weighing every single thing you put in your mouth for a week is an incredibly valuable tool because it will teach you about portion control and you’ll learn more about nutrition in that week than you would doing anything else \\\
+A lot of people don’t want to do it for the same reason a lot of people don’t want to keep a budget for their money\\\
+They don’t want to know\\\
+They don’t want to see where’ they’ve been spending money\\\
+Layne has had many people tell him, “I’m eating 1500 calories a day and can’t lose weight”\\\
+Peter finds it hard to believe you can’t lose weight on 1500 calories\\\
+Layne recalls a metabolic ward study where they put people on 1500 calories and 1 person gained a tiny amount of weight, but the majority lost weight\\\
+The point is, it’s useful for people to track what they eat for a while\\\
+People who have never tracked before are stunned to find out what they are eating\\\
+Layne’s app is different from a calorie tracking app because it gives you macros to eat based on your dietary preference and goals\\\
+It will adjust them based on how you’re progressing, so it’s not just a one and done calculation\\\
+When Layne first started doing this he would bring a book of food counts with him to the grocery store, but now he’s been doing it for 20 years\\\
+So when he picks up a brownie, he knows the calorie density is going to be similar to other brownies\\\
+The carb and fat ratio might be a bit different\\\
+He put it in the app as a random brownie from Sara Lee or whatever\\\
+The apps now make it much easier to track\\\
+He really tries to think about what something weighs \\\
+The brownie was about 40 g\\\
+Does Layne track everything he eats? \\\
+Peter and Layne went out to dinner 2 nights ago, and Peter didn’t see Layne put anything in the app\\\
+He did it after\\\
+How did you remember what we ate and like the bone marrow and all that crazy stuff we were eating? \\\
+There was an entry for bone marrow he found\\\
+It’s very likely that some of these are inaccurate, but it’s going to be more accurate than jus saying, “Well, I have not idea, so I’m not going to worry about it”\\\
+Do you think the act of tracking helps you put a governor on what you eat? \\\
+Did the fact that you had to enter 40 g of brownie prevent you from having 3 brownies? \\\
+At this point for Layne, no; but for some people, absolutely\\\
+One of the most basic laws of science is when you monitor something, it changes\\\
+When Layne talks to people who can’t lose weight, he emphasizes that he doesn’t expect people to track their food forever\\\
+For just 1 week, track everything that you put into your mouth\\\
+Weigh it on a scale\\\
+When people do this 1 of 2 things happens\\\
+1 – They come back and are shocked that they were eating 2,900 calories\\\
+Layne tells them, “Welcome to freedom. Because now you know that you’re not broken, you can modify”\\\
+2 – They actually eat the amount of calories they said they were eating, and they lose 3 lbs\\\
+“What [gets] monitored is what gets changed”‒ Layne Norton \\\
+When you get people to monitor thing, they change their behavior\\\
+The nutritional demands of preparing for a bodybuilding show [2:30:45]\\\
+Changes Layne makes when preparing for a bodybuilding show \\\
+He can’t guesstimate on what he puts into his diet tracking app; he gets more granular\\\
+When he goes out to eat, the sacrifice might be that he takes all the ingredients, put them on a scale and tracks it\\\
+The other sacrifice is he can’t go out with his friends anymore\\\
+He adds, “In the last four weeks I’m pretty much a hermit”\\\
+“All these different forms of restriction are just tools”‒ Layne Norton \\\
+Layne thinks it’s really educational for folks who have never tracked what they eat to try it\\\
+You’ll learn so much about portion sizes\\\
+You’ll go, “Whoa, I didn’t realize that restaurants serve such massive portion sizes”\\\
+Layne can’t count how many times he’s been eating something really good and gone, “I don’t need anymore”\\\
+Are you still hungry when you push it away? \\\
+Being in tune with your hunger signals plus some bit of monitoring is helpful\\\
+But that’s also hard when you’re eating processed food, energy dense, hyper palatable food\\\
+Previously, we could auto-regulate what we ate based on our hunger signals because we were in a situation where food wasn’t energy dense enough\\\
+You would become uncomfortable based on the volume of food you were eating\\\
+Even up to 1950, you had to walk down to the bakery to get processed, energy dense, hyperpalatable food (it wasn’t readily available)\\\
+Serving sizes were a lot smaller then too\\\
+Dinner plates in the early 1900s are much smaller than they are now\\\
+Peter relates this to traveling in Europe, “No matter how many times I go to Italy or something like that, I can’t get over how small the portions are. And it’s really wonderful because I’m just a glutton.” \\\
+Part of growing up as an immigrant kid was you ate what was on your plate\\\
+He can’t recall how many times he got the lecture about not wasting food, and kids in Africa that don’t have anything\\\
+The clean plate was just part of your mindset\\\
+Do you think you’ll do another bodybuilding show? [2:33:45]\\\
+Right now, Layne is in a long season off\\\
+He has a lot of things going on business wise (he’s very grateful for that)\\\
+He’s hoping to get to the point where he’s working because he wants to work not because he feels like he has to work\\\
+That’s the dream\\\
+He loves what he does\\\
+He doesn’t see himself ever retiring, but it would be nice to have a little more freedom to go and do the things he’s super passionate about \\\
+Bodybuilding and getting ready for a show takes a significant amount of time and energy\\\
+Powerlifting already does that, but he can powerlift without the brain fog, mood swings, etc.\\\
+Case studies of bodybuilders at a show report they are hypogonadal by the time they hit stage\\\
+Layne has measured his testosterone probably half a dozen times in the last 5 years\\\
+The lowest has been 900\\\
+The highest was almost 1100\\\
+When he was competing in bodybuilding, it was under 300 when he was close to a show\\\
+His LH and FSH is normal\\\
+“Think about the hungriest you’ve ever been in your life and now imagine that feeling doesn’t leave you for weeks and the lowest energy”‒ Layne Norton \\\
+What’s the absolute nadir of calories you’re consuming at the lowest?  \\\
+At his level of lean mass, 1900 calories a day\\\
+260 g protein\\\
+Around 100 g carbohydrate (or less)\\\
+30-40 g fat\\\
+What does that look like practically? What actual foods are you eating? \\\
+Egg whites, chicken breast, some fat-free Greek yogurt\\\
+You have to be very careful with your fats when you’re that low calorie\\\
+Even eating something that has 7 g of fat (which by all accounts is a low fat item), you have to be careful because those grams can sneak up very quickly\\\
+Can you have nuts? \\\
+Oh, no\\\
+Low energy is a real problem \\\
+Before a show he struggles with very low energy\\\
+He remembers sitting on the couch after training, the remote control was probably 5 feet away, and the Real Housewives was playing (a show he abhors)\\\
+He sat and watched the entire show because he was not willing to get up and get the remote\\\
+That’s how exhausted he was\\\
+How many weeks were you into calorie restriction at that point? \\\
+20 weeks in (not at 1900 calories)\\\
+His calories have progressively come down\\\
+It’s a body fat issue\\\
+He’s had clients who were able to eat higher calories and get really lean\\\
+At a certain point of body fat, it doesn’t matter if you are lean and your leptin is low, your testosterone is low\\\
+Eric Helms describes contest prep as like you’re circling a drain and you’re just trying to delay going down the drain as long as possible, but eventually you go down the drain\\\
+How do you get the energy to get on stage?  Do you have one big push of carbs shortly before you go on stage? \\\
+There are spurts where you feel okay\\\
+It’s not too difficult for Layne to go from 15% body fat on calipers to 7%\\\
+He had gone up a weight class in powerlifting a few years ago and then came back down\\\
+This was a 30 lb weight drop\\\
+The lowest he ever calipered was 2%, but it was probably more like 5-6%\\\
+To go from 7% to 3% or 2% is infinitely more difficult\\\
+The best way to describe it‒ think of getting toothpaste out of the tube\\\
+It’s easy with a fresh tube\\\
+But as that toothpaste tube gets emptier and emptier, you have to expend more and more effort to squeeze out that last little bit of toothpaste\\\
+Contest prep is very much like that\\\
+But you do have times when you have energy because you still have to train 2-3 hours a day\\\
+The part of contest prep Layne despises is he gets to a point where he doesn’t like training anymore\\\
+He continues with it for energy expenditure and to retain muscle\\\
+He loses his passion for it, and he’s somebody who loves to train (it’s his favorite thing in the world)\\\
+He did periodize his nutrition so he would have some higher calorie days on days that were more demanding for training\\\
+These were usually lower body training days\\\
+Water \\\
+As far as getting on stage, one thing he never cuts for bodybuilding shows is water\\\
+A lot of people cut water\\\
+Layne thinks this is silly because a muscle is 70% water and in your native state you keep more water inside your muscle cell than you do outside your muscle cell\\\
+If you begin removing more fluid via a diuretic or fluid restriction/ sodium restriction, you remove it in the same proportion from the subcutaneous layer and the intracellular layer \\\
+All you’re going to do is become flatter overall\\\
+In the intravascular layer, you get hypertensive\\\
+Not cutting water helped Layne with his energy\\\
+He was never dehydrated\\\
+He didn’t cut sodium or take a diuretic\\\
+Are diuretics legal in testing? \\\
+You could take OTC diuretics like dandelion root and those sorts of things\\\
+The logic behind why people cut water and sodium is funny\\\
+It’s like somebody saw a figure of the sodium-potassium pump in a book and reasoned, the cell wants to get sodium out and potassium in, let’s cut sodium and load potassium\\\
+The physiology is‒ if you get the sodium to potassium ratio too low, it will cause you to retain water as well\\\
+Food the week before a show \\\
+During peak week, food went back up\\\
+If you’re still trying to lose body fat that close to a show, it’s probably not going to go well for you\\\
+In peak week, he’ll usually start to feel better as opposed to worse\\\
+On the day of the show he’ll have 300-400 g carbohydrate\\\
+A lot of the dogmas in bodybuilding originated in wrestling and endurance running\\\
+The correlation was, wrestlers cut water and look really lean, so we should cut water\\\
+Layne points to the example of Georges St-Pierre, when he weighed in, he looked gaunt\\\
+He didn’t look healthy, not very muscular\\\
+And then the day of the fight (24 hours later), he looked like a bodybuilder\\\
+That shows you what drinking water, eating enough sodium and carbohydrate will do for your muscle fullness because muscles are 70% water \\\
+Layne thinks not beating his body up with fluid restriction helped him have a little more longevity in bodybuilding/powerlifting\\\
+The psychological effects of aging and changes to one’s identity [2:42:00]\\\
+How do you think about aging in terms of reduction in strength and change in physique?  What do you think about being 60 or 70? \\\
+This is obviously an important part of Layne’s identity\\\
+He is 40 now\\\
+Of course he will struggle with it\\\
+For any athlete, that is part of your identity for a long period of your life\\\
+Layne feels fortunate in that he has had multiple identities\\\
+Academic, influencer, entrepreneur, powerlifter, bodybuilder, scientist, a dad\\\
+He thinks it will be a little easier for him because he already has other things he cares about\\\
+Of course it will be hard, nobody whose successful doesn’t have any ego whatsoever\\\
+When he loads up a bar with 500 lbs in a commercial gym and is squatting, “that part of me feels like a badass”\\\
+There will be part of him that misses that\\\
+His goal is not to be the guy who benched 405 (or whatever it is) or squatted 600 until his knees hurt\\\
+I  think really what’s going to be most important for me is just trying to not judge it and just find other things that I can be interested in \\\
+He will still always lift, always train\\\
+He loves it too much not to do it\\\
+It makes him feel food\\\
+He got a great complement at the gym the other day when he casually brought up that he turned 40 this year\\\
+A lady was  like, what? “I would’ve guessed that you were like mid-30s” \\\
+Layne thinks resistance training is one of the best things you can to to keep you young\\\
+Some of the bodybuilders out there still look really good into their 50s if they continue to do it\\\
+Jay Cutler is in his 40s\\\
+He trains every day and still eats really well\\\
+§\\\
+SELECTED LINKS / RELATED MATERIAL\\\
+Previous episodes of The Drive with Layne Norton:\\\
+#163 – Layne Norton, Ph.D.: Building muscle, losing fat, and the importance of resistance training | Host Peter Attia, The Peter Attia Drive Podcast (May 24, 2021) | [0:45]\\\
+#205 – Energy balance, nutrition, & building muscle | Layne Norton, Ph.D. (Pt.2) | Host Peter Attia, The Peter Attia Drive Podcast (May 2, 2022) | [0:45]\\\
+Data suggesting you don’t have to get as close to failure on compound lifts to get the same stimulation as isolation exercises to failure: \\\
+Effect of Barbell Weight on the Structure of the Flat Bench Press | Journal of Strength and Conditioning Research (H Krol & A Golas 2017) | [28:00]\\\
+Strength Training with Repetitions to Failure does not Provide Additional Strength and Muscle Hypertrophy Gains in Young Women | European Journal of Translational Myology (S Martorelli et al. 2017) | [28:00]\\\
+Effect of Resistance Training to Muscle Failure vs. Volitional Interruption at High- and Low-Intensities on Muscle Mass and Strength | Journal of Strength and Conditioning Research (SR Nobrega et al. 2018) | [28:00]\\\
+Comparison of muscle activation and kinematics during free-weight back squats with different loads | PLoS One (R van den Tillar et al. 2019) | [28:00]\\\
+Australian study of a simple lifting program for older women with osteoporosis: High-Intensity Resistance and Impact Training Improves Bone Mineral Density and Physical Function in Postmenopausal Women With Osteopenia and Osteoporosis: The LIFTMOR Randomized Controlled Trial | Journal of bone and Mineral Research (SL Watson et al. 2018) | [30:30]\\\
+PI explaining the previous study on YouTube: Ask the Expert Osteoporosis Australia | Professor Belinda Beck, The Bone Clinic (August 22, 2017) | [30:45]\\\
+Mouse study found muscle growth boosted by previous exposure to testosterone: A cellular memory mechanism aids overload hypertrophy in muscle long after an episodic exposure to anabolic steroids | The Journal of Physiology (IM Egner et al. 2013) | [39:30] \\\
+Cystatin C is better than creatine to assess renal function: Serum Cystatin C for Estimation of GFR | JAMA Diagnostic Test Interpretation (MG Shlipak et al. 2022) | [59:30]\\\
+Supplementing with creatine increased DHT: Three weeks of creatine monohydrate supplementation affects dihydrotestosterone to testosterone ratio in college-aged rugby players | Clinical Journal of Sports Medicine (J van der Merwe et al. 2009) | [1:00:45]\\\
+Meta-analysis of creatine supplementation: Meta-Analysis Examining the Importance of Creatine Ingestion Strategies on Lean Tissue Mass and Strength in Older Adults | Nutrients (SC Forbes et al. 2021) | [1:02:00] \\\
+Initial research on the idea of time under tension: Muscle time under tension during resistance exercise stimulates differential muscle protein sub-fractional synthetic responses in men | The Journal of Physiology (NA Burd et al. 2012) | [1:08:45]\\\
+Studies on fast eccentrics versus slow eccentrics found a little better outcome for fast eccentrics with respect to muscle mass:\\\
+The effects of eccentric and concentric training at different velocities on muscle hypertrophy | European Journal of Applied Physiology (JP Farthing & PD Chilibeck 2003) | [1:09:45]\\\
+Greater muscle damage induced by fast versus slow velocity eccentric exercise | International Journal of Sports Medicine (D Chapman et al. 2006) | [1:09:45]\\\
+Episode of The Drive with Jeremy Loenneke: #179 – Jeremy Loenneke, Ph.D.: The science of blood flow restriction—benefits, uses, and what it teaches us about the relationship between muscle size and strength | Host Peter Attia, The Peter Attia Drive Podcast (October 11, 2021) | [1:14:30]\\\
+Long isometric contraction produces hypertrophy: Skeletal muscle hypertrophy in response to isometric, lengthening, and shortening training bouts of equivalent duration | Journal of Applied Physiology (BR Adams et al. 2004) | [1:14:45] \\\
+Layne’s podcast with Alan Levinovitz: #16 – Interview with professor of religious studies, Dr. Alan Levinovitz | Host Layne Norton, The Beauty and The Geek | [1:23:18]\\\
+Book on the fallacy of naturalism: Natural: How Faith in Nature’s Goodness Leads to Harmful Fads, Unjust Laws, and Flawed Science by Alan Levinovitz (2020) | [1:13:15]\\\
+Episode of The Drive with Don Layman: #224 ‒ Dietary protein: amount needed, ideal timing, quality, and more | Don Layman, Ph.D. | Host Peter Attia, The Peter Attia Drive Podcast (September 26, 2022) | [1:25:45]\\\
+Layne’s conversation with Thomas DeLauer: Thomas DeLauer and Layne Norton: The Interview You Never Saw Coming! | Low Carb, Keto, CICO and MORE | biolayne (Dec 15, 2021) | [1:32:00]\\\
+Minnesota heart study: \\\
+Test of effect of lipid lowering by diet on cardiovascular risk. The Minnesota Coronary Survey | Arteriosclerosis (ID Frantz et al. 1989) | [1:43:00, 2:04:15] \\\
+Re-evaluation of the traditional diet-heart hypothesis: analysis of recovered data from Minnesota Coronary Experiment (1968-73) | BMJ (CE Ramsden et al. 2016) | [1:43:00, 2:04:15] \\\
+Australian heart study: Coronary risk factor screening and long-term follow up: year 1 of the Sydney Coronary Heart Disease Prevention Programme | The Medical Journal of Australia (LA Simons and AS Jones 1978) | [1:43:00]\\\
+Layne’s supplement company: Outwork Nutrition (2022) | [1:45:45] \\\
+Consumption of meat with fruits and vegetables and incidence of cancer: Co-consumption of Vegetables and Fruit, Whole Grains, and Fiber Reduces the Cancer Risk of Red and Processed Meat in a Large Prospective Cohort of Adults from Alberta’s Tomorrow Project | Nutrients (K Maximova et al. 2020) | [1:57:45]\\\
+Meta-analysis of animal protein intake and mortality: Animal Protein Intake Is Inversely Associated With Mortality in Older Adults: The InCHIANTI Study | The journals of gerontology (T Merono et al. 2022) | [2:01:30]\\\
+ODYSSEY trial of PCSK9 inhibitor: Efficacy and Safety of Alirocumab in Reducing Lipids and Cardiovascular Events | NEJM (JG Robinson et al. 2015) | [2:08:45]\\\
+FOURIER trials of PCSK9 inhibitor: Evolocumab and Clinical Outcomes in Patients with Cardiovascular Disease | NEJM (MS Sabatine et al. 2017) | [2:08:45] \\\
+LAYNE NORTON, PH.D.\\\
+Layne Norton earned his B.S. in Biochemistry at Eckerd College and a Ph.D. in nutritional sciences at the University of Illinois working with Dr. Donald Layman.  Layne founded BioLayne to provide science-based coaching.  He is a natural pro bodybuilder, professional powerlifter, and a physique coach.  He has won numerous bodybuilding and powerlifting competitions and currently holds the world record for the IPF 93 kg class squat (303 kg, 668 lbs).  Layne finished 1st at the 2022 IPF World Masters Powerlifting Championships in a drug-free tested division.  He is the co-author of several books, including Fat Loss Forever: How to Lose Fat and KEEP It Off, as well as several research publications. [BioLayne.com] \\\
+';

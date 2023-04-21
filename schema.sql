@@ -2,12 +2,12 @@
 create extension vector;
 
 -- RUN 2nd
-create table pg (
+create table training (
   id bigserial primary key,
-  essay_title text,
-  essay_url text,
-  essay_date text,
-  essay_thanks text,
+  title text,
+  date text,
+  context text,
+  people text,
   content text,
   content_length bigint,
   content_tokens bigint,
@@ -15,17 +15,17 @@ create table pg (
 );
 
 -- RUN 3rd after running the scripts
-create or replace function pg_search (
+create or replace function training_search (
   query_embedding vector(1536),
   similarity_threshold float,
   match_count int
 )
 returns table (
   id bigint,
-  essay_title text,
-  essay_url text,
-  essay_date text,
-  essay_thanks text,
+  title text,
+  date text,
+  context text,
+  people text,
   content text,
   content_length bigint,
   content_tokens bigint,
@@ -36,23 +36,23 @@ as $$
 begin
   return query
   select
-    pg.id,
-    pg.essay_title,
-    pg.essay_url,
-    pg.essay_date,
-    pg.essay_thanks,
-    pg.content,
-    pg.content_length,
-    pg.content_tokens,
-    1 - (pg.embedding <=> query_embedding) as similarity
-  from pg
-  where 1 - (pg.embedding <=> query_embedding) > similarity_threshold
-  order by pg.embedding <=> query_embedding
+    training.id,
+    training.title,
+    training.date,
+    training.context,
+    training.people,
+    training.content,
+    training.content_length,
+    training.content_tokens,
+    1 - (training.embedding <=> query_embedding) as similarity
+  from training
+  where 1 - (training.embedding <=> query_embedding) > similarity_threshold
+  order by training.embedding <=> query_embedding
   limit match_count;
 end;
 $$;
 
 -- RUN 4th
-create index on pg 
+create index on training 
 using ivfflat (embedding vector_cosine_ops)
 with (lists = 100);
