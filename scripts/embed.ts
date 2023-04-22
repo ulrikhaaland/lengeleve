@@ -63,7 +63,7 @@ const generateEmbeddings = async (chunks: Chunk[]) => {
 
 (async () => {
   const training: Chunk[] = JSON.parse(
-    fs.readFileSync('scripts/parsedLayne3.json', 'utf8')
+    fs.readFileSync('scripts/data/AMA44/AMA44Parsed.json', 'utf8')
   );
 
   await generateEmbeddings(training);

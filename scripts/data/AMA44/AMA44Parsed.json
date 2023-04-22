@@ -1,0 +1,402 @@
+[
+  {
+    "title": "Body Composition Monitoring Methods",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "Peter has used various methods to monitor body composition over the years, including calipers, hydrostatic testing, and DEXA scanning. He now recommends DEXA scanning as the gold standard for accuracy. DEXA scans can accurately measure bone, fat, and muscle mass. Peter emphasizes the importance of monitoring visceral adipose tissue (VAT), which is a problematic compartment of fat outside of subcutaneous stores. He also looks at bone mineral density, appendicular lean mass index (ALMI), and fat-free mass index (FFMI) to assess muscle mass.",
+    "content_length": 544,
+    "content_tokens": 116,
+    "embedding": []
+  },
+  {
+    "title": "Visceral Adipose Tissue (VAT)",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "Peter emphasizes the importance of monitoring visceral adipose tissue (VAT), which is a problematic compartment of fat outside of subcutaneous stores. When excess energy is stored in VAT, it can lead to inflammation and disease. Peter compares VAT to water spilling over from a bathtub, which can cause damage and problems. Monitoring VAT is crucial for overall health.",
+    "content_length": 369,
+    "content_tokens": 71,
+    "embedding": []
+  },
+  {
+    "title": "Bone Mineral Density",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "Peter also looks at bone mineral density, using Z scores and T scores to assess a person's risk for osteopenia and osteoporosis. The T-score compares a person's bone density to that of a 30-year-old, while the Z-score is age and sex-matched. Monitoring bone mineral density is important for overall health and preventing bone-related diseases.",
+    "content_length": 343,
+    "content_tokens": 78,
+    "embedding": []
+  },
+  {
+    "title": "Muscle Mass Metrics",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "Peter assesses muscle mass using two metrics: appendicular lean mass index (ALMI) and fat-free mass index (FFMI). These metrics help determine how much muscle mass a person has for their height. Monitoring muscle mass is important for overall health and preventing muscle-related diseases.",
+    "content_length": 289,
+    "content_tokens": 58,
+    "embedding": []
+  },
+  {
+    "title": "What is FFMI and ALMI and why do they matter?",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "FFMI and ALMI are important metrics for tracking body composition. FFMI is calculated by dividing total fat-free mass by height in meter square. Peter Attia wants his patients to be north of the 75th percentile for both ALMI and FFMI. He keeps track of his DEXA data and other variables such as changes in nutrition and exercise. Trends matter, and it's important to track data over time to see changes.",
+    "content_length": 403,
+    "content_tokens": 88,
+    "embedding": []
+  },
+  {
+    "title": "Peter Attia's historical DEXA scan data",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "Peter Attia has been keeping a spreadsheet of his DEXA data for over 12 years. His first DEXA scan was in May 2011, which showed his body fat to be 9.3%. He was swimming, lifting weights, and on a carb-restricted diet at the time. He lost weight and fat after going on a ketogenic diet, but his BMC didn't change.",
+    "content_length": 313,
+    "content_tokens": 79,
+    "embedding": []
+  },
+  {
+    "title": "Body Composition Changes",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "- Body fat % went down to 7.5%\n- FFMI (Fat-free mass index) has also gone down a little bit to 23\n- ALMI is a more pure measurement of muscle mass in arms and legs\n- FFMI is confounded by the organs",
+    "content_length": 198,
+    "content_tokens": 57,
+    "embedding": []
+  },
+  {
+    "title": "Exercise during Ketogenic Diet",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "- From 2011 to 2012, he transitioned into cycling\n- He was still lifting weights, but not quite as much\n- He was cycling 5 days a week\n- 2 days were really, really long days\n- 3 days were 90 minutes to 2 hours",
+    "content_length": 209,
+    "content_tokens": 52,
+    "embedding": []
+  },
+  {
+    "title": "Getting off the Ketogenic Diet",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "- Peter decided in the middle of 2014 to get off a ketogenic diet\n- It took him 18 months to get to the point where he couldn’t distinguish between being on and off carbohydrates\n- In the middle of 2014 is when he started to experiment with fasting",
+    "content_length": 248,
+    "content_tokens": 55,
+    "embedding": []
+  },
+  {
+    "title": "Loss of Muscle during Ketogenic Diet",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "- Peter says he was definitely not getting as much protein then as he is now, and that played a factor in the loss of muscle\n- The reality with keto is that it’s very difficult to get there if you’re consuming sufficient protein\n- In fact, Peter has trouble staying in ketosis in 2011 and it was because his protein intake was too high",
+    "content_length": 335,
+    "content_tokens": 77,
+    "embedding": []
+  },
+  {
+    "title": "Nutrition during Ketogenic Diet",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "- Not really experiencing any downside of a ketogenic diet, other than the restriction that obviously comes from it\n- 80% of his calories came from fat back in those days\n- Peter did not see a rise in his lipid levels or apoB levels—a response that a number of people have with keto\n- Some people who get profound inflammation as well, but he didn’t have any of those things",
+    "content_length": 374,
+    "content_tokens": 86,
+    "embedding": []
+  },
+  {
+    "title": "Insulin Resistance and Carbohydrate Restriction",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "Carbohydrate restriction can lead to a physiologic response where muscles become insulin resistant, causing glucose to go straight to the brain instead of the muscles. This can result in paradoxically high glucose levels despite carbohydrate restriction.",
+    "content_length": 254,
+    "content_tokens": 43,
+    "embedding": []
+  },
+  {
+    "title": "Importance of Metabolic Health Markers",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "Body fat percentage is not as important as monitoring metabolic health markers. Important markers include lipids (both advanced and simple), triglycerides, fasting glucose, fasting insulin, insulin response, homocysteine, C-reactive protein, testosterone, uric acid, and liver enzymes.",
+    "content_length": 285,
+    "content_tokens": 57,
+    "embedding": []
+  },
+  {
+    "title": "Peter's Experience with Metabolic Health Markers",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "During his keto days, Peter's metabolic health markers were in good shape, including his triglycerides, fasting glucose, fasting insulin, insulin response, homocysteine, C-reactive protein, and liver enzymes. However, his uric acid levels were persistently elevated, likely due to the competition between beta hydroxybutyrate and uric acid for the same transporter in the kidney. He also experienced a rebound in testosterone levels after starting his health journey.",
+    "content_length": 467,
+    "content_tokens": 95,
+    "embedding": []
+  },
+  {
+    "title": "Need for Humility in Nutritional Strategies",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "Peter acknowledges that his experience with ketosis may not be the same for everyone, and that there are people who experience negative effects such as elevated lipids, insulin resistance, or weight gain. He emphasizes the importance of having humility and recognizing the limitations of one's own expertise.",
+    "content_length": 308,
+    "content_tokens": 55,
+    "embedding": []
+  },
+  {
+    "title": "Total Body weight change",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "Total Body weight only increased 0.8 pounds from 2014 to 2020. One might see this and say “Wow, this guy barely ages. What a beacon of health!” However, let’s take a closer look started with what changed over those years.",
+    "content_length": 221,
+    "content_tokens": 55,
+    "embedding": []
+  },
+  {
+    "title": "Changes to activity level",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "Peter stopped cycling competitively — no more time trials, etc. He also had one or two years where he was being “completely aimless and meandering in my exercise” doing everything from bootcamps to running to doing my own workouts. But he never stopped exercising and his training volume only went down slightly. So what really fundamentally changed?",
+    "content_length": 350,
+    "content_tokens": 71,
+    "embedding": []
+  },
+  {
+    "title": "The role of fasting",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "The answer is he started doing time-restricted feeding (TRF) and prolonged fasting. From 2014-2016, he was doing a ton of TRF such as OMADs (one meal a day). Then from 2017-2020 is when introduced fasting protocols. From 2017-2018 do a seven day of water-only fast once a quarter. By 2019, he changed to three day water-only fasts once per month. There was the belief that the net benefits of fasting made sense. So the motivation was “this is a really healthy thing to be doing and this is a great part of my longevity toolkit”.",
+    "content_length": 529,
+    "content_tokens": 129,
+    "embedding": []
+  },
+  {
+    "title": "Peter’s wake up call",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "Overall, Peter wasn’t totally shocked that his BF% increased (he could tell he was a little softer). And to be clear, 16.1% BF for a 47 year old is not high (he was still in the 12th percentile aka leaner that 88% of people that age). His visceral adipose tissue (VAT) was 113 grams and that is VERY low (3rd percentile). Peter’s takeaways would be: Definitely have a higher body fat, but this is a healthy body fat. VAT is really low which is great. But he was a bit confused as to why his body fat was twice what it was before when I was seemingly not eating anything that much and not eating that often.",
+    "content_length": 606,
+    "content_tokens": 149,
+    "embedding": []
+  },
+  {
+    "title": "ALMI and FFMI from 2014 to 2020",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "Now in 2020 his ALMI is 8.8 putting him in the 65th percentile. His ALMI in 2014 was 9.51 (85th percentile). FFMI in 2020 was 20.7 placing him at the 90th percentile.",
+    "content_length": 166,
+    "content_tokens": 48,
+    "embedding": []
+  },
+  {
+    "title": "Peter's Nutritional Approach",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "Peter was fasting once a quarter for seven days or once a month for three days. He was mostly mindful of not eating junk food, but he wasn't deliberately restricting macronutrients of any sort. He was doing lots of calorie restriction (CR) but he was bracketing it to these windows (fasting).",
+    "content_length": 292,
+    "content_tokens": 64,
+    "embedding": []
+  },
+  {
+    "title": "Peter's Shift to Adding Muscle",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "Peter's trainer advised him to add muscle, so he shifted all of his focus towards putting muscle back on. He stopped fasting altogether and protein consumption became the only macronutrient in consideration when it came to his nutrition. He added a day of lifting weights and increased volume of lifting.",
+    "content_length": 304,
+    "content_tokens": 58,
+    "embedding": []
+  },
+  {
+    "title": "Changes in Blood Biomarkers",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "From 2014 to 2020, Peter was doing a lot of time-restriction feeding (TRF) and fasting. During 2020-2021, he dropped fasting and pivoted to focusing on protein intake. No appreciable change in biomarkers is the short answer. Free testosterone levels are pretty consistently in the 9 to 11 nanograms per deciliter or 90 to 110 picograms per milliliter. So from a biomarker perspective, things are fine.",
+    "content_length": 401,
+    "content_tokens": 92,
+    "embedding": []
+  },
+  {
+    "title": "Changes in Early 2022",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "Peter added blood flow restriction (BFR) to his workouts and started eating more calories to gain lean muscle. He continued to focus on protein consumption and training. However, he had to do prehab for shoulder surgery in March 2022. Prior to surgery, he got another DEXA scan and his total body weight was 187 pounds. His lean mass increased by 8.5 lbs and his fat mass increased by about 2 lbs. His body fat % stayed about the same, but his VAT increased to the 10th percentile.",
+    "content_length": 481,
+    "content_tokens": 105,
+    "embedding": []
+  },
+  {
+    "title": "DEXA Scan in Late 2022",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "Peter had shoulder surgery in March 2022 and his body weight dropped down to about 172 lbs. He was still active and doing leg workouts and lifting with his left arm. He was under more stress than ever before due to writing his book, Outlive. He consciously relaxed on eating, but did not sacrifice exercise, sleep, time with family, or drink more.",
+    "content_length": 347,
+    "content_tokens": 72,
+    "embedding": []
+  },
+  {
+    "title": "Muscle Loss and Inactivity",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "The amount of muscle loss in a short period of time is definitely a function of lean mass because a lot of that you’re losing is glycogen and water as well. It’s a bit misleading to say we lose that much muscle mass — in the early days of that, it’s a ton of water weight. So the more lean mass you’re starting with, the more you can lose. And the more inactive you are at a baseline, the less of a delta there will be.",
+    "content_length": 419,
+    "content_tokens": 106,
+    "embedding": []
+  },
+  {
+    "title": "Peter's Temporary 'Zero Restriction' Diet",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "Referring to the months between his March 2022 surgery and his next DEXA scan in December 2022, Peter says it’s strange to go deep into his own weird psychology. But there’s a part of him that knows that he’s not going to eat this way for the rest of his life, so he made the decision to just enjoy this period of time. And he could really sense the stress eating. In those moments of late-night stress he would would walk down to the pantry and get himself a bowl of mini-wheats and “inhale them”.",
+    "content_length": 498,
+    "content_tokens": 125,
+    "embedding": []
+  },
+  {
+    "title": "DEXA Scan Results in December 2022",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "Nine months post-surgery and six months post weighing 172 pounds, Peter now weighed 196.3 lbs. That is 10 pounds more than he weighed preoperatively (Feb 2022). And that’s about 23 lbs more than he weighed at his absolute low point post-op. Of all that 10 pounds that he gained since February, two of them were muscle. His VAT was unchanged (down slightly, but within the margin of error and still under the 10th percentile). Lean mass went up slightly. Fat mass went up a lot (from 27 to 34 lbs). Body fat increased from 14.4 to 17.4%. Total body fat as you can see based on age, Peter is now about at the 20th percentile. Visceral fat, about 500, is at the 10th percentile. ALMI is like 10.2 kilograms per meter squared is sort of between the 90th and 97th percentile. FFMI was about 23.3 — But as he’s mentioned, in the case of discordance bt ALMI and FFMI, he generally refers to the ALMI. It was a pleasant surprise, says Peter, “truthfully, I thought my body fat would be north of 20%. I was very pleasantly surprised that it was only 17%.”",
+    "content_length": 1046,
+    "content_tokens": 263,
+    "embedding": []
+  },
+  {
+    "title": "Trajectory Over a Decade Plus Time",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "The whole purpose of this discussion was to talk about the trajectory over a decade plus time and how changes in diet, fasting, protein, training and let’s not forget underneath all of this is age.",
+    "content_length": 197,
+    "content_tokens": 42,
+    "embedding": []
+  },
+  {
+    "title": "Peter's Recent Blood Work",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "Peter's recent blood work showed that his triglycerides were about 45 and his fasting insulin was about 7. His testosterone remains normal at 11 nanograms per deciliter for free testosterone. His liver enzymes went up a little bit, but he had switched to a different statin (from Pravastatin to Crestor), so it’s hard to interpret if there’s anything else going on.",
+    "content_length": 365,
+    "content_tokens": 83,
+    "embedding": []
+  },
+  {
+    "title": "Peter's Nutritional and Training Approach Following His Most Recent DEXA Scan",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "Peter added blood flow restriction (BFR) to his training and it has been hugely helpful in gaining more muscle mass. He gained 15 pounds and all of it was muscle. He did a lot of training, a lot of protein, and a lot of BFR. He also dialed back his zone 2 time from about 4.5 hours per week to 3.5 hours per week (though he probably added some zone 5 time).",
+    "content_length": 357,
+    "content_tokens": 88,
+    "embedding": []
+  },
+  {
+    "title": "Peter's Plan Going Forward After His Latest DEXA Scan",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "Peter is going to try something nutritionally for the next four months that he’s never done before. He has done calorie restriction (CR), dietary restriction (DR), and time-restriction (TR) in the past, but he’s never done straight calorie macro tracking as a form of CR – which is his plan for the next 4 months. Peter's goal is to lose 10 lbs and have all of it be in the form of fat. He is using the app called Carbon (Layne’s app) to track his macros and calorie intake.",
+    "content_length": 474,
+    "content_tokens": 118,
+    "embedding": []
+  },
+  {
+    "title": "Peter's Use of Carbon App for Macro Tracking",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "Peter is using the app called Carbon to track his macros and calorie intake. The app spits out calorie targets and asks questions like: Do you want to be low carb? Low fat? Balanced? Keto? Peter selected balance and protein as the biggest goal. The app has Peter at 184 grams a day for his protein target. Total calorie goal is about 2700 to 2800 a day. He is only paying attention to calories and protein and enters his body weight every day. The app makes adjustments every week.",
+    "content_length": 481,
+    "content_tokens": 104,
+    "embedding": []
+  },
+  {
+    "title": "Peter's Protein Intake During CR",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "Peter's protein intake remains the same during CR. He’s still trying to get 45 to 50 grams of protein four times a day.",
+    "content_length": 119,
+    "content_tokens": 29,
+    "embedding": []
+  },
+  {
+    "title": "Peter Attia's Daily Meals",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "Peter's breakfast usually consists of 8 eggs (4 whole, 4 egg whites) with toast and butter. He supplements with a shake comprised of 24 ounces of almond milk, 50 grams of protein, and frozen strawberries. His salad recipe is typically chicken, olive oil and balsamic vinegar (and other veggies). Dinner is where Peter has the most variability but tracking it in the app is easier than he thought it would be.",
+    "content_length": 408,
+    "content_tokens": 85,
+    "embedding": []
+  },
+  {
+    "title": "3 Nutritional Methods of Energy Restriction",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "There are three nutritional methods of energy restriction: caloric restriction, dietary restriction, and time restricted feeding (TRF). Caloric restriction means cutting down the number of calories you consume per day. Dietary restriction means restricting certain foods. TRF means narrowing the window in which you eat. Each method has its pros and cons.",
+    "content_length": 355,
+    "content_tokens": 64,
+    "embedding": []
+  },
+  {
+    "title": "Current Thoughts on Fasting and Key Takeaways",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "Peter is not a huge proponent of time restricted feeding (TRF) except for patients in whom it’s just the only instructions that they can follow. He is also not planning to incorporate longer term fasting back in his life at the same frequency he used to. He believes that health should be indexed over weight and that fasting can have negative effects on body composition.",
+    "content_length": 372,
+    "content_tokens": 74,
+    "embedding": []
+  },
+  {
+    "title": "Parting Thoughts and Key Takeaways",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "Peter Attia's case study focused heavily on weight, but it also showed some of the effects that go beyond that, such as visceral fat and lean mass. The most interesting insight was how much the effect of fasting, long consistent fasting had on body composition in a negative way. It is important to look at things in context and not just focus on body weight.",
+    "content_length": 359,
+    "content_tokens": 73,
+    "embedding": []
+  },
+  {
+    "title": "DEXA is not the only metric",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "The same is true for DEXA. If you only relied on DEXA for your metric of health, that would be insane because you would load yourself up with every possible megadose of anabolic steroids, growth hormone, diuretics.",
+    "content_length": 214,
+    "content_tokens": 51,
+    "embedding": []
+  },
+  {
+    "title": "Consider the broader context",
+    "date": "2023-04-21",
+    "context": "Training principles for mass and strength, changing views on nutrition, creatine supplementation, and more.",
+    "people": "Peter Attia",
+    "content": "It sounds trite and obvious, but you have to look at this stuff in the broader context of everything you’re doing: How is your sleep? Your overall state of your nutrition? Your blood biomarkers? Your functional metrics look like your VO2 max, your Zone 2, etc.",
+    "content_length": 260,
+    "content_tokens": 60,
+    "embedding": []
+  }
+]

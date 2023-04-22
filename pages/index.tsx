@@ -365,6 +365,9 @@ export default function Home() {
                               {chunk.title}
                             </div>
                             <div className='mt-1 font-bold text-sm'>
+                              {chunk.people}
+                            </div>
+                            <div className='mt-1 font-bold text-sm'>
                               {chunk.context}
                             </div>
                             <div className='mt-1 font-bold text-sm'>

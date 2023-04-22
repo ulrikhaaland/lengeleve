@@ -1,0 +1,752 @@
+[
+  {
+    "title": "Peter's emphasis on exercise",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Peter has said it many times before, “There’s really no more potent tool to improve longevity (meaning extending the length of life and improving the quality of life) than exercise. And that includes nutrition, and that includes sleep, and that includes the entire pharmacopeia of medication, supplements, drugs, hormones, etc.”",
+    "content_length": 328,
+    "content_tokens": 70,
+    "embedding": []
+  },
+  {
+    "title": "Pillars of exercise",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Peter divides exercise into different pillars: 1) Strength, 2) Stability, 3) & 4) Cardiorespiratory fitness (further subdivided by the metabolic state and energy state), Zone 2, Zone 5.",
+    "content_length": 185,
+    "content_tokens": 45,
+    "embedding": []
+  },
+  {
+    "title": "Andy's background in exercise",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Andy is an exercise scientist who assigns strength training. He grew up in a small town in southwest Washington and played everything in high school. He went to a small school in Oregon where he played college football and got his undergraduate degree in exercise science. After that, he worked in Arizona training professional athletes. Then he got his Master’s degree in human movement sciences and his PhD in human bioenergetics. In 2011 he came out to California and has been working at Cal State Fullerton ever since. He also runs a Biochemistry and Molecular Exercise Physiology lab at Cal State Fullerton.",
+    "content_length": 612,
+    "content_tokens": 120,
+    "embedding": []
+  },
+  {
+    "title": "Andy's passion for training and recovery",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Andy was a decent athlete and felt like he was in the perfect spot because he wasn’t so good that these details didn’t matter. The details of effective training and recovery mattered. This was the difference between him being a starter and not. He was totally obsessed with giving himself every advantage. He wanted to go All Pro (but that didn’t happen). He knew he was never going to be a professional level caliber or even Division I, but he wanted to play college football. This is where his passion came from.",
+    "content_length": 514,
+    "content_tokens": 110,
+    "embedding": []
+  },
+  {
+    "title": "Contrasting strength, power, and force production",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "In powerlifting, you get three lifts and it’s all about your total in those three lifts.",
+    "content_length": 88,
+    "content_tokens": 22,
+    "embedding": []
+  },
+  {
+    "title": "Powerlifting vs Olympic Weightlifting vs Strongman",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Comparing/contrasting powerlifting, Olympic weightlifting, and Strongman competitions to help define strength, force production, and power. In powerlifting, force production is a one-rep max (in the case of lifting). In Olympic weightlifting, there are two lifts instead of three‒ one lift being called the snatch and the other one’s called the clean and jerk. Whoever can lift the most amount one time is the winner (one-rep max). The difference is this is now more an expression of power because although it’s all about one-rep max, it’s difficult to lift something over your head as high as possible slowly (there’s a speed component). It is an expression of tremendous strength, but there’s this velocity component to it. When you multiply force by velocity, now you’ve got power, and so technically the Olympic weightlifters are significantly more powerful than a powerlifter (despite the confusing name). This gets worse when we start roping in things like strongman. You would think that must be the biggest expression of strength, where in fact it’s not because strongman is contested over multiple repetitions. It is an expression of very, very high strength repeated several times. It’s not technically a true one-rep max.",
+    "content_length": 1232,
+    "content_tokens": 274,
+    "embedding": []
+  },
+  {
+    "title": "Training Adaptations",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Andy points out about powerlifting, weightlifting, and strongman, “None of those three things are actually explaining what they do correctly”. This is important because it also explains training adaptations. If you train like a powerlifter, that probably represents the best way to get truly strong. If you train like a weightlifter, it represents the best way to get powerful. If you train like a strongman, it represents a fantastic way to get very, very strong in more life-functional movements. How does hypertrophy fit within this trio? Hypertrophy would be more of your bodybuilding. Bodybuilding is simply improving generally leanness and total muscle mass. Now you’re talking about optimized muscle size as well as leanness with no consideration for function.",
+    "content_length": 767,
+    "content_tokens": 161,
+    "embedding": []
+  },
+  {
+    "title": "Competitive Circuit Training Sports",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Andy adds two more training categories: Competitive circuit training sports (like CrossFit). These people are very strong, they have a lot of muscle, but they’re not nearly as strong as powerlifters or the World’s Strongest Men, but they do a lot more repetitions. A World’s Strongest Man is going to win an event doing something like 5-15 repetitions. In CrossFit, you might have to do 90 reps in a given workout. It’s way higher up that scale of number of repetitions. Of course, they do some that are one-repetition. They do a lot of different functional movements and a lot of workouts repeated in the same day. It’s a very different test of recovery over three or four days of just brutal onslaught, where you’re asked to do things in a lot of different areas and a lot of different energy systems and movement patterns etc. CrossFit is a really interesting test of total physical fitness.",
+    "content_length": 894,
+    "content_tokens": 207,
+    "embedding": []
+  },
+  {
+    "title": "Track and Field",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Track and field is the truest expression of velocity. These are the people who are going to be the best at getting truly fast. What do you need to have as a functional human being for lifespan longevity or sport? Think of this as a spectrum, and consider the questions‒ How do I get to be absolutely the fastest? How do I get the most powerful? How do I get strong? How do I add muscle size/loose body fat? How do I improve my muscular endurance? How do I improve my cardiovascular and metabolic endurance? This is now occupied in all of those sports, and so we can look at them as a model for training and saying, “The best in the world at getting stronger have been doing this.” We have different models of that, and that is a nice foundation for all training.",
+    "content_length": 762,
+    "content_tokens": 170,
+    "embedding": []
+  },
+  {
+    "title": "Muscle Energetics",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Muscle energetics: Fuels that provide energy to muscles, and the importance of protein. What is a muscle? What is the functional unit? How does it generate force? What are the metabolic demands? What makes these cells that are so ubiquitous in our body different from, say, the cells in our liver, the cells in our gut, the cells in our brain? What are these cells that we almost take for granted sometimes? What is the biggest organ in your body? Most people generally say the skin. As an exercise scientist and muscle physiologist, Andy gives all the credit to muscle. He doesn’t care about the organs that support muscles‒ the heart, the liver, the lungs, or his “worst enemy”, the nervous system. Andy is biased towards muscle. Muscle is going to be the largest organ in your body. It’s doing everything from supporting function, locomotion, to being your biggest reserve for amino acids, and your biggest dump for regulating metabolism. Peter hones in on this idea of muscle as a storage depot for amino acids. Layne did a great job talking about this in the podcast, explaining that we are constantly breaking down and adding new. There’s a pool of amino acids that’s turning over, and it’s very difficult to study them from a flux perspective. If you’re working out, it’s a plausible scenario that proteins are being broken down and amino acids released. These may not be resynthesized back into that same piece of skeletal muscle. They may be used for another application (Andy thinks this is guaranteed to happen). Andy uses an analogy to explain energetics. Andy shot a cheesy video 10 years ago in his backyard about the basics of energy using the analogy of a campfire. If you’re a outdoorsman and you are going to be out camping, you may need to create a fire. 1 – The first option is to use a match‒ it’s going to give you instantaneous energy (the fire) but it only lasts a few seconds. If you need energy right now, this is where you start. In terms of your tissue, this is going to be ATP and your phosphocreatine energy system. The stoichiometry is one to one, you break down one phosphocreatine to get one mole of ATP.",
+    "content_length": 2137,
+    "content_tokens": 488,
+    "embedding": []
+  },
+  {
+    "title": "Carbohydrates as Fuel",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Carbohydrates are stored both in the cell as well as outside, but in the cell it’s going to give you a lot more energy. You’re going to get a couple of moles of ATP per molecule of carbohydrate. When carbohydrates get low, you can pull glucose out of the blood. In the tissue carbohydrates are called glycogen. Glycogen is also stored in the liver; it functions as a backup storage system for glucose to help you regulate blood glucose.",
+    "content_length": 436,
+    "content_tokens": 100,
+    "embedding": []
+  },
+  {
+    "title": "Fat as Fuel",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Fat is actually coming mostly from outside of the muscle. So, energy from fat mobilization comes throughout the body somewhat evenly. You’re going to get something like three or 400 ATP per molecule of fat, and that’s where things get actually better. Think about that as fat. If you know a little bit about the chemistry of fat versus carbohydrate, they’re both big long chains of carbon (just like a paper is actually made of wood).",
+    "content_length": 434,
+    "content_tokens": 94,
+    "embedding": []
+  },
+  {
+    "title": "Protein as Raw Material",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Protein in this analogy would be functioning more like a piece of metal. The point of protein in tissue is its function for skeletal muscle; it is not fuel. We need it for our immune system and other functions. Protein is the raw material you really can’t get anywhere else. You can’t make muscle without protein. When you start losing muscle, you enter a whole cascade of problems with physical performance.",
+    "content_length": 408,
+    "content_tokens": 86,
+    "embedding": []
+  },
+  {
+    "title": "Measuring Muscle Mass and its Importance",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Measuring muscle mass is easier than strength and can be done through DEXA scans. More muscle mass means a longer life, just like high VO2 max. It is clear that muscle mass is important for longevity.",
+    "content_length": 200,
+    "content_tokens": 44,
+    "embedding": []
+  },
+  {
+    "title": "The Three Core Functions of Creating Movement",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Creating movement requires three core functions: a signal from the nervous system, muscle fiber contraction, and transferring force from muscle through connective tissue. A nerve attaches and innervates a host of muscle fibers, and connective tissue comes together into a tendon, which then attaches to bone.",
+    "content_length": 308,
+    "content_tokens": 57,
+    "embedding": []
+  },
+  {
+    "title": "Special Properties of Skeletal Muscle",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Skeletal muscle fibers are some of the largest cells in biology and are multinucleated. They have thousands of nuclei per cell and can be very long, several inches in length. Skeletal muscle is different from cardiac muscle, which tends to be fairly uniform.",
+    "content_length": 258,
+    "content_tokens": 55,
+    "embedding": []
+  },
+  {
+    "title": "Muscle Cell Nuclei",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Skeletal muscle cells can range from mm to inches in length and have multiple nuclei to decentralize the actions of cellular construction. The number of nuclei per muscle cell is influenced by genetics, adaptation to training, and lifestyle factors. The shape of the nuclei determines their function, and there are subtypes of nuclei that are specific to mitochondria repair or jobs in the periphery of the cell. The role of nuclei in muscle growth is still being studied, but it is known that additional nuclei can be added through satellite cells and preserved even after de-training.",
+    "content_length": 586,
+    "content_tokens": 117,
+    "embedding": []
+  },
+  {
+    "title": "Energy Demands of Skeletal Muscle",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "The liver is an amazing organ that controls glucose homeostasis with precision and is not metabolically greedy. In contrast, the brain is metabolically greedy, and the liver supports it. The muscle's place in this hierarchy is unclear, but it is known that the muscle is a high maintenance organ that can sustain a lot of damage, similar to the liver.",
+    "content_length": 351,
+    "content_tokens": 72,
+    "embedding": []
+  },
+  {
+    "title": "Liver Regeneration",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "During Peter's residency, he was involved in live donor liver transplants where an individual would donate a third to half of their liver to another person who was a really good HLA match. The portion of the liver would regenerate quickly, and doses of intravenous phosphorus were required to anticipate that growth. The liver can regenerate a third of its size in two weeks, but this only works when the architecture of the liver is preserved. People with post-NAFLD, NASH, alcoholic liver disease have gotten to a point where their liver no longer has the capacity to regenerate.",
+    "content_length": 581,
+    "content_tokens": 116,
+    "embedding": []
+  },
+  {
+    "title": "Muscle and Metabolism",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Adding muscle mass elevates your basal metabolic rate, but it's not to the level that people think. Skeletal muscle is pretty lazy and wants to be as efficient as possible. It's a backup system that's there when you need something done to elevate your function. Otherwise, it's in rest mode. NEAT accounts for about 10% of our energy throughout the day, and it changes depending on your metabolic health, total size, and other stuff. People can maintain the same amount of physical training (exercise performance) as well as health at tremendously different levels of calorie intakes because we can adjust NEAT very quickly.",
+    "content_length": 624,
+    "content_tokens": 126,
+    "embedding": []
+  },
+  {
+    "title": "Muscle Contraction and ATP",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "A signal from a nerve is needed to begin a muscle contraction, and it requires ATP.",
+    "content_length": 83,
+    "content_tokens": 18,
+    "embedding": []
+  },
+  {
+    "title": "Nerves and Muscle Fibers",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "A nerve (or motor unit) comes into a skeletal muscle. In the eye, there is a single motor unit that comes in and activates each single muscle fiber; this gives an extraordinary control of dexterity. In the glutes, in contrast, you need to contract with as much force as possible, but you don’t need a high fidelity or precision of movement. Fingers are second to the eye in terms of fidelity of movement. So if there is one to one (nerve to muscle fiber) in the eye, it could be one to thousands in the glutes.",
+    "content_length": 510,
+    "content_tokens": 118,
+    "embedding": []
+  },
+  {
+    "title": "The SAID Principle and Henneman's Size Principle",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "The SAID principle is a specific adaptation for closed demand. The Henneman’s size principle (named after the scientist Elwood Henneman) says there are low threshold and high threshold motor units. This means some motor units are very easy to turn on while others are more difficult. Within these motor units you have sizes. Most of the time in normal situations, all the muscle fibers in that motor unit are of the same fiber type. The size principle tells us we’re going to turn on the low-threshold units first.",
+    "content_length": 514,
+    "content_tokens": 112,
+    "embedding": []
+  },
+  {
+    "title": "Action Potential and Muscle Contraction",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "A contraction requires a fun interplay between chemistry, electricity, and chemistry. You have to go from an electro signal to chemical signal back to electrical signal. Sodium and potassium and chloride are your main players. Once enough of the sodium and potassium start moving in the correct directions, then the electricity changes because our positive is moved more negative, and boom, we hit this all or none switch. And so skeletal muscle fibers can’t contract at different levels of force. Once this action potential threshold occurs (you flick the switch), the muscle fully contracts. This explains tetany‒ if you can track that fiber multiple times in a row before it’s reset then it feels like it’s in an isometric contraction. But what actually happens is you have so many muscle fibers contracting and relaxing at such a fast rate , it feels like the whole thing’s is locked up; but they’re actually flicking on flicking off.",
+    "content_length": 938,
+    "content_tokens": 194,
+    "embedding": []
+  },
+  {
+    "title": "Modulation of Muscle Fibers",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Explain how despite an all or none action potential and an all or none contraction of a single fiber, you can still get variable degrees of strength at the level of the muscle. Within these motor units you have sizes. Most of the time in normal situations, all the muscle fibers in that motor unit are of the same fiber type. So if we had five fibers in that motor unit (or 500, it doesn’t really matter) we have a couple of factors coming on, but they’re generally going to be within that same motor unit. Thinking about how we relegate force production is this‒ we know that once all five of those muscle fibers get turned on, they are going to contract at full speed. The only way to change how much force is created in a whole muscle is by altering how many motor units get turned on.",
+    "content_length": 788,
+    "content_tokens": 173,
+    "embedding": []
+  },
+  {
+    "title": "High-threshold/ high force production units",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "High-threshold/ high force production units are generally larger (not always) motor units that have faster fibers. You don’t want to turn on your high-threshold units and produce unnecessary force. Second, these high-threshold, fast-twitch muscle fibers burn more energy than slow-twitch muscle fibers (generally), and you don’t want to waste energy. You always start with the smallest unit possible and turn on more motor units if more force production is required.",
+    "content_length": 466,
+    "content_tokens": 101,
+    "embedding": []
+  },
+  {
+    "title": "Muscle fiber types associated with aging and professional athletes",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Interestingly, with aging you see virtually no reduction in slow-twitch fibers (no reduction in size). More than a few papers show a hypertrophic effect of slow-twitch fibers with aging. There is no loss in specific tension (which is like force per unit of size). There is no loss in power. It appears to be very easy with any level of activity to maintain and preserve health of slow-twitch fibers. But because fast-twitch fibers require force production and you generally don’t get high force production in activities of daily living, then those fibers go unutilized for long stretches of time. Eventually they go away. What we see happen is this really interesting thing called fiber type grouping, where the nerve will basically say, “Okay, that fiber is being not used,” and that whole motor unit will decay, and the fibers will be preserved. The other neighboring motor units will actually grow new extensions, activate some of the previously gone motor units and then convert those fibers into whatever fiber type of that previous motor unit. In general, what we see happening is slow-twitch motor units start absorbing fast-twitch fibers and bringing them to their motor unit. So we see these large patches of single fiber types throughout the muscle. When we see this fiber type grouping thing occur with aging, it’s almost exclusively a problem of fast-twitch fibers, not loss of slow-twitch fibers. That also explains lack of fidelity as well as potentially some problems with fine unit movements.",
+    "content_length": 1508,
+    "content_tokens": 303,
+    "embedding": []
+  },
+  {
+    "title": "Heterogeneity of fast and slow-twitch mixtures within different areas",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "In big skeletal muscle like the lats or glutes, there is a huge amount of person-to-person variation. If you compared the soleus in two people, one person might be 90% slow-twitch and another 70%. If you look in animal models, you’re going to see 100% slow-twitch in the soleus. The reasons is because we walk, the soleus has to be a majority slow-twitch muscle fiber.",
+    "content_length": 368,
+    "content_tokens": 93,
+    "embedding": []
+  },
+  {
+    "title": "Muscles of the leg",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "The soleus and gastrocnemius are muscles in the calf that attach at the bottom of the foot. The gastrocnemius is almost exclusively fast-twitch, while the soleus is postural or anti-gravity. The variation in the vastus lateralis (VL) muscle in the outside quad can get extraordinarily large, ranging from 50/50 fast-twitch/slow-twitch to 80-85% fast-twitch in some Olympians. Some individuals involved in endurance exercise have as high as 90% slow-twitch in the VL. Andy Galpin conducted a study of monozygotic twins who had about 35 years of different training, one of whom had never exercised since high school and the other had been competing in Iron Mans for 35 years. Despite the difference in exercise habits, they looked almost identical in terms of body composition.",
+    "content_length": 775,
+    "content_tokens": 173,
+    "embedding": []
+  },
+  {
+    "title": "Andy Galpin's twin study",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Andy Galpin conducted a study of monozygotic twins who had about 35 years of different training, one of whom had never exercised since high school and the other had been competing in Iron Mans for 35 years. Despite the difference in exercise habits, they looked almost identical in terms of body composition. Galpin took every measure possible, including DEXA scans, vertical jump, VO2 max, blood chemistry, muscle biopsies, and psychological evaluations with an IQ test.",
+    "content_length": 471,
+    "content_tokens": 95,
+    "embedding": []
+  },
+  {
+    "title": "Muscle Quality of Twins",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "The non-exerciser twin was stronger, a better jumper, with higher quality muscle. The exercising twin had more intramuscular lipid. Everything else that you would classically associate as an exercise adaptation favored the exerciser. The muscle quality was measured with an ultrasound using echo intensity. This is akin to measuring how much intramuscular fat is inside the actual tissue.",
+    "content_length": 388,
+    "content_tokens": 77,
+    "embedding": []
+  },
+  {
+    "title": "Muscle Biopsy Results",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "The non-exerciser twin was almost identical to what you’d see in the literature, he had a mixed phenotype between fast-twitch and slow-twitch muscle fibers. About 20% of his fibers were this hybrid format. Fast-twitch fibers tend to be larger. Slow-twitch fibers are fatigue resistant. They can contract all day long. They don’t use much glucose. They are better at using fat as a fuel. They tend to have more and larger mitochondria.",
+    "content_length": 434,
+    "content_tokens": 101,
+    "embedding": []
+  },
+  {
+    "title": "Types of Muscle Fibers",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "What you’re going to see is a true slow-twitch; these are also called type I fibers. Compared to a type I fiber (slow-twitch), a type IIa (fast-twitch muscle fiber) will have around 5-6X more power. So it’s not a small difference when you normalize for size and cross-sectional diameter. The IIx fibers is a special class of fast-twitch fiber, now you’re talking 20X that power.",
+    "content_length": 378,
+    "content_tokens": 101,
+    "embedding": []
+  },
+  {
+    "title": "Myosin and Actin in Muscle Contraction",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "In the laboratory muscle fibers are differentiated by what’s called the myosin heavy chain. Visualize how a muscle fiber works in 3D. There are two microfilaments actin and myosin, and they overlap but they’re not touching each other. Myosin is a big thick tube laying in the middle; it has these heads that flick off the top. The idea is when you contract a muscle, myosin will reach outward and grab onto the actin, then pull the actin closer together. Force production is determined by cross-bridges. Cross-bridges are the connection between myosin heads and actin. The number of times these myosin heads grab onto actin, that little place of connection is called a crossbridge. The more those cross bridges you have, the more effectively you can pull the actin closer to each other. The faster the contraction. The more force that contraction is going to be. The thicker the myosin, the more likely it is to grab actin faster and stronger. There are six actin arranged in a circle surrounding each myosin in human skeletal muscle (depicted in the figure below).",
+    "content_length": 1065,
+    "content_tokens": 244,
+    "embedding": []
+  },
+  {
+    "title": "Actin Targets and Muscle Strength",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "We can increase the amount of actin around each myosin fiber, but we see this in other animals. Fruit flies and spiders can contract with much more force relative to humans because they have 8, or 10, or 12, or 20 actin per myosin (humans have 6). Andy summarizes, “The more things I can give you to grab onto, the stronger you are”. Peter thinks there is somebody out there right now using CRISPR to figure out how to double the number of this arrangement in humans. Bears have extraordinarily high amounts of of IIb fibers, which allows them to go super fast.",
+    "content_length": 561,
+    "content_tokens": 129,
+    "embedding": []
+  },
+  {
+    "title": "Muscle Contraction and ATP",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "The myosin head is where the myosin connects to the actin, and part of it is called the heavy chain. There is also a light chain portion. The way we get a muscle to contract is ATP. The myosin are loosely connected to the actin at all times, but in order for it to grab and pull, you need a strong connection. For a strong connection to happen and for it to be able to pull it together, it requires energy. A crude analogy is to imagine cocking a pistol. Squeezing the trigger takes a lot less energy than cocking the pistol. The energy we need from muscle contraction is not the pulling together; that’s almost passive. It’s the cocking it back part that takes energy. This energy comes from ATP. On the tip of that myosin head is an enzyme called ATPase. ATPase hydrolyzes ATP, and that gives you energy to put that myosin back into place (at the starting point of the cycle, ready for another contraction).",
+    "content_length": 909,
+    "content_tokens": 216,
+    "embedding": []
+  },
+  {
+    "title": "Calcium and Muscle Contraction",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Myosin cannot bind strongly until calcium comes into the picture. Calcium is released from the sarcoplasmic reticulum and causes a conformational change in actin, thereby allowing myosin to connect to actin. Part (a) of the figure below shows calcium binding to the thin filament (containing actin, shown in green) and this reveals the myosin binding site which allows myosin heads (shown in purple) to bind to actin. Part (b) shows the cross-bridge formed when a myosin head binds actin. Part (c) shows the power stroke where myosin uses the energy from ATP hydrolysis to move actin, this is the movement of a muscle contraction. Now ADP is released and myosin can bind another ATP (for another contraction). Part (d) shows another ATP binding to the myosin head. The ATPase on the myosin head hydrolyzes ATP→ ADP + Pi and the energy released is used to cock the myosin head back in the starting position shown in part (e). Part (e) the myosin head is now in a high-energy configuration and ready to form another cross-bridge to generate a muscle contraction.",
+    "content_length": 1060,
+    "content_tokens": 257,
+    "embedding": []
+  },
+  {
+    "title": "Muscle Fiber Types",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "The speed of ATPase determines single muscle fiber contractile speed. Myosin heavy chain is measured in the lab, and that’s how fast-twitch versus slow-twitch is determined. You can use a technique called gel electrophoresis to compare different muscle fibers. It uses a solid gel between two pieces of glass. You put each individual muscle fiber in its own vertical lane. You run an electrical charge through the gel (positive charge at the top and negative charge at the bottom), and the muscle fibers move through the gel. You stop the electricity at some point, and the smaller fibers have moved further through the gel (because they are smaller, they move through the gel faster). You take a picture of the gel, and the muscle fibers that have gone down further are slow-twitch. The muscle fibers that remain higher up in the gel are fast-twitch. Molecular weight markers are used to confirm this. This means the myosin heavy chain molecular weight determines the fiber type and that regulates its twitch ability. The more heavy chains there are and the faster they work, the faster ATPase can operate, resulting in faster muscle fiber contraction. That’s why muscle fiber type is not predicated on signs. It’s specific to either metabolic abilities (in the old days) or twitch velocity (currently).",
+    "content_length": 1304,
+    "content_tokens": 270,
+    "embedding": []
+  },
+  {
+    "title": "Muscle Fiber Types",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "The untrained twin has around 50% slow-twitch and 30% fast-twitch IIa form muscle fibers. About 20%+ is in the hybrid format. Pure IIx fast-twitch muscle fibers are extraordinarily rare in humans. If you find somebody with a high percentage of 2X fibers, something odd is going on. The cardio-only trained individual was about 95% pure slow-twitch (type I muscle fibers).",
+    "content_length": 371,
+    "content_tokens": 86,
+    "embedding": []
+  },
+  {
+    "title": "Malleability of Muscle Fiber Types",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Muscle fiber types are highly malleable and there is data on nutritional aspects that alter fiber type composition. Anything that’s going to go activate PGC-1 alpha and that whole cascade. The question with these nutritional interventions is, does it change physical activity. The answer is clear; this has been answered many times for so many decades. But, we don’t know what these default for these people are.",
+    "content_length": 412,
+    "content_tokens": 87,
+    "embedding": []
+  },
+  {
+    "title": "Health Implications of Muscle Fiber Types",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "IIa/IIx fibers are generally associated with poor health. If you have pure IIx fibers, it’s generally bad news. You don’t want to train into them. If you do any sort of physical training, those hybrids tend to go down (IIa/IIx go away).",
+    "content_length": 236,
+    "content_tokens": 64,
+    "embedding": []
+  },
+  {
+    "title": "Fiber Type Plasticity",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Andy points out that fiber type is actually really quite cool because it doesn’t seem to matter what age you are. Training studies in 70-year-olds show dramatic changes in fiber type in six weeks, certainly eight weeks, and the magnitude of change doesn’t seem to differentiate. The less trained you are, the faster the initial adaptation. The closer you are to your edge, the slower the adaptation.",
+    "content_length": 399,
+    "content_tokens": 85,
+    "embedding": []
+  },
+  {
+    "title": "Hypertrophy",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Hypertrophy generally refers to the diameter of the muscle fiber or cross-sectional area. If you think about the muscle fiber as a cylinder, the width of the cylinder expands. It seems to be a little bit of both, and it happens in different phases of training. It’s what we call sarcoplasmic hypertrophy (not the sarcoplasmic reticulum), and this would be an increase in diameter. We don’t know the answer to whether all increases in muscle size through strength training happen because myosin actin are getting thicker.",
+    "content_length": 520,
+    "content_tokens": 119,
+    "embedding": []
+  },
+  {
+    "title": "Measuring Fluids in Tissue",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "It’s a technology issue/ assay problem to figure out how to measure this. The issue is the standardization of fluids. When you sample the tissue, how do you lock the fluid into place? How do you take this cell out of a living human and preserve its fluid architecture without contaminating it? You can’t do this with liquid nitrogen, the flash freeze will create ice crystals. Mike Roberts out of Auburn has produced a lot of interesting work in this area. Preservation in liquid nitrogen is actually fine, but from there you have to thaw it correctly. Mike Roberts spent a couple years trouble shooting this process.",
+    "content_length": 617,
+    "content_tokens": 128,
+    "embedding": []
+  },
+  {
+    "title": "The Relationship Between Math and Exercise",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Andy always jokes that there’s only one science, it’s just math. As much as he hates math, chemistry is math, energy is math, biomechanics is math. Math and reductionism. Why is it that a bodybuilder can have more muscle, yet they’re not stronger than a strong man or a weightlifter? The easy sophomore answer is, “Oh, neurological adaptations”. But there’s nothing happening intracellularly? Andy doesn’t think that’s correct, and it doesn’t look to be the case. The juxtaposition. There’s a thing called lattice spacing, which is there’s an optimal distance between that myosin and actin. When trying to produce a powerful contraction, if myosin and actin are buttered up next to each other, they can’t actually squeeze that hard because there’s nowhere to go. Likewise, if they’re too extended, then they can’t squeeze. Peter adds, “It’s the same idea as preload in a heart”. Preload is going to determine stroke volume, everything coming in. Thinking about this spacing, if you start adding contractile units, then one way or another, you have to preserve the spacing somehow. The idea is it will expand hyperotrophically only to the level… There is a mathematical optimization for the exact strike distance between actin and myosin to not be overextended or under extended, a dn to have that perfect preload for maximum contraction. Peter asks, “If your hypertrophy training interfered with that and compromised it, you might gain size at the expense of potential strength”.",
+    "content_length": 1479,
+    "content_tokens": 365,
+    "embedding": []
+  },
+  {
+    "title": "Fluids in Muscle",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Andy adds another alternative, “If that hypertrophy was coming simply from excessive fluid and not actually contractile fluids, then you would actually have a larger muscle”. These fluids are not acute fluid retention (not bloated water loading). Rather, there can be enhanced fluid in a homeostatic balance inside the tissue because the diameter has gotten larger, but it wasn’t met with an equal amount of increase in contract value. People are familiar with the idea that about 70% of our weight is water. Most of this water is in the cells of our body, and the muscle is no exception. Going back to bodybuilding, Peter loves following Jay Cutler on Instagram. He’s one of the guys who in retirement is still training hard and paying attention to his nutrition. There was an interesting video where he went to In-N-Out Burger for his cheat meal. He places this monster order, and what surprised Peter was how much he said, “No salt, no salt”. He ordered two burgers and two fries, both with no salt. Clearly this guy knows something about the effect of sodium on fluid retention. This is a different fluid than what we are talking about now.",
+    "content_length": 1144,
+    "content_tokens": 246,
+    "embedding": []
+  },
+  {
+    "title": "Cutting Water Weight in Athletes",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "How athletes quickly cut water weight and the rehydration process [1:37:30]. Andy works with a lot of athletes, and weight cut is a huge deal. Managing 15+ lb reduction in water of the course of 48 hours and then putting that back in. If you don’t understand being hyperosmotic or hyperosmotic or isosmotic, you’re going to cause a whole host of problems from kidney issues to diarrhea to bloating etc. You have to actually understand what you put back in them has to be the same thing as what’s intracellular or there’s a huge shift and you’re not going to drive fluid into tissues. You get into situations where guys become severely dehydrated. They’re peeing but very little fluid is getting into tissue because blood volume expanded so quickly without the electrolytes being balanced.",
+    "content_length": 788,
+    "content_tokens": 184,
+    "embedding": []
+  },
+  {
+    "title": "Hydration Strategy",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Peter lost 7 pounds due to food poisoning and asks about the ideal strategy to replenish that in terms of hyper-, hypo-, or iso- osmotic. The ideal strategy is to go slowly and make sure you don’t get too excessive. Shoot for something in the neighborhood of 110-125% fluid weight because you’re going to lose some. Drink that over the course of 3-4 hours.",
+    "content_length": 356,
+    "content_tokens": 86,
+    "embedding": []
+  },
+  {
+    "title": "Water Cut Strategy",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Andy works with fighters who have to weigh-in for competition. Ideally, you come into a fight week hydrated on normal or even slightly higher salt, normal or higher carbohydrate. Monday through Thursday, you’re going to start getting off as much water passively as you can. You will typically keep carbohydrates very low, 50 g or less depending on what you’re doing (this will help pull some water out). You can play games with fiber and have a low residue diet the last couple of days so you can make sure you’re not holding onto food in your gut. That can buy you a couple of kilos, depending on the size of the person.",
+    "content_length": 621,
+    "content_tokens": 138,
+    "embedding": []
+  },
+  {
+    "title": "Active Water Dropping",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "To lose the remaining 6-7 lbs of water weight, you're going to have to add in some sort of sweat component, do sauna or something like that. Ideally, you would do a little bit of physical activity to burn any last bit of glycogen without feeling too bad. Then you do what’s called a mummy wrap‒ you lay down and put a bunch of blankets on yourself. You’ll sweat a good amount. Friday morning, 9:00 is weigh-in. In the best case scenario, you don’t lose much the night before. You wake up in the morning 4 lbs over and you can sweat out those 4 lbs pretty easily in a sauna (20 minutes).",
+    "content_length": 586,
+    "content_tokens": 147,
+    "embedding": []
+  },
+  {
+    "title": "Weight Cutting in Combat Sports",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Weight cutting is a common practice in combat sports, but it can be challenging to recover from. Fighters who weigh-in at a lower weight than they train at have a physiological advantage, but they will weigh less in the ring. Performance testing pre and post weight loss shows that it is not that bad as long as you stay within certain limits. However, it becomes challenging in MMA because the weight classes are so large. In an ideal situation, nobody cuts weight, but it is difficult to achieve.",
+    "content_length": 498,
+    "content_tokens": 100,
+    "embedding": []
+  },
+  {
+    "title": "Different Types of Athletes",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "There are different types of athletes that excel in different areas of muscle performance. Powerlifters are the strongest athletes at the all-out one-rep max, while Olympic weightlifters are incredibly coordinated and explosive. Strongmen have an insane amount of strength and endurance, while CrossFit athletes are strong, agile, and have a greater degree of endurance. Bodybuilders look aesthetically better than all of them, but they meet no other requirement. Sprinters have the highest ratio of power to weight and have optimized locomotion. It is beneficial to have bits of each of them in us.",
+    "content_length": 599,
+    "content_tokens": 118,
+    "embedding": []
+  },
+  {
+    "title": "Training Advice for Adding Muscle and Functional Strength",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "For untrained individuals who want to add muscle and functional strength for longevity, it is essential to focus on hypertrophy initially. Spending time getting physically fit before trying to add muscle mass is a fruitful investment. A study showed that six weeks of endurance exercise prior to hypertrophy actually enhanced muscle growth. It is also crucial to aim for a higher percentage of lean mass and to be stronger to be able to do things when you get older.",
+    "content_length": 466,
+    "content_tokens": 89,
+    "embedding": []
+  },
+  {
+    "title": "Loss of muscle and muscular function with aging",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "As you age, the rate of loss of muscle mass is something like 0.5-1% per year. Loss of muscle strength is double or triple that. Loss of muscle power is triple that; you see a very precipitous drop in muscle power. The loss of speed explains a little bit; look at the world record in the 100-meter dash for different age groups. In strength sports (like powerlifting), the world record doesn’t go down that much with age. The atrophy of fast-twitch fibers is the almost exclusively the problem with aging muscle. Thinking about longevity, absolute force and power has to be preserved, and the issue here is fiber atrophy.",
+    "content_length": 621,
+    "content_tokens": 139,
+    "embedding": []
+  },
+  {
+    "title": "Training plan for the hypothetical client",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "For the person starting out, you also have to be considerate of their lack of training in the previous 10 years. Andy is going to be very cautious of eccentric movements as they will generate more soreness. You want to build some muscle mass without getting excessively sore. You also want to start building movement patterns that you will need over time. Zone 2 training is covered with two hours a week. Start with 1-3 working sets of 4 exercises a day. You want to spread those across the upper and lower body, and use different movement patterns. You want to practice compound movements (not isolated/single joint movements, yet). Spend 30 minutes on these exercises. The goal is to get the movement pattern down and master the foundational stuff before you start progressing the load. Brace your spine in the proper position.",
+    "content_length": 830,
+    "content_tokens": 164,
+    "embedding": []
+  },
+  {
+    "title": "Importance of fast-twitch muscle fibers",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "At this stage there is not an interference effect, but zone II exercise is complimentary. Fast-twitch fibers require specific types of training. Slow-twitch fibers are going to get activated with any activity of daily living. Slow-twitch fibers are good but fast-twitch fibers require attention. You can’t accidentally get fast-twitch fibers. Just like you can’t accidentally get too muscular. If you focus on what’s declining then as a corollary, you’re going to get a bunch of other stuff for free. If you ignore the decline of fast-twitch muscle fibers, you might as well be the high exercise twin who only does cardio.",
+    "content_length": 622,
+    "content_tokens": 138,
+    "embedding": []
+  },
+  {
+    "title": "Introduction to Power and Speed Work",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Address power and speed in the first 10-15 minutes of your workout. Start by introducing movement patterns, velocities, and tissue tolerance. Practice landing and absorbing movements, such as box jumps, to improve load tolerance and introduce power. This is a safe way to learn how to move fast without risking injury. Power and speed work can help prevent falls and injuries, which is especially important for aging individuals.",
+    "content_length": 429,
+    "content_tokens": 82,
+    "embedding": []
+  },
+  {
+    "title": "Reinforcing Movement Patterns",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "In the first 10 minutes of your workout, you can reinforce movement patterns you've built over the previous six months. Proper hip extension versus low back extension is important, as well as triple extension of the hip, knee, and ankle. Plyometrics are safe for all ages, as long as you count for volume and don't do too many at too high of an intensity. You can also do a lot of different things that target speed, agility, change of direction, and quickness.",
+    "content_length": 461,
+    "content_tokens": 99,
+    "embedding": []
+  },
+  {
+    "title": "Warm-up Suggestions",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Suggestions for planning the warm-up for three gym workouts each week. Monday‒ do stuff with the medicine ball. Wednesday‒ play pickleball. Friday‒ do some jump stuff and medicine ball horizontal throws. Other options‒ jump rope, hopscotch, bounding broad jumps. After 10-15 minutes of this, you’re hot and ready to move into strength training.",
+    "content_length": 344,
+    "content_tokens": 84,
+    "embedding": []
+  },
+  {
+    "title": "Total Body Workout",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Keep the same structure of a total body workout on all three days. Because once a month, you’re going to miss one of those days (or more), and if you do body part splits you’ll start missing big things. You can do a different rep range on each day. Monday: 3-4 sets of 5-7 reps. Wednesday: go 15-20 reps per set. Friday: you could do something like isometrics, where you’re just holding positions. All three of these are equally effective for hypertrophy. Now that you’ve introduced three different elements, your gains in muscle size are going to be identical across the board.",
+    "content_length": 578,
+    "content_tokens": 140,
+    "embedding": []
+  },
+  {
+    "title": "Isometric Training",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Isometric is a forced muscle contraction without movement. Isometric training can elicit the same hypertrophy response as isotonic or movement-based contraction. Isometric is very good for joints and connective tissue. The primary downside of isometric is range of motion, and this is where you can mix it up. Consider the position and muscle stretch. If you’re going to do an isometric, Andy recommends you do it closer to the end range of motion where it feels the most tight, not the finish position. But it very much depends on what you’re after.",
+    "content_length": 550,
+    "content_tokens": 119,
+    "embedding": []
+  },
+  {
+    "title": "Single Joint Muscles",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Many muscles are single joint. For example, the soleus muscle crosses the ankle joint only, while the gastroc crosses the knee and ankle joint. The soleus muscle is only dependent upon the ankle, but putting the gastroc in the right position is dependent upon the ankle and knee.",
+    "content_length": 279,
+    "content_tokens": 58,
+    "embedding": []
+  },
+  {
+    "title": "Triceps Extension",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "A triceps push down only works the triceps muscle across the elbow joint, while an overhead triceps extension behind the neck puts the triceps muscle across the shoulder joint on stretch. A study showed that the difference in muscle mass was significant when the arm was up (when the humerus was flexed).",
+    "content_length": 304,
+    "content_tokens": 63,
+    "embedding": []
+  },
+  {
+    "title": "Isometric Exercise",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Isometric exercise can be beneficial depending on the specific surgery and what the therapist had you doing. Isometric exercises take a lot of intention, and it's easier to do a normal, full-range exercise. Isometric exercises have less degrees of freedom and less moving parts, making it less likely to get out of position.",
+    "content_length": 324,
+    "content_tokens": 65,
+    "embedding": []
+  },
+  {
+    "title": "Incorporating Isometric Exercises",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Isometric exercises can be incorporated into a workout by loading the bar in a low position and standing under a weight that is much heavier than you could ever lift, and basically pushing up against the bar. You can do an isometric squat in a number of ways, a bench or a squat. Isometric exercises have less degrees of freedom and less moving parts, making it less likely to get out of position.",
+    "content_length": 397,
+    "content_tokens": 82,
+    "embedding": []
+  },
+  {
+    "title": "Isometrics and Bands",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Andy added isometrics in for a client for the purpose of low risk and getting a lot of stimuli without having to worry about getting in position at different parts. There is a thing called a strength curve, and when you do a typical isotonic movement (a normal lift), you’re only challenged in the areas in the range of motion where you’re the weakest. Andy did a study on lifting with bands, using heavy bands for a deadlift. He found there was a very low load at the bottom; as much as a 40% reduction in load at the bottom. But when you come up and start crossing the knee joint and start gaining mechanical advantage, it becomes extraordinarily easy, but the bands start getting heavier. So the actual tenacity that happens throughout the entire thing is greater at the top. This is why people use bands (and chains and things) to train the whole area of the strength curve. Bands allow you to be able to produce more resistance in areas where you’re stronger while not being held back by the weakest position. You can the use isometric to go into that weakest position without having to put a whole bunch of load on your body.",
+    "content_length": 1131,
+    "content_tokens": 242,
+    "embedding": []
+  },
+  {
+    "title": "Isometric Exercises",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "You can get into an RDL position (Romanian deadlift, like a hinge), which is a complicated movement, and you can grab and pull as hard as you want and nothing moves. It’s very difficult for people with a low training age to truly express maximum force output on a free range motion, because there are too many variables. It’s easier to just say, “Grab this bar and pull on it as hard as you possibly can”. Set the barbell in the squat rack, and set the height of the safety pins to w whatever height feels comfortable for you. You will pull up against that bar and nothing will move. Your back will feel comfortable wherever that range of motion is for you. Your glutes can be there; your feet can be in the right position. You’ll get total foot, big toe activation. You would start this things two-footed, but could do it one-legged. The goal is to express peak force output while feeling comfortable. Stay in this isometric position for three seconds. Some of Andy’s athlete’s will go up to five minutes on isometric holds. They’ll do a rear foot elevated split squat, isometric hold for up to five minutes, which presents a tremendous neurological challenge. The third day could be a whole day of isometrics. You could hold plank as an isometric exercise. Hold a hip extension position and make sure your glutes are on and utilized. You can do a squat in a couple of ways. You can go all the way down and hold that bottom position for 30 seconds (this is challenging if you don’t have the right positioning). Andy would cap this when you break position (not when you get fatigued). One of the tests Peter does with patients is to see how long they can hold a full 90-degree squat (with the thigh parallel to the ground). 2 minutes is excellent. You don’t fail when you give up, but when you make a compensatory movement (shoot your butt out or lunge forward). This is a great test of strength without having to put people at risk.",
+    "content_length": 1933,
+    "content_tokens": 442,
+    "embedding": []
+  },
+  {
+    "title": "Three Major Planes of Movement",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "There are three major planes of movement‒ frontal, sagittal, and transverse. This means you need to be moving up and down, like a squat. You need to be moving things away from and towards you, like a bench press.",
+    "content_length": 212,
+    "content_tokens": 50,
+    "embedding": []
+  },
+  {
+    "title": "Movement Considerations",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "It’s important to move in multiple planes, including lateral lunges and twisting/rotation. Incorporate single leg exercises like one-footed RDL, step-ups, split squats, and single-leg press/extension. Use different equipment like kettlebells, dumbbells, and machines.",
+    "content_length": 267,
+    "content_tokens": 65,
+    "embedding": []
+  },
+  {
+    "title": "Workout Structure",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Spend 60% of time on necessary exercises, 20% on long-term development, and 20% on fun exercises. Finish each session with an exercise that gets the heart rate close to its maximum or personal pain point, like KAATSU or BFR on the air bike. Aim to touch high heart rate at least once a week with exercises like Tabata or breath hold sprints.",
+    "content_length": 341,
+    "content_tokens": 80,
+    "embedding": []
+  },
+  {
+    "title": "High Heart Rate Exercise",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Avoid eccentrics and risky situations like in CrossFit. Use equipment like air bikes and rowers, and try breath hold manipulation or underwater weights in the pool. Incorporate breath hold sprints with nasal recovery breaths for maximum heart rate. Aim for three rounds, but start with one if not ready.",
+    "content_length": 303,
+    "content_tokens": 62,
+    "embedding": []
+  },
+  {
+    "title": "Background and Goals",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "They were active in highschool and college, but over the last 10 years, their only exercise has been activities of daily living (hiking with the kids, etc.). They have started doing a couple of hours of week of zone II on the bike, but they don’t know how to approach strength training. Their DEXA scan shows that their ALMI is about 40th%. They want to aim for the 75% for lean mass (or above) in 2-3 years. They want to gain functional strength for the purpose of longevity, and they want to add some muscle mass.",
+    "content_length": 515,
+    "content_tokens": 121,
+    "embedding": []
+  },
+  {
+    "title": "General Advice",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Begin with hypertrophy. Spending time initially getting physically fit before trying to add muscle mass for someone like this is a very fruitful investment. Start out with low volume, and be very cautious of eccentric movements (that will generate more soreness). Begin by building movement patterns that you will need over time (to prevent injury). Master the movement pattern before progressing the load.",
+    "content_length": 406,
+    "content_tokens": 74,
+    "embedding": []
+  },
+  {
+    "title": "First Six Months",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "Continue zone 2 training, 2 hours per week. Add three, one-hour sessions of strength training per week. 1-3 working sets of 4 exercises a day, spread across both upper and lower body. Spend 30 minutes on these exercises. Goblet squat, hip extension, and a basic overhead press (or some bent rows).",
+    "content_length": 297,
+    "content_tokens": 67,
+    "embedding": []
+  },
+  {
+    "title": "Second Six Months",
+    "date": "2023-01-23",
+    "context": "The science of strength, muscle, and training for longevity",
+    "people": "Andy Galpin, Peter Attia",
+    "content": "In the first 10-15 minutes focus on power, speed, and agility; this will prevent injury and preserve function in old age. Box jump (jump from the ground and land on an 18-inch box). If you do plyometrics, don’t do too many at high intensity (five minutes of jumping rope). 15-second intervals of sprinting at 70% effort with 1-2 minutes of rest. Play racquetball or badminton. Switch it up each day at the gym, using any of the above. Next, move into strength training. Keep a structure of total body workouts on all three days but vary the rep range. Monday: 3-4 sets of 5-7 reps using heavier weights (aim for a RPE of 7-8; rest 1.5 minutes in between). Wednesday: 15-20 reps per set. Friday: do something like isometrics where you’re just holding different positions. All three are equally effective for hypertrophy. End the workout by targeting either the thing you hate doing or an area you want to grow. At least one of these days, touch a high heart rate. End each workout with two minutes of something that gets the heart rate close to its maximum (many options are discussed including breath holds).",
+    "content_length": 1108,
+    "content_tokens": 262,
+    "embedding": []
+  }
+]

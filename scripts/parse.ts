@@ -5,6 +5,7 @@ import { OpenAIModel } from '@/types';
 import { trainingText } from './example';
 import { Configuration, OpenAIApi } from 'openai';
 import { loadEnvConfig } from '@next/env';
+import { AMA44RAW } from './data/AMA44/AMA44RAW';
 
 const CHUNK_SIZE = 1000;
 loadEnvConfig('');
@@ -15,13 +16,16 @@ const configuration = new Configuration({
 
 export const openai = new OpenAIApi(configuration);
 
-type EncodedString = {
+export type EncodedString = {
   content: string;
   contentLength: number;
   encodedLength: number;
 };
 
-function splitString(input: string, maxLength: number = 1000): EncodedString[] {
+export function splitString(
+  input: string,
+  maxLength: number = 1000
+): EncodedString[] {
   const result: EncodedString[] = [];
   let currentSubstring = '';
 
@@ -30,14 +34,14 @@ function splitString(input: string, maxLength: number = 1000): EncodedString[] {
     const encoded = encode(currentSubstring);
 
     if (encoded.length >= maxLength - 1 || i === input.length - 1) {
-      let lastIndex = currentSubstring.lastIndexOf('\\');
+      let lastIndex = currentSubstring.lastIndexOf('\n');
 
       // Ensure that we don't split on a number
       while (
         lastIndex > 0 &&
         !isNaN(parseInt(currentSubstring[lastIndex + 1], 10))
       ) {
-        lastIndex = currentSubstring.lastIndexOf('\\', lastIndex - 1);
+        lastIndex = currentSubstring.lastIndexOf('\n', lastIndex - 1);
       }
 
       if (lastIndex === -1 || lastIndex === currentSubstring.length - 1) {
@@ -90,7 +94,7 @@ function writeStringsToJsonFile(
   });
 }
 
-const onParseFailure = async (failedContent: string) => {
+export const onParseFailure = async (failedContent: string) => {
   let response: any;
 
   try {
@@ -126,7 +130,7 @@ const onParseFailure = async (failedContent: string) => {
   }
 };
 
-const chatCompletetion = async (content: string) => {
+export const chatCompletetion = async (content: string) => {
   let response: any;
 
   try {
@@ -164,11 +168,13 @@ const chatCompletetion = async (content: string) => {
 };
 
 (async () => {
-  // const trainingT = trainingText;
-  // writeStringsToJsonFile(splitString(trainingT), 'scripts/layne3.json');
+  // writeStringsToJsonFile(
+  //   splitString(AMA44RAW),
+  //   'scripts/data/AMA44/AMA44.json'
+  // );
 
   const andy: EncodedString[] = JSON.parse(
-    fs.readFileSync('scripts/layne3.json', 'utf8')
+    fs.readFileSync('scripts/data/AMA44/AMA44.json', 'utf8')
   );
 
   const chunks: Chunk[] = [];
@@ -214,7 +220,7 @@ const chatCompletetion = async (content: string) => {
     console.log(content.length);
   }
 
-  const filePath = 'scripts/parsedLayne3.json';
+  const filePath = 'scripts/data/AMA44/AMA44Parsed.json';
 
   const jsonContent = JSON.stringify(chunks, null, 1);
 
