@@ -1,0 +1,1372 @@
+[
+ {
+  "title": "Overview",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "In this episode, Alton Barron, a board-certified shoulder, elbow, and hand surgeon, discusses the structure, anatomy, and things that can cause pain and injury in the upper limb. He also talks about how and when to think about surgical intervention and runs through what a typical physical exam looks like.",
+  "content_length": 306,
+  "content_tokens": 63,
+  "embedding": []
+ },
+ {
+  "title": "Physical Exam",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Alton emphasizes the importance of physical exams and symptoms over MRI imaging. He demonstrates various exams on Peter and explains how patients can perform self-exams to understand if something they are feeling is problematic or will get better over time. Due to the discussion of physical exams and sketches of anatomy, viewers are encouraged to watch the video version of this episode.",
+  "content_length": 389,
+  "content_tokens": 70,
+  "embedding": []
+ },
+ {
+  "title": "Musician Treatment Foundation",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Alton talks about the Musician Treatment Foundation, a nonprofit that provides direct orthopedic shoulder surgery/hand interventions along with non-surgical care to uninsured/underinsured musicians. He is passionate about this foundation as he is also a musician. He discusses the amazing work they have done so far, where they want to go with it, and how they are putting funds to use. The foundation has their big annual event in Austin, coming up on Dec. 2.",
+  "content_length": 460,
+  "content_tokens": 95,
+  "embedding": []
+ },
+ {
+  "title": "Alton's Path to Orthopedic Surgery",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Alton had a circuitous path to orthopedic surgery. He was an engineer at UT in Austin, then went to dental school for a year before deciding to try medical school. In med school, he loved invasive cardiology but was later exposed to orthopedics and knew he liked it. He talks about how orthopedics is a broad field and pretty specialized at the same time, and how there has been a knowledge explosion for the past 2 decades in terms of research and new science.",
+  "content_length": 461,
+  "content_tokens": 100,
+  "embedding": []
+ },
+ {
+  "title": "Orthopedic Surgery Fellowship",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Alton confirms that it was common for people to do a fellowship after 5 years of residency when he went through orthopedics.",
+  "content_length": 124,
+  "content_tokens": 26,
+  "embedding": []
+ },
+ {
+  "title": "Training in Orthopedics",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "He went to Tulane, this was pre-Katrina. It was a big program. They had 8 residents per year. Fellowships were not ubiquitous then. Now they’re almost mandatory because you need to have a special interest because the groups you’d apply to work for want you to have some subspeciality.",
+  "content_length": 284,
+  "content_tokens": 69,
+  "embedding": []
+ },
+ {
+  "title": "Upper Extremity Fellowship",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "He did a shoulder fellowship at Columbia in New York. Then he did a hand fellowship at Roosevelt Hospital in New York. 2 separate fellowships. Most people didn’t do that at the time, but he just really like both very much. He dabbled with spine during residency. The reason he wanted to do upper extremity is because there’s nothing cookie cutter about it. There were very few cutting jigs, very few linear things. There’s so much variability in the upper limb, both anatomy and the specific pathology. It was more creative for him.",
+  "content_length": 532,
+  "content_tokens": 119,
+  "embedding": []
+ },
+ {
+  "title": "Evolution of Orthopedics and Recent Advances",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Peter recalls, there was a day when the shoulder surgery he had would have been done with a big open incision. Knee arthroscopy was the first big arthroscopic realm to develop. Shoulder arthroscopy was primitive by the time Alton was in residency. They had the basic equipment to get into the shoulder, but they couldn’t do much. By the time he finished his shoulder fellowship, they were doing open shoulder arthroplasty. They didn’t appreciate the slap tear. They knew it existed, but they didn’t know the impact. There were certainly no arthroscopic repairs of the labrum except these early devices where you’d get in there, see it, and you’d just drill a little hole and mallet in this big broad tack. That was just so primitive, and they would fall out. They had a high failure rate, but that was the state of the art at that time.",
+  "content_length": 836,
+  "content_tokens": 202,
+  "embedding": []
+ },
+ {
+  "title": "Clinical Trials and Approvals",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The downside of the tried and true approach is patients would have a big scar and the surgery would tear a bunch of muscle, so the recovery would be longer. But, once they got in there, they would know what to do. In contrast, the minimally invasive way that has all these advantages. But the drawback is a high failure rate. This was the discussion that went on with patients. The FDA was involved a little with approval, but not a lot. So you could go ahead a try these humanitarian devices and so forth. The patients had to sign a release and it was all fine. There were trusted surgeons that were doing it. There wasn’t clinical trials. There were a lot of retrospective analyses going on. We did this in 107 patients and 47% failed.",
+  "content_length": 737,
+  "content_tokens": 159,
+  "embedding": []
+ },
+ {
+  "title": "Spectrum of Alton’s Work",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "In Alton’s early years, they were still doing mostly open surgery and waiting for the industry to catch up with better devices. Some of his colleagues (and occasionally him) were adding little bitty innovative aspects of these, whether they’re application devices or the style of implants. Today, we’ve gone from purely metal to now often purely braided polyester as an anchor device. This is super cool because there’s no metal in your body. And the transition through that was plastic. That plastic could be either hard plastic (which stays in your body), but it’s still benign. Or a bioabsorbable tacks that Alton has his my own issues with.",
+  "content_length": 644,
+  "content_tokens": 146,
+  "embedding": []
+ },
+ {
+  "title": "Importance of Soft Tissue in Shoulder Joint",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "In the shoulder joint, the heavy lifting is done by soft tissue, not bones. The difference between the shoulder and the hip is that the hip is a joint that is completely contained versus the shoulder, which is a shallow one that can slip and slide all over the place. The best way to describe the shoulder joint is a delicate balance of mobility and stability, and it’s very easy to get out of whack because it is biomechanically so complicated.",
+  "content_length": 445,
+  "content_tokens": 94,
+  "embedding": []
+ },
+ {
+  "title": "Anatomy of the Upper Extremities",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "To understand and appreciate the complexity of the upper extremity, you have to appreciate what we did during evolution. When we stood up, that became an enormous force multiplier. For us to be able to stand and walk with amazing efficiency on two legs was a force multiplier, and then also to have these incredible upper extremities. But you pay a price for it, which is stability. We paid an enormous price in these joints, not as strong, not as stable.",
+  "content_length": 455,
+  "content_tokens": 94,
+  "embedding": []
+ },
+ {
+  "title": "The Importance of Stabilizing Structures in Shoulder Joint",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "If we have this basic bony cartilage structure in the shoulder joint, it would just fall off if it were just left there if there were no additional stabilizing structures such as ligaments or labrum or muscle tendons. The space between the humeral head and the glenoid is occupied by a nice thick layer or cartilage on both sides. It’s effectively articular cartilage there. When you have arthritis, this gets worn down, chipped away, and begins to fissure, and then actually develop full thickness loss to the point where then at some point it’s not really functioning very well and it’s very painful.",
+  "content_length": 602,
+  "content_tokens": 136,
+  "embedding": []
+ },
+ {
+  "title": "Ligaments and Tendons",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Tendons are the connective tissue that connects muscle to bone. Ligaments are connective tissue that connect bone to bone.",
+  "content_length": 122,
+  "content_tokens": 27,
+  "embedding": []
+ },
+ {
+  "title": "Labrum",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Labrum is kind of its own entity. It has a transition zone between fibrous tissue to osseous bony tissue. It’s a fibro-osseous structure. Alton likens it to calamari, and it’s rubbery just like that.",
+  "content_length": 199,
+  "content_tokens": 59,
+  "embedding": []
+ },
+ {
+  "title": "Supraspinatus Tendon Tear",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The supraspinatus is the primary muscle that initiates elevation of the shoulders, so it’s very, very important. What we see here is this zone is where the muscle transitions into tendon (highlighted in green in Alton’s drawing above). And then it becomes pure tendon. For the supraspinatus tendon which is commonly torn, there are some physiologic downsides to its location. It can be rung out. It doesn’t have a great blood supply. The key is it gets where those 2 arrows are (in the left of Alton’s drawing earlier) is essentially where the tendon tears most of the time. And that is the part that attaches to the bone, and it gets blood supply from that bone (this includes nutrients and growth factors). Surgically, the goal is to get that reattached to that bone so it can get all of those growth factors and that new healing back.",
+  "content_length": 837,
+  "content_tokens": 198,
+  "embedding": []
+ },
+ {
+  "title": "Rotator Cuff Muscles",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The supraspinatus, the subscapularis, the infraspinatus, and the teres minor are the four muscles that make up the rotator cuff. The infraspinatus, and the teres minor are on the backside of the joint. They are very important as the external rotators. They give us our backhand in tennis. They give a lot of stability to the shoulder, whether you’re playing golf or lifting weights. They’re a dynamic stabilizer. They’re very important doing bench press, pushups, archery, all sorts of activities like that.",
+  "content_length": 507,
+  "content_tokens": 130,
+  "embedding": []
+ },
+ {
+  "title": "Rotator Cuff Injuries",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "When a person “tears their rotator cuff,” that can be a very heterogeneous diagnosis. Technically it could apply to a tear in any of those 4 muscles. Or a tear in the junction between the muscle and tendon. Or a complete separation of the tendon from the osseous structure of the bone. Alton notes it is critical to identify what the tear is. You can predict this somewhat based on the age of the person, their physiology, and the mechanism of the trauma. Tears are broadly classified into degenerative tears and traumatic tears. For younger people (under 40), it’s rare for them to tear their rotator cuff. But it can happen traumatically. It’s that rare, dramatic circumstance that leads to traumatic tears in young people. The younger you are, the strong the linkage of the tendon to the bone. You often pull off some bone. In the case of a skier’s thumb (a common injury in the hand from skiers), the younger you are, the more likely it is to pull off with a piece of bone.",
+  "content_length": 977,
+  "content_tokens": 226,
+  "embedding": []
+ },
+ {
+  "title": "Fracture of the Greater Tuberosity in the Shoulder Joint",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Fractures can occur in the greater tuberosity of the shoulder joint, which is where the biggest portion of the rotator cuff attaches. The supraspinatus and infraspinatus muscles pull off from this area. This injury is most often associated with a traumatic dislocation, such as a fall or a hit. The more dislocations or subluxations one has, the more stretchy and compliant the tissues become.",
+  "content_length": 393,
+  "content_tokens": 89,
+  "embedding": []
+ },
+ {
+  "title": "Stability of the Shoulder Joint",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The labrum is a rubbery calamari-like structure that effectively decreases the depth of the socket and works like a suction cup to provide static stability to the shoulder joint. When a person has a subluxation, it doesn’t necessarily tear the labrum. People with super loose joints can sublux in and out without tearing anything, but the tighter the shoulder is, the more you have to lose.",
+  "content_length": 390,
+  "content_tokens": 85,
+  "embedding": []
+ },
+ {
+  "title": "Shoulder Subluxation and Dislocation",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "When someone subluxes, the ligaments are stretchy and nothing happens. However, if someone with a stable joint subluxes, it means the ligaments have torn and the labrum has separated from its hard, bony cartilaginous attachment. This attachment is very strong and takes a massive force to dislocate the shoulder or perfect mechanics. The labrum is tough, but it tears off. It takes either a small tear that then is repetitively increased in size just from aggressive, but repetitive use or it takes a one-time significant dislocation.",
+  "content_length": 534,
+  "content_tokens": 115,
+  "embedding": []
+ },
+ {
+  "title": "Attachments of the Rotator Cuff Muscles",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The rotator cuff muscles are drawn as ovals around the outside of the rotator cuff. These are the cross-sections of the muscles that are just outside the joint. These encompass and enshroud the joint. As you’d come further out toward the head, they taper down and form the tendons. The ligaments lie in between the labrum and the rotator cuff on the right edge of the drawing. SLAP tears are not clinically relevant for everybody. They are relevant for younger, very athletic people (overhead athletes, weightlifters, people doing CrossFit, people doing all manner of more aggressive sports).",
+  "content_length": 592,
+  "content_tokens": 130,
+  "embedding": []
+ },
+ {
+  "title": "Peter's Shoulder Problems",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Peter had his first subluxation in boxing when he was about 17. From then on, it was a vicious cycle of never-ending subluxations with each couple of years having a really bad one. Peter had a tear going all the way from posterior all the way around, about 240 degrees.",
+  "content_length": 269,
+  "content_tokens": 61,
+  "embedding": []
+ },
+ {
+  "title": "Dynamic Stabilizers vs. Static Stabilizers",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Dynamic stabilizers can compensate for the loss of static stabilizers but they will fatigue, leading to problems. This is one of the most common scenarios Alton sees in young swimmers (more often female). They acquire all this laxity in their shoulder and they’re so strong dynamically that they’re fine and it gives them that extra pull, that extra inch or two. Fatigue is a problem. If they have a weekend-long match (8 events in 3 days), they are fine the 1st 2 days, but by the 3rd day, they are fatigued and then they start subluxing. Then they get all this secondary inflammation and pain and that’s when the damage occurs and they have to sit out. Then we have to strengthen rehab, sometimes even tighten up the capsule when they get so loose.",
+  "content_length": 750,
+  "content_tokens": 171,
+  "embedding": []
+ },
+ {
+  "title": "The Biceps Tendon and Common Injuries",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The biceps tendon can be incredibly painful (tendonosis). The biceps is 1 muscle in our arm, but it’s 2 tendons at the origin in the shoulder. The long head is the one that often gets inflamed. It can be quite painful and can affect everyday life. The 2nd tendon peels off and goes outside the joint. But people often do tear this biceps. It leads to a classic Popeye muscle where half their muscle is balled up and looks weird. It’s not really that much of a functional consequence. Usually it stops hurting when it ruptures.",
+  "content_length": 526,
+  "content_tokens": 125,
+  "embedding": []
+ },
+ {
+  "title": "Labrum Tears in the Shoulder and Natural Loss of Cartilage with Usage and Time",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Peter makes a comparison, “The torn labrum is to the shoulder what the disc herniation is to the back”. You could take a MRI of a person who has no spine issues and see many asymptomatic herniations, which mean nothing. He suspects a labral tear in the shoulder is the same. Alton agrees, and this is such a point of frustration.",
+  "content_length": 329,
+  "content_tokens": 82,
+  "embedding": []
+ },
+ {
+  "title": "Labrum and Cartilage Degeneration",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The labrum will naturally degenerate just by using it, so will the cartilage. We know there’s a genetic predisposition to arthritis. By arthritis, Alton means not just inflammation of the joint, but a true loss of the cartilage integrity. Those two terms are used interchangeably by different people in different subspecialty. But for an orthopedic surgeon, it’s when the joint is degenerating and the cartilage surfaces are no longer pristine (just like you’re chipping the paint on your car).",
+  "content_length": 494,
+  "content_tokens": 112,
+  "embedding": []
+ },
+ {
+  "title": "Humeral Head Resurfacing",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "For younger athletic people, who have a humeral head that’s been damaged and they have a big chunk, maybe a quarter size (maybe a 50 cent piece size) of full cartilage loss, that’s not great. Instead, they will do a humeral head resurfacing (a nice, new, smooth metal head), but they leave the glenoid intact and they have good cartilage there. So, it’s metal on natural cartilage. Cobalt-chromium alloys are used for this.",
+  "content_length": 423,
+  "content_tokens": 110,
+  "embedding": []
+ },
+ {
+  "title": "Shoulder Evaluation and Surgery",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "It’s important to get a good history of the mechanics of the injury. Whether it was from shooting a bow and arrow, playing basketball, lifting weights, etc. You need to know a combination of the mechanism of injury, the symptoms, and the physical exam, and if you do those compulsively and well, you will be 95% accurate without any MRI. Alton uses MRIs more to corroborate things that can be there. The difference between a partial thickness rotator cuff tear and a full thickness or a full thickness small and a full thickness large. Those are variable based again on the patient’s activity.",
+  "content_length": 593,
+  "content_tokens": 128,
+  "embedding": []
+ },
+ {
+  "title": "Rotator Cuff Tears",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Walking down the street, half the people age 60 have rotator cuff tears. They’re asymptomatic. It may not be a big tear, but it can be. It’s so important that we don’t ignore something that can get much worse and make treatment or recovery much more difficult.  But at the same time, we need to be more circumspect about who we’re operating and who we’re not operating on.  Are there indications where we operate on asymptomatic things in the shoulder? In general, no. Unless you have a tumor.",
+  "content_length": 493,
+  "content_tokens": 127,
+  "embedding": []
+ },
+ {
+  "title": "Alton's Dad",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Alton was swimming with his dad about 6 months before he passed away (at age 95). His dad was really vigorous, mentally and physically fit. He ended up having pancreatic cancer that killed him at 95. He had a great life, no complaints. At 86, he was a guy who could still do pull-ups, who was swimming in the lake. Peter adds, “This guy is my hero”. He did all his own yard work, everything. He never took medication. He was running to get out of the way of the sprinkler, did a banana peel, and had a dislocation of his shoulder, ripped off two and a half of his four tendons. Remember, one of them never tears, so he tore almost his complete functional rotator cuff. Alton did a little FaceTime with his dad and noticed he couldn’t lift his arm. He urged his dad to visit and get an MRI. Alton and his partner fixed him. They didn’t give him much sedation, just regional anesthesia, and he got a good 6 anchor repair. At age 94, you couldn’t tell he ever had a tear. He healed and went back to doing everything.",
+  "content_length": 1013,
+  "content_tokens": 250,
+  "embedding": []
+ },
+ {
+  "title": "Shoulder Pain",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Pain shouldn’t be the only symptom we look for‒ we have to look for function. If someone came in with a traumatic motor vehicle accident where they tore their rotator cuff badly at age 60, 65, Alton would tell them it’s not necessary to have them repaired. But if you don’t repair it, those muscles that lost their muscle-tendon connection are going to atrophy. It may not be painful, but if you want to do things you were doing before the accident, they need to be repaired. The 2nd caveat is you may start having symptoms in 6 months even doing those other things. If you do, don’t ignore it, go back to the orthopedist. It’s a dynamic state over a long period of time; so you need to be flexible. If you start having symptoms when you’ve been asymptomatic, something has changed (anatomically, physiologically or something), and it’s time to reassess.",
+  "content_length": 854,
+  "content_tokens": 211,
+  "embedding": []
+ },
+ {
+  "title": "Differential Diagnosis for Shoulder Pain",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "When a person comes in with shoulder pain, what is on your differential diagnosis in the exam (before the MRI)? Alton drew the shoulder again and added the clavicle (collarbone) and the acromion (the bony roof of the shoulder, another part of the weird scapula). The collarbone is a stabilizer bar. Some people are born without collarbones and they can bring their shoulders completely together in the center. In cyclists, collarbones are the most commonly injured because they land on the outside of their shoulder. The AC joint is what happens when people separate their shoulder (also super common). It’s different from a dislocation. It’s usually from a force coming down from the top.",
+  "content_length": 689,
+  "content_tokens": 150,
+  "embedding": []
+ },
+ {
+  "title": "How anatomical variation can predispose one to injury and how screening may help",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The acromion is that bony roof, and under that roof is where the rotator cuff glides. Any place in our body that there’s two structures, anatomically in the limbs that move differentially with one another, there’s usually a bursa that forms in between. That bursa is just a thin filmy structure that can thicken up and become very inflamed and become bursitis (very painful). Then some of us are born with an extra kind of downsloping of that acromion (shown in the figure below), or a bone spur, or we acquire it from repetitive athletic use (there are multiple reasons). It’s as though you have a big bird beak coming down and pointing into the bursa. You can imagine if this is running back and forth, it’s irritating the bursa, creating bursitis. And it’s also frictionally rubbing against the rotator cuff tendon. You can get bursal-sided upper part rotator cuff tears from that alone.",
+  "content_length": 890,
+  "content_tokens": 222,
+  "embedding": []
+ },
+ {
+  "title": "Types of acromion",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "You can have a type I, a type II, or a type III acromion (drawn in blue, at the top of the figure above). Type I is totally flat (this is the majority of people). Type II is the second most common. Type III predisposes you to this problem (about 30% of people have this type).",
+  "content_length": 276,
+  "content_tokens": 70,
+  "embedding": []
+ },
+ {
+  "title": "How anatomical predisposition can affect exercise",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Peter relates that people often say “Well, I can do so and so and I’ve never had an issue. Therefore, it’s okay.” If you have the type I acromion, you can probably get away with a lot more overhead activity. But for somebody who’s in category III, every time they do excessive overhead activity they might get injured. Peter thinks it would be interesting if we knew these things in advance and we could maybe modify and temper our activity around our genetics effectively. Alton agrees, the anatomic/ mechanical predisposition to injury is interesting.",
+  "content_length": 553,
+  "content_tokens": 124,
+  "embedding": []
+ },
+ {
+  "title": "Peter's personal example of anatomical predisposition",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Peter had an MRI for other reasons and discovered he has a narrow C-spine (there’s no wiggle room). As a result, he takes” tech neck protocol” very seriously. He knows he already has 2 small herniations. Luckily, they aren’t doing anything to him. But nobody’s going to go in and remove one without doing the other, which means they’d fuse him out of the gate. Knowing this is helpful. It tells him to do a lot of rehabilitative exercises even before having an injury.",
+  "content_length": 468,
+  "content_tokens": 118,
+  "embedding": []
+ },
+ {
+  "title": "Screening for anatomical predispositions to injury",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Alton adds, “If you have a congenitally narrow stenotic spine and you’re playing football, you’re way more at risk for catastrophic spinal cord injury”. But if you have your first stinger, then you need to be screened, and see if you are at high risk. If you are, then you have a very serious discussion about what you’re subjecting your neck to. There are a lot of sports to play, and you don’t necessarily have to be butting heads at high velocity. It could be important for kids who have a lot of athletic potential, and at age 11 are going to decide what to focus on. If you knew you’d have a longer shelf life in one sport over another, that should weigh into the decision-making process. For instance, if you have super loose joints, then you’re going to need to pick the ones that you can keep dynamically stabilized but are not going to be subjected directly to unnecessary forces.",
+  "content_length": 889,
+  "content_tokens": 210,
+  "embedding": []
+ },
+ {
+  "title": "Pain generators in the shoulder, and the important nuance of the physical exam",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Pain generators in the shoulder. A type III acromion can be a pain generator. The AC joint is another one. “Almost everybody through wear and tear, middle age and beyond, has arthritis in the AC joint… it’s almost always asymptomatic, but it can be symptomatic”‒ Alton Barron. Young weightlifters can develop fluid in the end of the clavicle from repetitive use. Doing heavy bench press and other activities can result in distal clavicle osteolysis. Repetitive jamming or bruising of the bone and cartilage causes the cartilage to disintegrate and the bone to lose its integrity. It starts to get very soft and it gets very inflamed. Lat raises puts so much leverage on that joint, it just jams up. Alton does not recommend his patients do these. If you are to do it and want to minimize stress, Peter is in favor of thumbs going up (not down), and not directly laterally but more in the natural plane of the scapula. If you lie directly on the point of your shoulder and it jams that again, and causes a lot of pain there. That pain comes right down the front and kind of follows the biceps. So, you have to differentiate that between the 2. Then you look at an X-ray (without an MRI), and you see these spurs that are down there. Well, those spurs aren’t ever going to tear the rotator cuff, because that tendon is out there (to the left)‒ it never gets that far. But it rubs, and we see it as an indentation in the muscle. Every time you’re working out, you hypertrophy your muscles, so if you have that constantly rubbing there and then you hypertrophy around it, it hurts. Peter notes, “That’s an athlete who complains that when they’re lifting, it hurts more”.",
+  "content_length": 1666,
+  "content_tokens": 406,
+  "embedding": []
+ },
+ {
+  "title": "Rock Solid Strength",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Yet when they’re relaxed and haven’t been exercising, they have rock solid strength But if you get them up into positions, or if they’ve been working out and you test them, they’ll be weak (their brain stops them to prevent pain)",
+  "content_length": 229,
+  "content_tokens": 58,
+  "embedding": []
+ },
+ {
+  "title": "The Nuance of the Shoulder Exam",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "This exam makes Peter thinks of Coope’s Appendicitis because things are more complicated. Peter doesn’t think there will ever be a substitute for the nuance of the exam and the history of the injury and of what causes pain. It would be great to have both. Peter adds, “It’s interesting to think that in orthopedics it might be one of those specialties where this judgment of the exam is still really, really relevant”",
+  "content_length": 417,
+  "content_tokens": 98,
+  "embedding": []
+ },
+ {
+  "title": "The Importance of Diagnosis",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Peter felt like this was a very important message in residency, “The single most important thing that you will learn is when to operate and when not to operate”. When you start residency, you’re just so preoccupied with mastering the technical side of things (there’s so much to learn). Alton agrees, but unfortunately there are plenty of people who will operate on any MRI. Peter adds, “We had one surgeon who the joke was, if you rubbed Betadine on the wall, he would operate on the wall. Don’t let Betadine near the wall, because he’ll start cutting it.”",
+  "content_length": 557,
+  "content_tokens": 137,
+  "embedding": []
+ },
+ {
+  "title": "Frozen Shoulder",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Shoulder pain can have many causes including frozen shoulder (adhesive capsulitis). It is very common and can conflate all sorts of diagnoses. Only about 1 out of 5 patients actually ever need surgery, and surgery would be a simple, 30-minute release of the capsule and reduction of the inflammation. 80% do not need surgery, they need some way to control the inflammation along with really good physical therapy and a home program to restore mobility. Alton gives NSAIDs when people want them and are afraid of an injection, but he thinks NSAIDs aren’t strong enough. He likes to put a small dose of cortisone into the joint 1 time. People come in with a lot of stiffness and pain, and they walk out saying “Oh my gosh, it’s amazing”. They probably still need physical therapy, but they feel dramatic relief from such a simple treatment.",
+  "content_length": 838,
+  "content_tokens": 185,
+  "embedding": []
+ },
+ {
+  "title": "Shoulder Pain Causes",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Shoulder pain can have many causes including the AC joint, bursitis, a rotator cuff injury, a labral injury, bicep tendon inflammation, arthritis, and neck pain from the spine.",
+  "content_length": 176,
+  "content_tokens": 42,
+  "embedding": []
+ },
+ {
+  "title": "Impingement and Stiffness",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "You can get a stiff shoulder if you have impingement. If you have a big bone spur and your brain says “I’m not going to let you move it there”, then it just gradually stiffens up. That’s a secondary stiffness or adhesive capsulitis. It’s not the weird primary adhesive capsulitis that could happen to you or me just suddenly. It’s a spontaneous intense inflammation in the inner lining. If you take a little camera and stick it in there and just look, you see it’s beet red. Normally in an arthroscopy, everything’s kind of off white.",
+  "content_length": 534,
+  "content_tokens": 138,
+  "embedding": []
+ },
+ {
+  "title": "Treating Shoulder Pain with Injections and PT",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "If patients are in too much pain to move during physical therapy, Alton will inject them and send them to PT. He sees them back in about 6 weeks, and most of them are dramatically better. Shoulder pain that originates in the neck is a big source of shoulder pain, and Alton includes this in his shoulder exam. He takes care of a lot of professional musicians who come in with shoulder pain going down their arm, but the pain is not coming from their shoulder, it’s coming from their neck. Intrinsic shoulder pathology almost never radiates down below the elbow, whereas neck origin almost always goes down below the elbow and into the hand.",
+  "content_length": 640,
+  "content_tokens": 137,
+  "embedding": []
+ },
+ {
+  "title": "Cervical Symptoms that Don't Present with Neck Pain",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Peter Attia had a cervical symptom that didn’t present with any neck pain. He woke up one morning with his left trap in spasm, and the next day it was super uncomfortable and still in spasm. He had zero pain in his neck, but he had motor symptoms and lost tricep strength in the gym. He tried prednisone and traction, and within 3 months his strength was back and the problem never returned. Alton often gives one very low dose of prednisone for neck pain, and it usually goes away.",
+  "content_length": 482,
+  "content_tokens": 112,
+  "embedding": []
+ },
+ {
+  "title": "Shoulder Exam",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Alton includes neck pain in his shoulder exam. Intrinsic shoulder pathology almost never radiates down below the elbow, whereas neck origin almost always goes down below the elbow and into the hand.",
+  "content_length": 198,
+  "content_tokens": 40,
+  "embedding": []
+ },
+ {
+  "title": "Surgical Treatment for Labral Tear",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Peter had repair of a complete labral tear. Alton discusses surgical treatments for a labral tear and factors that determine whether surgery is appropriate.",
+  "content_length": 156,
+  "content_tokens": 29,
+  "embedding": []
+ },
+ {
+  "title": "The Surgery",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The largest incisions are 1-1.5 cm. The others are small percutaneous holes to put cannulas in and then drill through. It takes 10 minutes to do each anchor, and Peter needed a bunch.",
+  "content_length": 183,
+  "content_tokens": 45,
+  "embedding": []
+ },
+ {
+  "title": "Exam Under Anesthesia",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Peter recalls, the exam under anesthesia is crucial. Alton points out, the great thing about an exam under anesthesia is he can move the patient’s arm freely. The patient is on a regional block where their arm is super numb (they’re in a position where they’re going to have the surgery). They are so sedated and relaxed, they can’t control anything. The patient’s muscles have very little effect. Alton tests the static stabilizers.",
+  "content_length": 433,
+  "content_tokens": 102,
+  "embedding": []
+ },
+ {
+  "title": "Capsule Repair",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Now when he looks on the inside, he needs to asses not just the labrum (which he knows is torn) but also the capsule. In addition to just repairing the labrum itself, he needs to gather up some of this capsule (which has become too capacious), and do what we call a capsulorrhaphy (which is to gather and tighten that up too). That’s kind of a judgment call. When you’ve done a lot of them, you kind of know how much to gather. You don’t want to gather too much because then it tightens them up too much.",
+  "content_length": 504,
+  "content_tokens": 129,
+  "embedding": []
+ },
+ {
+  "title": "Caveat about Unnecessary Surgery",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Alton had a professional violinist in her early 60s who had shoulder pain. She saw a sports doctor, got an MRI. She had some degenerative labral tearing that he said needed to be repaired. Her MRI didn’t really say anything else. She presented with shoulder pain and a little stiffness. The sports doctor did a repair of the labrum and she came to Alton about 6 months later in tears. She had not been playing for 6 months and had the stiffest shoulder he had ever seen (it didn’t move). The doctor did a labral repair in a 62-year-old, who’s not an athlete, and really tightened the capsule. In someone who’s not an athlete it would never be necessary.",
+  "content_length": 653,
+  "content_tokens": 157,
+  "embedding": []
+ },
+ {
+  "title": "Age and Surgery",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Some people thought Peter was crazy to have a labral repair at age 50. But he hasn’t lost any mobility, which is remarkable. In Peter’s case, Alton doesn’t think there was a choice because of his subluxation with all the different activities. He already had some arthritis. He was wearing down some cartilage. It was this surgery or the inevitability of having a shoulder replacement in another 10 years. For Peter, knowing what he knows now (that there is a little arthritis there), he wishes he had had surgery sooner.",
+  "content_length": 520,
+  "content_tokens": 117,
+  "embedding": []
+ },
+ {
+  "title": "Precision Medicine",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "For Peter this is an extension of what he thinks of as precision medicine. We use evidence-based medicine (which is incredibly heterogeneous) to make population-based assertions and general broad recommendations. But ultimately, the only patient that really matters for most doctors is the one right in front of them. Therefore, you have to be able to make evidence-informed decisions based on the appropriate physiology that you see.",
+  "content_length": 434,
+  "content_tokens": 82,
+  "embedding": []
+ },
+ {
+  "title": "Surgical Repair",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "You drill a little hole in the glenoid fossa. The diameter depends on what kind of anchor you are doing. Usually not more than 3 mm, and now we’re down to 1.8 mm. You’re drilling into the bone, and you have to get the angle right. Indicated with arrows pointed right. And then the anchor inserts through that. They’re not circumferential, they’re straight in. If we did them open as we used to, we’d drill holes and use a suture going through circumferentially. What holds the anchor in? Yes. Historically there were some that we screw in, but not anymore. Now they are purely basically braided polyester.",
+  "content_length": 605,
+  "content_tokens": 153,
+  "embedding": []
+ },
+ {
+  "title": "Scope Imaging",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The biggest ports are for the camera, and there are a few working ports in the front and back. Pathology is superior and anterior. You’re working in the superior in the front and go in through the back with a camera (to get a good panoramic view of everything). They have 2 different kinds of angled lenses, so they can see around corners if needed. He can see the superior labrum; he can see the biceps. Do you insufflate with carbon dioxide? Yes, you’re shooting carbon dioxide to blow everything up. And he uses water to do the same thing, but not at high pressure (35 mmHg). It makes the capsule bigger. Lower pressure means less postoperative pain and less distention. You can still put in little retractors, kind of pull tissue out of the way and so forth. So that’s just a technique that’s more of an extension of what Alton does in the elbow. Because there’s a lot more peril because of the nerves being so close. Usually you need 2 working portals in the front. Which are just basically canals to get in with instruments, that are long enough to fit through and do the work. In the case of a superior labrum, we use a percutaneous hole right through the top, just underneath… right under where that red arrow is going (highlighted in yellow in the figure below). And that just gets you to the superior labrum. So that’s a little percutaneous, a tiny little hole in the rotator cuff muscle-tendon junction. It just spreads the fibers apart, so it doesn’t do any damage to that. And then you’ve got a perfect bird’s eye direction for the drilling and putting in a few anchors in the top. And then that’s really it.",
+  "content_length": 1621,
+  "content_tokens": 388,
+  "embedding": []
+ },
+ {
+  "title": "Examining the Shoulder Joint",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "During a shoulder surgery, the surgeon examines the joint, cartilage surfaces, rotator cuff, and biceps to check for any abnormalities, fraying, or tears. If there is notable fraying or a small tear, the surgeon may put a stitch or two to fix it. The surgeon also looks for inflammation, which shows up as red, and uses an electrocautery wand to get rid of it. This helps patients early post-op.",
+  "content_length": 395,
+  "content_tokens": 92,
+  "embedding": []
+ },
+ {
+  "title": "Rotator Cuff Tears",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The most common athlete's tear to the rotator cuff is the supraspinatus, which is usually torn in overhead athletes. If a patient has a straight-up supraspinatus tear, the surgeon still needs to enter the capsule to ensure that nothing is missed. The teres minor is not a relevant player in the pathology because it almost never tears.",
+  "content_length": 335,
+  "content_tokens": 75,
+  "embedding": []
+ },
+ {
+  "title": "Bird's-eye view of the shoulder",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Peter likes Alton’s birds-eye view of the shoulder as it allows you to see how the subscapularis and the infraspinatus are stabilizing the front and the back, while the supraspinatus is coming in over the top. We usually look at them from front and back. But it’s broad and has three-dimensionality, and it has roughly 3.0-3.5 centimeters of width going front to back.",
+  "content_length": 368,
+  "content_tokens": 98,
+  "embedding": []
+ },
+ {
+  "title": "Anterior-superior tear",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The most common one is the middle one because that’s anterior. The biceps is indicated with 3 blue arrows. That’s an anterior-superior tear. That’s the one that the overhead athletes get a lot (non-throwing athletes)‒ tennis players, volleyball players, and weightlifters. And that is one of the critical zones where it can get wrung out and not have good blood supply, and that’s where they tear. The arrows indicate where they tear, that’s where Alton had little tears on both shoulders. That’s also the one that can be caused by a spur pushing down on it. Alton drew a little arc in red on #2 because they’ll tear off, and then they’ll form a little arc of smooth tissue. You repair it, you freshen up the bone, and then put the sutures in that leading edge of the tendon and put it back just like you’d put a tarp with a tent stake back in. You get it back to the good bony bed, and you get that good biologic healing. He’s drawn a small tear in red, but they can be bigger and more chronic.",
+  "content_length": 995,
+  "content_tokens": 259,
+  "embedding": []
+ },
+ {
+  "title": "Subscapularis tear",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The one down below shows the subscapularis in the front. That is the one that can tear in young people or older people based on mechanism. If you have a linebacker who is going forward at full velocity, and then somebody is knocked into him and shoots him across. He’s got his arms out there ready to go, and he gets eccentrically loaded into external rotation. That’s how you can tear the subscapularis. The other way is people falling downstairs and grabbing the banister and wrenching back. It’s commonly torn with eccentric load.",
+  "content_length": 533,
+  "content_tokens": 122,
+  "embedding": []
+ },
+ {
+  "title": "Rotator cuff tear in throwing athletes",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "This upper one occurs in throwing athletes. Baseball players and football players externally rotate dramatically, and that’s how they get their extra angular velocity to really get that zip on the ball. So they acquire external rotation starting at a young age, and their arms/ shoulders are very asymmetric. One side will externally rotate to 90 while the other one will go back another 45 degrees, and that’s how they get that whip. One of the consequences of that (in a subset of them) is that as this rotates and follows this area around (indicated by the red arrow in #1), that area of the rotator cuff (circled in black on the left) which is at the junction of the infraspinatus and the supraspinatus abuts up against the hard bony rim of the glenoid, and they get an internal impingement. Ultimately they get small partial-thickness or even full-thickness tears there. We have to be super cautious with those. We have to repair those, but you have to be really careful because if they lose 10 or 15 degrees of external rotation, they lose.",
+  "content_length": 1046,
+  "content_tokens": 239,
+  "embedding": []
+ },
+ {
+  "title": "Tommy John surgery",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "That’s the elbow. It fits in because a lot of people add torque on their elbow because they have shoulder pathology. If they have a little weakness or something going on in their shoulder, they will overthrow with their forearm and their flexor-pronator mass. They’ll overthrow with the torque, and then they’ll tear their medial collateral ligament of their elbow. And vice versa, if they have a partially torn medial collateral ligament that hasn’t yet been identified, they can overthrow with their shoulder to compensate, to get more angular velocity on that, because they can’t muster it through the elbow.",
+  "content_length": 611,
+  "content_tokens": 132,
+  "embedding": []
+ },
+ {
+  "title": "Torn Rotator Cuff",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "15 years ago, a torn rotator cuff would have been the end of a pitcher’s career or a quarterback’s career at the professional level. Today, earlier diagnosis is possible, and any pain is almost over-evaluated at the Division 1 collegiate level, which can be good for the players because it identifies these things very early.",
+  "content_length": 325,
+  "content_tokens": 71,
+  "embedding": []
+ },
+ {
+  "title": "Partial vs Full-Thickness Tears",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Patients with full-thickness tears can be minimally symptomatic, while others with partial-thickness tears can be very symptomatic. Full-thickness tears vary depending on the size of the patient, and partial-thickness tears off the tendon could easily be ignored. Sometimes, a tear is not biomechanically significant yet, and it could be just some inflammation related to it.",
+  "content_length": 375,
+  "content_tokens": 84,
+  "embedding": []
+ },
+ {
+  "title": "Stem Cells and PRP",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Stem cells or PRP can be valuable for healing tears in the muscle, but there are a lot of terribly designed studies all around that are being used to justify using stem cells or PRP. There are a few anecdotal reports where people say there was a tear on the MRI, they injected PRP and it’s healed, gone, but we don’t know what the natural history of that injury would have been without the PRP.",
+  "content_length": 394,
+  "content_tokens": 92,
+  "embedding": []
+ },
+ {
+  "title": "Comparison of cortisone, PRP, and placebo for tennis elbow",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Double-blind, randomized studies on tennis elbow (lateral epicondylitis), comparing cortisone, PRP, and placebo. The placebo and the PRP were the same, while the cortisone was much more effective. These were back-to-back studies at different institutions. The literature is replete with studies that say PRP really helps. Alton sees patients all the time that have had PRP injections. Is there a financial incentive for giving PRP instead of cortisone? Cortisone is covered by insurance, and it’s only a couple hundred dollars for a shot. PRP is $1,000 and it’s not necessarily covered by insurance. Some people charge a lot more ($2,500) for a PRP injection. The concept of PRP is great‒ it has growth factors, it’s our own bodily fluids. But it hasn’t yet borne out to be a game changer. There’s not enough data to support benefits from PRP injection.",
+  "content_length": 853,
+  "content_tokens": 214,
+  "embedding": []
+ },
+ {
+  "title": "Natural history of asymptomatic rotator cuff tears",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Peter needs to spend more time in this literature, and notes the problem is we don’t have that natural history. There are a lot of anecdotes that say, “This injury was present. Stem cells were injected. The injury is gone radiographically.” We don’t have the contra positive case. Alton knows of a natural history study on asymptomatic rotator cuff tears that came out of WashU. Ken Yamaguchi was the lead on that article. They looked at ultrasounds which is great because they’re non-invasive, non-costly, and very effective if you have a good ultrasonographer. They looked at the natural history of these asymptomatic tears, and they found that they never repaired on their own. At very best, a subset of them stayed the same. The larger the tear, the more likely it was to become even larger with time. And a subset become symptomatic. None got better spontaneously. This suggests to Peter that if people are saying, “Here’s my MRI pre and post stem cells, and it got better,” that would suggest in that individual it might have worked. Alton agrees, but points out that MRIs vary significantly from machine to machine. That would have to be very well controlled. “If you showed me even 20 patients done by someone that I know is legitimate and they did that and showed comparative MRIs that even 10 out of 20 showed healing and reconstitution, man, I’d be in.” Peter hopes that study is being done. Another thing to standardize is the process of generating the stem cell. One of the challenges of doing a clinical trial is everybody has to get the same drug. How standardized is the procedure for capturing and processing stem cells? It’s non-standardized. It differs between different companies that bring the machines in. It differs between individual clinicians. “It can be apples and oranges”‒ Alton Barron.",
+  "content_length": 1815,
+  "content_tokens": 415,
+  "embedding": []
+ },
+ {
+  "title": "Repair of an AC joint separation",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "AC separations are common injuries. Alton sketched the AC joint with the glenohumeral joint removed (see the figure below). The clavicle is coming across. There are the 2 stabilizers of the clavicle, one is the coracoid process. There are the coracoclavicular ligaments. We’re looking at it straight on.",
+  "content_length": 303,
+  "content_tokens": 78,
+  "embedding": []
+ },
+ {
+  "title": "AC Joint and Ligaments",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The acromioclavicular (AC) joint is a joint that has circumferential ligaments around it. A sprain in the AC joint is called a type I. A grade II is where you’ve clearly torn the AC ligaments and it’s up by about 30%. A grade III is where it’s completely up. The vast majority of the operative ones are in the III category.",
+  "content_length": 323,
+  "content_tokens": 87,
+  "embedding": []
+ },
+ {
+  "title": "Treatment",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "If you tear the ligaments of the AC joint, the shoulder falls away. The treatment is to wear a sling and get the heavy weight of the arm off. Almost all grade I and II injuries can be treated nonoperatively. A subset of grade III injuries may need surgical treatment, but most of them do not. Professional cyclists can get back on the bike in 3-4 weeks after surgery.",
+  "content_length": 367,
+  "content_tokens": 81,
+  "embedding": []
+ },
+ {
+  "title": "Recovery Time After Injury",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "But you will lose something by waiting 3-6 months because you don’t have the same biology going on. This guy felt great 4 weeks later and ended up not wanting surgery. The pain was almost gone. You don’t let somebody go back to regular activity in a week, but depending on their sport, you can let them get back in maybe 3-4 weeks. Certainly 6 weeks as by then, everything is pretty strong.",
+  "content_length": 390,
+  "content_tokens": 91,
+  "embedding": []
+ },
+ {
+  "title": "Injury Repair",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "This is where Alton differs from some people, a lot of people get in and get out quickly. If you have it fairly fresh and you have good ligamentous tissue in here, then we do what’s called a dog bone, which is basically 2 titanium grommets. The polymer is not biodegradable. It will stay forever. They’re super strong. You get the torn ligaments to be in continuity again and then they can heal.",
+  "content_length": 395,
+  "content_tokens": 98,
+  "embedding": []
+ },
+ {
+  "title": "Emergency Orthopedic Surgery",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "This patient had a high fall (maybe off a horse), but what surprised Peter was the patient said, “Look, I just saw two surgeons at HSS and they said I need to have surgery right away”. This turned out to be one of those things in orthopedics that needs immediate surgery. You can see it’s even worse than the shoulder; it’s a very shallow joint. It happens a little more commonly in kids, but if the fall is just right and the mechanic’s just right, it will open this up, tear everything and then, displace it behind the manubrium. And that’s where a major vein lives (red and blue circles at the top of the drawing above), and that can be hugely life-threatening. We have to be careful with those.",
+  "content_length": 698,
+  "content_tokens": 171,
+  "embedding": []
+ },
+ {
+  "title": "Reconstructing Ligaments",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "This one, where it subluxes out the front are also a problem. You can see that there’s no way it’s going to fall back into place there. So either they stay out, they stabilize, and people just don’t do that much to irritate them. Or they have to be reconstructed. Alton has had to go in and reconstruct these, where he takes a tendon from the forearm and makes a figure of eight across the front to basically rebuild those ligaments to hold it back in place. This is stronger than doing an anchor or something like that.",
+  "content_length": 520,
+  "content_tokens": 122,
+  "embedding": []
+ },
+ {
+  "title": "Clavicle Fractures and SC Joint Damage",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Clavicle fractures are common and usually occur due to a top-down impact. Damage to the sternoclavicular joint is less common but important. Total shoulder replacement is usually done due to pain and worn-out cartilage. Age is not a factor for shoulder replacement surgery.",
+  "content_length": 273,
+  "content_tokens": 57,
+  "embedding": []
+ },
+ {
+  "title": "Total Shoulder Replacement",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Total shoulder replacement is an outpatient procedure and is done when the cartilage is completely worn out, causing pain. The types of implants used have evolved significantly. Age is not a factor for shoulder replacement surgery.",
+  "content_length": 231,
+  "content_tokens": 41,
+  "embedding": []
+ },
+ {
+  "title": "Shoulder Replacement for Athletes",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Athletes are a separate category based on wear and tear. Cleaning out the shoulder joint can buy them some more time. It is a minimal operation with no recovery time. Patients with bilateral osteoarthritis are happy with one good side.",
+  "content_length": 235,
+  "content_tokens": 50,
+  "embedding": []
+ },
+ {
+  "title": "Anatomy of a Shoulder Replacement",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "There are 2 pieces to it‒ the humeral side and the glenoid side. The head kind of flattens out. You have no space in there at all. You get a bone spur down here. You get some spurring around the perimeter of the glenoid, and all of that conspires to greatly diminish the motion of the shoulder and cause pain. We do these through a very small anterior incision and take down part or all or part or most of the subscapularis, the tendon in the front. We have to have a window in. Now we can work through the interval, the space between the supraspinatus and the subscapularis, but only if it’s a more limited replacement. But anyway, you take some of the humeral head off (to the right of the diagonal black line). You have a window there, you have retractors in, and you use an oscillating saw and just take that arthritic head off and all the bone spurs. Then with that space that that creates, you use another retractor, push the head, what’s left of the shaft away. And then, you get in and work on the glenoid and you ream that down to where it’s all smooth, get the bone spurs out of the perimeter, and then put in this little high density polyethylene socket (drawn in blue in part B of the figure above). This is ultra high molecular weight polyethylene (very durable). We use these little pegs by drilling holes, put in a little cement, and it’s a perfect new Teflon surface for the cobalt/ chromium (or whatever alloy it is) humeral head. The pegs are draw in black in part B of the figure above. The metal humeral head is shaded green to the right of the black diagonal line in part B of the figure. The bone has a central core and you clean that out (shaded in green to the left of the black diagonal line in part B of the figure). And this is press fit. We don’t cement these anymore, unless people have really bad bone or it’s a revision. We just press fit it into that cancellous bone and it’s super solid. The rotator cuff is still intact on top (the black line above part B of the figure), you’re working around that. Reattach the subscapularis. If you’re going to transect the subscapularis, what is the least traumatic place to do it? On the tendon, where it inserts on the bone. We leave a sleeve, so we can suture tendon to tendon. But then, we also put this heavy suture into bone. So you’ve got bone reinforcement and you’ve got tendon to tendon healing. By doing that, you also maintain the normal length. The biggest thing this person is missing is a labrum. Yes, and they don’t really need it. What stabilizes the joint? The fact that it’s arthritic, it’s already stabilized itself. Unless it’s a weird dislocating joint, which is a different entity (that you have to address that differently). For the garden variety one, they’ve already stiffened up. So what does their capsule look like when you go in, typically? It’s super thick. We resect some of it. In a good case, what is the limitation on this person, a year out from surgery? Really nothing except heavy weights. Alton doesn’t want people doing bench press or Iron Cross type things. They can throw a ball and play catch with their grandkids, for sure. They can play tennis and golf. They can shoot basketball.",
+  "content_length": 3196,
+  "content_tokens": 794,
+  "embedding": []
+ },
+ {
+  "title": "Swimming as Exercise",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "They can swim, that’s a big one what people love. Later in life, it’s such good general action exercise.",
+  "content_length": 104,
+  "content_tokens": 29,
+  "embedding": []
+ },
+ {
+  "title": "Anatomy of the Elbow",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The humerus bone is the arm bone is coming down. You see it’s a super weird undulating structure there, which makes it intrinsically quite stable. So different from the shoulder. There’s all these fun little almost jigsaw puzzle pieces that stick together. We have the radial head, which is the rotating bone of the forearm. We have the ulna, which is the fixed straight bone of the forearm. What’s cool about the elbow is the tendons that go down to the forearm and to the hand originate above the joint. Juxta-articular, close to the joint but above it. And then, the ones that go from the shoulder and arm down attach below the joint.",
+  "content_length": 637,
+  "content_tokens": 148,
+  "embedding": []
+ },
+ {
+  "title": "Common Elbow Injuries",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "In tennis elbow a tear occurs on the radial collateral ligaments. On the inside of the elbow, where our funny bone nerve is. The funny bone nerve is the ulnar nerve. Overlying that is the muscles, the flexor pronator muscles, that helps bend the elbow and pronate the forearm. And those can tear right in this region (marked with a star in the figure above). That’s actually where we get golfer’s elbow (medial epicondylitis). On, the lateral side, which is the tennis elbow (lateral epicondylitis). Another common tendon injury occur to the biceps tendon. The 4th (less common), is shown in the lateral where the triceps comes down and attaches to the tip of our elbow. We talked about the bursa before, and there is a bursa that lives over the tip of our elbow. And we can get the big golf ball size filling of fluid (olecranon bursitis).",
+  "content_length": 840,
+  "content_tokens": 205,
+  "embedding": []
+ },
+ {
+  "title": "Elbow Fractures",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "This is beyond what we’re talking about today, to go into the fractures, but any parts of these can be broken. If you don’t get those things perfect when you fix them, they can quickly lead to arthritis. And some of the, even the subtle fracture patterns that happen and aren’t seen or appreciated, can lead to rapid destruction of the joint. So it’s a finicky joint.",
+  "content_length": 367,
+  "content_tokens": 89,
+  "embedding": []
+ },
+ {
+  "title": "Tennis Elbow and Golfer's Elbow",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Why do tennis players get inflammation in the lateral epicondyle, whereas golfers get inflammation in the medial tendon? Of course, people who have never played tennis or golf often get these things. Those are not dissimilar from the supraspinatus tendon, where they have a little ringing out and they can become degenerative and partially tear. Just like we talked about rotator cuffs, there are tons of people walking down the streets with partial tears in those tendons, and they’re asymptomatic. Use patterns are significant for that. The reason the lateral was historically associated and called tennis elbow is because of one-handed back hands. It’s a much less mechanically sound.",
+  "content_length": 687,
+  "content_tokens": 144,
+  "embedding": []
+ },
+ {
+  "title": "Tennis and Golf Injuries",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "In competitive tennis players, medial epicondylitis is becoming more common due to the increased use of pronators when hitting massive top spin. Similarly, golfers are getting more left leading arm lateral epicondylitis due to hitting harder and farther. Historically, golfers were getting medial epicondylitis due to overhitting with their trailing arm. The first line of treatment for these injuries is rest, good stretching, and NSAIDs by mouth. Physical therapy is rarely used formally. Cortisone shots are given to cool everything down if the pain is too severe.",
+  "content_length": 567,
+  "content_tokens": 114,
+  "embedding": []
+ },
+ {
+  "title": "Peter's Experience with Elbow Pain",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Peter had elbow pain due to overdoing pullups, which translated into tennis elbow. After six months of pain, he received a cortisone shot from Alton, which cooled off the pain. The underlying movement pattern was fixed, and the pain never returned. This is a common scenario, and most people get better after a cortisone shot and correcting the underlying movement pattern.",
+  "content_length": 373,
+  "content_tokens": 77,
+  "embedding": []
+ },
+ {
+  "title": "Indications for Operating on the Lateral versus the Medial Side",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The indications for operating on the lateral versus the medial side are the same, failing conservative treatment. Strengthening is a critical component, and Alton has a device he has patents squeeze. If they can squeeze that without a little pain, he has them do that first. Often it will cure it, but if they can't squeeze it without undue pain, he gives them a little dose of cortisone. If it's chronic, then there's not that much to do.",
+  "content_length": 439,
+  "content_tokens": 97,
+  "embedding": []
+ },
+ {
+  "title": "Conditioning and Grip Strength",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Many people get tennis and golf injuries because they're getting back into something that they haven't done in a long time and they overdo it. It can be weightlifting or something more mundane like lifting your luggage around on a 2 week vacation. Conditioning is critical, and if people don't have grip strength and are weak, strengthening is a critical component.",
+  "content_length": 365,
+  "content_tokens": 72,
+  "embedding": []
+ },
+ {
+  "title": "Dry Needling",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "We think sometimes just sticking the needle in a few times kind of stimulates a healing response. Peter has seen a lot of anecdotal stuff around dry needling, just increasing the influx of inflammatory cells and getting macrophages to come and clean it up.",
+  "content_length": 256,
+  "content_tokens": 50,
+  "embedding": []
+ },
+ {
+  "title": "Distal Biceps Rupture",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Antecedent elbow pain or forearm pain is common in middle age in a very active/ fit person. When people tear their biceps, they don’t lose that much flexion strength, but they lose most of their supination strength. So if they are used to turning screwdrivers, wrenches, surgical instruments, maybe depending on what they do, then it can be really disabling. In the exam, patients will come in and they won’t be in pain but will have a deformity. When you surgically repair that, are you reattaching the tendon? Yeah, it’s like a tendonisis. After surgery, many patients say they feel stronger than before the injury.",
+  "content_length": 617,
+  "content_tokens": 146,
+  "embedding": []
+ },
+ {
+  "title": "Ulnar Collateral Ligament Rupture",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "This is a tear on the medial side from the ligament being subjected to super physiologic torques. When the medial collateral ligament (aka ulnar collateral ligament) is subjected to such traction forces, it will rupture. And the way they keep from rupturing, in general, is by steady long-term fitness. Flexor pronator fitness, that’s shoulder strengthening, biceps, triceps, and so forth. By strengthening everything around it, you can protect that ligament. And if you don’t, then it can rupture, because it’s being subjected repetitively over and over and over again year after year to super physiologic loads. When it ruptures‒ instantaneously, they lose 10 miles per hour on their fast ball. They can still throw, but it just immediately downgrades their ability to throw.",
+  "content_length": 777,
+  "content_tokens": 175,
+  "embedding": []
+ },
+ {
+  "title": "Triceps Tendon Rupture",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "They almost always tear falling, skiing, when someone is trying to stop themselves from smashing their face. Alton sees them every winter. It varies.",
+  "content_length": 149,
+  "content_tokens": 30,
+  "embedding": []
+ },
+ {
+  "title": "Injuries in Active People",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "These injuries rupture in active people. The triceps is a huge muscle and the injury here is really disabling. People can even push up out of chairs. You have to fix these injuries.",
+  "content_length": 181,
+  "content_tokens": 38,
+  "embedding": []
+ },
+ {
+  "title": "History of Hand Surgery and Advancements",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "In the 50s-60s microvascular techniques were developed. Prior to this if you had a laceration or war injury, there really wasn’t much you could do for those injuries (especially nerve and blood vessel related). The most significant advancement, since Alton graduated and went into private practice, has been the the complete hand transplantation. The only other thing that’s changed a lot, that relates so much to the hand, is the spinal implants and the various types of full muscle transfers that can restore function in the hand for someone who previously had no ability to control even a prosthesis.",
+  "content_length": 603,
+  "content_tokens": 126,
+  "embedding": []
+ },
+ {
+  "title": "Muscle Transfers for Primitive Function",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "There are injuries in the forearm where they will take a muscle from the leg (or something like a sartorius) and attach it there. It’s really intended to just give some primitive function back. To be able to flex the elbow for instance, or extend the elbow or flex the wrist. It’s really more the elbow more than anything because most of these injuries, the patients can still control their shoulder, can position the arm somewhere. But if you just have an elbow extension contracture where you cannot flex better than 90 degrees, you can’t get your hand to your mouth, to your hair, to your face‒ you can’t do a lot.",
+  "content_length": 617,
+  "content_tokens": 142,
+  "embedding": []
+ },
+ {
+  "title": "Common injuries and surgeries of the hand and wrist",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The hand and wrist region deals with fine, smaller caliber things. The wrist owns the one bone that is the hardest to heal in the body, the scaphoid bone. A hard fall with just the right position of the wrist, where it’s leveraging on that, is the common injury that breaks the scaphoid. Often athletes with a fractured scaphoid bone come in at 6 weeks because they can’t lift weights, they can’t shuck somebody on the offensive line, etc. A MRI is used to detect occult hidden fractures.",
+  "content_length": 488,
+  "content_tokens": 115,
+  "embedding": []
+ },
+ {
+  "title": "Types of injuries",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "There are plenty of arthritic conditions, of wear and tear conditions (gym work, or getting back into various forms of exercise, or the weekend warrior phenomenon). And those are not dramatic traumatic injuries. And then there are the people that are falling off the scooters and water skiing and dislocating their shoulders, all that spectrum. But it’s usually spread pretty evenly between arthritic and sports related ruptures and injuries, and then fractures and dislocations and ruptures due to traumatic events.",
+  "content_length": 516,
+  "content_tokens": 105,
+  "embedding": []
+ },
+ {
+  "title": "Treatment for Scaphoid Fractures",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Historically, we treated all of these non-operatively. Then there was an Australian fellow named Herbert who came up with a really ingenious screw that had two sets of threads on it and they were a different pitch. So when you’d screw it down the middle of the bone and turn it and when it engaged both bones, it would actually compress them together because they were different pitch (called the Herbert screw). And that was a game changer for us, especially for treating athletes. There are different schools of thought. When Alton was coming out of training, everybody made a full incision to expose everything (on the underside of the thumb near the base of the thumb and wrist). Alton does almost all of his via a small, percutaneous incision, and he’ll go either retrograde often or antegrade (working from the top side of the thumb at the base).",
+  "content_length": 852,
+  "content_tokens": 184,
+  "embedding": []
+ },
+ {
+  "title": "Non-Operative Treatment for Scaphoid Fractures",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "If they’re non-displaced, then we can expect them to heal. We put them in a splint. As long as you mobilize the wrist (even if the thumb and fingers are free), these will heal. Athletes often get a screw because they just can get back faster, even with protection.",
+  "content_length": 264,
+  "content_tokens": 65,
+  "embedding": []
+ },
+ {
+  "title": "Recovery Time for Scaphoid Fractures",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Let’s say you go and get the MRI to confirm the fracture right away and have surgery the next day. You’ll be back catching a ball in 6 weeks. As long as it’s not contact, the surgeon can operate in a week. It’s really fast, a game changer now.",
+  "content_length": 243,
+  "content_tokens": 68,
+  "embedding": []
+ },
+ {
+  "title": "Safe Wrist Position",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "A neutral position in terms of the carpus, some wrist extension. Too much flexion or too much extension increases the pressure on the median nerve and the carpal tunnel. So people can get acute carpal tunnel syndrome (especially with some extra swelling from the injury). That can be quite substantial in those more extreme positions. So a neutral position is best for function in terms of if you’re in a splint. But at least trying to get some finger movement, maybe typing at a keyboard or something, then that’s a good neutral position. On occasion if Alton has to immobilize a musician for example, he will immobilize them in the position they need to play their instrument. Everybody’s different. It’s an important consideration.",
+  "content_length": 734,
+  "content_tokens": 157,
+  "embedding": []
+ },
+ {
+  "title": "Anatomy of the Radial Bone, Ulna Bone, and Nerves",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The median nerve and ulnar nerve are shown in the figure below. The ulnar nerve runs on the pinky side. The 3rd nerve which completes the hand is the radial nerve. That’s profusely sensory, but it is important and provides sensory input on the back side of the hand and thumb. Both the ulnar and radial nerve are at risk for lacerations. They’re at risk even when you distort the anatomy through a fracture.",
+  "content_length": 407,
+  "content_tokens": 96,
+  "embedding": []
+ },
+ {
+  "title": "Size of the Median Nerve",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The median nerve is about 3-4 mm wide by 2 mm deep and it's an oval shape. It can be even bigger than this. A smaller petite person would have one about that size. Alton has seen them as large as almost 12 cm wide and 4-5 mm thick in a large hand.",
+  "content_length": 247,
+  "content_tokens": 64,
+  "embedding": []
+ },
+ {
+  "title": "Importance of Hand Use",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Over 60% of our higher cortical neurons are devoted just to our hand through the homunculus. Meaningful hand use is so important for cognitive development and wellbeing. We need to keep using our hands to keep our minds vital in whatever form we’re doing.",
+  "content_length": 255,
+  "content_tokens": 54,
+  "embedding": []
+ },
+ {
+  "title": "Effect of Typing and Handwriting on Brain",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Some great studies have been done on that to show what’s the effect of just typing at a keyboard. And it doesn’t stimulate our cortex very much at all. Not typing nor texting. But handwriting still does stimulate our brain. The kids who were handwriting used longer sentences, bigger words, more ideas, and produced it faster than the kids who were typing. There was way more cortical activity with handwriting.",
+  "content_length": 411,
+  "content_tokens": 85,
+  "embedding": []
+ },
+ {
+  "title": "Carpal Tunnel Syndrome",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "If you took a cross-section through the hand the carpal tunnel is created by a Roman arch of bones. The carpal tunnel is created by a very thick transverse carpal ligament. There are 9 flexor tendons. The median nerve is running down almost the center of the wrist and it is vulnerable to compression. Carpal tunnel syndrome must have numbness and tingling in the median nerve distribution, which is the palm side of the thumb, index, middle, and usually half of the ring finger.",
+  "content_length": 479,
+  "content_tokens": 106,
+  "embedding": []
+ },
+ {
+  "title": "Causes of Carpal Tunnel Syndrome",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Swelling (edema) can compress that nerve as well (a problem with rheumatoid arthritis). The tendons aren’t really vulnerable in that way, but the nerve is very vulnerable to compression, and that’s why it’s such a ubiquitous problem. Pregnant women often have carpal tunnel in the 3rd trimester simply due to swelling and fluid imbalances.",
+  "content_length": 339,
+  "content_tokens": 85,
+  "embedding": []
+ },
+ {
+  "title": "Median Nerve and Ulnar Nerve",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Carpal tunnel syndrome must have numbness and tingling in the median nerve distribution, which is the palm side of the thumb, index, middle, and usually half of the ring finger. However, if you have an arthritic process, without having as much numbness and tingling, you can have isolated atrophy of the muscles. Rarely in a younger person, Alton will see where they have an odd motor branch, which is the nerve that comes off the median nerve that goes to those muscles. They’ll have a weird compression of just that without any numbness and tingling. But they will have isolated atrophy, and that needs to be addressed surgically.",
+  "content_length": 632,
+  "content_tokens": 144,
+  "embedding": []
+ },
+ {
+  "title": "Carpal Tunnel Syndrome",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "People can get carpal tunnel if they’re always pressing down and putting extra pressure on that area. People who use jackhammers or people who are cyclists and they’re always pressing down and putting extra pressure on that area can get carpal tunnel syndrome only when they’re cycling. Weightlifters can get it, depending on the style of what they’re doing. However, if you already have it, typing will absolutely exacerbate it. Ergonomics are important to prevent carpal tunnel syndrome.",
+  "content_length": 489,
+  "content_tokens": 108,
+  "embedding": []
+ },
+ {
+  "title": "Injuries of the Hand and Forearm",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "There are 3 categories of common hand injuries: 1 – Acute traumatic events (usually fractures, sometimes dislocations), 2 – Wear and tear injuries (begin in middle age and go on into older age), 3 – Degenerative arthritic types of problems. Fractures are the most common by far is the distal radius fracture (the big bone of the radius near the wrist). Nursemaid’s elbow occurs when a parent grabs a kid by the arm to yank them across the road. This is a subluxation of that round radial head at the elbow.",
+  "content_length": 506,
+  "content_tokens": 118,
+  "embedding": []
+ },
+ {
+  "title": "Bones of the Forearm",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The forearm is made up of two bones: the radius and ulna. The ulnar nerve supplies almost all the rest of the small muscles (intrinsic muscles) of the hand. The intrinsic flexors are ulnar. The extrinsics are split between the median (more approximately in the forearm).",
+  "content_length": 270,
+  "content_tokens": 63,
+  "embedding": []
+ },
+ {
+  "title": "Reduction maneuver for radial head subluxation",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "He quickly did the reduction maneuver so fast that she hadn’t even started crying, and then it just immediately stopped hurting",
+  "content_length": 127,
+  "content_tokens": 25,
+  "embedding": []
+ },
+ {
+  "title": "Reducing radial head subluxation",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "When you pronate, it will cause that radial head just to slip out (pop up) a little bit. So the easy maneuver is you supinate (twist the forearm towards the core so the palm faces up) and flex the elbow up with a little pressure (bend at the elbow to bring the hand up to the chest). This is the most stable position of that bone and it will pop right back in every time. If it stays out and you sit in an emergency room for 6-8 hours, then it’s harder to get back in. You’ll often have to do it under anesthesia.",
+  "content_length": 513,
+  "content_tokens": 128,
+  "embedding": []
+ },
+ {
+  "title": "Radial fractures",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Peter has seen a lot of radial fractures in friends and kids and it really seems like one of those awful luck things. If you fall out of a tree, slip on ice, etc. Then the older we get, if we have a little osteopenia or osteoporosis, then it takes less and less force to fracture those bones.",
+  "content_length": 292,
+  "content_tokens": 70,
+  "embedding": []
+ },
+ {
+  "title": "Ulna fractures",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The most common cause is a direct blow. For example in football, it can be a weight falling. It can be a door smashing into you, that’s called a nightstick fracture. Often it is fractured in association with the distal radius. The styloid part can come off, it’s attached to a ligament or it can just both snap same time, and that complicates the treatment. Then the other common one is really more of an elbow fracture, it’s the ulna (the olecranon). That’s when you fall on your elbow. The only other way you can pull that bone off is if you fall really hard, say snow skiing. With the eccentric load, that triceps pulls it right off.",
+  "content_length": 636,
+  "content_tokens": 158,
+  "embedding": []
+ },
+ {
+  "title": "Tendonitis and tenosynovitis",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Overuse patterns are more tendonitis. There are subtle differences between tendonitis and tenosynovitis. Tendonitis is just inflammation in the tendon. If the tendon is beginning to wear and tear and degenerate, you’ll get some longitudinal fissuring in those collagen fibers and then it fills in with some inflammatory tissue, and then that can envelope the tendon. This is a constant rubbing and further degeneration of that. You get chronic pain. You can inject it with cortisone, but ultimately they can rupture depending on how much force they’re being subjected to and for how long it’s been there. Tenosynovitis is a subset of that where we have these effectively watertight tubes, on our flexor tendons (the synovium). Our body produces a little bit of lubricating fluid to keep the tendons gliding smoothly in there. It can get inflamed from overuse and the tendon becomes trapped in there and it really hurts. It can limit mobility and can even cause the tendon to lock down sometimes. He often cures this with a cortisone shot, rest, or both. A subset of them ultimately require surgery (which is very minor). This is important for hand function.",
+  "content_length": 1157,
+  "content_tokens": 254,
+  "embedding": []
+ },
+ {
+  "title": "Grip strength",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Peter is obsessed with grip strength and about a year ago he started experimenting with training the way rock climbers do, where you’re only using finger strength. What blew him away was how much weaker he felt all the way through his lats when he would restrict the amount of fingers he used to do a pull-up. It took him a while to work up to 10, 4-finger pull-ups (a couple months). Then he moved to 3-finger pull-ups, and that was an order of magnitude harder.",
+  "content_length": 463,
+  "content_tokens": 108,
+  "embedding": []
+ },
+ {
+  "title": "Brain holding you back",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Your brain can hold you back from exerting too much tension on an area, causing weakness. For example, this applies to the weakness you feel and detect asymmetrically in a rotator cuff. If you have a small partial thickness rotator cuff tear, yet you can be quite weak. Alton’s instinct is that the first reaction, especially when you’ve never done that before, is for your brain to say, “Whoa, that’s putting way too much tension on the other one. So I’m going to relax everything. I’m not going to give you what you need because they may rupture.”",
+  "content_length": 549,
+  "content_tokens": 137,
+  "embedding": []
+ },
+ {
+  "title": "Importance of ulnar nerve",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The ulnar nerve is much more important for grip strength as it innervates only 2 fingers‒ the pinky and ring finger. Let’s say you have an ulnar nerve that’s completely in and a median nerve that’s out, you’re going to be pretty strong still. Whereas if you have an ulnar nerve out and a median nerve that’s still in, you’re going to be much weaker. The middle finger, forefinger and thumb are under the median nerve distribution.",
+  "content_length": 430,
+  "content_tokens": 111,
+  "embedding": []
+ },
+ {
+  "title": "Arthritis in the hands",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "There are two types of arthritis in the hands: rheumatoid arthritis and common osteoarthritis. Rheumatoid arthritis is an autoimmune form of arthritis that impedes function and physically deforms the fingers in the joints. Surgery is needed because of functional limitations in the hand. This can also occur in the elbow and shoulder. Wear and tear osteoarthritis varies among individuals. Some people have really good hands until the very end. Arthritis at the base of the thumb is ubiquitous, about 50% of all of us will develop this.",
+  "content_length": 536,
+  "content_tokens": 112,
+  "embedding": []
+ },
+ {
+  "title": "Osteoarthritis at the base of the thumb",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Many people walk around with osteoarthritis and never have pain. Of the people that present with some pain, about 25% of those potentially are going to need surgery for that at some point. This would be around 12.5 % of the overall population. The surgical procedure varies depending on what stage they present at, but it’s some form of reconstruction using your own tissue.",
+  "content_length": 374,
+  "content_tokens": 79,
+  "embedding": []
+ },
+ {
+  "title": "Trigger finger",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Trigger finger is what we were talking about before with inflammation of the tendon sheath. Right in the middle of the hand, there’s a series of pulleys. The pulleys are fibro-osseous tunnels that is very strong (think rock climbing).",
+  "content_length": 234,
+  "content_tokens": 55,
+  "embedding": []
+ },
+ {
+  "title": "Inflammation and Trigger Finger",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "As you’re rubbing constantly going back and forth (whether you’re playing a concerto or you’re rock climbing) and you can get inflamed along that sheath. This particular pulley here is down in the palm (A1), that’s the most common site to have inflammation to where you can even get some nodular swelling in the tendon. And that thickening up of that pulley, then it just actually catches. We call it a trigger finger because it has a feeling like pulling a trigger on a gun. Treatment - We frequently inject those with cortisone and frequently have to operate. If you take someone who presents within say 6 weeks of onset, there’s about a 75% cure rate with 1 or 2 injections. The longer you wait, the more potential damage and more chronic inflammation that ensues. In these types of soft tissue procedures, we don’t keep injecting cortisone because it can lead to soft tissue degradation. And ultimately even tendon ruptures (Alton has never seen one, but it can happen).",
+  "content_length": 974,
+  "content_tokens": 223,
+  "embedding": []
+ },
+ {
+  "title": "Extensor Tendons vs Flexor Tendons",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The extrinsic extensor tendon will straighten up the knuckles, but then we look further out and see that tendon stops at the middle knuckle. What pulls the whole finger straight is actually this intrinsic muscle that’s tapering down and has a very thin tendon. It turns into a lateral band and it travels from the palm side up above the middle knuckle, above that axis of rotation. Then it goes all the way on and attaches to the tip. It’s a super cool mechanism that through a series of mechanical placements, it’s able to extend (straighten) the finger by contracting. But it doesn’t take much to damage that tendon. If you take a direct blow to that knuckle and that tendon slips because you’ve disrupted some soft tissue, it can slip below the axis of rotation, then it becomes a flexor and you get a Boutonnière deformity. Then you cannot straighten your finger up because those lateral bands that are used to extend the finger have slipped down and become a flexor.",
+  "content_length": 971,
+  "content_tokens": 220,
+  "embedding": []
+ },
+ {
+  "title": "Emergency Surgery in the Hand",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "It’s one of the few really orthopedic emergencies in the hand, which is tenosynovitis, and then it becomes separative (or infected) with puss in there. It can be an open injury or even a pin prick. Sometimes an insect bite or sting. If you’re using sports equipment, you can get a little graphite puncture. Alton doesn’t see them as much now because he’s not in the ER. They’re ubiquitous and they come in all the time, year round.",
+  "content_length": 431,
+  "content_tokens": 116,
+  "embedding": []
+ },
+ {
+  "title": "Nerve Pain, Numbness, and Weakness in the Upper Limbs",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Many people present with numbness, tingling, weakness or pain in the upper limb. It can start from the neck where the nerve roots exit and travel under our collarbone through the brachial plexus in between the scaling muscles and then travels through our armpit and then comes down in through the arm and into the hand. It can be confounding.",
+  "content_length": 342,
+  "content_tokens": 75,
+  "embedding": []
+ },
+ {
+  "title": "Parsonage-Turner Syndrome",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Parsonage-Turner syndrome is an inflammation of the nerves that can affect multiple nerves in the brachial plexus. It presents as a mix of palsy, weakness, and numbness. One of the most common presenting ways is in the long thoracic nerve, which is part of the brachial plexus. Steroids are given to patients and most recover completely, but a few have some residual defects long-term.",
+  "content_length": 385,
+  "content_tokens": 92,
+  "embedding": []
+ },
+ {
+  "title": "Shoulder Pain Originating in the Neck",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Shoulder pain that originates in the neck is common. An intrinsic shoulder problem usually travels down underneath the pain, underneath the big deltoid muscle, but almost never goes below the elbow. If pain is in the shoulder going below the elbow, it may be coming from the neck or something else. Double crush can occur when there is pinching of the nerve in the neck and then because the nerve tube is disrupted or compressed, it renders them more susceptible to milder compression down at the carpal tunnel or the cubital tunnel at the elbow.",
+  "content_length": 546,
+  "content_tokens": 111,
+  "embedding": []
+ },
+ {
+  "title": "Complicated Patient",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "A complicated patient had a bad shoulder fracture.",
+  "content_length": 50,
+  "content_tokens": 9,
+  "embedding": []
+ },
+ {
+  "title": "Pendulum exercises for unstable fracture",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "He was treated in the emergency department, put into a sling, but then also maybe told to do pendulum exercises. Well, it was an unstable fracture, very unstable. The weight of the arm is enormous, and all that weight pulling on an unstable fracture, that put tremendous traction on the nerves. It ended up killing his ulnar and median nerve.",
+  "content_length": 342,
+  "content_tokens": 72,
+  "embedding": []
+ },
+ {
+  "title": "Alton Barron's passion for music and musicians",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Alton founded the Musician Treatment Foundation about 6 years ago. Alton’s passion for music. When he started his practice in New York City,  he was lucky enough to inherit caring for the New York Philharmonic and the Metropolitan Opera Orchestras (mainstays of classical music echelon). That spilled over into Broadway and then jazz musician, rock and roll, and so forth. He’s always loved music and had a passion for it. To be able to take care of musicians is both very stressful initially and incredibly rewarding. They’re like athletes, they’re doing this day in and day out. It’s their livelihood and if it’s disrupted, then both their mental health and their financial health is greatly jeopardized. For his whole career, Alton has been taking care of freelance musicians (and their significant others) who doesn’t know when your next gig is and can’t afford insurance. He was always discounting his cost (sometimes down to nothing).",
+  "content_length": 940,
+  "content_tokens": 213,
+  "embedding": []
+ },
+ {
+  "title": "The Musician Treatment Foundation and its origin",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Alton’s cousin Thor is a mainstay of the Austin music scene, he cut his digital nerve (his finger). He’s a percussionist and now he couldn’t play because such a neuroma had formed and he didn’t have insurance. He called Alton weeks after he had a simple closure done and told him that he couldn’t feel his finger and couldn’t play. He used his air miles to fly to New York and Alton fixed it. Alton knew the surgery center and anesthesiologist and called in a favor (they didn’t charge him). Now he’s fine. This was Alton’s patient zero and his aha moment. They got IRS nonprofit status in 2017 and then Elvis said, “I’m going to do the first concert. I love the Paramount Theater in Austin. Let’s do it in Austin. I’ll do a two hour solo show.” They raised about a quarter of a million dollars. That was the seed money and people came pouring in. Here in Austin, HAAM (the Health Alliance for Austin Musicians) is a big organization that does so much and for so long, but they don’t provide the actual care.",
+  "content_length": 1008,
+  "content_tokens": 265,
+  "embedding": []
+ },
+ {
+  "title": "Injuries in High Level Musicians",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The physical demands of playing a violin or the drums. What are the types of injuries that high level musicians come in with? Musicians are people too, so they do all the stupid things that we all do to injure ourselves (that’s a separate category). They can’t necessarily take the same rest when they’ve injured something. They have to be 100%. If you’re a violinist in the Philharmonic, there are 15 other highest level musicians waiting in the ranks for the opportunity to sit in your seat, your chair on the stage. Alton points out one aspect of this, “I can do surgery with probably three fingers, but if you can’t flex down your index finger or whatever on the fret, then you can’t make the music.” They’re not trying to jump higher, hit the ball farther, drive the car faster, all the different ways that athletes are trying to do to maximize their output. They are submaximal athletes, but it’s repetitious. In a standard NFL game, there are about 35 passes. In a typical Mozart violin concerto, it’s 20,000 bow strokes. And they do that repeatedly over and over and over again. A lot of these are very unnatural positions. Think about violinists, they need their hands, they’re shoulders, they are abducted, they are externally rotated. Their other one is up in the impingement zone. They’re living 8 hours a day doing this. That is terrible for the shoulder. Think of the drummers. High hats and every which way they’re going and going massively for 3 hours straight. It’s just uncanny that they even survive. It’s very different from athletes.",
+  "content_length": 1554,
+  "content_tokens": 371,
+  "embedding": []
+ },
+ {
+  "title": "Musician Treatment Foundation (MTF)",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Work at the Musician Treatment Foundation (MTF). They were flooded with patients initially. There was this backlog of patients who hadn’t played for 6-9 months. They were just fallow, they were trying to get odd jobs, they couldn’t take gigs. Alton’s very first patient (Jennifer Jackson) is a great singer songwriter in Austin and tours around. She had bilateral full thickness rotator cuff tears. She had already gone to try to see somebody, and it was going to cost her $10,000 or more. She had some very minimal insurance. When Alton told her it wasn’t going to cost her anything to fix this, she just started crying. In 5+ years now they’ve provided over $2 million in free care to under and uninsured professional musicians. They’ve probably treated around 50 musicians. And that doesn’t include the ones he’s been discounting. These are the ones they actually funneled through MTF. They’ve had 100’s of non-operative musicians, it’s mind boggling. These are just as bad. Often a cortisone shot makes them better. They have an upcoming concert in December with Elvis, Roseanne Cash, John Leventhal, a bunch of great people. Alton has been able to recruit over 60 colleagues who he knows and trusts. They have the same ethic, they want to give back. They are shoulder, elbow and hand surgeons at the best places around the country. In December they are launching P For M (Physicians for Musicians Network). Up until now, Alton had provided all the care but they they’re going to help provide the care. They have 60 surgeons signed on now. Before they were limited because Alton was the only surgeon. Peter notes they need more dollars to help cover the other costs. Physicians waive their fee. They need to use the nonprofit resources to fun the surgeon centers and anesthesia fees. They’ve been unsuccessful in getting any anesthesiologists who are musicians as well, but are hopeful they will once they get the right momentum. Most surgeons (Alton included) have some participation or partial ownership of a surgery center. His surgery center in Austin costs 1/10 of Medicare. So their biggest cost by far is the anesthesia. Alton’s vision for the Musician Treatment Foundation.",
+  "content_length": 2185,
+  "content_tokens": 497,
+  "embedding": []
+ },
+ {
+  "title": "Fundraising Efforts",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Every year their fundraiser gets bigger and more incredible. It’s a huge concert gala. Alton is kind of a one-man fundraising machine because of all of his generous patients. They are applying for grants and starting to get some. Organizations that provide community grants and so forth are right in the thick of communities because it holds communities together. It develops relationships that weren’t there before. And it’s all ages.",
+  "content_length": 435,
+  "content_tokens": 90,
+  "embedding": []
+ },
+ {
+  "title": "Gratitude and Rucking",
+  "date": "November 28, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Alton practices in 2 cities. Monday and Friday he sees patients at his clinic in Austin. Tuesday, Wednesday, Thursday, he’s in New York City. Peter is grateful that he’s had the privilege of seeing him in both cities and has sent patients to him in both cities. The gratitude is likewise; Peter mentioned rucking at one of their mini meetings and Alton loves it. He’s carrying 35 pounds. He does run rucking because he loves running. He’s only been rucking for about 3 months, 2-3 times a week, but it’s changed his body. He feels lighter, stronger, better. It’s been a game changer for him.",
+  "content_length": 591,
+  "content_tokens": 149,
+  "embedding": []
+ }
+]

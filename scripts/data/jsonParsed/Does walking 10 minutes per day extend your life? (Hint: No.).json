@@ -1,0 +1,162 @@
+[
+ {
+  "title": "The Study",
+  "date": "April 30, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The NYT article was based off of a study suggesting a dose-dependent relationship between increasing daily physical activity 10-30 min and lower risk of death among US adults, regardless of baseline activity level. From 2003 to 2006, 4840 NHANES participants aged 40-85 years were evaluated based on accelerometer data recorded for 7 days. Let me repeat that, the data was recorded for only 7 days. A total of 1165 deaths were reported in the mortality follow-up (mean of 10 years) completed in 2015. The participants were categorized into 8 groups according to the amount of moderate-to-vigorous physical activity (MVPA) they performed, as measured by accelerometers (i.e. total daily activity of 20-39 minutes, 40-59 minutes, and so on). From a previous publication, they found accelerometer measurements surpassing a certain threshold correlated well with a sustained VO2 expenditure equivalent to MVPA. Activities such as gardening, mowing the lawn, and walking are sufficient to be considered as MVPAs.",
+  "content_length": 1007,
+  "content_tokens": 211,
+  "embedding": []
+ },
+ {
+  "title": "The Limitations of Observational Studies",
+  "date": "April 30, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The problem is that without critical understanding of the limitations of observational studies, the author of the news article didn’t recognize major flaws to the study. If results from scientific papers are not thoroughly scrutinized and the media further sensationalizes the findings, then they run the serious risk of exacerbating misinformation and causing more harm than good.",
+  "content_length": 381,
+  "content_tokens": 67,
+  "embedding": []
+ },
+ {
+  "title": "The Calculation",
+  "date": "April 30, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "To estimate the number of annual deaths prevented from increasing MVPA, the authors basically multiplied the U.S. annual deaths of those aged 40-84 in 2003 with the rate of deaths within each MVPA group and designated the result as the population attributable fraction (PAF). Furthermore, the PAF was calculated by multiplying the prevalence of MVPA in each group with the hazard ratio (HR, or risk of death) of each of the 8 MVPA groups, which were adjusted for covariate factors including age, sex, race, education level, BMI, diet, alcohol use, smoking status, comorbidities (e.g., diabetes, heart disease, cancer, chronic diseases), mobility limitations, and general health. In other words, these values approximate the likelihood of death given a person’s physical activity level and from demographic factors or disease. From this calculation, the authors concluded that increasing physical activity by 10, 20, or 30 minutes per day was associated with a decrease in U.S. annual deaths of 6.9% (111,174), 13.0% (209,459), and 16.9% (272,297), respectively.",
+  "content_length": 1061,
+  "content_tokens": 237,
+  "embedding": []
+ },
+ {
+  "title": "The Study's Claim",
+  "date": "April 30, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "the study claims that approximately 110,000 annual deaths can be prevented if US adults aged 40-85 years increased their moderate-to-vigorous activities by 10 minutes a day.",
+  "content_length": 173,
+  "content_tokens": 37,
+  "embedding": []
+ },
+ {
+  "title": "Issues with the Study",
+  "date": "April 30, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "There are a litany of issues with this study, but let me share a select few that may help you understand why observational studies like these purport outrageous findings.",
+  "content_length": 170,
+  "content_tokens": 33,
+  "embedding": []
+ },
+ {
+  "title": "Issue #1: Only 7 Days of Data",
+  "date": "April 30, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "One positive aspect to the study was that it relied on data from accelerometers for physical activity measurements, a far more accurate strategy than using questionnaires which rely on participant memory. However, accelerometer recording lasted for only 7 days.",
+  "content_length": 261,
+  "content_tokens": 46,
+  "embedding": []
+ },
+ {
+  "title": "Issue #1: Extrapolation from One Week to a Full Lifetime",
+  "date": "April 30, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The authors have basically taken one week’s worth of physical activity information and extrapolated it to the participant’s lifetime. This assumption is patently invalid.",
+  "content_length": 170,
+  "content_tokens": 34,
+  "embedding": []
+ },
+ {
+  "title": "Issue #1: Concerns for Covariates",
+  "date": "April 30, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Extrapolation from one week to a full lifetime is also a concern for the plethora of covariates included in the HR analysis.",
+  "content_length": 124,
+  "content_tokens": 26,
+  "embedding": []
+ },
+ {
+  "title": "Issue #2: Healthy User Bias",
+  "date": "April 30, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Another major concern for this study is the healthy user bias, which occurs when participants of a treatment are healthier because of factors other than the treatment’s effect.",
+  "content_length": 176,
+  "content_tokens": 33,
+  "embedding": []
+ },
+ {
+  "title": "Issue #2: Difficulty in Isolating Effects of Physical Activity",
+  "date": "April 30, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Because there are numerous factors affecting overall health, it is difficult to isolate the effects of just physical activity without conflating its effect with other covariates.",
+  "content_length": 178,
+  "content_tokens": 31,
+  "embedding": []
+ },
+ {
+  "title": "Issue #3: Correlation vs. Causation",
+  "date": "April 30, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The study does not prove causation, but rather correlation.",
+  "content_length": 59,
+  "content_tokens": 11,
+  "embedding": []
+ },
+ {
+  "title": "Correlation vs. Causation",
+  "date": "April 30, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Correlation simply implies there is some association between two variables; they tend to vary in coordination with each other. Causation, on the other hand, implies that one variable directly affects another variable. Determining causation usually requires interventional studies, especially of a randomized design.",
+  "content_length": 315,
+  "content_tokens": 56,
+  "embedding": []
+ },
+ {
+  "title": "Interventional Studies for Causation",
+  "date": "April 30, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "In the case of activity level effects on mortality, this would ideally involve random assignment of individuals to either a control group (in which participants maintained their normal daily activity level) or treatment groups (in which they must add an additional 10-30 minutes of daily MVPA above baseline), continuing these practices until the end of the follow-up period. Comparison of mortality rates in the control and treatment groups would then permit us to draw some conclusions about the causality of any potential effect.",
+  "content_length": 532,
+  "content_tokens": 96,
+  "embedding": []
+ },
+ {
+  "title": "Flaws in the Study",
+  "date": "April 30, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "This study instead provided a statistical model based off of observed correlations only, they did not test to see if there was a direct relationship between physical activity and mortality. In other words, this study involved no intervention to establish causality, and it is therefore incorrect to state that 10 minutes of physical activity can prevent 110,000 deaths.",
+  "content_length": 369,
+  "content_tokens": 66,
+  "embedding": []
+ },
+ {
+  "title": "Misinterpretation by the Media",
+  "date": "April 30, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The New York Times article titled “Walking Just 10 Minutes a Day May Lead to a Longer Life” is a gross misinterpretation of what the study revealed. There is no evidence for cause and effect as the title implies. The study simply found a correlation between participants with higher MVPA and fewer deaths. Furthermore, their calculations of HRs were based on flawed estimations, and adapting the results of this small study to the entire U.S. population multiplies the inaccuracy of the study.",
+  "content_length": 493,
+  "content_tokens": 103,
+  "embedding": []
+ },
+ {
+  "title": "Being Critical of Exercise Claims",
+  "date": "April 30, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Use critical thinking skills when reading articles that make claims about exercise. Review the methods used in the study and ensure they address the question being posed. Be wary of confounding variables and look for evidence that directly supports the claim being made.",
+  "content_length": 270,
+  "content_tokens": 46,
+  "embedding": []
+ }
+]

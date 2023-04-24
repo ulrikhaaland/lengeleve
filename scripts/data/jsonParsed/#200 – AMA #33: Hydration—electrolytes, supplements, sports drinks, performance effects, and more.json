@@ -1,0 +1,422 @@
+[
+ {
+  "title": "Water in the human body",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Peter explains how water is distributed in the body and the important concept of tonicity. He defines isotonic, hypotonic, and hypertonic.",
+  "content_length": 138,
+  "content_tokens": 30,
+  "embedding": []
+ },
+ {
+  "title": "Dehydration and volume depletion",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Peter explains the difference between dehydration and volume depletion and their respective health consequences and implications.",
+  "content_length": 129,
+  "content_tokens": 17,
+  "embedding": []
+ },
+ {
+  "title": "Daily water needs and signs of dehydration",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Peter describes the different conditions which affect our daily water needs, as well as the signs of dehydration and how it can affect performance.",
+  "content_length": 147,
+  "content_tokens": 26,
+  "embedding": []
+ },
+ {
+  "title": "Rehydration methods",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Peter discusses all the ways in which we can rehydrate and when it makes sense to add electrolytes, glucose—or a combination of both—to rehydration fluids.",
+  "content_length": 155,
+  "content_tokens": 36,
+  "embedding": []
+ },
+ {
+  "title": "Sports drinks",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Peter gives his take on the plethora of sports drinks on the market and which ones stand out from the rest.",
+  "content_length": 107,
+  "content_tokens": 22,
+  "embedding": []
+ },
+ {
+  "title": "Key takeaways",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Peter concludes with some key takeaways related to hydration.",
+  "content_length": 61,
+  "content_tokens": 12,
+  "embedding": []
+ },
+ {
+  "title": "Peter’s incident leading to a renewed interest in hydration",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Peter recently lost consciousness and fell and hit his head on a table. He attributes this incident to him being profoundly dehydrated. He had recently given three units of blood a few days before the fall. Two days later he took an overnight flight (which can cause dehydration). On Friday morning he completely lost consciousness and face-planted into a table. That got him thinking about: How can I mitigate this sort of thing from happening again? What does it say overall about my hydration status? Is that partly what may contribute to why I sometimes feel lightheaded in the mornings?",
+  "content_length": 591,
+  "content_tokens": 116,
+  "embedding": []
+ },
+ {
+  "title": "Water in the human body: percentage, location, and implications",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "What does it mean that ~60% of our body is water? Where is this water located?",
+  "content_length": 78,
+  "content_tokens": 20,
+  "embedding": []
+ },
+ {
+  "title": "Water content and location in the body",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "About 67% of your total body water is inside cells. About 20% is in the interstitium (the area that exists between everything which can really expand when you’re sick). About 8% is in the vascular system. And about 5% is basically everything else, including CSF and things like that.",
+  "content_length": 283,
+  "content_tokens": 66,
+  "embedding": []
+ },
+ {
+  "title": "Effect of body composition on water content",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Muscle is far higher in water content than fat. Fat tissue is about 10% water by weight. Muscle is probably 75% water. There’s absolutely going to be a difference in how much water that person is carrying. The more muscular person has a higher amount of their body weight made up in water.",
+  "content_length": 289,
+  "content_tokens": 64,
+  "embedding": []
+ },
+ {
+  "title": "Tonicity",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Tonicity is essentially a measure of how the concentration of one solution compares to the concentration of another solution. The way we think about this in human physiology is all relative to the concentration of a cell, because the cell is the dominant source of water. Isotonic – This would be if you put those red blood cells into a solution that has the same tonicity as them. Hypertonic – if you put the red blood cells into a very concentrate solution we would call that hypertonic.",
+  "content_length": 489,
+  "content_tokens": 100,
+  "embedding": []
+ },
+ {
+  "title": "Tonicity and IV Fluids",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "There’s a natural equilibrium that’s always trying to happen where water is trying to equate the concentration across the permeable membrane of the cell. In a hypertonic solution, the cells would shrivel up as they lose water into the more concentrated surrounding solution. If you put water into a hypotonic solution, there’s going to be an influx of water into the cells and they’ll eventually swell, swell, swell until they actually would rupture. NOTE: The tonicity of pure water is essentially zero. If you just infused water into somebody’s vascular system, you would rupture all the cells in their body. When we give IV fluids, we have to give them relatively close to isotonic solutions. They don’t have to be always isotonic. They can be a little hypertonic in the case of head injuries, as you’re trying to reduce the swelling in their brains, or as you’re trying to suck fluid out. You can also give slightly hypotonic solutions if a person already has too many electrolytes on board. They have their sodium levels are getting too high and things like that. But as a general rule, you’re starting from the baseline of giving an isotonic solution, which is 0.9% sodium chloride. And then you can adjust up or down with how much sodium chloride is in there and also how much other minerals, ions are in there along with things like glucose, which contribute to tonicity as well.",
+  "content_length": 1387,
+  "content_tokens": 308,
+  "embedding": []
+ },
+ {
+  "title": "Important Solutes for Tonicity",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "What are some of the most important solutes for determining the tonicity of blood? Are there certain things that are more important than others? There’s kind of like the 80/20 rule here, which is what contributes to the lion’s share of tonicity within the human physiologic system? The lion’s share of this is contributed by sodium and it’s counterion chloride. Sodium chloride (salt) is what accounts for about 85% of the tonicity of the extracellular space. The other things that contribute to it are glucose and blood urea nitrogen. If you’ve ever had a blood test done, you’ve probably noticed one of the things that shows up on your chemistry panel says BUN (it’s always pronounced by its initials, BUN) that’s the amount of nitrogen coming from the urea, which is part of the waste product of the urea cycle, which is how we get rid of excess protein. The general formula which gets you very close to estimate a person’s plasma osmolality: Plasma osmolality = 2[Na+] + (Glucose / 18) + (Blood Urea Nitrogen / 2.8). So it’s 2x the sodium concentration (it’s basically like saying the sodium and you double it up because sodium is always attached to chloride) plus the glucose concentration in milligrams per deciliter divided by 18 (and that’s correcting for the molar weight) plus the blood urea nitrogen concentration (similar units) divided by 2.8 (which again is a correction for the molecular weight) and that gives you something between about 275 and 295 milliosmoles per kilogram. The way I think about this is usually milliequivalents per liter or molarity, which is millimoles per liter (But again, for these nondissociable solutes, those are all equivalent). For a non-dissociable solute, osmolarity (mOsm/L) = normality (mEq/L) = molarity (mmol/L). Peter will probably refer to them as milliequivalents per liter going forward, but he might refer to it as molarity. Above is complicated, so the thing you want to really remember is that an isotonic solution to human plasma is going to be in the ballpark of about 280 milliequivalents per liter or millimoles per liter. And this will become important as we start to think about rehydration and where we need to be in relation to that.",
+  "content_length": 2200,
+  "content_tokens": 549,
+  "embedding": []
+ },
+ {
+  "title": "Dehydration and Volume Depletion",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Defining dehydration and volume depletion. Many use the word dehydration and volume depletion interchangeably, but they’re technically not the same. Dehydration is a loss of water only, but without an appreciable loss of sodium or any other osmole.",
+  "content_length": 248,
+  "content_tokens": 53,
+  "embedding": []
+ },
+ {
+  "title": "Dehydration vs Volume Depletion",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Dehydration is a loss of water, while volume depletion is a loss of water and electrolytes. Volume depletion is often associated with a decrease in blood volume.",
+  "content_length": 161,
+  "content_tokens": 33,
+  "embedding": []
+ },
+ {
+  "title": "Health Consequences of Dehydration and Volume Depletion",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "In the hospital, dehydration and volume depletion are a huge concern, especially for patients in the ICU. Urine output is a sensitive indicator of volume status, and a decrease in urine output is an early sign that something is not right with the patient's circulating volume. Outside the hospital, urine output is a good indication of hydration status.",
+  "content_length": 353,
+  "content_tokens": 69,
+  "embedding": []
+ },
+ {
+  "title": "Ways We Lose Water",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The most common way that water leaves our system is through urine. We also lose it through our skin with sweat, and through the respiratory surface when we are very active and the temperature and humidity are extreme.",
+  "content_length": 217,
+  "content_tokens": 41,
+  "embedding": []
+ },
+ {
+  "title": "Dehydration and its Exacerbating Factors",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "We lose water through exhaling CO2 and water vapor, and the hotter and drier it is, the more we lose. Natural diuretics like caffeine and alcohol can exacerbate dehydration. Alcohol inhibits antidiuretic hormone vasopressin, making you pee more than you need to. Basic guidelines suggest most adults require 2-3 liters of water per day, but it's important to titrate that to your activity level and environment.",
+  "content_length": 411,
+  "content_tokens": 90,
+  "embedding": []
+ },
+ {
+  "title": "Water Needs Based on Physical Activity and Air Temperature",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "According to Figure 3, sedentary people require 2 liters of water per day under air-conditioned conditions, while very active people require 4.5-5 liters. As temperature increases, fluid demands increase, especially for active people. At 35 degrees Celsius or 95 Fahrenheit, water demand goes up even more. Humidity also affects water demand.",
+  "content_length": 342,
+  "content_tokens": 71,
+  "embedding": []
+ },
+ {
+  "title": "Water and Salt Content of Sweat",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Sweat is hypotonic and salty, with a sodium concentration of 20-60 millimole per liter. This is one fifth to one third of the sodium concentration of plasma. The more hydrated you are, the lower the concentration of sodium in your sweat. Sweat depletes you of a volume more than it depletes you of osmoles.",
+  "content_length": 306,
+  "content_tokens": 74,
+  "embedding": []
+ },
+ {
+  "title": "Dehydration's Effect on the Heart",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Dehydration affects the heart's preload, which is the stretch in the heart before it contracts. The heart is a muscle that likes to have some stretch in it before it contracts so it's stronger when it has preload in it.",
+  "content_length": 219,
+  "content_tokens": 49,
+  "embedding": []
+ },
+ {
+  "title": "The Importance of Heart Volume and Contractility for Performance",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "All things equal, if the heart has X amount of volume versus 1.2X amount of volume in it, it’s going to squeeze harder with that larger amount. But from the standpoint of performance, you want more volume in the heart to increase what’s called contractility (and preload is a huge driver of contractility). As your plasma volume goes down, as you become either dehydrated or volume depleted, your preload goes down, therefore your contractility goes down.",
+  "content_length": 455,
+  "content_tokens": 101,
+  "embedding": []
+ },
+ {
+  "title": "The Impact of Dehydration on Cardiac Output and VO2",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The hydration thing isn’t real impacting VO2, unless you actually get into blood loss, then it is affecting it. But where it’s really affecting it is on the cardiac output side, meaning it’s decreasing contractility because of preload and it’s driving up heart rate. Again, the first thing that you’re going to see in an athlete who’s dehydrated is a higher heart rate than they should have.",
+  "content_length": 391,
+  "content_tokens": 97,
+  "embedding": []
+ },
+ {
+  "title": "Dehydration, Volume Depletion, Glucose, Electrolytes, and Heart Rate",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "A higher heart rate than normal is one clue that dehydration might be going on. Volume depletion is a big part of this. There’s a totally separate component here which is if you are dehydrated, if you are not replacing volume, you’re likely not replacing glucose. Glucose is the most important thing we need to be replenishing while we’re exercising along with electrolytes because glucose is the substrate for ATP substrate. If you’re dehydrated because you’re not taking it enough volume, you’re likely not taking in enough glucose either.",
+  "content_length": 541,
+  "content_tokens": 121,
+  "embedding": []
+ },
+ {
+  "title": "The Impact of Dehydration on Performance",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "By the time a person is losing 4% or 5% of their body mass in water loss, they’re pretty much hosed. At this point, they’re losing alertness, they’re cramping. They’re incredibly fatigued, they’re dizzy, they’re probably hyperthermic. What’s more relevant is what’s happening to people when they lose even 1% to 2% of their mass under those conditions, you’re going to see basically everything go in the wrong direction.",
+  "content_length": 420,
+  "content_tokens": 117,
+  "embedding": []
+ },
+ {
+  "title": "Effects of dehydration on athletes",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Studies show that dehydrated athletes have a heart rate difference of 15 beats per minute, core body temperature difference of a full degree Celsius, a difference in relative perceived exertion of about 15%, and take 15% longer to complete a given time trial. They also have a reduction in power output of 5% to 10%. This can have a big impact on high-level athletes, such as F1 drivers who can lose 2-3 kilograms during a 90-minute to two-hour race due to water loss.",
+  "content_length": 468,
+  "content_tokens": 103,
+  "embedding": []
+ },
+ {
+  "title": "Overhydration and hyponatremia",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Overhydration can lead to hyponatremia, which is a condition where the concentration of sodium in the plasma is significantly reduced. This can cause dizziness, bloating, fatigue, nausea, confusion, vomiting, dyspnea, seizures, coma, and ultimately cerebral edema. Overhydration can happen during exercise when people are drinking a lot of water over a long period of time, especially in high heat conditions where they are losing sodium through sweating and replacing it with just water. This can be exacerbated by the need to drink more in high heat conditions.",
+  "content_length": 563,
+  "content_tokens": 115,
+  "embedding": []
+ },
+ {
+  "title": "Electrolytes and rehydration fluids",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Electrolytes, especially sodium, are important for rehydration fluids because they help to offset the risk of hyponatremia. There are many products and sports mixes available that contain electrolytes and carbohydrates, which can impact the tonicity of the solution being consumed. However, it's important to note that electrolytes were not a major focus for Peter Attia during his long endurance exercise days, as he was more focused on the caloric side of what he was consuming.",
+  "content_length": 480,
+  "content_tokens": 97,
+  "embedding": []
+ },
+ {
+  "title": "Replacing Sodium",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "If we say that, that’s about 140 to 150 milliequivalents, we’re sweating out, call it 20 to 50, 20 to 40 of that. You always want to be thinking about replacing sodium. Everything else is kind of a rounding error.",
+  "content_length": 213,
+  "content_tokens": 57,
+  "embedding": []
+ },
+ {
+  "title": "Magnesium and Potassium",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "There are two other electrolytes that are commonly added to mixes: 1) Magnesium and 2) Potassium. Peter says magnesium should be replaced outside of exercise. Peter is a big fan of slow mag because it doesn’t upset the GI system, it’s fully absorbed, but absorbed slowly, and he wants to get his magnesium outside of my exercise. Potassium is something that shows up in sports drinks and it certainly is an important electrolyte. Firstly, the problem with potassium is you can’t give potassium as freely as you can give sodium. Secondly, if you get potassium wrong, it can be deadly. When you look at what determines the electrolyte content of sports mixes, you’re going to see it’s virtually all sodium and then some of them will have magnesium and potassium.",
+  "content_length": 760,
+  "content_tokens": 168,
+  "embedding": []
+ },
+ {
+  "title": "Glucose in Rehydration Fluids",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Do you need glucose in your water? Short answer: It depends on the duration of your activity. For relatively short duration activity, you really don’t need glucose as you should have sufficient muscle glycogen and liver glycogen to meet all your needs. Peter says for him, any activity up to about two hours at pretty decent exertion, he will not need glucose. In the extreme example, if he were trying to break the world record in a marathon, he would absolutely need glucose under those conditions. But if he’s lifting weights pretty hard for two hours, he would likely need 700 milliliters to a liter of fluid. If there’s glucose in it, that’s fine, but it’s not as necessary is having the electrolytes. Today, if Peter is doing zone 2 for an hour, he’s either doing plain water or water + electrolytes, but no glucose. If you feel that you need a more isotonic solution—because remember water is the most hypotonic solution there is—so if you feel like you need to really increase volume, not just water, then you’re better off just drinking, in my opinion, an electrolyte solution that’s free of glucose.",
+  "content_length": 1109,
+  "content_tokens": 256,
+  "embedding": []
+ },
+ {
+  "title": "Glucose and Electrolytes",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "When you’re exercising, there is a benefit to having glucose in there, in addition to the electrolytes, because they facilitate the absorption of each other faster. That’s where there is truth to some of the marketing claims you see where adding glucose at the right amount to an electrolyte drink will speed up the absorption. Today, we have very good data, and the data is that a glucose containing solution of about 5% to 6% is the sweet spot. Anything that has a higher concentration than that is basically going to be a little bit too rich. And in fact, it’s going to start to become hypertonic. Isotonic is going to be about that 5% to 6% range. The mistake that a lot of people make… Many people err on the side of too much glucose. You see people out there for a 5k fun run, and they’ve got two gels that they’re squirting in their mouth and they’re drinking a Gatorade — that’s just way too much. First of all, Gatorade and Powerade alone is about an 8% solution so they are already slightly higher than isotonic.",
+  "content_length": 1022,
+  "content_tokens": 247,
+  "embedding": []
+ },
+ {
+  "title": "The Importance of Electrolytes in Hydration",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "When adding glucose to a drink, it's important to keep in mind that it can create a hypertonic solution, which is not necessary for a 5k run. Instead, it's recommended to drink a volume of fluid with electrolytes. Glucose can also help with the absorption of sodium, making it easier to absorb. Sports drinks should be hypotonic to isotonic and contain glucose and sodium to maximize water absorption and provide glucose. Soft drinks can exacerbate dehydration due to their hypertonic nature.",
+  "content_length": 492,
+  "content_tokens": 102,
+  "embedding": []
+ },
+ {
+  "title": "The Impact of Different Carbohydrates on Performance",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The type of carbohydrates in sports drinks can impact performance. Pure fructose can cause gastric distress and be difficult to absorb and empty from the gut. Maltodextrin, a complex glucose, is easier to absorb and exit the stomach slower. Today, sports drinks are trending towards maltodextrin + fructose mixes, with a ratio of fructose to maltodextrin of 0.8:1 resulting in the best sprint power, carbohydrate oxidation rates, and oxidation efficiencies.",
+  "content_length": 457,
+  "content_tokens": 95,
+  "embedding": []
+ },
+ {
+  "title": "Optimal ratio of carbohydrate to sodium",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "When you’re sweating, you’re losing 20-60 millimole per liter, which is about a third to a fifth of what’s going on in your blood. So you do need to be replacing sodium. Ideally, you want a hypotonic solution given that you are losing a hypotonic solution. We’ve just established that mixing glucose with sodium increases the absorption of both along with water. An interesting study looked at this: The conclusion of this study was that at a ratio of about 2.0 you see the maximal water absorption. The point is look for a glucose to sodium ratio of about 2:1 is going to maximize your water absorption. From a commercial standpoint, the product that Peter has seen that comes closest to that is Liquid IV.",
+  "content_length": 707,
+  "content_tokens": 159,
+  "embedding": []
+ },
+ {
+  "title": "Pros and cons of sports drinks and which ones stand out",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Unfortunately, people tend to gravitate towards ones that taste best. Peter has experimented with a ton in recent months and says he can’t stand half of them for how they taste – and this leads to him just not drinking much during a workout. Peter does not like anything about the Gatorade/Powerade type drinks (except for maybe the taste). First off, they are hypertonic – the fact that they have close to 400 milliosmoles just tells me that this is not a winning solution. Better options are LMNT, Nuun, and Liquid IV.",
+  "content_length": 520,
+  "content_tokens": 118,
+  "embedding": []
+ },
+ {
+  "title": "Best hydration options for different needs",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Liquid IV is the best option for rapid water absorption and glucose supply. LMNT and Nuun are better for hydration without excess glucose. Peter Attia prefers getting glucose through food. Gatorade and Powerade can cause dental issues.",
+  "content_length": 235,
+  "content_tokens": 48,
+  "embedding": []
+ },
+ {
+  "title": "Hydration from food",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The amount of hydration from food depends on the food. Fatty and anhydrous foods provide less water. Generally, 20% to 30% of water intake comes from food.",
+  "content_length": 155,
+  "content_tokens": 37,
+  "embedding": []
+ },
+ {
+  "title": "Drinking electrolytes without exercise",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Fluids with electrolytes only are better than those with glucose. Coconut water is high in sugar. Rehydration with electrolyte solution is beneficial after hot yoga or sauna.",
+  "content_length": 174,
+  "content_tokens": 37,
+  "embedding": []
+ },
+ {
+  "title": "Key takeaways for hydration",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Tonicity, sodium, and water salt replacement are important for rehydration. Hypotonic solutions are generally better. Carbohydrates are important for long, challenging endurance sports drinks.",
+  "content_length": 192,
+  "content_tokens": 37,
+  "embedding": []
+ },
+ {
+  "title": "Avoid Hypertonic Solutions",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "You definitely want to avoid hypertonic solutions such as soft drinks or even highly concentrated drinks. Gatorade is just a lousy solution here, because it’s hypertonic as well. All they do is trigger intestinal secretion of water and they can ultimately paradoxically result in dehydration. The effect sugar in liquid drinks has on the liver is terrible especially when people are consuming these things outside of exercise.",
+  "content_length": 426,
+  "content_tokens": 82,
+  "embedding": []
+ },
+ {
+  "title": "Find Your Strategy",
+  "date": "March 21, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Just tinker with this stuff, you’ve got to figure out how it works for you. For the Liquid IV, LMNT, Nuun, and other mixes… mixing them according to the directions that they provide is smart as they’ve generally done a lot of work on this and they sort of know the optimal plays. For Peter personally, he actually dilutes the mixes just slightly to remove some of the flavor since he actually prefers the taste of water when exercising. If using glucose in your fluids, look for the 2:1 glucose to sodium concentration. “Anytime I’m not drinking [plain] water, there’s really a purpose that I’m trying to serve in terms of glucose and/or electrolyte replacement and improving hydration status and water absorption.” —Peter Attia",
+  "content_length": 728,
+  "content_tokens": 171,
+  "embedding": []
+ }
+]

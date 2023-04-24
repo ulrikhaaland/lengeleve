@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Glucose in Rehydration Fluids",
+  "date": "June 15, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "For relatively short duration activity, you really don’t need glucose as you should have sufficient muscle glycogen and liver glycogen to meet all your needs. In the extreme example, if he were trying to break the world record in a marathon, he would absolutely need glucose under those conditions. But if he’s lifting weights pretty hard for two hours, he would likely need 700 milliliters to a liter of fluid. If there’s glucose in it, that’s fine, but it’s not as necessary is having the electrolytes.",
+  "content_length": 504,
+  "content_tokens": 116,
+  "embedding": []
+ },
+ {
+  "title": "Isotonic Solution",
+  "date": "June 15, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "If you feel that you need a more isotonic solution—because remember water is the most hypotonic solution there is—then you’re better off just drinking, in my opinion, an electrolyte solution that’s free of glucose. Today, we have very good data, and the data is that a glucose containing solution of about 5% to 6% is the sweet spot. Anything that has a higher concentration than that is basically going to be a little bit too rich. Isotonic is going to be about that 5% to 6% range.",
+  "content_length": 483,
+  "content_tokens": 114,
+  "embedding": []
+ },
+ {
+  "title": "Too Much Glucose",
+  "date": "June 15, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Many people err on the side of too much glucose. You see people out there for a 5k fun run, and they’ve got two gels that they’re squirting in their mouth and they’re drinking a Gatorade — that’s just way too much. First of all, Gatorade and Powerade alone is about an 8% solution so they are already slightly higher than isotonic. Then when you go and add two goos to it, you’ve basically created the most hypertonic solution imaginable — you’ve taken it from 8% to probably 20%. The reality is, you don’t even need those calories to run a 5k. You should just be drinking your volume with electrolytes.",
+  "content_length": 603,
+  "content_tokens": 158,
+  "embedding": []
+ }
+]

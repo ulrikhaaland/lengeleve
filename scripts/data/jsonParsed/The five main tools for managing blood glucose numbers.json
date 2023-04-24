@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Tools for managing blood glucose numbers",
+  "date": "August 16, 2022",
+  "context": "Insulin Resistance",
+  "people": "Peter Attia",
+  "content": "The five main tools for managing blood glucose numbers are nutrition, exercise, management of stress, sleep, and medications/supplements. Starting with the most powerful levers, nutrition, sleep, and exercise can be used to manipulate glucose levels. A given person can have two totally different carbohydrate tolerances depending on their activity levels.",
+  "content_length": 356,
+  "content_tokens": 64,
+  "embedding": []
+ },
+ {
+  "title": "Personal example of carbohydrate tolerance",
+  "date": "August 16, 2022",
+  "context": "Insulin Resistance",
+  "people": "Peter Attia",
+  "content": "Peter shares a personal example of consuming 600 grams of carbohydrates a day while cycling 28 hours a week with no issues maintaining normal glucose homeostasis. However, if he were to consume the same amount of carbohydrates now while exercising only 10 hours a week, his glucose levels would not look nearly as good.",
+  "content_length": 319,
+  "content_tokens": 60,
+  "embedding": []
+ },
+ {
+  "title": "Importance of sleep for managing blood glucose",
+  "date": "August 16, 2022",
+  "context": "Insulin Resistance",
+  "people": "Peter Attia",
+  "content": "Sleep cannot be overlooked when managing blood glucose levels. Poor sleep has been shown to cause insulin resistance, resulting in hyperglycemia. Even short-term bouts of sleep deprivation can result in a 50% reduction in glucose disposal. Additionally, sleep deprivation can affect other downstream factors such as motivation to exercise, willpower to avoid unhealthy food, and stress/anxiety levels.",
+  "content_length": 401,
+  "content_tokens": 74,
+  "embedding": []
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "title": "Linking Skeletal Muscle and Cognition",
+  "date": "October 22, 2022",
+  "context": "Strength & Muscle Mass",
+  "people": "Peter Attia",
+  "content": "A review conducted by Oudbier et al. on the link between low skeletal muscle mass (sarcopenia) and dementia in old age. The review draws data from over a hundred publications on associations between various measures of muscle strength and physical performance and cognition, the biochemical and physiological connections between skeletal muscle and the brain, and the pathophysiological mechanisms underlying cognitive decline. The review collates and evaluates existing evidence for four proposed pathophysiological mechanisms underlying the link between skeletal muscle mass loss due and cognitive decline with age: systemic inflammation, insulin resistance, abnormal protein accumulation, and mitochondrial dysfunction.",
+  "content_length": 722,
+  "content_tokens": 120,
+  "embedding": []
+ },
+ {
+  "title": "What’s the link?",
+  "date": "October 22, 2022",
+  "context": "Strength & Muscle Mass",
+  "people": "Peter Attia",
+  "content": "Skeletal muscle is more than just a workhorse tissue required for movement. Contracting muscle also functions as an endocrine organ, releasing a wide variety of peptides and proteins – collectively known as “myokines” – which act as signaling molecules to other parts of the body. Certain myokines, such as cathepsin B, can cross the blood brain barrier and exert direct effects on neurogenesis pathways. Some myokines are known to have anti-inflammatory effects both systemically and in the brain specifically. Muscle-generated BDNF – another myokine – promotes expression of genes involved in neuronal mitochondrial biogenesis, which in turn is critical for maintaining a healthy pool of mitochondria and avoiding excessive oxidative stress or dysfunctional energy metabolism, processes which subsequently impact muscle protein synthesis and breakdown. The downstream effects of many myokines include triggering release of more myokines, creating a positive feedback loop and amplifying their effects. On the other hand, physical inactivity is thought to inhibit myokine release.",
+  "content_length": 1081,
+  "content_tokens": 210,
+  "embedding": []
+ },
+ {
+  "title": "Another Piece of the Causality Puzzle",
+  "date": "October 22, 2022",
+  "context": "Strength & Muscle Mass",
+  "people": "Peter Attia",
+  "content": "Existing data suggesting that low muscle mass can cause cognitive decline meet many criteria by showing a strong, dose-dependent, and highly consistent association. The review by Oudbier et al. provides another piece of the puzzle by offering a plausible mechanism based in part on hypothesized connections and in part on experimental evidence.",
+  "content_length": 344,
+  "content_tokens": 63,
+  "embedding": []
+ },
+ {
+  "title": "Low Skeletal Muscle Mass and Cognitive Decline",
+  "date": "October 22, 2022",
+  "context": "Strength & Muscle Mass",
+  "people": "Peter Attia",
+  "content": "Oudbier et al.’s review pointed to evidence supporting the idea of a causal relationship between low skeletal muscle mass and cognitive decline – that physical inactivity causes alterations in myokine secretion which then underlie the inverse correlation between muscle mass and cognitive decline with age. Presentation of this plausible mechanism on its own strengthens credibility in the idea that sarcopenia leads to cognitive decline, but further studies are certainly needed to probe these causal links more directly, as well as to investigate how the four major pathophysiological mechanisms intersect and interact.",
+  "content_length": 621,
+  "content_tokens": 111,
+  "embedding": []
+ },
+ {
+  "title": "Exercise is Key to Health and Longevity",
+  "date": "October 22, 2022",
+  "context": "Strength & Muscle Mass",
+  "people": "Peter Attia",
+  "content": "While it isn’t yet certain whether the loss of skeletal muscle mass leads to the avalanche of negative effects in the way the authors suggest, the key actionable takeaway is the same old-same old you’ve heard before: exercise is key to health and longevity.",
+  "content_length": 257,
+  "content_tokens": 56,
+  "embedding": []
+ }
+]

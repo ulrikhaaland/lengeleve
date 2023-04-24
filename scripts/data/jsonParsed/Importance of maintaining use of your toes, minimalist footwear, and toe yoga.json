@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Footwear",
+  "date": "June 6, 2022",
+  "context": "Stability",
+  "people": "Peter Attia",
+  "content": "Peter says going from a minimalist foot pattern to a heavily supported shoe has altered our attachment to the ground. Beth also considers modern footwear to be a problem, particularly because it decreases one’s ability to use their toes.",
+  "content_length": 237,
+  "content_tokens": 45,
+  "embedding": []
+ },
+ {
+  "title": "Toe Yoga",
+  "date": "June 6, 2022",
+  "context": "Stability",
+  "people": "Peter Attia",
+  "content": "Taken from FRC, Beth has her clients do “toe yoga” to help regain and maintain capacity to use the toes. This basically involves spreading the toes apart and moving the big toe and other toes up and down independently of each other, all while keeping the rest of the foot relatively still.",
+  "content_length": 289,
+  "content_tokens": 62,
+  "embedding": []
+ },
+ {
+  "title": "Importance of maintaining use of your toes",
+  "date": "June 6, 2022",
+  "context": "Stability",
+  "people": "Peter Attia",
+  "content": "The ability to use your toes is important because they dampen force. Modern shoes often squeeze your toes and minimize the use of your toes therefore your body becomes accustomed to not needing them. People don’t think about their toes and their feet until there’s a problem. Above your waist is two-thirds of your mass. They’re basically supporting that mass all the time and pushing you through space.",
+  "content_length": 403,
+  "content_tokens": 85,
+  "embedding": []
+ }
+]

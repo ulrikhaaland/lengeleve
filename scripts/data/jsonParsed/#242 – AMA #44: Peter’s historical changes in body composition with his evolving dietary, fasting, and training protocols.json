@@ -1,0 +1,392 @@
+[
+ {
+  "title": "Methods for tracking body composition",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter discusses various methods for tracking body composition, including calipers, hydrostatic testing, and DEXA scanning. He emphasizes that DEXA is the gold standard and is very accurate at measuring fat, bone, and muscle. He recommends his patients get DEXA scans at least once a year.",
+  "content_length": 288,
+  "content_tokens": 61,
+  "embedding": []
+ },
+ {
+  "title": "Visceral adipose tissue (VAT)",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter explains that VAT is one of the compartments of fat that is outside of the subcutaneous stores. He uses the analogy of a bathtub to explain that when we exceed our capacity to store fat in the safe subcutaneous space, we begin to spill over into other places, which can lead to highly inflammatory and problematic fat sources. He emphasizes the importance of avoiding excess VAT.",
+  "content_length": 385,
+  "content_tokens": 78,
+  "embedding": []
+ },
+ {
+  "title": "Bone mineral density",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter discusses the importance of bone mineral density and explains the Z-score and T-score used to measure it. He uses the T-score to diagnose osteopenia and osteoporosis. He recommends monitoring bone mineral density in addition to body composition.",
+  "content_length": 251,
+  "content_tokens": 52,
+  "embedding": []
+ },
+ {
+  "title": "Muscle Mass Metrics: ALMI and FFMI",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The two metrics of muscle mass are appendicular lean mass index (ALMI) and fat-free mass index (FFMI). ALMI is calculated by looking at the lean mass in your arms and legs in kilograms, dividing that by your height in meter squared. The FFMI takes the total fat-free mass in your body and divides that by your height in meter square. Peter wants his patients to be north of the 75th percentile for ALMI and FFMI.",
+  "content_length": 412,
+  "content_tokens": 95,
+  "embedding": []
+ },
+ {
+  "title": "Importance of Tracking Data Over Time to See Trends",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter has kept a spreadsheet for better part of 12 years where he logs his DEXA data. He keeps track of the various things happening in his life during those phases. Not only does Peter track his DEXA data, but he does the same with his blood labs. Trends matter. You’re treating what you see, but you’re mindful of the trends.",
+  "content_length": 327,
+  "content_tokens": 78,
+  "embedding": []
+ },
+ {
+  "title": "DEXA Scans in 2011: Swimming, Lifting, and a Carb-Restricted Diet",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter's historical DEXA scan data shows that his first DEXA scan was in May of 2011. On that particular day, Peter completed a hydrostatic dunk test and it said he was 16% body fat which didn’t seem correct. He decided to go and pay the extra cost for a DEXA which showed his body fat to be 9.3% which was more in line with what he felt. At 38 years old, his 9.3% BF put him in below the third percentile (very lean). FFMI of 23.4 at that age, it’s above the 97th percentile. The important question here is: what was he doing at the time?",
+  "content_length": 538,
+  "content_tokens": 142,
+  "embedding": []
+ },
+ {
+  "title": "Exercise",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "No relevant information found.",
+  "content_length": 30,
+  "content_tokens": 5,
+  "embedding": []
+ },
+ {
+  "title": "Exercise during carb-restricted diet",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Swimming a ton in the pool, lifting weights like crazy, and doing a bit of cycling as kind of cross-training.",
+  "content_length": 109,
+  "content_tokens": 26,
+  "embedding": []
+ },
+ {
+  "title": "DEXA scan results from August 2011",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter lost about 7 lbs, lean mass went down about 3.5 lbs, total fat went down by about 4 lbs, BMC doesn’t change, body fat % went down to 7.5%, FFMI has also gone down a little bit to 23.",
+  "content_length": 188,
+  "content_tokens": 54,
+  "embedding": []
+ },
+ {
+  "title": "Exercise during strict ketogenic diet",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "From 2011 to 2012, he transitioned into cycling. During this period, his exercise time is about the same (maybe slightly more), but now it’s on a bike. He was still lifting weights, but not quite as much. He was cycling 5 days a week. 2 days were really, really long days. 3 days were 90 minutes to 2 hours.",
+  "content_length": 307,
+  "content_tokens": 74,
+  "embedding": []
+ },
+ {
+  "title": "Getting off the ketogenic diet",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter decided in the middle of 2014 to get off a ketogenic diet. While all his metrics of health were really good, it took him three months to just even get over the hump of feeling miserable when he exercised. It took him 18 months to get to the point where he couldn’t distinguish between being on and off carbohydrates.",
+  "content_length": 322,
+  "content_tokens": 68,
+  "embedding": []
+ },
+ {
+  "title": "Loss of muscle during ketogenic diet",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter says he was definitely not getting as much protein then as he is now, and that played a factor in the loss of muscle. In the 3+ years Peter was in ketosis, he was tracking his blood level of beta-hydroxybutyrate every single day. The mean level over those three years was like 1.73 millimole was the BHB level. The reality with keto is that it’s very difficult to get there if you’re consuming sufficient protein.",
+  "content_length": 419,
+  "content_tokens": 102,
+  "embedding": []
+ },
+ {
+  "title": "Protein intake and ketosis",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "If you’re hitting one gram of protein per pound of body weight, you are invariably kicking off some of that protein into gluconeogenesis, which is effectively raising glucose and kicking you out of ketosis. In fact, Peter has trouble staying in ketosis in 2011 and it was because his protein intake was too high.",
+  "content_length": 312,
+  "content_tokens": 66,
+  "embedding": []
+ },
+ {
+  "title": "Peter's keto days",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "80% of his calories came from fat back in those days. Peter did not see a rise in your lipid levels or apoB levels—a response that a number of people have with keto. Some people who get profound inflammation as well, but he didn’t have any of those things. Peter did an oral glucose tolerance test sometime around 2012 or 2013. Despite that, Peter’s fasting glucose that day was about 90. After taking 75 grams of glucola at 30 minutes, it went from 90 to 110 or something like that. His insulin barely went above 10 or something. Those would be VERY insulin sensitive numbers.",
+  "content_length": 577,
+  "content_tokens": 129,
+  "embedding": []
+ },
+ {
+  "title": "A need for humility",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "This is an example of where we need to have a little bit of humility around this. At the time, Peter says that “I very naively assumed my experience with ketosis is the experience [for everyone]”. He was crushing his workouts, his body comp is good, his labs are good, everything is good. So why wouldn’t everybody do this? “Now just even thinking that or saying that just seems so dumb”. The reality is that there’s actually people who go on ketogenic diets and their lipids go through the roof or they become actually quite insulin resistant or they just gain weight like crazy.",
+  "content_length": 580,
+  "content_tokens": 134,
+  "embedding": []
+ },
+ {
+  "title": "Blood biomarkers for evaluating metabolic health",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter mentioned that body fat percentage is very low in importance. More important is: How is your metabolic health? Nick asks Peter if he can elaborate on what markers Peter thinks are important in understanding metabolic health. For instance, if someone is going to try a new nutritional strategy, what can they monitor to see if it’s having any other effects potentially that are negative outside of maybe their weight on a scale? Peter’s response using himself as an example: Lipids. Pay attention to lipids, both advanced and simple lipids. Triglycerides. TGs are always something he’s paying a lot of attention to. Fasting glucose, fasting insulin, insulin response, homocysteine, C-reactive protein. Also during keto days, his fasting glucose, fasting insulin, insulin response, homocysteine, C-reactive protein were all in good shape. He didn’t pay too much attention to hormones at that time, but he doesn’t recall any issues. Testosterone. Post residency (before keto days), he has really, really low testosterone (5th percentile). After he began his health journey, his free testosterone bounced back in a big way, solidly into the 30th to 40th percentile. Uric acid. One number that was persistently elevated back in the keto days, was his uric acid which was “through the roof”. He didn’t really understand why at the time, but today he would argue that that’s probably because beta hydroxybutyrate is competing for the same transporter in the kidney that uric acid is. And anything that raises ketones is going to probably raise uric acid.",
+  "content_length": 1553,
+  "content_tokens": 352,
+  "embedding": []
+ },
+ {
+  "title": "Effects of prolonged fasting on ketones and uric acid levels",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "During prolonged fasting, his ketones levels were getting very high and he was also seeing uric acid levels get really high. While some of that may be due to DNA and RNA turnover, he thinks more of it just has to do with this substrate mix up problem—basically trying to make room for keto excretion in the place of that and having to hang on to more uric acid. High uric acid typically suggests less metabolic health, but again, Peter thinks there’s an explanation for it that is distinct from the normal reasons why elevated uric acid is a marker for bad metabolic health.",
+  "content_length": 574,
+  "content_tokens": 124,
+  "embedding": []
+ },
+ {
+  "title": "Liver enzymes during ketosis",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "In terms of his liver enzymes during ketosis, they were at good levels (always in the twenties).",
+  "content_length": 96,
+  "content_tokens": 21,
+  "embedding": []
+ },
+ {
+  "title": "Effects of time-restricted feeding and prolonged fasting on body weight",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Total Body weight only increased 0.8 pounds from 2014 to 2020. Peter stopped cycling competitively — no more time trials, etc. He also had one or two years where he was being “completely aimless and meandering in my exercise” doing everything from bootcamps to running to doing my own workouts. But he never stopped exercising and his training volume only went down slightly. The answer is he started doing time-restricted feeding (TRF) and prolonged fasting. From 2014-2016, he was doing a ton of TRF such as OMADs (one meal a day). Then from 2017-2020 is when introduced fasting protocols. From 2017-2018 do a seven day of water-only fast once a quarter. By 2019, he changed to three day water-only fasts once per month.",
+  "content_length": 722,
+  "content_tokens": 166,
+  "embedding": []
+ },
+ {
+  "title": "Peter's DEXA scan from December 2020",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "First thing you’ll notice is total body weight barely budged. The more important change would be his body composition: Fat mass basically DOUBLED from 14.3 pounds to 27.6 pounds (13.3 lb increase). His lean mass dropped from 150 to 137.5. That translated to an increase from 8.4% up to 16.1% in body fat percentage.",
+  "content_length": 315,
+  "content_tokens": 81,
+  "embedding": []
+ },
+ {
+  "title": "Peter's Muscle Mass and Body Fat",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter had never had less muscle in his entire adult life (137.5 lbs of lean mass). Now here he was 7 lbs heavier with LESS lean mass. Definitely have a higher body fat, but this is a healthy body fat. VAT is really low which is great. But he was a bit confused as to why his body fat was twice what it was before when I was seemingly not eating anything that much and not eating that often.",
+  "content_length": 390,
+  "content_tokens": 89,
+  "embedding": []
+ },
+ {
+  "title": "ALMI and FFMI from 2014 to 2020",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Now in 2020 his ALMI is 8.8 putting him in the 65th percentile. His ALMI in 2014 was 9.51 (85th percentile). FFMI in 2020 was 20.7 placing him at the 90th percentile. Remember, Peter is one of those people that’s discordant — he always has a higher percentile for FFMI than ALMI.",
+  "content_length": 279,
+  "content_tokens": 76,
+  "embedding": []
+ },
+ {
+  "title": "Peter's Nutritional Approach During 2015-2020",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "His fasting was once a quarter, seven days or once a month, three day fast. He was restricting junk food. But he wasn’t deliberately restricting macronutrients of any sort. He was mostly mindful of not eating crap, but he was never really restricting intake. You could argue there was DR in the form of not having crap food.",
+  "content_length": 324,
+  "content_tokens": 72,
+  "embedding": []
+ },
+ {
+  "title": "DEXA Scan in 2021: Shifting Focus to Adding Muscle, High-Protein Diet, and More Strength Training",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter’s trainer, Beth Lewis, was really riding him about needing to add muscle, “Dude, we need to bulk you up. You are wasting away.” And combining Beth’s advice with Peter’s 2020 DEXA results, he decided to shift all of his focus towards putting muscle back on. He stopped fasting altogether. Protein consumption became the only macronutrient in consideration when it came to his nutrition. He added a day of lifting weights.",
+  "content_length": 426,
+  "content_tokens": 101,
+  "embedding": []
+ },
+ {
+  "title": "Peter's Fundamental Changes Between Dec 2020 and Feb 2022",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "He stopped fasting altogether. Protein consumption became the only macronutrient in consideration when it came to his nutrition. He added a day of lifting weights (more on this below).",
+  "content_length": 184,
+  "content_tokens": 36,
+  "embedding": []
+ },
+ {
+  "title": "More About Peter’s Third Fundamental Change — More Lifting",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "He went from lifting three days a week, Monday, Wednesday, Friday; where each day was a whole body workout. To going four days a week; Monday, Wednesday, Friday, Sunday; where two days upper body, two days lower body.",
+  "content_length": 217,
+  "content_tokens": 50,
+  "embedding": []
+ },
+ {
+  "title": "Changes in Blood Biomarkers",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "From 2014 to 2020, Peter was doing a lot of TRF and fasting. During 2020-2021, he dropped fasting and pivoted to focusing on protein intake. No appreciable change in biomarkers is the short answer. Keep in mind there are certain biomarkers that are now no longer really amenable to measuring change as it pertains to nutrition (For example, lipids). By 2021, Peter is on a maximally suppressive lipid regimen. He’s taking a PCSK9 inhibitor and a statin, effectively obliterating his apoB levels. There would undoubtedly be some fluctuation in apoB as a result of dietary changes, but it’s not really showing up. And the lipid markers that are a better indicator of fuel partitioning—HDL-C, triglycerides—are not really changing. Free testosterone levels are pretty consistently in the 9 to 11 nanograms per deciliter or 90 to 110 picograms per milliliter. So from a biomarker perspective, things are fine.",
+  "content_length": 905,
+  "content_tokens": 210,
+  "embedding": []
+ },
+ {
+  "title": "DEXA scan in early 2022",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Now looking at the time period between August 2021 and February 2022. Changes Peter made during this window of time: He’s staying the course in terms of he’s still not fasting, focusing on protein consumption, and he still training a lot. But in the summer of 2021, he added blood flow restriction (BFR) to his workouts (see episode #179 with Jeremy Loenneke). For nutrition, he really started to eat even more calories with the idea that he’s going to allow himself to gain weight and hope the majority of that will be lean muscle. Then in February 2022, he realizes he’s going to need shoulder surgery the next month (March). So he’s actually now doing prehab for shoulder surgery—still exercising just as hard, but he’s preparing himself to have that surgery. Prior to surgery, he gets another DEXA scan on 2/10/22. Total body weight: 187 pounds. Heaviest he’s been in a long, long time. His lean mass has gone up to 152.9 lbs (increase of 8.5 lbs). His fat mass increased by about 2 lbs. Even though he’s gained 10 pounds, his body fat % stayed about the same—the reason is, of course, his fat mass and lean mass increased in proportion to each other at the same body fat. Interestingly, his VAT is now up to 500 grams (now a little bit below the 10th percentile). So VAT went from basically being undetectable (3rd percentile) to the 10th percentile. Note that Peter’s goal for his patients is for VAT to be at or below the 10th percentile. Peter’s ALMI is 95th to 97th percentile and FFMI is above the 97th line. For ALMI and FFMI, he wants to see at or above the 75th percentile.",
+  "content_length": 1586,
+  "content_tokens": 393,
+  "embedding": []
+ },
+ {
+  "title": "DEXA scan in late 2022",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "A month after his February 2020 DEXA scan, Peter has shoulder surgery on March 21st. He entered surgery at about 187 lbs, and by the end of April (one month later), Peter’s body weight dropped down to about 172 lbs — “insanely quick” drop. He was only inactive for a total of two days. A couple days after surgery, he was on a stationary bike. He was in the gym doing leg workouts and lifting with his left arm. So it’s not like he lost that muscle mass because he was bedridden. Couple of things happened around this time: 1 – This is a confounder here, he got sick right after surgery. The net effect of that bug was it really suppressed his appetite, but also his intense training went down and that has an appetite suppressing effect. 2 – But the other big thing that happened was he couldn’t carry heavy things. Couldn’t pick up anything heavy or do a pull-up or do any of these things.",
+  "content_length": 891,
+  "content_tokens": 214,
+  "embedding": []
+ },
+ {
+  "title": "Peter's Recovery and Changes After Shoulder Surgery",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter's weight got down to 172 and then he began an 'insane recovery of eating'. He made a conscious decision to not sacrifice exercise, sleep, time with family, or drinking less, but relaxed on eating. He lost 10 pounds after surgery and hit his nader six weeks post-op. He has a patient who had the identical surgery to him about two months later and he had the exact same experience weight wise. Peter is not aware of literature that makes that case, but it would be a very interesting topic to look at what’s the average weight loss and then regain in body comp change, status post hip surgery, knee surgery, shoulder surgery, et cetera.",
+  "content_length": 641,
+  "content_tokens": 140,
+  "embedding": []
+ },
+ {
+  "title": "Peter's Temporary 'Zero Restriction' Diet",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Referring to the months between his March 2022 surgery and his next DEXA scan in December 2022, Peter says it’s strange to go deep into his own weird psychology. There’s a part of him that knows that he’s not going to eat this way for the rest of his life, so he made the decision to just enjoy this period of time. He could really sense the stress eating and would walk down to the pantry and get himself a bowl of mini-wheats and 'inhale them'.",
+  "content_length": 446,
+  "content_tokens": 110,
+  "embedding": []
+ },
+ {
+  "title": "Peter's DEXA Scan Results in December 2022",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Nine months post-surgery and six months post weighing 172 pounds, Peter now weighed 196.3 lbs. That is 10 pounds more than he weighed preoperatively (Feb 2022). Of all that 10 pounds that he gained since February, two of them were muscle. His VAT was unchanged (down slightly, but within the margin of error and still under the 10th percentile). Lean mass went up slightly, fat mass went up a lot (from 27 to 34 lbs), and body fat increased from 14.4 to 17.4%.",
+  "content_length": 460,
+  "content_tokens": 108,
+  "embedding": []
+ },
+ {
+  "title": "Body Composition",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter's body fat is at the 20th percentile, and his visceral fat is at the 10th percentile. His ALMI is between the 90th and 97th percentile, and his FFMI is about 23.3. Peter was pleasantly surprised that his body fat was only 17%. His recent blood work showed that his triglycerides were about 45, and his fasting insulin was about 7. His testosterone remains normal at 11 nanograms per deciliter for free testosterone. His liver enzymes went up a little bit, but he had switched to a different statin.",
+  "content_length": 504,
+  "content_tokens": 113,
+  "embedding": []
+ },
+ {
+  "title": "Training Approach",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter added blood flow restriction to his training, which helped him gain 15 pounds of muscle mass. He did a lot of training, a lot of protein, and a lot of BFR. He plans to try something nutritionally for the next four months that he's never done before, which is straight calorie macro tracking as a form of CR. He will use the app called Carbon to track his macros.",
+  "content_length": 368,
+  "content_tokens": 82,
+  "embedding": []
+ },
+ {
+  "title": "Peter's Nutritional Goals",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter's biggest goal is to have a balanced diet with a protein target of 184 grams a day. His total calorie goal is about 2700 to 2800 a day. He tracks his protein and calorie intake using an app and adjusts his fat and carb goals accordingly. Peter pays attention to calories and protein only. He enters his body weight every day and every week the app makes adjustments. Peter's protein intake has not changed since he started CR. He still tries to get 45 to 50 grams of protein four times a day.",
+  "content_length": 498,
+  "content_tokens": 105,
+  "embedding": []
+ },
+ {
+  "title": "3 Nutritional Methods of Energy Restriction",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "There are three nutritional methods of energy restriction: caloric restriction, dietary restriction, and time-restricted feeding (TRF). Caloric restriction is the most direct way to solve the problem and is completely agnostic to what and when you eat. The downside is that it requires tracking. Dietary restriction is effective at reducing energy intake, but it can be socially restricting and still lead to overeating. TRF is conceptually the easiest, but it can lead to problems with protein intake.",
+  "content_length": 502,
+  "content_tokens": 96,
+  "embedding": []
+ },
+ {
+  "title": "Peter's thoughts on time restricted feeding",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter is not a huge proponent of TRF except for patients in whom it’s just the only instructions that they can follow. He warns that people who go on long-term time restricted feeding, lose insane amounts of muscle mass and they often gain fat mass while their weight goes up or down slightly. The bigger problem is just poor health choices, poor food choices that leads to poor health, leads to poor muscle mass.",
+  "content_length": 413,
+  "content_tokens": 86,
+  "embedding": []
+ },
+ {
+  "title": "Peter's current thoughts on fasting",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter says possibly but not at the same frequency he used to (for the reasons mentioned above). For another reason, his schedule and work environment makes it more of a challenge. He’s not traveling to NY and staying alone, he’s mostly home with his family now.",
+  "content_length": 261,
+  "content_tokens": 58,
+  "embedding": []
+ },
+ {
+  "title": "Peter's parting thoughts on health metrics",
+  "date": "February 13, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter emphasizes that health should be indexed over weight. He warns against relying on a single metric like body weight or DEXA for assessing health. Instead, he suggests looking at a broader context of factors like sleep, nutrition, blood biomarkers, and functional metrics like VO2 max and Zone 2.",
+  "content_length": 300,
+  "content_tokens": 60,
+  "embedding": []
+ }
+]

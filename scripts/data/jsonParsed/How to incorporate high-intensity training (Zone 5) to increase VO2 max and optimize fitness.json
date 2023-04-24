@@ -1,0 +1,52 @@
+[
+ {
+  "title": "Peter's 4 Pillars of Exercise",
+  "date": "May 16, 2022",
+  "context": "High Intensity & Zone 5 Training",
+  "people": "Peter Attia",
+  "content": "1) Stability\n2) Strength\n3) Low-end aerobic, to improve mitochondrial efficiency\n4) High-end aerobic, for peak aerobic/ anaerobic performance",
+  "content_length": 141,
+  "content_tokens": 35,
+  "embedding": []
+ },
+ {
+  "title": "High Intensity Training for VO2 Max and Longevity",
+  "date": "May 16, 2022",
+  "context": "High Intensity & Zone 5 Training",
+  "people": "Peter Attia",
+  "content": "From a lens of health, the data are unambiguous— VO2 max is highly correlated with longevity\nThere are not many variables that are more strongly correlated\nHigh intensity training is important to improve glycolytic capacity\nWe lose glycolytic capacity as we age and it’s important to stimulate it",
+  "content_length": 296,
+  "content_tokens": 64,
+  "embedding": []
+ },
+ {
+  "title": "Incorporating High Intensity Training",
+  "date": "May 16, 2022",
+  "context": "High Intensity & Zone 5 Training",
+  "people": "Peter Attia",
+  "content": "Peter asks if he has 1 additional training session per week, should he do a 5th session of Zone 2 training or a VO2 max protocol?\nFor VO2 max, high intensity training, Peter prescribes patients to do a 4×4 protocol\nIñigo recommends if you have a 5th day, do any type of high intensity session\nAdd a high intensity interval 2-3 days a week at the end of that Zone 2 training, and you’ll target both energy systems: the oxidative mitochondrial system and the glycolytic energy system",
+  "content_length": 481,
+  "content_tokens": 114,
+  "embedding": []
+ },
+ {
+  "title": "Zone 2 and Zone 5 Training",
+  "date": "May 16, 2022",
+  "context": "High Intensity & Zone 5 Training",
+  "people": "Peter Attia",
+  "content": "Is zone 5 training okay to do immediately following zone 2 training?\nIñigo says no, because it’s done at the end, then exercise is over\nBut don’t do it in the reverse order because this will trigger all these hormonal responses and high blood lactate",
+  "content_length": 250,
+  "content_tokens": 59,
+  "embedding": []
+ },
+ {
+  "title": "Zone 2 Training",
+  "date": "May 16, 2022",
+  "context": "High Intensity & Zone 5 Training",
+  "people": "Peter Attia",
+  "content": "Peter is glad Iñigo raised this point because often patients will say, “I went out and did a two-hour ride today and it showed me that I spent 45 of those minutes, 45 of those 120 minutes were in Zone 2. So I did 45 minutes at Zone 2” This is not the same as spending 45 minutes in dedicated Zone 2 training. There is a lot of up and down intensity. The average might be Zone 2, but you’re oscillating between Zone 1, Zone 2, Zone 4, all the time.",
+  "content_length": 447,
+  "content_tokens": 114,
+  "embedding": []
+ }
+]

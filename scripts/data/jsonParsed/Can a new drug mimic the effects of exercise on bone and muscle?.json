@@ -1,0 +1,92 @@
+[
+ {
+  "title": "Resistance exercise is important for reducing sarcopenia and osteoporosis",
+  "date": "March 25, 2023",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Resistance exercise is one of the most potent ways to reduce sarcopenia, the loss of muscle mass and strength, and osteoporosis, the loss of bone mineral content.",
+  "content_length": 162,
+  "content_tokens": 37,
+  "embedding": []
+ },
+ {
+  "title": "Researchers discover a new drug that mimics the effects of exercise",
+  "date": "March 25, 2023",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Researchers from Tokyo Medical and Dental University have recently reported their discovery of a new drug that leads to some of the same effects on bone and muscle as locomotion. Could this drug – which they’ve named “locamidazole” or LAMZ – be an alternative to exercising?",
+  "content_length": 274,
+  "content_tokens": 63,
+  "embedding": []
+ },
+ {
+  "title": "LAMZ was able to blunt the effects of sarcopenia and osteoporosis",
+  "date": "March 25, 2023",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "While it’s not a substitute for exercise, LAMZ was able to blunt the effects of sarcopenia and osteoporosis and may prove to be useful as a stop-gap during temporary extended periods of inactivity.",
+  "content_length": 197,
+  "content_tokens": 48,
+  "embedding": []
+ },
+ {
+  "title": "Mechanism of LAMZ",
+  "date": "March 25, 2023",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The LAMZ-treated cells had a much higher expression of the protein PGC-1α (peroxisome proliferator-activated receptor-gamma coactivator 1-alpha). This transcriptional coactivator enhances mitochondrial biogenesis and regulates the genes involved in energy metabolism. The increased expression of PGC-1α stimulated the differentiation of osteoblasts and myotubes, which would lead to an increase in bone deposition and muscle fiber formation.",
+  "content_length": 441,
+  "content_tokens": 94,
+  "embedding": []
+ },
+ {
+  "title": "LAMZ and its effects on muscle and bone",
+  "date": "March 25, 2023",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The mice treated with LAMZ showed increases in muscle fiber size and bone deposition, but without any reported changes in body composition. The influence of LAMZ with declining levels of sex hormones will need to be compared to these initial results to determine if the drug will be effective in older populations. Each experiment was conducted over 14 days, the equivalent of a few months in humans, so other side effects might not show up in this timeframe.",
+  "content_length": 459,
+  "content_tokens": 88,
+  "embedding": []
+ },
+ {
+  "title": "LAMZ is not a substitute for exercise",
+  "date": "March 25, 2023",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "LAMZ was not able to completely stop the sarcopenic and osteoporotic effects of disuse, so this drug is not a replacement for exercise (or an excuse to be sedentary) in the average person. Exercise is essential for increasing aerobic capacity, cardiac output, and insulin sensitivity. Exercise is also an effective means to improve cognition and mood while lowering stress. LAMZ cannot mimic these myriad effects of exercise beyond muscle anabolism and bone deposition.",
+  "content_length": 469,
+  "content_tokens": 95,
+  "embedding": []
+ },
+ {
+  "title": "Exercise is the best way to maintain overall health",
+  "date": "March 25, 2023",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Physical exercise is one of the best ways to maintain overall health with age.",
+  "content_length": 78,
+  "content_tokens": 15,
+  "embedding": []
+ },
+ {
+  "title": "LAMZ may be a viable therapy in some cases",
+  "date": "March 25, 2023",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "In some clinical cases where exercise is not feasible, such as recovering from a hip fracture, drug therapy such as LAMZ may prove to be a viable way to slow the onset of frailty resulting from inactivity or reduced movement. But more needs to be understood about the effects of LAMZ before it is translated to human trials, including its efficacy in elderly populations.",
+  "content_length": 371,
+  "content_tokens": 75,
+  "embedding": []
+ },
+ {
+  "title": "Exercise is better than exercise-mimicking drugs",
+  "date": "March 25, 2023",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "For those who are able, the best way to continue to avoid sarcopenia and osteoporosis is through exercise – not a flashy exercise-mimicking drug.",
+  "content_length": 145,
+  "content_tokens": 35,
+  "embedding": []
+ }
+]

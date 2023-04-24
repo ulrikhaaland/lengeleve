@@ -1,0 +1,102 @@
+[
+ {
+  "title": "PR Lotion significantly improves high-intensity interval performance",
+  "date": "March 26, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The study found more than a 20% improvement in high-intensity interval training to exhaustion in a study of competitive cyclists. In sports requiring intense endurance lasting between about one to ten minutes, a 1 to 2% improvement can often make the difference between reaching the podium or the middle of the pack. A 20% improvement is staggering.",
+  "content_length": 349,
+  "content_tokens": 66,
+  "embedding": []
+ },
+ {
+  "title": "The Study Design",
+  "date": "March 26, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The Topical Edge investigators recruited eight volunteer competitive cyclists and put them to the test: each of the participants completed two sessions of high-intensity intervals two days apart. For the first session, half were randomized to PR Lotion and the other half to a control lotion that contained all the ingredients of the PR Lotion except the active ingredient. For the second session, the participants “crossed-over” to the alternate lotion so that each participant performed one session using the PR Lotion and the other session using the control lotion. Neither the investigators nor the participants knew which lotion they received in both instances. In other words, this was a double-blinded, randomized, controlled crossover trial, which is a particularly rigorous study design.",
+  "content_length": 796,
+  "content_tokens": 153,
+  "embedding": []
+ },
+ {
+  "title": "How it Works",
+  "date": "March 26, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "It’s essentially nothing more than a topical delivery of sodium bicarbonate, more commonly referred to as baking soda. Baking soda has alkaline or base properties, which can neutralize excess H+, giving baking soda the potential to counteract the acidification of blood. If this happens during higher intensity exercise, it might allow someone to work a little harder and/or a little longer before they reach exhaustion.",
+  "content_length": 420,
+  "content_tokens": 84,
+  "embedding": []
+ },
+ {
+  "title": "Baking Soda and Exercise",
+  "date": "March 26, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Studies suggest that baking soda indeed offers a small benefit during hard exercise bouts lasting between about one and ten minutes, although the results are inconsistent. But delivering the baking soda through the skin bypasses the GI tract and limits these adverse effects.",
+  "content_length": 275,
+  "content_tokens": 47,
+  "embedding": []
+ },
+ {
+  "title": "PR Lotion Study 2018",
+  "date": "March 26, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The 2018 trial references another from 2018, which, according to a blog post from the company’s manufacturers, is awaiting submission for publication. The summary results of the white paper indicated PR Lotion was superior to control with statistically significant improvement in reducing delayed onset muscle soreness (DOMS) following intense exercise, lowering heart rate and perceived exertion (RPE) under the same training loads, and tolerating higher blood lactate levels. However, the investigators did not find significant pH differences. When they looked at performance, there wasn’t a statistically significant improvement in either the short or long intensity tests, contrasting the 2021 trial.",
+  "content_length": 704,
+  "content_tokens": 129,
+  "embedding": []
+ },
+ {
+  "title": "PR Lotion Study Results",
+  "date": "March 26, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The investigators hypothesized that PR Lotion would increase pH and lactate levels and would confer a performance benefit. When they tested this prediction with their experiments, the prediction was wrong. There was no significant difference in performance in either the short or long intensity tests. There was no significant difference in pH in either the short or long intensity tests. There was no significant difference in lactate in the longer intensity test, but lactate was significantly higher (10.8 vs 9.7 mmol/L for PR Lotion and placebo, respectively; P<0.05) after the short intensity series. In a separate poster presentation, the investigators hypothesized that PR Lotion would lower DOMS 24 hours after exercise and would result in faster recovery from DOMS from 24 hours to 48 hours after exercise. Again, the results suggest the prediction was wrong, as 24-hour DOMS scores were not reported and the 48-hour results were split: no significant difference after the long intensity test, but DOMS was significantly lower (P=0.007) with PR Lotion use vs placebo after the short intensity testing.",
+  "content_length": 1110,
+  "content_tokens": 222,
+  "embedding": []
+ },
+ {
+  "title": "HR and RPE Data",
+  "date": "March 26, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Regarding the HR and RPE data, these results are hypothesis-generating since they weren’t predicted beforehand and no corrections were made to account for the number of tests conducted. This is also true of the predictions made in the study.",
+  "content_length": 241,
+  "content_tokens": 49,
+  "embedding": []
+ },
+ {
+  "title": "Importance of Preregistration",
+  "date": "March 26, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Several outcomes at several time points were reported in terms of statistical significance, and the p-value, also known as the α, should be adjusted accordingly, typically using a Bonferroni correction. In other words, you raise the bar on what you deem to be statistically significant to account for the number of shots on goal you get. “If there were only one inference test to perform and only one way to conduct that test, then the P value is diagnostic about its intended likelihood,” wrote Brian Nosek and his colleagues in a 2018 paper on the importance of preregistration and understanding the distinction between postdiction and prediction. “It is not hyperbole to say that this almost never occurs.” (Postdiction involves explanation after the fact, a close cousin of hindsight bias or the I-knew-it-all-along effect. Preregistration is the practice of registering your hypotheses, methods, and methods of analyses of your study before it is conducted.)",
+  "content_length": 963,
+  "content_tokens": 202,
+  "embedding": []
+ },
+ {
+  "title": "Performance and Recovery Benefits of PR Lotion",
+  "date": "March 26, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Am I convinced of the impressive performance and recovery benefits of PR Lotion related to hard bouts of exercise? Should we dismiss the aforementioned research entirely because of its limitations? I think the answer to both questions is no. The 2021 study is the more compelling of the two studies, both because of its simpler design in terms of a more specific prediction and test and because of its results. In terms of performance, the 2021 and 2018 studies were testing different activities. The 2021 study assessed high-intensity intervals lasting 30 seconds while the 2018 study assessed sustained efforts of five and 60 minutes. The 2021 study was also very small, and the list of interventions that work in very small studies, only to fail in larger studies is awfully long. Nevertheless, one interpretation is that the PR Lotion may be better suited for short periods of intense work coupled with short periods of rest in between.",
+  "content_length": 940,
+  "content_tokens": 174,
+  "embedding": []
+ },
+ {
+  "title": "Challenges of Producing Reliable Knowledge in Exercise Studies",
+  "date": "March 26, 2022",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "More than anything else, I believe that looking at these studies more closely is a good opportunity to highlight how challenging it is to produce reliable knowledge even when implementing randomized-controlled trials and the importance of calling your shots before you take them.",
+  "content_length": 279,
+  "content_tokens": 47,
+  "embedding": []
+ }
+]

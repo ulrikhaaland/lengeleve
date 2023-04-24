@@ -1,10 +1,10 @@
-import { Chapter, Chunk, Topic } from '@/types';
-import { loadEnvConfig } from '@next/env';
-import { createClient } from '@supabase/supabase-js';
-import fs from 'fs';
-import { Configuration, OpenAIApi } from 'openai';
+import { Chapter, Chunk, Topic } from "@/types";
+import { loadEnvConfig } from "@next/env";
+import { createClient } from "@supabase/supabase-js";
+import fs from "fs";
+import { Configuration, OpenAIApi } from "openai";
 
-loadEnvConfig('');
+loadEnvConfig("");
 
 const generateEmbeddings = async (chunks: Chunk[]) => {
   const configuration = new Configuration({
@@ -31,14 +31,14 @@ const generateEmbeddings = async (chunks: Chunk[]) => {
     } = chunk;
 
     const embeddingResponse = await openai.createEmbedding({
-      model: 'text-embedding-ada-002',
+      model: "text-embedding-ada-002",
       input: content,
     });
 
     const [{ embedding }] = embeddingResponse.data.data;
 
     const { data, error } = await supabase
-      .from('training')
+      .from("training")
       .insert({
         title,
         date,
@@ -49,12 +49,12 @@ const generateEmbeddings = async (chunks: Chunk[]) => {
         content_tokens,
         embedding,
       })
-      .select('*');
+      .select("*");
 
     if (error) {
-      console.log('error', error);
+      console.log("error", error);
     } else {
-      console.log('saved', i, i);
+      console.log("saved", i, i);
     }
 
     await new Promise((resolve) => setTimeout(resolve, 200));
@@ -63,7 +63,7 @@ const generateEmbeddings = async (chunks: Chunk[]) => {
 
 (async () => {
   const training: Chunk[] = JSON.parse(
-    fs.readFileSync('scripts/data/AMA44/AMA44Parsed.json', 'utf8')
+    fs.readFileSync("scripts/data/layne3/parsedLayne3.json", "utf8")
   );
 
   await generateEmbeddings(training);
