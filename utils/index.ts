@@ -27,7 +27,7 @@ export const OpenAIStream = async (prompt: string, apiKey: string) => {
         {
           role: 'system',
           content:
-            "You are a helpful assistant that accurately answers queries using Peter Attia's knowledge of training. Use the text provided to form your answer. Try to use your own words when possible. Keep your answer under short, but expand if necessary sentences. Be accurate, helpful, concise, and clear.",
+            "You are a helpful assistant that accurately answers queries using Peter Attia's knowledge of training. Use the text provided to form your answer. Try to use your own words when possible. Try to keep your answer short, but expand if necessary. Be accurate, helpful, concise, and clear.",
         },
         {
           role: 'user',
@@ -42,6 +42,7 @@ export const OpenAIStream = async (prompt: string, apiKey: string) => {
 
   if (res.status !== 200) {
     throw new Error('OpenAI API returned an error');
+    console.log(res);
   }
 
   const stream = new ReadableStream({

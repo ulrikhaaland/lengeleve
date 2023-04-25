@@ -1,0 +1,672 @@
+[
+ {
+  "title": "Building muscle, losing fat, and the importance of resistance training",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Layne Norton explains the science of body composition and what’s really driving muscle growth, including the role of nutrition, supplements, and a number of important and misunderstood hormones important to muscle protein synthesis. Furthermore, Layne stresses the importance of maintaining muscle mass even while losing fat for improving metabolic health and longevity and provides the keys to developing healthy habits.",
+  "content_length": 421,
+  "content_tokens": 71,
+  "embedding": []
+ },
+ {
+  "title": "Energy balance, nutrition, & building muscle",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Layne Norton discusses the importance of energy balance, nutrition, and building muscle for improving body composition and overall health.",
+  "content_length": 138,
+  "content_tokens": 23,
+  "embedding": []
+ },
+ {
+  "title": "Bodybuilding vs. Powerlifting",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Bodybuilding vs. powerlifting: comparing and contrasting the training approaches [57:15];",
+  "content_length": 89,
+  "content_tokens": 18,
+  "embedding": []
+ },
+ {
+  "title": "Cutting Weight Without Losing Muscle Mass",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Cutting weight without losing muscle mass: exercise and dietary protocols, fasting, and a look at the literature [1:06:00];",
+  "content_length": 123,
+  "content_tokens": 28,
+  "embedding": []
+ },
+ {
+  "title": "Muscle Protein Synthesis and Leucine",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Muscle protein synthesis and the importance of leucine [1:25:30];",
+  "content_length": 65,
+  "content_tokens": 18,
+  "embedding": []
+ },
+ {
+  "title": "Hormones for Fat Flux and Muscle Growth",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Nitrogen balance and muscle protein synthesis, and the regulatory role of hormones for fat flux and muscle growth [1:37:00];",
+  "content_length": 124,
+  "content_tokens": 27,
+  "embedding": []
+ },
+ {
+  "title": "Intrinsic vs. Systemic Factors for Muscle Growth",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "What’s really driving muscle growth: intrinsic vs. systemic factors, IGF, and hormone signaling [1:46:30];",
+  "content_length": 106,
+  "content_tokens": 27,
+  "embedding": []
+ },
+ {
+  "title": "Protein, Carbohydrates, and Insulin on Muscle Growth",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The role of protein, carbohydrates and insulin on muscle growth and preservation, and the importance of context when interpreting study results [1:55:30];",
+  "content_length": 154,
+  "content_tokens": 30,
+  "embedding": []
+ },
+ {
+  "title": "Preserving Muscle",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Keys to preserving muscle, and the value of habits, consistency, and resilience [2:23:30];",
+  "content_length": 90,
+  "content_tokens": 22,
+  "embedding": []
+ },
+ {
+  "title": "The Impact of Stress on Our Physical and Emotional Health",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "In this episode, Robert Sapolsky, Ph.D., discusses the widespread impact of stress on our physical and emotional health as well as the mechanisms by which it can precipitate chronic illness, dementia, depression, and more.",
+  "content_length": 222,
+  "content_tokens": 46,
+  "embedding": []
+ },
+ {
+  "title": "Optimizing Brain Health",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "In episode #251, Peter Attia, M.D. answers questions related to optimizing brain health, including Alzheimer's disease risk factors, prevention strategies, and more.",
+  "content_length": 165,
+  "content_tokens": 34,
+  "embedding": []
+ },
+ {
+  "title": "Physiology of a stress response",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Robert Sapolsky, Ph.D., discusses the widespread impact of stress on our physical and emotional health as well as the mechanisms by which it can precipitate chronic illness, dementia, depression, and more. He also provides insight into the factors that contribute to the stress response (and our ability to handle it) such as social rank, personality, environment, and genetics.",
+  "content_length": 378,
+  "content_tokens": 75,
+  "embedding": []
+ },
+ {
+  "title": "Individual variation in the response to stress",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Robert Sapolsky, Ph.D., discusses the individual variation in the response to stress, and how everyone has a different optimal level. He also talks about how social rank and personality differences affect our stress response.",
+  "content_length": 225,
+  "content_tokens": 43,
+  "embedding": []
+ },
+ {
+  "title": "Tips for managing stress in the modern world",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Robert Sapolsky, Ph.D., provides tips for managing stress in the modern world.",
+  "content_length": 78,
+  "content_tokens": 19,
+  "embedding": []
+ },
+ {
+  "title": "The impact of stress on cancer, atherosclerosis, dementia, addiction, and depression",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Robert Sapolsky, Ph.D., discusses the impact of stress on cancer, atherosclerosis, dementia, addiction, and depression.",
+  "content_length": 119,
+  "content_tokens": 28,
+  "embedding": []
+ },
+ {
+  "title": "Layne's Childhood and Introduction to Weight Lifting",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Layne grew up in Evansville, IN and played baseball since age 5 and lettered in high school. Also ran cross country in high school. Layne was picked on and “borderline emotionally abused” by other kids when he was growing up. He started lifting weights just to hopefully have people stop picking on him and get some dates. And lifting weights didn’t do either of those things, but I developed a passion for weight training.",
+  "content_length": 423,
+  "content_tokens": 93,
+  "embedding": []
+ },
+ {
+  "title": "Layne's Introduction to Bodybuilding and Competition",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Layne entered his first bodybuilding competition at 19 and won the teenage and novice divisions. He’s always been drug-free in terms of anabolic steroids, growth hormones, all that kind of stuff. No performance enhancing drugs. The only evidence-based natural bodybuilding coach, Joe Klemczewski, lived in his hometown and helped him prepare.",
+  "content_length": 342,
+  "content_tokens": 73,
+  "embedding": []
+ },
+ {
+  "title": "Layne's Academic Path and Overcoming ADHD",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Listening to Joe talk about physiology made Layne want learn more about the human body and do more academically. Neither did academics, but “I did find at a young age that through sheer volume of work I could overcome a lot of that stuff”.",
+  "content_length": 239,
+  "content_tokens": 54,
+  "embedding": []
+ },
+ {
+  "title": "Layne's Study Habits",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "ADHD made it hard for him to focus in school, and he found he had to study more than his classmates. In an advanced chem course in high school, he studied for 15 hours for a test but a friend who got the same grade only studied a bit the night before. Layne’s college roommate could sit and study for 8 hours straight, while he would get in about 30 hours of productive studying if he tried that, so he learned to work in 30-45 minute blocks with breaks in between.",
+  "content_length": 465,
+  "content_tokens": 105,
+  "embedding": []
+ },
+ {
+  "title": "Layne's Career Transition to Health and Fitness",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "By his junior year he had started writing articles for bodybuilding.com. In graduate school, Layne “had crested the Dunning-Kruger curve and was down in the valley”. The Dunning-Kruger curve is perceived versus actual knowledge. When we start learning about a subject, since we are aware that we know little, our perceived knowledge pretty much aligns with how much knowledge we have (both very low). But our perceived knowledge skyrockets after about 6-12 months after starting to study a particular subject. Eventually if you keep learning you realize that you did not know as much as you thought and how much more there is to learn. “Even though … your actual knowledge is going up, your perception of your knowledge starts going down. And I would say my third year of graduate school was where it got to the very bottom”.",
+  "content_length": 825,
+  "content_tokens": 181,
+  "embedding": []
+ },
+ {
+  "title": "Layne's transition to the fitness industry",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Layne knew he wanted to work in the fitness industry but little else. He went to grad school to learn more and delay his decision so he could figure out what he wanted to do. Ended up focusing more on nutrition than exercise physiology. He says, “I have a PhD in nutrition. I will tell you, training is the most powerful thing for your health and body composition that you can possibly do”",
+  "content_length": 389,
+  "content_tokens": 84,
+  "embedding": []
+ },
+ {
+  "title": "The importance of training",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "If you don’t train, the changes to body composition from dietary changes will be minimal – you will lose and gain some lean body mass along with fat. “Resistance training specifically is the most powerful tool you have to change your body composition, and I would actually argue your overall health as well.” —Layne Norton",
+  "content_length": 322,
+  "content_tokens": 69,
+  "embedding": []
+ },
+ {
+  "title": "The power of persistence and resilience in the face of setbacks",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Layne’s best total is nearly 1800 pounds. Layne never had a period of time where his gains were crazy, but he found that when he was very consistent and steady, he had very steady increases. The importance of working through setbacks. Layne has seen plenty of instances where people have natural success right out of the gate and then when they start to meet resistance in their gains they give up. Whereas the early resistance helped Layne in the long term as he was ready to overcome the harder obstacles down the road. Work ethic makes a huge difference in bodybuilding compared to other things",
+  "content_length": 597,
+  "content_tokens": 120,
+  "embedding": []
+ },
+ {
+  "title": "Bodybuilders in person vs. on stage",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Layne says that competitive bodybuilders look much more impressive in person than in onstage photos in terms of definition, muscle size, muscularity, etc. The only bodybuilders Peter has paid attention to are Lee Haney and Dorian Yates and he has never seen someone of that stature in person",
+  "content_length": 291,
+  "content_tokens": 58,
+  "embedding": []
+ },
+ {
+  "title": "Training Volume and Resilience",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Layne won a gold medal in the squat at the International Powerlifting Federation (IPF) world championships and set a world squat record. The preceding 2 weeks before he won gold, he did 34 sets with over 500 pounds between squat and deadlift. Layne says he was gifted with a resilient body & mind. His gains were never overnight, it was always just kind of a slow, steady progression. His training did not come without setbacks. He had multiple injuries: two herniated neck discs, multiple herniated lower back discs, hip injuries, etc., and it helped him to deal with those setbacks early in his career.",
+  "content_length": 604,
+  "content_tokens": 129,
+  "embedding": []
+ },
+ {
+  "title": "Persistence and Resilience",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Layne suggests starting small and over time, every little thing that you go through might feel insignificant in terms of what it means to you at that time. But when you look back, you can draw on that. He doesn’t like people saying “have more confidence in yourself” – confidence has to be based on something. He is encouraged when his own kids take an interest in something because of the discipline they’ll learn.",
+  "content_length": 415,
+  "content_tokens": 91,
+  "embedding": []
+ },
+ {
+  "title": "Performance and Technique Maturity",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Peter notes that Layne's numbers are “very mortal,” which shows there has been a very slow and steady trajectory to where Layne is now and likely reflects muscle and technique maturity.",
+  "content_length": 185,
+  "content_tokens": 40,
+  "embedding": []
+ },
+ {
+  "title": "Injuries and Back Pain",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Layne battled multiple injuries: two herniated neck discs, multiple herniated lower back discs, hip injuries, etc.",
+  "content_length": 114,
+  "content_tokens": 26,
+  "embedding": []
+ },
+ {
+  "title": "Neck and Lumbar Herniations",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Layne had neck herniations from college rugby and had lost about 40% of strength on the left side. He had radiating pain from his lumbar herniations. When it flared up, it was 10/10 and he could not get off the floor. Saw Stu McGill, one of the more well-known experts on lower back pain, who pointed out that about 60% of all people over 30 have disc herniations. Ended up squatting 661 lbs and tying the world record. But back pain was an issue from that meet in March and world championships were in June. Had to take 4 weeks off squatting and deadlifting and started only 4 weeks before world championships. He got the gold and set a world record in squat and a silver medal overall. But issues continued during a stressful period a few years later. Starting in December 2017, he took about 9 months off from any spine loading, which was probably overkill. But, he built back up and In 2019 he hit a 666 lb squat in the 727 lb deadlift at nationals.",
+  "content_length": 953,
+  "content_tokens": 219,
+  "embedding": []
+ },
+ {
+  "title": "Approaches to Managing Pain",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Research shows that one of the best things you can do for low back pain is resistance training. But, if you were doing it with a load that increases that pain, then it’s going to make it worse. Modify the load, tempo, and range of motion to reduce pain. If those don’t work, modify the exercise selection. Layne now knowns not to work through the pain, which made things worse, but to modify training to reduce the pain to a 2 or 3 out of 10. When he had hip pain for 6-7 months, he stopped doing full range of motion squats and did above parallel pin squats instead (pause at the pins and then come up). After about 6 weeks it did not hurt as much. Then gradually increased his efforts until he could do a full squat without pain. Layne modifies variables instead, sees it as a puzzle to work out. Peter agrees that the worst thing for an injury is completely stop the activity.",
+  "content_length": 879,
+  "content_tokens": 200,
+  "embedding": []
+ },
+ {
+  "title": "Disagreeing with Doctors",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Layne says he does not agree with docs who tell athletes they must give up their sport. It’s not “a death sentence” for most people, especially with back injuries. About half of people over 35 have herniated discs they are unaware of because they’re asymptomatic.",
+  "content_length": 263,
+  "content_tokens": 65,
+  "embedding": []
+ },
+ {
+  "title": "Pinpointing the Cause of Pain",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Layne suspects that his lumbar flexion was a trigger for his pain. Peter says some people don’t have segmental control within the spine: can’t generate enough intraabdominal pressure, too much lordosis in the spine when they’re under an axial load, can’t generate enough articulation between T12 and L1, tend to generate disproportionate load at hinge points.",
+  "content_length": 359,
+  "content_tokens": 87,
+  "embedding": []
+ },
+ {
+  "title": "Comparing powerlifting and bodybuilding",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Bodybuilding is a subjective sport where it’s about how you look and strength is less important. Powerlifting requires a lot of strength but nobody really cares how you look. Consensus seems to be that hypertrophy does matter for strength training, so the more muscle you have, the more weight you’re going to be able to lift. Bodybuilding is much more forgiving and has a lot of options because it’s simply about creating tension on the muscle to get the requisite volume and progressive overload. With powerlifting, you can do some accessory movements, but you still have to do and be well-trained on the major lifts.",
+  "content_length": 619,
+  "content_tokens": 132,
+  "embedding": []
+ },
+ {
+  "title": "Cutting weight without losing muscle mass",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "How much lean body mass vs. fat gets lost depends on how much body fat you’re starting with. Someone who is overweight or obese doesn’t need to worry about losing too much lean body mass. Layne implements diet breaks, periods of eating at maintenance. Aim for a level of calories where you’re not going to add back fat tissue, but you can eat more than you did previously. Layne would aggressively diet for 2-3 weeks to try to lose 1.5-2 lbs a week, then 1-3 weeks of eating just a maintenance level of calories (3200-3400 calories for Layne). Worked well for him to maintain his strength. Wouldn’t use this strategy if he were getting ready for a bodybuilding show or coming down from a higher body fat. Use it as approach lower levels of body fat.",
+  "content_length": 749,
+  "content_tokens": 178,
+  "embedding": []
+ },
+ {
+  "title": "Body fat set point",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The body has a relatively tight range of homeostatic body fat that it will try to maintain. When you drop below that range, you really start to feel the negative effects of caloric restriction. Layne estimates his body fat setpoint range is 7-11% by caliper readings. Peter says that as recently as 10 years ago he was 7.1 – 7.8% by DEXA and he looked nothing like a bodybuilder. It seems that if your body has a higher body fat set point, you may see some lean body mass loss at a similar body fat to what Layne is able to retain more at.",
+  "content_length": 539,
+  "content_tokens": 128,
+  "embedding": []
+ },
+ {
+  "title": "Diet, fasting, and muscle mass",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Diet-induced lean body mass reduction may be because people are not doing resistance training. Lean body mass is all non-fat tissues, including body water, and a lot of what we see with lean body mass loss is water, gut tissue, liver. You can lose glycogen, which tracks with water. Peter does periodic fasting for health benefits and only does resistance training on fasting days. What it takes to maintain muscle tissue is very minimal compared to what it takes to actually build it. Layne does not claim you can’t get strong fasting, only that it’s unlikely you can get as big and strong as someone who is consuming nutrients regularly.",
+  "content_length": 639,
+  "content_tokens": 135,
+  "embedding": []
+ },
+ {
+  "title": "Peter's Muscle Loss",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "In January 2021, Peter weighed the same he did 10 years before but a DEXA showed he had lost muscle mass. His body fat increased from about 7% to 16% over a decade. Used to train 4.5-5 hours a day, now maybe 90 minutes. Different priorities and goals. His colleague Beth Lewis suggested he stop fasting to build more muscle. It’s an optimization issue.",
+  "content_length": 352,
+  "content_tokens": 83,
+  "embedding": []
+ },
+ {
+  "title": "Animal vs Plant Protein",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Randomized controlled trials don’t show much difference between plant and animal protein. But 8 weeks is a short time window to look at muscle mass. Layne knows he’s biased because he did work on leucine and has received funding from the egg and dairy councils. He fully acknowledges that you can build muscle with plant protein, as shown by plant-based bodybuilders with impressive physiques. But requires more detailed planning because of limited amino acids, low leucine content, etc. But he thinks animal protein is going to end up being superior for muscle building. Studies are underpowered and not long enough to show any difference between plant and animal protein.",
+  "content_length": 673,
+  "content_tokens": 136,
+  "embedding": []
+ },
+ {
+  "title": "Limitations of Current Studies",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Peter points out that studies are limited because it’s difficult to control the variables, and the tighter they are the shorter the study must be. Kevin Hall’s studies are at the highest level that can be done (use inpatient setting). Peter is friends with Kevin, has seen his lab at the NIH and others, has even  personally spent time inside the metabolic chambers, which have the highest level of precision inside a chamber that does indirect calorimetry, but you can’t put somebody in this situation for a year. “If we think that the difference in a person over six months might be two to three pounds of muscle mass under perfect conditions, it’s going to be very difficult to tease that out in eight weeks” or in real-world conditions.",
+  "content_length": 740,
+  "content_tokens": 163,
+  "embedding": []
+ },
+ {
+  "title": "Muscle Protein Synthesis and the Importance of Leucine",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Leucine is one of the 3 branched chain amino acids which are good for muscle. In his studies, Layne looks at mixed muscle protein synthesis. He presented data on an experiment in which he used a stable isotope, d5-phenylalanine (on which one of the hydrogens on the phenylalanine is deuterated), to assess was looking at how much of that label gets incorporated into the mixed muscle versus how much is in the precursor pool (the intracellular fluid) that rate of incorporation divided by a time factor gives you the rate of muscle protein synthesis. When you do resistance training, contractile proteins like myosin and actin will be produced during muscle protein synthesis. Layne used rats because he wanted to study the mechanisms and rats are a good model for human protein metabolism. Studied the importance of leucine.",
+  "content_length": 825,
+  "content_tokens": 179,
+  "embedding": []
+ },
+ {
+  "title": "Leucine and Muscle Protein Synthesis",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Layne’s advisor Don Layman had shown that purified solutions of leucine would increase mTOR activity and muscle protein synthesis. Layne looked at the duration of muscle protein synthesis in response to a complete meal, even with whey protein, which is thought of as a fast protein, he found an increase in muscle protein synthesis that peaked at 90 minutes post-meal and then by 180 minutes had gone back down to baseline. This finding has since been validated in humans.",
+  "content_length": 472,
+  "content_tokens": 97,
+  "embedding": []
+ },
+ {
+  "title": "Mixed Muscle Protein Synthesis",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Layne says there is a 100 – 150% increase in mixed muscle protein synthesis. The peak is about the same for trained versus untrained people, but the untrained duration lasts much longer. In untrained people mixed muscle protein synthesis is about 48 – 72 hours. In trained people, the initial robust response comes back down about 10 – 12 hours. At 24 hours, it’s not much different than baseline.",
+  "content_length": 397,
+  "content_tokens": 85,
+  "embedding": []
+ },
+ {
+  "title": "Myofibrillar Protein Synthesis",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "So far, myofibrillar protein synthesis has only been assessed up to 16 hours after training. Neither group (trained or untrained) has returned to baseline in that time, but the area under the curve (AUC) is greater for untrained versus trained.",
+  "content_length": 244,
+  "content_tokens": 55,
+  "embedding": []
+ },
+ {
+  "title": "Nitrogen Balance and Muscle Protein Synthesis",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "In muscle protein synthesis, about seven out of every eight amino acids used to create a new protein are recycled from degraded proteins. Muscle tissue is about 70% water and about 30% protein, so if you add 25 lbs of muscle in a year, it’s about 10 grams of amino acids deposited in muscle per day. They’re probably going to be nitrogen positive a little bit. No matter how much muscle mass you put on, it’s never going to be impressive relative to the amount of amino acids you took in.",
+  "content_length": 488,
+  "content_tokens": 110,
+  "embedding": []
+ },
+ {
+  "title": "Metabolism and Fat Flux",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "People think of metabolism as like on and off switches. Think about dimmer switches. People think when you’re losing fat, that means that fat burning is ramped up and fat storage is all the way down at zero. No, you are always burning and storing fat simultaneously. Same thing, you are always synthesizing protein and degrading it at the same time.",
+  "content_length": 349,
+  "content_tokens": 75,
+  "embedding": []
+ },
+ {
+  "title": "Fat Flux and Hormones",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "It’s the relative rates of each that are going to determine if you deposit versus lose fat or protein. Peter and Bob Kaplan recently did a related podcast on fat flux. They talked about it through the lens of de novo lipogenesis, re-esterification, and lipolysis. Fat flux is unrelated to external oxidation that can feed into substrate pools. Many hormones are actually regulating the different steps. Include insulin, epinephrine, norepinephrine, hormone sensitive lipase, cortisol, testosterone, lipoprotein lipase, etc. Some are acting inside the cell (e.g., hormone sensitive lipase, testosterone) and others outside (e.g., insulin, lipoprotein lipase).",
+  "content_length": 658,
+  "content_tokens": 146,
+  "embedding": []
+ },
+ {
+  "title": "Hormonal Regulation on Muscle",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Testosterone plays an important role in the transcriptive drive. Layne points out that when we’re talking about all these hormones, the outcome is the result of the summation of all of those signals. Different than how leucine acts nutritionally, because although leucine is also intracellular, it’s more of a short-term signal. Layne guesses that if you’re not getting exogenous testosterone, then there’s probably not a negative feedback regulation loop. It would make sense that the muscle might increase its androgen receptor density to meet the free testosterone load as long as there’s not so much testosterone that sets up a negative feedback loop to the gonads or reduces luteinizing hormone or increases aromatization.",
+  "content_length": 727,
+  "content_tokens": 160,
+  "embedding": []
+ },
+ {
+  "title": "What’s Really Driving Muscle Growth",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Much of Stu Phillips’s work indicates that muscle growth appears to be mostly intrinsically regulated. In the late 90s and early 2000s, the focus was on systemic regulation of muscle growth (e.g., systemic levels of testosterone or IGF-1, noting that resistance exercise will increase testosterone for 30 – 60 minutes). Work by Stu and others suggest that muscle growth is likely an effect of tension. Mechano-growth factor is probably involved. People don’t realize that systemic IGF-1 and growth hormone are not anabolic to skeletal muscle (meaning that they do not build it up). We know that growth hormone increases in response to certain factors like fasting, resistance training, exercise in general, sleep, etc. Growth hormone response to exercise appears to be mostly substrate driven.",
+  "content_length": 793,
+  "content_tokens": 160,
+  "embedding": []
+ },
+ {
+  "title": "Growth Hormone and IGF-1",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Growth hormone probably increases as a response to exercise to increase lipolysis and to liberate free fatty acids for use as an energy substrate. The autocrine IGF-1 that is released by the muscle tissue itself in response to mechanical tension is very anabolic. If you want to get a sense of growth hormone levels, measure IGF-1. Autocrine or paracrine IGF-1 that gets released by the muscle tissue itself is also called mechano-growth factor and is anabolic to muscle tissue and a very localized, intrinsic response.",
+  "content_length": 519,
+  "content_tokens": 110,
+  "embedding": []
+ },
+ {
+  "title": "Muscle Growth and Caloric Intake",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "\"Muscle tissue is an energetically expensive tissue to maintain. It takes more energy, more ATP, more calories. To maintain it, you actually have to increase synthesis and breakdown.\" —Layne Norton. If you want to eat more calories, build muscle, because it takes calories to maintain it. \"If you place a stress on a particular muscle tissue like your legs, it does not make sense to me that your arms will grow because you may not need your arms.\" From an evolutionary perspective, it does not make sense that you would build a different tissue in response to the localized effect of training. If you train your legs, your arms don’t get bigger. If you train one leg, the other one doesn’t get bigger. Some of the best resistance training studies use unilateral training. The person’s non-trained leg serves as the individual’s own control to account for genetic variations.",
+  "content_length": 875,
+  "content_tokens": 189,
+  "embedding": []
+ },
+ {
+  "title": "Mechano-Transduction and Phosphatidic Acid",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Phosphatidic acid is a likely component of mechano-transduction. The contractile unit of a muscle tissue is called a sarcomere. A sarcomere has two ends which are called Z disks, and in between you have actin and myosin, which overlap. When a muscle contracts, actin and myosin are linked together and pulling. The Z disc is where phosphatidic acid is stored. To transform a mechanical signal into a chemical signal, it makes sense to store the signal in the Z disc where a lot of the mechanical tension is felt. Mechanistic studies suggest that mechanical tension causes phosphatidic acid to be released. Phosphatidic acid is a stimulator of mTOR.",
+  "content_length": 648,
+  "content_tokens": 152,
+  "embedding": []
+ },
+ {
+  "title": "Insulin and Muscle Growth",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Taking pure carbohydrate will cause insulin levels to rise and seems to inhibit protein degradation, but it doesn’t seem to affect muscle protein synthesis. Bob Wolfe’s lab developed a way to measure muscle breakdown. Arterial venous balance: determine balance by infusing a stable isotope and see how much of that label is going into the muscle and then how much is coming out. A biopsy can determine the fractional rate of protein synthesis. Can then subtract to calculate the breakdown.",
+  "content_length": 489,
+  "content_tokens": 100,
+  "embedding": []
+ },
+ {
+  "title": "Combining Carbohydrate and Protein",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "In people who are resistance trained, a large amount of carbohydrates causes a switch from an increase in muscle protein breakdown to baseline breakdown. But synthesis remains the same. Peter wonders if there is an argument for combining carbohydrate and protein after a resistance training to both reduce degradation and increase synthesis. Some degradation is probably needed to improve the muscle.",
+  "content_length": 400,
+  "content_tokens": 66,
+  "embedding": []
+ },
+ {
+  "title": "Studies on Diet Composition and Lean Body Mass",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Layne knows of two relevant studies: Vargas study and Mettler study. Vargas study looked at a protein and low carbohydrate diet (ketogenic) versus a protein and higher carbohydrate diet (both had same number of calories). Over 12 weeks, blood ketones increased and there was less lean body mass accrual in the ketogenic diet group. They still increased lean body mass, but the group that was getting more carbohydrates had more lean body mass. Mettler study found that diet composition made a difference in maintenance of lean body mass. Measured subjects’ performance in exercises like squat and bench press. Suggests that perhaps there is something different in terms of actual contractile tissue, but a lot more research is needed. You can definitely build muscle on a ketogenic diet, but likely can build more if you’re including carbohydrates. It may have something to do with carbohydrates’ or insulin’s blunting effect on muscle protein breakdown.",
+  "content_length": 954,
+  "content_tokens": 197,
+  "embedding": []
+ },
+ {
+  "title": "Ketogenic Diet and Muscle Biopsies",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Peter’s experience on a ketogenic diet. Harder to study because of the length of time it takes to adapt to them. Peter wishes he had taken muscle biopsies when he did the ketogenic diet “if that 18-month transition was something beyond psychological”. For ultra endurance, low carb is neither better or worse. For aerobic exercise, under 60% of VO2 max, can still get the most out of exercise after fat adapted. But once over 70%, hard to get optimal performance on a ketogenic diet. Shawn Baker is 50 years old and dead lifting 500 pounds for nine reps, so it’s possible to excel, but we don’t know if he is at his own personal optimal level or not.",
+  "content_length": 650,
+  "content_tokens": 154,
+  "embedding": []
+ },
+ {
+  "title": "Context Matters in Nutrition",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "In nutrition, it’s important to be clear about what you’re comparing something to. Layne has a great critique on his website of the documentary Game Changers, which Peter calls “a horrible, horrible piece of propaganda”. Peter doesn’t oppose a plant-based diet, just bad science. “If you compare diet X to the standard American diet, almost by definition, diet X is going to look amazing because the standard American diet is such an awful diet.” —Layne Norton.",
+  "content_length": 461,
+  "content_tokens": 110,
+  "embedding": []
+ },
+ {
+  "title": "Clarifying the Role of Cortisol",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Cortisol. Extreme scenarios: Addisonian crisis.",
+  "content_length": 47,
+  "content_tokens": 12,
+  "embedding": []
+ },
+ {
+  "title": "Cortisol and its Role in Exercise",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Cortisol is secreted in response to some kind of stress. Exercise is a stressor that increases cortisol. The resistance training session that produces the most amount of stress and adaptation is likely to produce the most cortisol and possibly the most hypertrophy if it’s repeated. Cortisol will impede muscle protein synthesis. It acts transcriptionally like testosterone.",
+  "content_length": 374,
+  "content_tokens": 72,
+  "embedding": []
+ },
+ {
+  "title": "The Problem with Isolating Nutrients",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "When you isolate out one substance, you can find mechanistic data to support almost anything you want. It’s really important to understand how limited nutritional studies are. The important role of inflammation from exercise. Those two types of inflammation are not the same.",
+  "content_length": 275,
+  "content_tokens": 52,
+  "embedding": []
+ },
+ {
+  "title": "Meat Intake and Cancer",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "A Canadian study looked at cancer incidence in 100K people grouped by quartile of meat intake. People who eat high amounts of meat tend to have an unhealthy lifestyle in general. But this study also compared it with the lowest to highest quartiles of fruit and vegetable intake. It found that the group with the highest level of both meat and fruit and vegetable intake had the same risk for cancer as the group with the lowest level of meat intake but a high level of fruit and vegetable intake.",
+  "content_length": 496,
+  "content_tokens": 97,
+  "embedding": []
+ },
+ {
+  "title": "Acute inflammation from exercise",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Acute inflammation from exercise can be beneficial. In theory, exercise sounds like a terrible idea. It increases your blood pressure, heart rate, free radical production, and inflammation. But exercise is almost like a vaccine. People who exercise regularly have lower resting heart rate, blood pressure, and inflammation. One of the things Peter fears the most for his patients as they age is any sort of injury or illness preventing them from exercising. The deconditioning that occurs when someone doesn’t do anything for a month is devastating.",
+  "content_length": 549,
+  "content_tokens": 106,
+  "embedding": []
+ },
+ {
+  "title": "Keys to preserving muscle, and the value of habits, consistency, and resilience",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "The principles of resistance training are very similar to those for life in general. Need to modify behavior to get consistency. Binging on junk food or blowing money on a shopping spree are due to behaviors that must be modified. Need to create new positive habits.",
+  "content_length": 266,
+  "content_tokens": 51,
+  "embedding": []
+ },
+ {
+  "title": "Forming a new identity",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Maintenance of weight loss was associated with consistency and the ability to embrace challenges rather than running from them or viewing challenges as part of the process. The key is not discipline and willpower, which will fade over time. Must change mindset from “I have to exercise” to “I am a fit person who exercises”. Ethan Suplee formed a new identity and killed the person he once was. You must give some old habits up.",
+  "content_length": 428,
+  "content_tokens": 91,
+  "embedding": []
+ },
+ {
+  "title": "The great thing about nutrition",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Pick the form of restriction that feels easiest. For Layne, it feels easy to control portion size and track calories and macros, so he can otherwise eat what he wants. For other people, this feels labor-intensive and avoiding specific foods may work better. Layne initially assumed that what worked for him would work for everyone but he realized it wasn’t true.",
+  "content_length": 362,
+  "content_tokens": 75,
+  "embedding": []
+ },
+ {
+  "title": "Consistency is Key",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "He sees training like brushing his teeth – he doesn’t need to be motivated and pump himself up to brush his teeth, because if he doesn’t his teeth will go bad. Similarly, if you don’t exercise, your body will suffer. Layne Norton says, 'The point of this all is that consistency is the fundamental… You could have any diet. You could have any training system. If you’re consistent, you’re going to see results.' Layne Norton also says, 'I got a lot farther than I ever could have imagined just through sheer consistency. I did a lot of stuff wrong, but sheer mass effect of work and consistency can make up for a lot of shortcomings.'",
+  "content_length": 634,
+  "content_tokens": 149,
+  "embedding": []
+ },
+ {
+  "title": "Buy In and Persistence",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "People need to buy in and persist after the honeymoon phase when facing their first challenge or setback. Layne Norton says, 'It is not a question of motivation, it is a question of ‘what do I want and what are the actions that are required to get what I want?’ And if my actions do not line up with what is needed and the amount of work that is needed, it’s very simple: I’m not going to get what I want.'",
+  "content_length": 406,
+  "content_tokens": 101,
+  "embedding": []
+ },
+ {
+  "title": "Inspiration and Comparison",
+  "date": "May 24, 2021",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Layne says to use other people’s stories for inspiration, but be very careful about comparing yourself. Don’t ask yourself if you can be like a specific person but instead if you can get better. When he started out, other people told him he wouldn’t be good at weightlifting. If he had listened to them, he never would have won a gold medal in the squat.",
+  "content_length": 354,
+  "content_tokens": 83,
+  "embedding": []
+ }
+]

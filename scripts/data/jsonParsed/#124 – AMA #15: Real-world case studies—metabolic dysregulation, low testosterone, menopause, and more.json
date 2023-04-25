@@ -1,0 +1,532 @@
+[
+ {
+  "title": "Should you stop taking supplements before getting a lab test?",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The episode starts with a discussion on whether or not to stop taking supplements before getting a lab test.",
+  "content_length": 108,
+  "content_tokens": 20,
+  "embedding": []
+ },
+ {
+  "title": "The purpose of an oral glucose tolerance test (OGTT)",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The purpose of an oral glucose tolerance test (OGTT) is explained.",
+  "content_length": 66,
+  "content_tokens": 15,
+  "embedding": []
+ },
+ {
+  "title": "Case study—Insufficient muscle mass for proper glucose disposal",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "A case study is presented where insufficient muscle mass is causing problems with glucose disposal.",
+  "content_length": 99,
+  "content_tokens": 16,
+  "embedding": []
+ },
+ {
+  "title": "Why hemoglobin A1c is a relatively unhelpful metric",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The limitations of hemoglobin A1c as a metric are discussed.",
+  "content_length": 60,
+  "content_tokens": 14,
+  "embedding": []
+ },
+ {
+  "title": "Case study—Exceeding carbohydrate tolerance",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "A case study is presented where carbohydrate tolerance is exceeded.",
+  "content_length": 67,
+  "content_tokens": 11,
+  "embedding": []
+ },
+ {
+  "title": "Case study—Metabolic dysfunction and a framework for metabolic health",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "A case study is presented on metabolic dysfunction and a framework for metabolic health is discussed.",
+  "content_length": 101,
+  "content_tokens": 17,
+  "embedding": []
+ },
+ {
+  "title": "Peter’s ideal tracking of metabolic health for all his patients",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter's ideal tracking of metabolic health for all his patients is discussed.",
+  "content_length": 77,
+  "content_tokens": 14,
+  "embedding": []
+ },
+ {
+  "title": "Contrasting presentations of hypogonadism—Low free testosterone",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The contrasting presentations of hypogonadism, specifically low free testosterone, are discussed.",
+  "content_length": 97,
+  "content_tokens": 18,
+  "embedding": []
+ },
+ {
+  "title": "How sleep, exercise, and alcohol affect testosterone levels?",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The effects of sleep, exercise, and alcohol on testosterone levels are discussed.",
+  "content_length": 81,
+  "content_tokens": 15,
+  "embedding": []
+ },
+ {
+  "title": "Case study—Surprisingly fast onset of menopause",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "A case study is presented on the surprisingly fast onset of menopause.",
+  "content_length": 70,
+  "content_tokens": 15,
+  "embedding": []
+ },
+ {
+  "title": "Case study—Hypothyroidism and high cholesterol",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "A case study is presented on hypothyroidism and high cholesterol.",
+  "content_length": 65,
+  "content_tokens": 14,
+  "embedding": []
+ },
+ {
+  "title": "Case study—Elevated uric acid and hypertension",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "A case study is presented on elevated uric acid and hypertension.",
+  "content_length": 65,
+  "content_tokens": 13,
+  "embedding": []
+ },
+ {
+  "title": "Lab Tests and Supplements",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter prefers that patients ARE taking the supplements that they typically take. He will postpone lab work to allow for a person re-continue taking a supplement that they may have run out of. For example, if a person is taking methylated B vitamins because they have high homocysteine, we wouldn’t want to run lab tests if they ran out of their supplement — we’d want to see their labs with the supplement to make sure it’s keeping homocysteine down.",
+  "content_length": 450,
+  "content_tokens": 102,
+  "embedding": []
+ },
+ {
+  "title": "Omega-3 Index",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The Omega Quant test looks at the red blood cell membranes and measures the amount of EPA and DHA (Omega 3 fatty acids). Your index number rises with increase fish consumption and/or taking fish oil supplements but it takes 3+ months to fully assimilate the change. And if you think that the change is supposed to happen quicker, you could be misled into thinking you’re not giving them enough. By contrast, with a drug like Repatha, a few doses would be sufficient to know if the drug is working or not.",
+  "content_length": 504,
+  "content_tokens": 109,
+  "embedding": []
+ },
+ {
+  "title": "Family History and Genetics",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter gives new patients a large form prior to their first visit. He wants to know everything knowable about mother, father, both sets of grandparents, aunts and uncles, and siblings. With the 23andME data, you CAN look at things like TOMM40 gene to assess risk of Alzheimer’s disease, and/or FOXO3 — a gene associated with longevity. But the genes Peter thinks are important are things that they measure on their own (e.g., MTHFR, APOE, etc.).",
+  "content_length": 444,
+  "content_tokens": 108,
+  "embedding": []
+ },
+ {
+  "title": "Gathering Medical History",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "When gathering medical history, questions are asked about cardiovascular disease, dementia, cancer, and metabolic disease/diabetes. The purpose is to understand the context and look for patterns that may indicate a genetic template. For example, a family history of cancer may be due to smoking habits. Similarly, a relative dying of a heart attack at 50 may be due to LP(a) or alcohol and smoking habits.",
+  "content_length": 405,
+  "content_tokens": 81,
+  "embedding": []
+ },
+ {
+  "title": "Oral Glucose Tolerance Test (OGTT)",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "OGTT is a test that measures glucose and insulin levels. It involves ingesting 75 grams of glucose and taking blood draws at time 0, 30 min, 60 min, and 90 min. Patients are not allowed to eat, drink, or exercise during the 90-minute period. The test is considered one data point and should be interpreted carefully. Patients may feel sick or experience a paradoxical crash of glucose after the test.",
+  "content_length": 400,
+  "content_tokens": 85,
+  "embedding": []
+ },
+ {
+  "title": "Case Study: Insufficient Muscle Mass for Proper Glucose Disposal",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Patient A is a 33-year-old male of Asian descent with high body fat percentage and insufficient muscle mass for proper glucose disposal. He has a family history of hyperlipidemia, hypertension, and type 2 diabetes. He lost 50 pounds in 2 years and has a past history of obesity and metabolic syndrome. His metabolic test showed an Omega-3 Index of 7.1%.",
+  "content_length": 353,
+  "content_tokens": 78,
+  "embedding": []
+ },
+ {
+  "title": "Patient A's Metabolic Numbers",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Patient A has an HbA1c of 5.1% suggesting his average blood sugar is about 100 mg/dL. His fasting glucose is 75, and his fasting insulin is 5. This patient appears to be very healthy metabolically, despite some imperfect dietary patterns.",
+  "content_length": 238,
+  "content_tokens": 56,
+  "embedding": []
+ },
+ {
+  "title": "Observations on Patient A's OGTT Results",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Patient A starts with a baseline blood glucose of 75 which is exceptional. However, it shoots up to 184 and basically stays there for the next hour. Insulin goes up to 47 which isn’t outrageous, but interestingly, it stays about there until about 90 minutes when it drops to 77. The question: Why isn’t he putting this glucose away? What could be happening here? He doesn’t meet the criteria for type 2 diabetes under any circumstance, but clearly his OGTT does not look good. This is a great example of the type of thing you miss when you only look at these fasting labs without what we would call a “provoked test”.",
+  "content_length": 617,
+  "content_tokens": 141,
+  "embedding": []
+ },
+ {
+  "title": "Diagnosis and Prescribed Therapy for Patient A",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Patient A has insufficient muscle mass and insufficient ability to dispose of glucose through either insulin-dependent and the insulin-independent methods of glucose disposal. Peter prescribed therapy for him, which includes wearing a CGM to see how high his blood glucose is getting during the day and resistance exercise to put on some muscle mass.",
+  "content_length": 350,
+  "content_tokens": 63,
+  "embedding": []
+ },
+ {
+  "title": "Why Hemoglobin A1c is a Relatively Unhelpful Metric",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The hemoglobin A1c is a relatively unhelpful number because it is so dependent on that assumption that our red blood cell lives 90 days. But there are so many cases when a patient has a red blood cell that lives too long or too short relative to that baseline assumption, therefore their HbA1c either grossly underestimates or grossly overstates their average blood glucose. In the case of this patient, once he was wearing a CGM his average blood glucose was actually higher than 100 milligrams per deciliter (which was predicted by the HbA1c).",
+  "content_length": 545,
+  "content_tokens": 119,
+  "embedding": []
+ },
+ {
+  "title": "Case Study on Exceeding Carbohydrate Tolerance",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Patient B is a 43-year-old female of European descent with a BMI of 19 and low muscle mass. She has no medication while on labs. Her family history includes her mother having uterine cancer, and her maternal grandmother having uterine cancer and CVA.",
+  "content_length": 250,
+  "content_tokens": 55,
+  "embedding": []
+ },
+ {
+  "title": "Exercise",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Yoga 2x/week\nHIIT boot camp 1x/week\nLimited/infrequent weight or resistance training",
+  "content_length": 84,
+  "content_tokens": 24,
+  "embedding": []
+ },
+ {
+  "title": "OGTT results",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "At 60 minutes, both glucose and insulin are “off the chart”\nAt 2 hours—\nGlucose was down but Peter wants to see less than 100\nInsulin was still elevated at 52, ideally would want that to be no more than twice baseline insulin",
+  "content_length": 225,
+  "content_tokens": 56,
+  "embedding": []
+ },
+ {
+  "title": "CGM data",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "This patient is someone who is clearly eating more carbohydrates than they are capable of disposing\nCGM also confirmed her average BG and standard deviation were above target.",
+  "content_length": 175,
+  "content_tokens": 32,
+  "embedding": []
+ },
+ {
+  "title": "OGTT test",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter’s preferred ranges are typically more stringent than the “normal” ranges listed on lab results\nYou can be mislead by results of an OGTT if you take the test while on a low-carb diet/ketogenic diet or you are in the middle of a prolonged fast\nAvoid this by refeeding carbs for three days before the OGTT to get the system primed again\nSomeone on a ketogenic diet will have much higher free fatty acids",
+  "content_length": 406,
+  "content_tokens": 94,
+  "embedding": []
+ },
+ {
+  "title": "Metabolic health framework",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Metabolic health is a foundation with 3 pillars that stand on it\nThe 3 pillars are the 3 disease states that are responsible for the majority of chronic deaths\nMetabolic health is the foundation for which these disease states are set upon\nIf the metabolic state of health of an individual is anything other than fully optimized, it is going to increase risk for each and every one of the three pillars of chronic disease\nT2D is a situation in which the patient is completely unable to partition fuel, even at the most basic level, which is to get glucose out of the circulation.\nObesity and type 2 diabetes probably represent the second leading cause of cancer (second only to smoking)\nAnd there’s no disputing the relationship that type 2 diabetes has on Alzheimer’s disease and on cardiovascular disease",
+  "content_length": 805,
+  "content_tokens": 163,
+  "embedding": []
+ },
+ {
+  "title": "Metabolic Health",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "To reduce the risk of Alzheimer’s disease, cancer, and atherosclerosis, one must be the most metabolically flexible and healthy person possible. This means disposing of glucose efficiently and keeping insulin levels low. Metabolic syndrome is partially defined by having at least three of the following five things: elevated waist circumference, elevated fasting blood sugar, elevated blood pressure, elevated triglycerides, and low HDL.",
+  "content_length": 437,
+  "content_tokens": 82,
+  "embedding": []
+ },
+ {
+  "title": "Case Study: Patient C",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Patient C does not meet the criteria for metabolic syndrome and has a good lipid panel. However, his liver function tests show inflammation, and his homocysteine and uric acid levels are high. His fasting insulin is also high, and his insulin levels remain elevated after 90 minutes. Despite being metabolically healthy, Patient C struggles with bad eating habits and needed a year to get his fasting insulin to a normal range.",
+  "content_length": 427,
+  "content_tokens": 85,
+  "embedding": []
+ },
+ {
+  "title": "Peter's ideal tracking of metabolic health for all his patients",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter suggests putting a CGM on everyone and starting the intervention once the average blood sugar is above 100 or the standard deviation is above 15. This is because CGM metrics start to look concerning years before failing an OGTT, and HbA1c looks concerning nearly a decade after an OGTT starts to look concerning.",
+  "content_length": 318,
+  "content_tokens": 65,
+  "embedding": []
+ },
+ {
+  "title": "Contrasting presentations of hypogonadism - Low free testosterone",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter only treats a patient for low free testosterone when it is accompanied by symptoms. He investigates whether the problem is in the testes or the brain not getting the signal to tell the testes to make more. He explains this with a video on male sex hormones.",
+  "content_length": 263,
+  "content_tokens": 53,
+  "embedding": []
+ },
+ {
+  "title": "Case study - Secondary hypogonadism",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Patient D is a 28-year-old male with a history of hypogonadism and hypothyroidism. He has poor sleep quality and duration due to his social life and travels frequently for work. His lab tests show low free testosterone, LH, and FSH, confirming the diagnosis of secondary hypogonadism. Peter's first line of therapy is to fix his sleep, nutrition, and alcohol to get LH and FSH high enough to increase testosterone. After 9 months, Patient D's LH and FSH doubled, but his free testosterone levels did not go up enough. Peter's second line of therapy is to prescribe Clomid, a drug that tells the hypothalamus to make more FSH and LH. Patient D is currently being monitored.",
+  "content_length": 672,
+  "content_tokens": 156,
+  "embedding": []
+ },
+ {
+  "title": "Case study - Primary hypogonadism",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Patient E is a 49-year-old male with lean body type. His lab tests show low testosterone, confirming the diagnosis of primary hypogonadism. There is no further information on his treatment.",
+  "content_length": 189,
+  "content_tokens": 43,
+  "embedding": []
+ },
+ {
+  "title": "Exercise",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Strict weight training and endurance training.",
+  "content_length": 46,
+  "content_tokens": 8,
+  "embedding": []
+ },
+ {
+  "title": "Symptoms of low testosterone (BEFORE treatment)",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Low Libido \nLow mood and motivation – apathetic.",
+  "content_length": 48,
+  "content_tokens": 13,
+  "embedding": []
+ },
+ {
+  "title": "Possible treatment approaches",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "For Patient E, the first order attempt would be to replace the DHEA-S which is only at 73—if you have more of the building block for testosterone, will you make more of it? \nNext, you can try an injectable form of testosterone called testosterone cypionate\nFor Patient E, Peter started with 100 mg per week",
+  "content_length": 306,
+  "content_tokens": 73,
+  "embedding": []
+ },
+ {
+  "title": "Results AFTER treatment with 100 mg/week with testosterone cypionate",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter says that they “overshot” with that dose\nHis total T and Free T numbers were “supraphysiologic” which is not the intended goal\nReduced body fat percentage\nIncreased in strength from strength training \nImproved libido/sex drive\nImproved mood – blunted response to stressors from work\nTesticular atrophy (Did not cycle him on/off — he wanted to stay on this as he had no concerns with the long term impact of that as it pertained fertility)",
+  "content_length": 444,
+  "content_tokens": 110,
+  "embedding": []
+ },
+ {
+  "title": "How sleep, exercise, and alcohol affect testosterone levels?",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Alcohol \n\nAlcohol negatively impacts testosterone levels indirectly most clearly through the damage it does to sleep quality\n\nSleep \n\nSleep is such an important part of hormone synthesis at the pituitary level \nManaging sleep quality and quantity is of utmost importance:\n\nBlue light blockers\nReduction of cortisol at night\nLess alcohol consumption\nLess late-night eating\n\nSleep is especially important in the cases of secondary hypogonadism\nThe association with low testosterone and low sleep is not trivial, but it’s not clear which one’s causing the other",
+  "content_length": 558,
+  "content_tokens": 122,
+  "embedding": []
+ },
+ {
+  "title": "Exercise and muscle mass",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter believes that muscle mass is not given enough attention in the longevity literature. Older people who put on more muscle are less likely to fail and break a hip and may experience a higher quality of life through greater activities of daily living. Testosterone supplementation does not increase the risk of prostate cancer and if it does increase the risk of cardiovascular disease, it’s in the most minor way imaginable.",
+  "content_length": 428,
+  "content_tokens": 79,
+  "embedding": []
+ },
+ {
+  "title": "Case study—Surprisingly fast onset of menopause [59:25]",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Patient F went from asymptomatic perimenopausal woman to completely symptomatic and menopausal within 7 months. Her lab results were so good it was “kind of comical” says Peter. She was having regular periods and given that Peter drew blood during this woman’s follicular phase, her estradiol (183), FSH (11), and LH (12) were “the most normal numbers I’ve ever seen” indicating that this woman [should be] several years from menopause. Her only complaint in 2017: she would occasionally get these vasomotor symptoms at night (hot flashes and sweat through her bed sheets).",
+  "content_length": 573,
+  "content_tokens": 138,
+  "embedding": []
+ },
+ {
+  "title": "Case study—Hypothyroidism and high cholesterol [1:07:00]",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Patient G is a 66-year-old female with low BMI and no pharmaceuticals. She takes B12/MF and EPA/DHA. Please check out Peter’s video where he explains thyroid hormones.",
+  "content_length": 167,
+  "content_tokens": 45,
+  "embedding": []
+ },
+ {
+  "title": "Nutrition",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Low carb. High fat.",
+  "content_length": 19,
+  "content_tokens": 6,
+  "embedding": []
+ },
+ {
+  "title": "Imaging",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "CAC of zero at age 66 (despite high cholesterol)",
+  "content_length": 48,
+  "content_tokens": 12,
+  "embedding": []
+ },
+ {
+  "title": "Lipid panel",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Doesn’t quite look like she has FH. She does have pretty high cholesterol and ApoB, HOWEVER, not in a pattern that would look like metabolic syndrome (i.e., she has low VLDL, low triglycerides). And given her coronary artery calcium score of zero in her mid sixties, you clearly understand that there’s something about her elevated cholesterol and ApoB that is NOT particularly problematic.",
+  "content_length": 390,
+  "content_tokens": 92,
+  "embedding": []
+ },
+ {
+  "title": "Thyroid numbers",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "TSH is a tab above normal. Ratio of free T3 to reverse T3 is below 0.2. Going back in time, her TSH and her ratio of free T3 to reverse T3 has alway been in this range. Probably due to her nutrition—She doesn’t eat many calories would could impact her reverse T3. Side note: This is pretty normal when fasting—as you restrict calories, the body tries to compensate by slowing metabolic rate and the best tool it has to do that is raising reverse T3, which basically just means shuttling more T4 into reverse T3 than free T3.",
+  "content_length": 524,
+  "content_tokens": 130,
+  "embedding": []
+ },
+ {
+  "title": "Possible therapeutic options",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Before using lipid lower agents to treat elevated LDL and ApoB, you should first use the right versions of T4, T3 to fix the hypothyroidism. Peter is debating whether it makes sense to intervene and try to lower her LDL cholesterol and ApoB. It’s not clear as to if they should treat this for 2 main reasons: 1) Her calcium score is zero, and 2) She doesn’t have any symptoms of hypothyroidism even though her thyroid numbers aren’t perfect. Make sure you’re always paying attention to thyroid function. He likes to see TSH below 2 if someone’s got lipid issues that you want to treat.",
+  "content_length": 585,
+  "content_tokens": 144,
+  "embedding": []
+ },
+ {
+  "title": "Case study",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "46, Male. Body type: Normal BMI. Prior to onboarding, patient was diagnosed with essential HTN, blood pressure ranging from 140/90 to 160/90 mmHg. He was treated with lisinopril (ACEi) bringing him into the 130/90 range (still higher than ideal for 46 year old, especially if he’s interested in longevity). Meds: Uloric 40 mg QD, Lipitor 20 mg, 6/2020: Added Repatha. Fam Hx: HTN: Father and Uncle, CVD: Maternal and Paternal Grandfather. Essential HTN, Mixed hyperlipidemia, Atherosclerotic heart disease with evidence of calcification on CAC. Nutrition: Low carb. No signs of metabolic syndrome or insulin resistance. Exercise: Weight training 3x/week, Zone2 training 3 hr a week.",
+  "content_length": 682,
+  "content_tokens": 180,
+  "embedding": []
+ },
+ {
+  "title": "Patient H's Initial Labs",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Observations: His uric acid was 6.1. It was also quite stubborn—never went down with a dietary change (tweaking protein levels, reducing fructose, etc.). Peter could not get his uric acid below 6, and the target was below 5.",
+  "content_length": 224,
+  "content_tokens": 56,
+  "embedding": []
+ },
+ {
+  "title": "Labs after ~18 months on Uloric",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Observations: Uloric “fixed” uric acid. His HTN resolved even with a persistently high homocysteine. He no longer required ACE inhibitor (for blood pressure).",
+  "content_length": 158,
+  "content_tokens": 42,
+  "embedding": []
+ },
+ {
+  "title": "Importance of Lowering Uric Acid",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "This is a pretty unusual response to just lowering uric acid. But it’s also a great teaching point—Do NOT go after blood pressure until you’ve got the uric acid below 5. Only then start playing with the blood pressure medication. The broader point: Try to fix the insulin resistance and metabolic syndrome first (which in this case he didn’t have, but he did have the elevated uric acid) before you introduce drugs to treat blood pressure.",
+  "content_length": 439,
+  "content_tokens": 98,
+  "embedding": []
+ },
+ {
+  "title": "What Determines Uric Acid Levels?",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Things that can drive up uric acid levels include: People who eat foods with lots of DNA and RNA (i.e., protein sources), yeast in the beer, fructose. But the biggest part may be genetics, says Peter.",
+  "content_length": 200,
+  "content_tokens": 47,
+  "embedding": []
+ },
+ {
+  "title": "Peter's Internal Standard for Blood Pressure",
+  "date": "August 17, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter’s internal standard for blood pressure: Below 120/80 without producing any symptoms of lightheadedness.",
+  "content_length": 109,
+  "content_tokens": 23,
+  "embedding": []
+ }
+]

@@ -1,0 +1,262 @@
+[
+ {
+  "title": "Testosterone Supplementation and Longevity",
+  "date": "December 16, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "Peter discusses whether testosterone supplementation impacts longevity.",
+  "content_length": 71,
+  "content_tokens": 8,
+  "embedding": []
+ },
+ {
+  "title": "Treating Patients with Low Testosterone",
+  "date": "December 16, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "Peter explains the conditions under which he decides to treat patients who have low testosterone.",
+  "content_length": 97,
+  "content_tokens": 16,
+  "embedding": []
+ },
+ {
+  "title": "Risks of Testosterone Replacement Therapy",
+  "date": "December 16, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "Peter discusses the risks involved with testosterone replacement therapy.",
+  "content_length": 73,
+  "content_tokens": 10,
+  "embedding": []
+ },
+ {
+  "title": "Diagnosing and Treating Hypothyroidism",
+  "date": "December 16, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "Peter explains how he diagnoses and treats hypothyroidism.",
+  "content_length": 58,
+  "content_tokens": 12,
+  "embedding": []
+ },
+ {
+  "title": "Time-Restricted Feeding and Building Muscle Mass",
+  "date": "December 16, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "Peter discusses how someone might do time-restricted feeding while also adding muscle mass.",
+  "content_length": 91,
+  "content_tokens": 16,
+  "embedding": []
+ },
+ {
+  "title": "IGF-1 and Longevity Concerns",
+  "date": "December 16, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "Peter addresses concerns about longevity and higher levels of IGF-1 required for building muscle.",
+  "content_length": 97,
+  "content_tokens": 17,
+  "embedding": []
+ },
+ {
+  "title": "Preserving Muscle Mass While Fasting",
+  "date": "December 16, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "Peter explains how to preserve muscle mass while fasting.",
+  "content_length": 57,
+  "content_tokens": 10,
+  "embedding": []
+ },
+ {
+  "title": "Losing Fat and Adding Muscle Mass",
+  "date": "December 16, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "Peter discusses whether it is possible to simultaneously lose fat and add muscle mass.",
+  "content_length": 86,
+  "content_tokens": 15,
+  "embedding": []
+ },
+ {
+  "title": "Does testosterone supplementation impact longevity?",
+  "date": "December 16, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "Peter is not convinced it will increase lifespan. Low testosterone is associated with more aggressive prostate cancer. However, it is likely to be more aggressive if you have prostate cancer in a low androgen environment. There are 3 components of healthspan: cognition, physical exoskeleton, and emotional health. The literature does NOT support the idea that TRT improves cognition.",
+  "content_length": 384,
+  "content_tokens": 72,
+  "embedding": []
+ },
+ {
+  "title": "TRT and physical conditioning",
+  "date": "December 16, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "TRT can help improve or maintain lean muscle mass, strength, conditioning, and recovery from exercise. However, the magnitude of improvement is not obvious and is not entirely predicted by the number.",
+  "content_length": 200,
+  "content_tokens": 38,
+  "embedding": []
+ },
+ {
+  "title": "Under what conditions does Peter decide to treat patients who have low testosterone?",
+  "date": "December 16, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "Peter only considers treating low T if it comes with symptoms. He looks for total T vs. free T in lab results. Testosterone is measured in nanograms per deciliter, and a bell curve looking at total T is typically between 350 and 1,200 nanograms per deciliter.",
+  "content_length": 259,
+  "content_tokens": 60,
+  "embedding": []
+ },
+ {
+  "title": "Free Testosterone",
+  "date": "December 16, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "The majority of your testosterone is bound to carrier proteins, the most dominant of them is a protein called sex hormone-binding globulin — which quite tightly binds testosterone. The only testosterone that has any biological effect is the T that is unbound to protein (aka FREE T). Typically 97-99% of T is bound (so 1-3% is free). The amount that is free is inversely proportional to sex hormone-binding globulin.",
+  "content_length": 416,
+  "content_tokens": 90,
+  "embedding": []
+ },
+ {
+  "title": "Normal Range for Free Testosterone",
+  "date": "December 16, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "About 10-14 nanograms per deciliter.",
+  "content_length": 36,
+  "content_tokens": 11,
+  "embedding": []
+ },
+ {
+  "title": "Treating Low-T",
+  "date": "December 16, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "Peter will treat if they have low free T in combination with symptoms. He won’t treat If they have low T but no symptoms, he won’t treat. One exception: If someone has low T and no symptoms but they are profoundly insulin resistant he will usually recommend giving TRT a try. Why? Because testosterone impacts fuel partitioning.",
+  "content_length": 328,
+  "content_tokens": 72,
+  "embedding": []
+ },
+ {
+  "title": "Factors Influencing SHBG",
+  "date": "December 16, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "Sex hormone-binding globulin is heavily influenced by four things. Firstly, it’s genetic/hereditary. Then there are three hormones that heavily influence SHBG: Estradiol ⇒ As estradiol goes higher, sex hormone-binding globulin also goes higher. T4 (thyroid hormone) ⇒ as T4 goes higher, SHBG goes higher. Insulin ⇒ as insulin goes higher, SHBG goes lower. So an endocrine response that would produce the lowest SHBG would be hyperinsulinemia, low estrogen, and low thyroid.",
+  "content_length": 473,
+  "content_tokens": 119,
+  "embedding": []
+ },
+ {
+  "title": "Risks of Testosterone Replacement Therapy",
+  "date": "December 16, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "The two things that are most discussed in terms of risk with TRT: Prostate cancer and Heart disease. Peter already gave his quick thoughts on prostate cancer at the beginning of this podcast (Basically, he doesn’t see evidence that it plays a causal role). With respect to heart disease… This 2016 study looked at 10,000 men treated with TRT and 28,000 plus controls over 5 years. After one year there was a slight uptick in coronary events . . .but by years two and three it had reversed. Adjusted statistical analysis showed that, compared to controls, TRT subjects had a 10% increased risk of experiencing a cardiovascular event (Hazard Ratio [HR] = 1.10).",
+  "content_length": 659,
+  "content_tokens": 143,
+  "embedding": []
+ },
+ {
+  "title": "TRT and Risk",
+  "date": "December 16, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "Peter wonders what it is about TRT that could transiently increase risk in a high-risk man. He questions if it is dyslipidemia, endothelial dysfunction, hypercoagulability, or a rise in blood pressure. He admits not knowing the answer but says that the benefits of TRT outweigh the risks in the way they apply it.",
+  "content_length": 313,
+  "content_tokens": 72,
+  "embedding": []
+ },
+ {
+  "title": "Diagnosing and Treating Hypothyroidism",
+  "date": "December 16, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "Peter explains that the thyroid gland produces T4, which is converted to T3, the active hormone. He diagnoses hypothyroidism based on thyroid stimulating hormone levels. He fixes thyroid function by administering thyroid hormones and minerals. He treats patients with concerning lab numbers and symptoms or mediocre numbers but significant symptoms.",
+  "content_length": 349,
+  "content_tokens": 61,
+  "embedding": []
+ },
+ {
+  "title": "TRF and Muscle Mass",
+  "date": "December 16, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "Peter suggests pairing the feeding window with the training window to preserve muscle mass while doing TRF. He recommends supplementing with leucine to put on muscle mass, as it is the most important amino acid for getting mTOR to turn on in the muscle. He advises slowly consuming an extra five grams of leucine during the course of a workout.",
+  "content_length": 344,
+  "content_tokens": 71,
+  "embedding": []
+ },
+ {
+  "title": "Where to get leucine?",
+  "date": "December 16, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "Many whey protein powders contains about 2 g of leucine per 20 g of protein. BioSteel and NOW Sports have good products. Jay Robb products stood out in Peter's lab test. Pure leucine powder can be bought commercially from a lab like Sigma Chemicals.",
+  "content_length": 249,
+  "content_tokens": 57,
+  "embedding": []
+ },
+ {
+  "title": "Building muscle and longevity",
+  "date": "December 16, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "Building muscle while doing time-restricted feeding probably isn’t optimal for adding muscle mass. If building muscle requires higher levels of IGF-1, should we be concerned about longevity? Peter says IGF-1 being “bad” is based on a false premise. The risk of dementia goes down lower and lower as IGF levels get higher and higher. The human data on IGF is confusing, for more on this topic check out Peter’s discussion with Nir Barzilai starting at 1:34:15. Instead of aiming for IGF levels that are constantly low or constantly high, the best approach is for IGF levels to be cycled from low to high.",
+  "content_length": 603,
+  "content_tokens": 136,
+  "embedding": []
+ },
+ {
+  "title": "How to preserve muscle mass while fasting",
+  "date": "December 16, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "You can preserve lean muscle mass while fasting by lifting weights every single day. You must be sending a single to activate TOR in the muscle daily. You must utilize the free leucine that your body does a remarkable job preserving during the fast, and you must give it a reason to be assimilated. If you do that, you can come very close to maintaining nitrogen balance, which means keeping nitrogen in your muscles as opposed to shedding muscle. Conversely, if you fast without resistance training, you are likely to lose some muscle. Exercise and testosterone preserve muscle during fasting.",
+  "content_length": 594,
+  "content_tokens": 114,
+  "embedding": []
+ },
+ {
+  "title": "Study on testosterone supplementation and muscle mass",
+  "date": "December 16, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "During a 28-day intervention, men exercised and ate in a calorie deficit of about ~2,000 cal/day. One group supplemented with testosterone, and another group did not. The group that was supplemented with testosterone added muscle mass, while the group without testosterone did not lose any lean muscle under profound caloric deprivation.",
+  "content_length": 337,
+  "content_tokens": 64,
+  "embedding": []
+ },
+ {
+  "title": "Why does muscle size shrink during a fast?",
+  "date": "December 16, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "When you fast, you lose a lot of glycogen and water, causing the muscle to shrink. However, this doesn't mean you're losing muscle because the name of the game is muscle protein synthesis.",
+  "content_length": 188,
+  "content_tokens": 41,
+  "embedding": []
+ },
+ {
+  "title": "Simultaneously losing fat and adding muscle mass",
+  "date": "December 16, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "To be in a caloric debt and yet to put on muscle and take off fat requires a very deliberate training plan. Insulin is the most anabolic hormone in the body, and when you fast, your insulin levels go down. You have to overcome that lack of an anabolic stimulus from the insulin loss by driving mTOR, and that's where exercise becomes the key. Certain movements that are just more important, such as heavy pulling, pushing, and hip hinging that involve the large muscle groups.",
+  "content_length": 476,
+  "content_tokens": 101,
+  "embedding": []
+ },
+ {
+  "title": "Best movements to do",
+  "date": "December 16, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "Certain movements that are just more important, such as heavy pulling, pushing, and hip hinging that involve the large muscle groups. Results will vary depending on your baseline.",
+  "content_length": 179,
+  "content_tokens": 34,
+  "embedding": []
+ }
+]

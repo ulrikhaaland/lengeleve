@@ -1,0 +1,442 @@
+[
+ {
+  "title": "Peter’s foundational framework when considering different interventions",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "In this episode, Peter ties the conversation together by sharing his foundational framework when considering different interventions, even in the absence of data from a randomized controlled trial.",
+  "content_length": 197,
+  "content_tokens": 31,
+  "embedding": []
+ },
+ {
+  "title": "Applying Peter’s framework to the idea of using a CGM",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "Peter's framework is applied to the idea of using a CGM, discussing the limitations of a CGM and the importance of paying attention to insulin.",
+  "content_length": 143,
+  "content_tokens": 30,
+  "embedding": []
+ },
+ {
+  "title": "How exercise impacts glucose and peak glucose numbers to stay under",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "The impact of exercise on glucose and peak glucose numbers to stay under is discussed.",
+  "content_length": 86,
+  "content_tokens": 16,
+  "embedding": []
+ },
+ {
+  "title": "Different modalities for doing zone 2 exercise: running, rowing, cycling, and more",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "Different modalities for doing zone 2 exercise, such as running, rowing, cycling, and more, are discussed.",
+  "content_length": 106,
+  "content_tokens": 24,
+  "embedding": []
+ },
+ {
+  "title": "Proxies for knowing your in zone 2 short of using a lactate monitor",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "Proxies for knowing if you're in zone 2 short of using a lactate monitor are discussed.",
+  "content_length": 87,
+  "content_tokens": 21,
+  "embedding": []
+ },
+ {
+  "title": "Monitoring lactate for zone 2 exercise",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "The importance of monitoring lactate for zone 2 exercise is discussed.",
+  "content_length": 70,
+  "content_tokens": 13,
+  "embedding": []
+ },
+ {
+  "title": "Peter's Framework for Interventions",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "Peter’s framework for interventions helps in laying the foundation for how one should think about CGM and their use in different populations. The framework really pertains to anything that comes across Peter’s plate. Example, when looking critically at the data around meditation (which asks a series of questions).",
+  "content_length": 315,
+  "content_tokens": 61,
+  "embedding": []
+ },
+ {
+  "title": "Questions to Consider for Interventions",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "First question is what is the risk of harm from doing this thing? If you do X, how high is the probability of harm? Second question is obviously the contrapositive of that. If you do X, what is the probability of benefit? Mirrored in the way the FDA organizes drug trials.",
+  "content_length": 272,
+  "content_tokens": 61,
+  "embedding": []
+ },
+ {
+  "title": "Phases of Drug Trials",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "After you get through the preclinical data, the animal work, after the IND has been filed, your first trial in humans, which is called the phase one trial, is looking at harm. A small trial with dose escalation that is only trying to understand if as you escalate the dose, do you see an increase in side effects? Very occasionally, you see some benefits in a phase one trial. And if you do, that’s interesting, but you generally can’t take it to the bank because the study is so small and generally it’s quite homogeneous. That’s when you move on to phase two studies, which are geared towards efficacy, i.e., is this thing doing good? If the phase two trial is positive, you move to a much larger trial called the phase three trial, which really doubles down on efficacy.",
+  "content_length": 773,
+  "content_tokens": 176,
+  "embedding": []
+ },
+ {
+  "title": "Peter's framework for evaluating interventions",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "Peter's framework for evaluating interventions involves asking three questions: What is the risk of harm? Is there any chance of it doing good? What is the opportunity cost? He emphasizes that these questions are especially important when the answer is not readily apparent from RCTs that have generally already answered one and two.",
+  "content_length": 333,
+  "content_tokens": 61,
+  "embedding": []
+ },
+ {
+  "title": "Example of applying Peter's framework to CGM in non-diabetics",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "Peter applies his framework to the idea of using a CGM in non-diabetics. He notes that the risk of harm is very low, but there is a potential for anxiety and obsession. The potential benefits include insight-based good and behavior modification. The biggest opportunity cost is the economic cost, as insurance companies do not cover CGMs for non-diabetics.",
+  "content_length": 356,
+  "content_tokens": 76,
+  "embedding": []
+ },
+ {
+  "title": "Continuous Glucose Monitors (CGMs) and their Insights",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "CGMs can be plugged into apps to help users with their goals, but they are expensive. Peter Attia suggests that everyone deserves a three-month trial of CGM to gain insight into how certain food and habits affect blood sugar. Within three months, you will start to see what grapes do vs. grapefruit, or what happens when you eat carbs after a workout vs. right before bed. CGMs are helpful to use to tailor your intake of not just fruits and vegetables, but basically all carbohydrates. However, CGMs are not a substitute for other metrics of health.",
+  "content_length": 550,
+  "content_tokens": 116,
+  "embedding": []
+ },
+ {
+  "title": "Why Certain Fruits Have a Bigger Impact on Glucose",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "Not all fruits are created equal. Certain fruits are going to be better than others. Berries are a good option as an example of a fruit that has a far lower impact on glycemic response. CGMs can help to tailor your intake of not just fruits and vegetables, but basically all carbohydrates.",
+  "content_length": 289,
+  "content_tokens": 60,
+  "embedding": []
+ },
+ {
+  "title": "CGMs are Not a Substitute for Other Metrics of Health",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "CGMs are a tool for understanding carbohydrate tolerance. They do not provide insight into how well you metabolize different fatty acids, how much visceral fat you have, or how much protein you need. Different tools are needed for those things. It is important to use CGMs in conjunction with other metrics of health.",
+  "content_length": 317,
+  "content_tokens": 62,
+  "embedding": []
+ },
+ {
+  "title": "Importance of Paying Attention to Insulin",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "Paying attention to insulin is important. There are prospects of a continuous monitor for insulin levels. However, CGMs do not provide insight into insulin levels. It is important to use CGMs in conjunction with other metrics of health.",
+  "content_length": 236,
+  "content_tokens": 46,
+  "embedding": []
+ },
+ {
+  "title": "Continuous Insulin Monitoring",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "Insulin is the most interesting analyte if it could be measured continuously. Unfortunately, measuring insulin continuously seems to not be something that is in our future…it would be technically very difficult to do.",
+  "content_length": 217,
+  "content_tokens": 40,
+  "embedding": []
+ },
+ {
+  "title": "Point of Care Insulin Measurement",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "There’s at least one company that I know of that is offering point of care device for insulin measurements—some of their data looks interesting to Peter. They claim to be able to measure insulin and C-peptide on a finger stick of blood.",
+  "content_length": 236,
+  "content_tokens": 53,
+  "embedding": []
+ },
+ {
+  "title": "Importance of OGTTs",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "OGTTs with frequent glucose and insulin sampling in every one of our patients non-negotiable. When you go from a perfectly normal person, the first thing that deviates is elevations of postprandial insulin. That person will still have normal glucose, both fasting and postprandially, and normal fasting insulin. But the real canary in the coal mine is the elevation of postprandial insulin.",
+  "content_length": 390,
+  "content_tokens": 86,
+  "embedding": []
+ },
+ {
+  "title": "Exercise and Glucose Spikes",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "Glucose spikes during exercise, particularly high-intensity exercise, is something that you see, but it is definitely not something you need to worry about. Due to hepatic glucose output primarily, there’s a bit of a mismatch between how much glucose is made and how much is actually needed.",
+  "content_length": 291,
+  "content_tokens": 61,
+  "embedding": []
+ },
+ {
+  "title": "Overdoing Exercise is Better than Underdoing it",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "It is better for the body to overdo exercise than underdo it. Underdoing it can be catastrophic, while overdoing it does not have much of a price to pay. The highest glucose Peter has ever seen on his CGM mid-workout is in the 160s.",
+  "content_length": 232,
+  "content_tokens": 57,
+  "embedding": []
+ },
+ {
+  "title": "Arbitrary Cutoff for Glucose Spike",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "In Peter's practice, they do not want to see glucose spike above 140 in terms of postprandial spike. This is a very aggressive metric and is arbitrary. However, through five years of empirical work with patients, they are confident that a person can achieve this number without much restriction. They can still eat plenty of carbohydrates provided they are insulin sensitive enough. This will drive the average glucose to their goal, which is to be below 100, putting them at an A1C imputed of less than 5%, which is the best category.",
+  "content_length": 535,
+  "content_tokens": 110,
+  "embedding": []
+ },
+ {
+  "title": "Impact of Anxiety on Glucose and Coping Tools",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "Anxiety and stress can impact glucose levels. If someone has enough anxiety over presenting, it is not surprising that they would experience a spike in glucose levels. Peter suggests turning off the CGM app during public speaking to avoid monitoring glucose levels. Instead, he suggests using feedback as a way to look at other tools for coping with anxiety, such as propranolol, a type of beta-blocker. There are many ways to utilize glucose as a tool of biofeedback to manage anxiety better.",
+  "content_length": 493,
+  "content_tokens": 101,
+  "embedding": []
+ },
+ {
+  "title": "CGM as a Blessing and a Curse",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "CGM can be a blessing and a curse. From a research perspective, it is amazing, but it can also be anxiety-inducing if it is watching you 24/7. There is an alarm for higher and lower glucose levels, but the lower limit is set in stone to protect diabetics from hypoglycemic incidents.",
+  "content_length": 283,
+  "content_tokens": 66,
+  "embedding": []
+ },
+ {
+  "title": "Effects of CGM on glucose levels",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "If you lay on the device while you’re sleeping, it is going to drive glucose down. The reason for that is anything that accelerates local glycolysis will drive down glucose. Most of the hypo alarms at night bc of this. You’ve got to make sure you’re calibrating these things. Peter is partial to Dexcom because it can be calibrated — it’s really important to be able to calibrate your CGM because it makes them way more accurate.",
+  "content_length": 429,
+  "content_tokens": 104,
+  "embedding": []
+ },
+ {
+  "title": "Tools for managing blood glucose numbers",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "Five tools that you can use to manipulate glucose: Nutrition, Exercise, Management of stress (mostly, but not all, about cortisol), Sleep, Medications/supplements. Start with the most powerful leavers — nutrition, sleep, and exercise. Everyone’s going to be starting from a different place. You can use the CGM to push the boundaries a little bit to tell you what is your carbohydrate tolerance.",
+  "content_length": 395,
+  "content_tokens": 85,
+  "embedding": []
+ },
+ {
+  "title": "Importance of Sleep",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "Sleep cannot be overlooked. The data for poor sleep and insulin resistance are actually quite strong. Even short-term bouts of sleep deprivation, like two weeks of four hours of sleep per night result in about a 50% reduction in glucose disposal which would result in hyperglycemia. Sleep deprivation is particularly insidious because it affects other things downstream like you motivation to exercise, your willpower to not eat crappy food, stress/anxiety levels, etc.",
+  "content_length": 469,
+  "content_tokens": 89,
+  "embedding": []
+ },
+ {
+  "title": "Benefits of moving or exercising after a meal",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "When we talk about glucose disposal, we’re primarily talking about muscle glucose disposal. But there are two other places the glucose goes: the liver and fat cells (both directly and indirectly through de novo lipogenesis). But the biggest sink (especially in the short timeframe after a meal) is the muscle which can be opened up by exercise and resistance training.",
+  "content_length": 368,
+  "content_tokens": 73,
+  "embedding": []
+ },
+ {
+  "title": "Insulin Resistance and CGM Insights",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "All things equal tend to get a little bit more insulin resistant later in the day. CGM is a tool that has given me a lot more insight in how to eat more carbohydrates and I’ve yet to meet a carb I don’t like.",
+  "content_length": 208,
+  "content_tokens": 53,
+  "embedding": []
+ },
+ {
+  "title": "Peter's Typical Zone 2 Dosage",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "Peter’s typical zone 2 dosage is about four 45-minute sessions a week.",
+  "content_length": 70,
+  "content_tokens": 18,
+  "embedding": []
+ },
+ {
+  "title": "CGM and RCTs",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "The benefits of CGM may need to be integrated over decades. Everything we’re saying about CGM is, of course, not based on an RCT, but instead is based on a proxy to that. If you believe that CGM is a tool to help you achieve that, then by proxy, it should be better. Many examples of beneficial things that do NOT have RCT data: smoking and cancer, the benefits of HRT in perimenopausal women and postmenopausal women, the benefit of EPO in cycling, and PCSK9 inhibitors.",
+  "content_length": 471,
+  "content_tokens": 115,
+  "embedding": []
+ },
+ {
+  "title": "PCSK9 Inhibitors and Lipid Lowering Modalities",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "PCSK9 inhibitors have not been studied in isolation, but clinically, they can be beneficial for patients who are intolerant of other lipid lowering modalities. The mechanism of action of PCSK9 inhibitors is understood to lower apo B in a safe manner, making it a no-brainer for certain situations.",
+  "content_length": 297,
+  "content_tokens": 62,
+  "embedding": []
+ },
+ {
+  "title": "Boxing Training and Health Benefits",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "Although there is no RCT that demonstrates the health benefits of boxing training, the amount of work that goes into it, such as hitting the heavy bag, jumping rope, and bobbing and weaving, can raise heart rate, transiently raise blood pressure, lower systemic vascular resistance, improve glucose disposal, and improve insulin sensitivity. By proxy, training for boxing can be considered beneficial.",
+  "content_length": 401,
+  "content_tokens": 76,
+  "embedding": []
+ },
+ {
+  "title": "Cycling Categories and Tour de France",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "In cycling, there are different categories, ranging from amateur to professional. The Tour de France is won in the mountains and time trials, and the real difference in watts per kilos that makes the difference is what can be squeezed out on those climbs. In the EPO era, Lance Armstrong could hold 7 to 7.1 watts per kilo at his functional threshold power, while in the non-EPO era, there is about a 10% reduction in power.",
+  "content_length": 424,
+  "content_tokens": 94,
+  "embedding": []
+ },
+ {
+  "title": "Functional Threshold Power and FTP",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "That means that a functional threshold power will be 6.3, 6.4 watts per kilos. Lance’s exact numbers when off EPO was 450 watts, on EPO 500 watts was his FTP, meaning the power he could hold for an hour. An average fit person would not be able to hold 200 watts for an hour.",
+  "content_length": 274,
+  "content_tokens": 70,
+  "embedding": []
+ },
+ {
+  "title": "Alpe d’Huez at the Tour de France",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "In his best shape, Peter estimates it would take him a little over an hour to get up Alpe d’Huez. Records at Alpe d’Huez: Marco Pantani has the record at 37:35 in 1997 (EPO era). Lance Armstrong was 1 second off the record (37:36) in 2004 (EPO era). Today without EPO, I would bet these guys are still going up in like 40, 41, 42 minutes. Peter thinks it would take the avg fit person 1:45 to go up Alpe d’Huez.",
+  "content_length": 411,
+  "content_tokens": 120,
+  "embedding": []
+ },
+ {
+  "title": "What would it take the avg. person to finish the Tour de France?",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "Just finishing it would be a Herculean achievement, says Peter. If you could do it in twice the time that it took those cyclists, that would be amazing. “But I cannot, for the life of me, believe that there is an athletic event that is more demanding than the Tour de France.” —Peter Attia.",
+  "content_length": 290,
+  "content_tokens": 70,
+  "embedding": []
+ },
+ {
+  "title": "Different modalities for doing zone 2 exercise",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "Running: Someone who has been a lifelong runner will probably have an easier time hopping on a treadmill or even going outside and running and staying in zone 2 as a runner. Stationary bike: Peter does almost all of his zone 2 on a stationary bike (a road bike that sits on his Wahoo kickr) because “that’s my comfort zone”. Rowing: Rowing is a great whole body exercise. You could argue there’s probably no better whole body exercise than rowing. The drawback of rowing for zone 2 is if you aren’t a really good rower, you’re going to struggle because your form is going to fail before you get the real metabolic benefits.",
+  "content_length": 623,
+  "content_tokens": 148,
+  "embedding": []
+ },
+ {
+  "title": "Rowing for High-Intensity Training",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "Peter likes rowing in shorter bursts for high-intensity training.",
+  "content_length": 65,
+  "content_tokens": 13,
+  "embedding": []
+ },
+ {
+  "title": "Indoor vs Outdoor for Zone 2 Exercise",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "There are advantages to being indoor because you just control the environment much more. Treadmill is great for the ability to toggle speed and incline with perfect control. For this type of mitochondrial training, you want to stay in zone 2 the whole time.",
+  "content_length": 257,
+  "content_tokens": 51,
+  "embedding": []
+ },
+ {
+  "title": "Proxies for Knowing You're in Zone 2",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "MAF method is basically a heuristic for zone 2. Other proxies for zone 2: RPE, relative perceived exertion, using heart rate. Simplest is 180 minus your age. Better is if you know what your true maximum heart rate (not your predicted) — start out at 78% of that value and adjust it based on RPE titrating to just the point at which you will want to open your mouth.",
+  "content_length": 365,
+  "content_tokens": 86,
+  "embedding": []
+ },
+ {
+  "title": "Monitoring Lactate for Zone 2 Exercise",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "Another great heuristic: the “talk test”. You could talk if you wanted to while doing zone 2 but you would like it.",
+  "content_length": 115,
+  "content_tokens": 30,
+  "embedding": []
+ },
+ {
+  "title": "Training Zones",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "If you’re in zone 1 you could talk all day. But going from zone 2 into zone 3 is where it just becomes uncomfortable enough to talk.",
+  "content_length": 132,
+  "content_tokens": 32,
+  "embedding": []
+ },
+ {
+  "title": "Lactate Devices",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "Peter uses the Lactate Plus by Nova. It’s pretty expensive (about 300 bucks). Strips are even more expensive — about $2 per strip. Peter says, “I’m triangulating between power and heart rate and lactate and other factors like meals”.",
+  "content_length": 233,
+  "content_tokens": 62,
+  "embedding": []
+ },
+ {
+  "title": "Lactate Response and Meals",
+  "date": "August 23, 2021",
+  "context": "Metabolic disease",
+  "people": "Peter Attia",
+  "content": "For example, I will have a totally different lactate response if I eat or don’t eat prior to zone 2. Carbohydrate rich meals will drive up lactate. No meal or carbohydrate poor meal, no effect on lactate.",
+  "content_length": 204,
+  "content_tokens": 49,
+  "embedding": []
+ }
+]

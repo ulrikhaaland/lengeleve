@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Bad Posture",
+  "date": "January 25, 2022",
+  "context": "Stability",
+  "people": "Peter Attia",
+  "content": "Beth does not believe in there being a such thing as bad posture. She believes that moving around and never maintaining a single posture for too long is more important than superiority of any one particular posture.",
+  "content_length": 215,
+  "content_tokens": 40,
+  "embedding": []
+ },
+ {
+  "title": "Counteracting Sitting",
+  "date": "January 25, 2022",
+  "context": "Stability",
+  "people": "Peter Attia",
+  "content": "To counteract sitting, Beth suggests getting up and moving often and not sitting in the same position the whole time. Your pose perception just kind of turns off—“You forget that you’re supposed to move. . .if you don’t use it, it you lose it.”",
+  "content_length": 244,
+  "content_tokens": 62,
+  "embedding": []
+ },
+ {
+  "title": "Looking Down",
+  "date": "January 25, 2022",
+  "context": "Stability",
+  "people": "Peter Attia",
+  "content": "Beth says, “I honestly don’t know if I can answer that because there has been studies where no, it’s just like saying if you’re deadlifting with a flexed spine all the time, there has been studies that it doesn’t create any problems. But you would have to do an assessment to see the full picture of the human to see.”",
+  "content_length": 318,
+  "content_tokens": 84,
+  "embedding": []
+ }
+]

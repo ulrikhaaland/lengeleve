@@ -1,0 +1,252 @@
+[
+ {
+  "title": "Exercise framework, deadlifting, lower back pain",
+  "date": "July 22, 2019",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Does Peter structure his exercise plan for lifespan or healthspan? [36:45]; How did Peter rebuild his lower back strength after his devastating injury during med school? [38:15]; Peter’s approach to deadlifting with a bad lower back [43:25];",
+  "content_length": 241,
+  "content_tokens": 56,
+  "embedding": []
+ },
+ {
+  "title": "Blood pressure",
+  "date": "July 22, 2019",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "What is the most effective way to bring blood pressure down? [15:00];",
+  "content_length": 69,
+  "content_tokens": 17,
+  "embedding": []
+ },
+ {
+  "title": "CGM and nootropics",
+  "date": "July 22, 2019",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "How can I obtain a continuous glucose monitor (CGM) as a non-diabetic individual? [11:55]; Does Peter use any nootropics? [28:10];",
+  "content_length": 130,
+  "content_tokens": 38,
+  "embedding": []
+ },
+ {
+  "title": "Tips for Reducing Nighttime Urination",
+  "date": "July 22, 2019",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "To prevent interruptions in sleep due to needing to get up to urinate at night, it is recommended to avoid drinking water too close to bedtime and to avoid alcohol. Alcohol inhibits a hormone called ADH, antidiuretic hormone, also known as vasopressin, which disproportionately drives you to want to pee. If these steps do not help, it may be necessary to contact a doctor to investigate prostate size (men) and/or measure a “post void residual” for urinary retention (men and women).",
+  "content_length": 484,
+  "content_tokens": 108,
+  "embedding": []
+ },
+ {
+  "title": "Peter's Note Card System for To-Do Lists",
+  "date": "July 22, 2019",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Peter uses a note card system to organize his to-do lists. He carries note cards in a pouch made by Levenger and uses 3” by 5” cards. The system includes a daily to-do list, a weekly to-do list, a patient-specific to-do list, and a long-term “random” things list. Each item on the to-do list has a “box” next to it to check off items completed. There is also a final card for “stupid things he likes to do” such as egg boxing, tearing phone books, and counting forks and knives.",
+  "content_length": 478,
+  "content_tokens": 133,
+  "embedding": []
+ },
+ {
+  "title": "Tips for Understanding Health Studies",
+  "date": "July 22, 2019",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "To get smarter at reading/understanding the studies (or the media’s interpretation of them) that get the headlines on health and/or disease, it is recommended to read the five-part Studying Studies blog post written by Peter. The blog post covers topics such as relative risk vs. absolute risk, observational epidemiology, the motivation for observational studies, randomization and confounding, and power and significance.",
+  "content_length": 423,
+  "content_tokens": 84,
+  "embedding": []
+ },
+ {
+  "title": "How to obtain a continuous glucose monitor (CGM)",
+  "date": "July 22, 2019",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "To obtain a fully capable CGM, you must have a prescription from a doctor. Non-diabetics will not be covered by insurance, but they can pay cash for a CGM. The future of CGM is to come up with devices that are more consumer-facing, but you'll give up accuracy and the real-time nature of feedback. It costs about $8-10 per day to run a CGM. Step 1 is finding a doctor that understands the value in having a CGM.",
+  "content_length": 411,
+  "content_tokens": 103,
+  "embedding": []
+ },
+ {
+  "title": "What is essential hypertension?",
+  "date": "July 22, 2019",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Essential hypertension is a fancy way of saying we don't know what's causing it. Hypertension is any blood pressure with a systolic above 120, a diastolic above 80. The kidneys are the most sensitive organ to hypertension. Glomerular filtration rate (GFR) is a measure of kidney function. The proper way to measure blood pressure is for the person to be sitting down for 10 minutes.",
+  "content_length": 382,
+  "content_tokens": 87,
+  "embedding": []
+ },
+ {
+  "title": "Blood Pressure Measurement",
+  "date": "July 22, 2019",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Peter requires the patient to be checking their blood pressure at home a couple times a day for a couple of weeks using this method with this device. The Omron device is very accurate.",
+  "content_length": 184,
+  "content_tokens": 37,
+  "embedding": []
+ },
+ {
+  "title": "Treating Uric Acid Levels",
+  "date": "July 22, 2019",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Peter says it doesn’t make sense to try to medically correct hypertension if a patient has a uric acid level of above ~5. Dietary methods for lowering uric acid levels include lowering fructose intake, lowering ethanol intake, and lowering meat intake. Peter’s target for patients is below 5.",
+  "content_length": 292,
+  "content_tokens": 62,
+  "embedding": []
+ },
+ {
+  "title": "Genetics Effect on Uric Acid",
+  "date": "July 22, 2019",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Uric acid levels are heavily influenced by genetics. The reference range on Peter’s lab is about 2.1 to 6.9, but just being inside the range doesn’t mean you should pay attention. If you are a 6.5, you still want to push it down to 5 or so. Sex difference: if you take the population mean of men versus women, it’s probably different by a full two points and that is NOT reflected on the reference ranges.",
+  "content_length": 405,
+  "content_tokens": 100,
+  "embedding": []
+ },
+ {
+  "title": "Nutrition, Body Weight, and Blood Pressure",
+  "date": "July 22, 2019",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "In parallel with correcting uric acid, Peter is correcting nutrition in patients with the goal of weight loss/fat loss. The conventional thought is that excess body fat drives blood pressure, so therefore losing weight leads to a lower blood pressure. However, the weight loss may be a proxy for something else that’s going on. There is no denying that the more weight you put on, the more your blood pressure goes up, and the reverse, is correct.",
+  "content_length": 447,
+  "content_tokens": 93,
+  "embedding": []
+ },
+ {
+  "title": "Medical Option for Treating Blood Pressure",
+  "date": "July 22, 2019",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "After correcting uric acid, weight, diet, and sleep, there are still a subset of patients who don’t meet their goal. In those cases, there are different classes of drugs to treat medically: beta blockers to calcium channel blockers to ACE inhibitors to angiotensin receptor blockers technicall to diuretics, and so on. There’s an entire algorithm for figuring out what combination of drugs will work best in a particular individual.",
+  "content_length": 432,
+  "content_tokens": 93,
+  "embedding": []
+ },
+ {
+  "title": "Fasting and Blood Pressure",
+  "date": "July 22, 2019",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Bob says a couple papers showed how quickly fasting could correct blood pressure. After just a few days of fasting, patients were seeing their systolic and diastolic numbers were coming down. Peter says fasting is the most important tool in the body and there is nothing that will lower insulin faster than a fast. 20% of people may have “essential/idiopathic” hypertension (Peter’s intuition).",
+  "content_length": 394,
+  "content_tokens": 86,
+  "embedding": []
+ },
+ {
+  "title": "Hyperinsulinemia and Hypertension",
+  "date": "July 22, 2019",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Fasting insulin correlates with hypertension, but it's unclear if it's an independent predictor or causal. Several papers explore the relationship between hyperinsulinemia and hypertension, including Park et al., 2013, Xun et al., 2013, Christlieb et al., 1985, and Bönner, 1994.",
+  "content_length": 279,
+  "content_tokens": 63,
+  "embedding": []
+ },
+ {
+  "title": "Low Carb Diets and Blood Pressure",
+  "date": "July 22, 2019",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Low carb diets combined with blood pressure medicine can lead to weight loss and water loss, which can drop blood pressure. However, diabetics or people on anti-diabetic medication should not try low carb diets without a doctor's supervision as it can be dangerous.",
+  "content_length": 265,
+  "content_tokens": 53,
+  "embedding": []
+ },
+ {
+  "title": "Modafinil and Nootropics",
+  "date": "July 22, 2019",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Modafinil is a medication used to treat sleepiness due to narcolepsy, but Peter uses it for jet-lag purposes a few times a year. It keeps you awake and alert, and some people use it for big presentations. Adderall is another nootropic that some people use for its benefits, but it is addictive and requires increasing dosage over time. Lion's Mane is a nootropic that some people say gives them adderall-like effects, but it's user-specific and may produce results through the placebo effect.",
+  "content_length": 492,
+  "content_tokens": 111,
+  "embedding": []
+ },
+ {
+  "title": "Concussions and Head Trauma",
+  "date": "July 22, 2019",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Peter's brother suffered a TBI from a bike accident that affected his sensitivity to light and noise. Exogenous ketones may be protective in the very short term for head trauma, but more research is needed. APOE genotype may also play a role in head trauma.",
+  "content_length": 257,
+  "content_tokens": 55,
+  "embedding": []
+ },
+ {
+  "title": "Peter's approach to exercise",
+  "date": "July 22, 2019",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Peter’s approach to exercise has four broad categories: Stability, Strength, Aerobic efficiency, and Aerobic performance. Stability is the most lacking and Peter works on something in stability every single day. Strength is three days a week. Aerobic is three hours a week (i.e., three or four sessions that total three hours). Anaerobic work is twice a week.",
+  "content_length": 359,
+  "content_tokens": 78,
+  "embedding": []
+ },
+ {
+  "title": "Peter's lower back injury",
+  "date": "July 22, 2019",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "In med school, a surgeon operated on the wrong side of Peter's back (and subsequent surgeries were required to fix the error). Peter needed complete laminectomies at the L5-S1 level. The lamina are the pieces of the vertebral bodies that actually provide a second layer of support. When you fully transect the lamina at a level, you now all of a sudden have created a huge instability there. After the injury, Peter was 'out of commission' for about a year due to back pain.",
+  "content_length": 474,
+  "content_tokens": 109,
+  "embedding": []
+ },
+ {
+  "title": "Peter's approach to deadlifting with a bad lower back",
+  "date": "July 22, 2019",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Peter does deadlifts for two reasons: 1) It’s the ultimate test of whether he is loading correctly. If it’s hurting, he knows he’s doing some incorrectly, so he better fix it. 2) If done correctly, if becomes therapeutic to your back.",
+  "content_length": 234,
+  "content_tokens": 61,
+  "embedding": []
+ },
+ {
+  "title": "Deadlift: Straight bar or hex bar?",
+  "date": "July 22, 2019",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Back in the day, it was all straight bar, narrow stance, reverse grip. Today, he uses a hex bar. It is absolutely, positively, hands-down easier. It allows for much more flexibility of foot placement. The reason you want to do a straight bar deadlift is because you’re competing in a sport called powerlifting because that’s the rule of the sport. Not really any example in athletics that requires you to be that low to initiate your force. For all the purists who want to knock the hex bar… They might say, “You don’t get low enough.“ Peter’s rebuttal would be… “Okay, tell me why I need to be lower? Because for the sport that I’m training for, which is just life, I don’t need to be lower.”",
+  "content_length": 693,
+  "content_tokens": 180,
+  "embedding": []
+ },
+ {
+  "title": "Squatting: Do you really need to be parallel?",
+  "date": "July 22, 2019",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Peter says, no. And it’s especially unnecessary to go “ass to grass”. It’s fine too if your body permits it, but you don’t need to. Whether you can go that low will depend on the flexibility of your ankle joints, knees, and hips. The bigger reason that I don’t like going ass to grass … It’s very unlikely that a person can do a squat like that and maintain a neutral lumbar spine under load. It absolutely puts you in the worst spine position. “I see no upside to doing that under load. . .I think you are inviting an unnecessary strain on your back.”",
+  "content_length": 552,
+  "content_tokens": 143,
+  "embedding": []
+ },
+ {
+  "title": "Mechanics ⇒ consistency ⇒ intensity",
+  "date": "July 22, 2019",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Bob says that only after you’ve got the mechanics down, and you are consistent, then and only then should you add weight/intensity. Peter agrees, and says that he has dropped the Tabata deadlifts (225 lbs on the hex bar and you do as many as you can for 20 seconds, rest 10 seconds, and do it 8 times). He dropped it because fatigue deteriorates form and 225 lbs might not have been heavy enough for Peter to feel the pain signal of bad form.",
+  "content_length": 442,
+  "content_tokens": 102,
+  "embedding": []
+ },
+ {
+  "title": "Prepping your body for a deadlift",
+  "date": "July 22, 2019",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Peter does 3 things in prep for a deadlift (see future video for more detail). They all center around stabilizing his pelvic floor, stabilizing his hips, and learning to basically fire directly up using a single leg with the hip, the sit bone, the ischial tuberosity down.",
+  "content_length": 272,
+  "content_tokens": 60,
+  "embedding": []
+ }
+]

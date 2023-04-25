@@ -1,0 +1,102 @@
+[
+ {
+  "title": "The Importance of Exercise for Health",
+  "date": "November 28, 2021",
+  "context": "Weekly Emails",
+  "people": "Peter Attia",
+  "content": "Regular physical activity is one of the most important things people can do to improve their health according to the national physical activity guidelines. Exercise is associated with the reduction in risk of many adverse conditions, including the four horsemen of chronic disease: metabolic dysregulation, cardiovascular disease, cancer, and neurodegeneration. Exercise is also associated with a lower risk of chronic lung disease, as well as with a lower risk of frailty and the debilitating or deadly falls and injuries that accompany it. In other words, exercise is associated with a lower risk of the conditions that kill the majority of US adults over the age of 40. Exercise might be the most potent “drug” we have for extending the quality and perhaps quantity of our years of life.",
+  "content_length": 790,
+  "content_tokens": 150,
+  "embedding": []
+ },
+ {
+  "title": "The Generation 100 Study",
+  "date": "November 28, 2021",
+  "context": "Weekly Emails",
+  "people": "Peter Attia",
+  "content": "Researchers from Norway conducted a five-year study to test the effect of exercise and mortality in adults in their seventies living in the city of Trondheim. More than 1,500 participants in this study were randomized into one of three groups: a control group, high-intensity interval training (HIIT), or moderate-intensity continuous training (MICT).",
+  "content_length": 351,
+  "content_tokens": 72,
+  "embedding": []
+ },
+ {
+  "title": "The Exercise Protocols",
+  "date": "November 28, 2021",
+  "context": "Weekly Emails",
+  "people": "Peter Attia",
+  "content": "About half of the participants were assigned to the control group and were asked to follow the Norwegian physical activity guidelines for 2012, which recommends 30 minutes of moderate-level physical activity almost every day. The other half of participants were assigned to the HIIT or MICT groups. Participants in the HIIT group were asked to exchange two of the five 30-minute moderate-intensity physical activity sessions each week (as recommended by Norwegian health authorities) with two “4-by-4” HIIT sessions, consisting of a 10-minute warm-up followed by four four-minute intervals at approximately 90% peak heart rate with three minutes of active recovery (about 60% of peak heart rate) in between. Participants in the MICT group were asked to exchange two of the five guideline-recommended 30-minute moderate-intensity physical activity sessions each week with two MICT sessions, consisting of 50 minutes of continuous work at about 70% of peak heart rate.",
+  "content_length": 966,
+  "content_tokens": 194,
+  "embedding": []
+ },
+ {
+  "title": "The Results of the Study",
+  "date": "November 28, 2021",
+  "context": "Weekly Emails",
+  "people": "Peter Attia",
+  "content": "After five years, just under 5% of the participants assigned to the control group had died, while the mortality rates in participants assigned to the HIIT and MICT groups were about 3% and 6%, respectively. The combined mortality rate of the HIIT and MICT participants was 4.5%. The investigators concluded that combined MICT and HIIT has no effect on all-cause mortality compared with recommended physical activity levels, but they did observe a lower all-cause mortality trend in the participants assigned to HIIT compared with those assigned to MICT and controls.",
+  "content_length": 566,
+  "content_tokens": 113,
+  "embedding": []
+ },
+ {
+  "title": "Exercise Recommendations in the Generations 100 Study",
+  "date": "November 28, 2021",
+  "context": "Weekly Emails",
+  "people": "Peter Attia",
+  "content": "The control group was asked to follow the Norwegian physical activity guidelines, which recommends 30 minutes of moderate-level physical activity almost every day. The Norwegian guidelines recommend that all adults engage in at least 150 minutes of moderate-intensity physical activity throughout the week, or engage in at least 75 minutes of vigorous-intensity physical activity throughout the week, or engage in an equivalent combination of moderate- and vigorous-intensity activity.",
+  "content_length": 485,
+  "content_tokens": 82,
+  "embedding": []
+ },
+ {
+  "title": "Comparison of Exercise Groups in the Generations 100 Study",
+  "date": "November 28, 2021",
+  "context": "Weekly Emails",
+  "people": "Peter Attia",
+  "content": "The MICT group was asked to do five MICT sessions per week with three sessions lasting 30 minutes and two sessions lasting 20 minutes longer. The HIIT group was asked to do three 30-minute MICT sessions per week and two HIIT sessions per week.",
+  "content_length": 243,
+  "content_tokens": 53,
+  "embedding": []
+ },
+ {
+  "title": "Limitations of the Generations 100 Study",
+  "date": "November 28, 2021",
+  "context": "Weekly Emails",
+  "people": "Peter Attia",
+  "content": "The control group was not suitable to find out if exercise directly affects lifespans. The investigators acknowledged the high level of physical activity in the control group, which probably reduced the study’s ability to detect statistically significant effects of exercise training on primary outcomes. The Hawthorne effect refers to the alteration of behavior by the participants of a study due to their awareness of being observed. The control group is completely inappropriate from the standpoint of trying to determine cause and effect in this study.",
+  "content_length": 556,
+  "content_tokens": 96,
+  "embedding": []
+ },
+ {
+  "title": "The Importance of Reliable Insight",
+  "date": "November 28, 2021",
+  "context": "Weekly Emails",
+  "people": "Peter Attia",
+  "content": "The looming question is: where do we draw the line? Are we already so confident that exercise directly affects lifespans that this question should be similarly exempt from a randomized controlled clinical trial? And how do we gain further reliable insight into such “forbidden” research questions? Most likely, a combination of approaches is needed.",
+  "content_length": 349,
+  "content_tokens": 67,
+  "embedding": []
+ },
+ {
+  "title": "Combining Approaches",
+  "date": "November 28, 2021",
+  "context": "Weekly Emails",
+  "people": "Peter Attia",
+  "content": "We might find some utility in certain observational data, as well as in cellular mechanistic studies. Further, randomized study designs can often be applied to address topics highly relevant to the research question – for instance, one might test effects of shorter-term exercise patterns on molecular markers associated with chronic disease risk.",
+  "content_length": 347,
+  "content_tokens": 60,
+  "embedding": []
+ },
+ {
+  "title": "Alternative Investigation Approaches",
+  "date": "November 28, 2021",
+  "context": "Weekly Emails",
+  "people": "Peter Attia",
+  "content": "On the question of exercise and longevity, various alternative investigation approaches each might provide only a small piece of the puzzle. But together, they’d likely stand a better chance of answering this question than a single study designed with an inadequate control group and practically no chance of detecting a true underlying effect.",
+  "content_length": 344,
+  "content_tokens": 60,
+  "embedding": []
+ }
+]

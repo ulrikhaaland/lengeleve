@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Jim Walmsley breaks 50-mile record",
+  "date": "June 2, 2019",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Jim Walmsley broke the 50-mile record by 13 seconds, finishing in 4 hours, 50 minutes, 7 seconds. Walmsey averaged a 5:48 mile for almost five hours, which is truly remarkable.",
+  "content_length": 176,
+  "content_tokens": 44,
+  "embedding": []
+ },
+ {
+  "title": "Project Carbon X and Breaking2",
+  "date": "June 2, 2019",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Project Carbon X was part promotion and part athletic endeavor, while Breaking2 was a similar stunt and show of athletic display. Project Carbon X was IAAF-approved for world record status while Breaking2 was not. Both are truly remarkable feats.",
+  "content_length": 246,
+  "content_tokens": 48,
+  "embedding": []
+ },
+ {
+  "title": "Specialization in athletic performance",
+  "date": "June 2, 2019",
+  "context": "Exercise & Physical Health",
+  "people": "Peter Attia",
+  "content": "Both feats seemingly demonstrate a remarkable display of specialization. Generalization and specialization have been on my mind recently as I’m looking forward to reading David Epstein’s new book, Range: Why Generalists Triumph in a Specialized World.",
+  "content_length": 251,
+  "content_tokens": 49,
+  "embedding": []
+ }
+]

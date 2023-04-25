@@ -1,0 +1,292 @@
+[
+ {
+  "title": "Methods of assessing body fat",
+  "date": "November 9, 2020",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "This episode discusses various methods of assessing body fat, including Magnetic Resonance Imaging (MRI), Computed Tomography (CT Scan), Dual-Energy X-ray Absorptiometry (DEXA), Hydrostatic/Underwater Weighing, Air Displacement (Bod Pod), Skinfold measurement, Total Body Water, and Bioelectrical Impedance.",
+  "content_length": 307,
+  "content_tokens": 77,
+  "embedding": []
+ },
+ {
+  "title": "Optimal body fat percentage and muscle mass",
+  "date": "November 9, 2020",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "The episode also covers the optimal body fat percentage and muscle mass, as well as the best strategy to improve body composition.",
+  "content_length": 130,
+  "content_tokens": 24,
+  "embedding": []
+ },
+ {
+  "title": "Defining insulin resistance and reversing it",
+  "date": "November 9, 2020",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Peter and Bob discuss insulin resistance and provide a patient case study that highlights interventions capable of reversing the condition.",
+  "content_length": 139,
+  "content_tokens": 21,
+  "embedding": []
+ },
+ {
+  "title": "Addressing high levels of PFOA in Topo Chico",
+  "date": "November 9, 2020",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Peter addresses his level of concern about a recent Consumer Report finding that Topo Chico had the highest levels of a class of synthetic chemicals (PFAS) of all the carbonated bottled waters tested and shares if the finding will change his consumption habits.",
+  "content_length": 261,
+  "content_tokens": 50,
+  "embedding": []
+ },
+ {
+  "title": "Body mass index (BMI) vs. body fat percentage (BF%)",
+  "date": "November 9, 2020",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Body mass index (BMI) can tell us limited information. BMI doesn’t take into account muscle mass. Body fat percentage (BF%) is the much better metric to understand.",
+  "content_length": 164,
+  "content_tokens": 38,
+  "embedding": []
+ },
+ {
+  "title": "Methods of assessing body fat—Magnetic Resonance Imaging (MRI)",
+  "date": "November 9, 2020",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Magnetic Resonance Imaging (MRI) provides tomographic images with high soft tissue contrast, which enables quantification of fat and muscle compartmental volumes. Especially Dixon methods, that produce co-registered water and fat images, facilitate the separation of both adipose and lean tissue compartments.",
+  "content_length": 309,
+  "content_tokens": 57,
+  "embedding": []
+ },
+ {
+  "title": "MRI as the Gold Standard for Body Fat Percentage",
+  "date": "November 9, 2020",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Given the expense and the time (4+ hours), it’s not actually practical to do a whole-body MRI for body fat outside of the research setting. That being said, it is the gold standard for BF% — not only because of the accuracy, but more importantly because of the very clear of picture it gives of the type of fat present (i.e., subcutaneous vs. visceral).",
+  "content_length": 353,
+  "content_tokens": 84,
+  "embedding": []
+ },
+ {
+  "title": "Types of Body Fat",
+  "date": "November 9, 2020",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Subcutaneous fat = fat between the skin and the fascia. Visceral fat = fat beneath the fascia near the vital organs. Visceral fat is found around the liver, the kidneys, the spleen, and the gut. Visceral fat is incredibly associated with metabolic disease.",
+  "content_length": 256,
+  "content_tokens": 61,
+  "embedding": []
+ },
+ {
+  "title": "Computed Tomography (CT Scan) for Assessing Body Fat",
+  "date": "November 9, 2020",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "CT scan is another type of scanner that you get into just like an MRI — but it is a much quicker procedure. Like the MRI, the CT scan does a very good job of showing fat. It’s very good anatomic study so you can see not only the total fat but where it lies (subcutaneous, visceral, etc.). Compared to MRI, it’s much less expensive. But CT has far more radiation exposure, which is why Peter would never recommend a whole-body CT scan.",
+  "content_length": 434,
+  "content_tokens": 105,
+  "embedding": []
+ },
+ {
+  "title": "Dual-Energy X-ray Absorptiometry (DEXA) for Assessing Body Fat",
+  "date": "November 9, 2020",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "DEXA is the method Peter uses with most of his patients.",
+  "content_length": 56,
+  "content_tokens": 14,
+  "embedding": []
+ },
+ {
+  "title": "DEXA Scanning",
+  "date": "November 9, 2020",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "DEXA scanning is a quick and relatively inexpensive method of assessing bone mineral density, lean mass, and non-lean mass. It uses a wand to collect electrons on the backside of the body, and the more electrons that get collected, the less dense the tissue that it’s been passed through. DEXA scanning also allows for the differentiation between subcutaneous and intra-abdominal fat to some degree, and it involves a very trivial amount of radiation. However, hydration levels can impact the measurement, so it's important to maintain consistency in factors such as hydration level, time of day, sleep, and food eaten prior.",
+  "content_length": 625,
+  "content_tokens": 133,
+  "embedding": []
+ },
+ {
+  "title": "Assessing Body Fat: Hydrostatic/Underwater Weighing",
+  "date": "November 9, 2020",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Hydrostatic/Underwater Weighing is a method of assessing body fat that involves completely submerging the subject under water while they sit on a chair or platform connected to a scale. Based on Archimedes’ principle, the amount of water displaced represents the subject’s body volume, which can be used to calculate body density and estimate body fat percentage. However, this method requires a clear belief about how much air a person can expel from their lungs, and individuals who can't tap into that will artificially have a higher-looking body fat. Peter Attia prefers DEXA scanning over hydrostatic weighing, but he thinks it's okay and reasonable for comparison.",
+  "content_length": 670,
+  "content_tokens": 137,
+  "embedding": []
+ },
+ {
+  "title": "Assessing Body Fat: Air Displacement (Bod Pod)",
+  "date": "November 9, 2020",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Air Displacement (Bod Pod) is a method of assessing body fat that involves sitting in a sealed chamber that detects changes in air pressure. Similar to underwater weighing, the amount of air displaced represents the subject’s body volume, which can be used to estimate body fat percentage. The chamber is typically connected to a computer, allowing for automatic estimation of body fat percentage based on the collected data. This method is very similar to underwater weighing, but it relies on a delta in air pressure instead of water displacement.",
+  "content_length": 549,
+  "content_tokens": 105,
+  "embedding": []
+ },
+ {
+  "title": "Air Displacement Method",
+  "date": "November 9, 2020",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "The air displacement method is easy, comfortable, and less painful than underwater weighing. However, it is not as accurate as Dexa. In terms of accuracy, it goes MRI ⇒ CT scans ⇒ DEXA.",
+  "content_length": 185,
+  "content_tokens": 45,
+  "embedding": []
+ },
+ {
+  "title": "Skinfold Measurement",
+  "date": "November 9, 2020",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "The skinfold measurement method involves using calipers to pinch the skin in various areas of the body. The size of the skinfold created by the calipers is proportional to the amount of adipose underneath the skin, thereby allowing for estimation of body fat. The accuracy of this method is highly dependent on the knowledge of the person taking the measurement. It is recommended to have a trained technician, ideally the same one, to perform the measurement.",
+  "content_length": 460,
+  "content_tokens": 88,
+  "embedding": []
+ },
+ {
+  "title": "Total Body Water",
+  "date": "November 9, 2020",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "The Total Body Water method involves ingesting radio-labeled water and collecting the amount of water that comes out of the person in blood, saliva, urine, etc. to back-calculate how much fat they have. This method is mainly used for research purposes and is a very indirect way of calculating body fat.",
+  "content_length": 303,
+  "content_tokens": 65,
+  "embedding": []
+ },
+ {
+  "title": "Bioelectrical Impedance (BIA)",
+  "date": "November 9, 2020",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "The Bioelectrical Impedance (BIA) method involves standing or holding onto a device that transmits a small amount of current into the feet, hands, or both. Since fat is a nonconducting tissue, it opposes electrical current. In contrast, current is transferred through water by electrolytes. Therefore, passage of current through the body can be used to estimate total body water content, and with body mass can be used to estimate body fat percentage. While it is quick, easy, cheap, and has no radiation, it is not super accurate and is highly sensitive to hydration status. It can be good for seeing a trend over time.",
+  "content_length": 620,
+  "content_tokens": 132,
+  "embedding": []
+ },
+ {
+  "title": "Optimal Body Fat Percentage and Muscle Mass",
+  "date": "November 9, 2020",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Mortality risk really starts to rise when BF% gets into the 35-40% range. There is a strong genetic component to BF. In general, the more muscle mass the better. One study showed that skeletal muscle mass was an independent predictor of mortality.",
+  "content_length": 247,
+  "content_tokens": 52,
+  "embedding": []
+ },
+ {
+  "title": "Better Strategy: Weight Loss or Muscle Gain?",
+  "date": "November 9, 2020",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Peter and Bob both agree that in a hypothetical patient who is a little chubby and lacking in muscle mass, they would prefer that person focus on adding lean muscle vs. strictly trying to lose weight. First, muscle is more metabolically active so in the long run it’s going to help you. Secondly, the structural benefits alone are essential if you’re interested in longevity. Also, weight bearing training (e.g., squats) can add bone mineral density.",
+  "content_length": 450,
+  "content_tokens": 97,
+  "embedding": []
+ },
+ {
+  "title": "Defining Insulin Resistance and the Steps to Reverse It",
+  "date": "November 9, 2020",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Insulin resistance is when cells become resistant to the effects of insulin—specifically the muscles and the liver. So when someone is insulin resistant, they will have high blood sugar after consuming carbohydrates because their muscles don’t take in glucose inefficiently because they aren’t able to respond to the signal of insulin. They’ll also likely have high levels of glucose in the morning because overnight their liver continues to make too much glucose and isn’t responding to the signal of insulin telling them to stop making it. The answer is yes, almost always to the question of whether insulin resistance is reversible.",
+  "content_length": 635,
+  "content_tokens": 124,
+  "embedding": []
+ },
+ {
+  "title": "Pharmacological agents",
+  "date": "November 9, 2020",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Peter prefers drugs that lower glucose: metformin, SGLT2 inhibitors, GLP-1 receptor agonists. He is not a fan of diabetic drugs that tell the body to rev up insulin production as a way to overcome the resistance.",
+  "content_length": 212,
+  "content_tokens": 50,
+  "embedding": []
+ },
+ {
+  "title": "Stress/cortisol management",
+  "date": "November 9, 2020",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "When you’re under stress (physiologic or psychological), you’re producing cortisol and that’s going to exacerbate insulin resistance. Stress (i.e., hypercortisolemia) can be addressed pharmacologically and therapeutically (e.g., psychotherapy and/or meditation).",
+  "content_length": 262,
+  "content_tokens": 65,
+  "embedding": []
+ },
+ {
+  "title": "Sleep",
+  "date": "November 9, 2020",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Sleep is probably one of the most overlooked ways to address insulin resistance. Research shows pretty clearly how much you can destroy glucose disposal by interrupting sleep. Experiments show that when deprive people down to 4 hours per night for a period of two weeks there’s an incredible deterioration in insulin signaling and glucose disposal.",
+  "content_length": 348,
+  "content_tokens": 63,
+  "embedding": []
+ },
+ {
+  "title": "Exercise",
+  "date": "November 9, 2020",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Exercise allows you to increase the size of the reservoir that takes in glucose—the reservoir being the muscle. Zone 2 exercise is training right at that maximum efficiency of mitochondrial performance and really improves insulin sensitivity. Strength training improves insulin sensitivity and improves the reservoir—the capacity—because your skeletal muscles are the greatest reservoir that you have for glucose disposal.",
+  "content_length": 422,
+  "content_tokens": 69,
+  "embedding": []
+ },
+ {
+  "title": "Nutrition",
+  "date": "November 9, 2020",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "By definition, insulin resistance is a carbohydrate tolerance disorder. Insulin resistance patients generally respond better to carbohydrate restriction than any other form of restriction. Rather than tell everyone to stay under XXX amount of carbs, Peter sets a standard in terms of average blood glucose and a standard deviation from that average. Peter uses a Dexcom CGM to monitor this.",
+  "content_length": 390,
+  "content_tokens": 69,
+  "embedding": []
+ },
+ {
+  "title": "Patient case study: Reversing insulin resistance",
+  "date": "November 9, 2020",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Patient X, a male, 35 years old, 5’10” and 192 lbs, had a classic pattern of insulin resistance. Peter uses a Dexcom CGM to monitor his patients. He sets a standard in terms of average blood glucose and a standard deviation from that average.",
+  "content_length": 242,
+  "content_tokens": 59,
+  "embedding": []
+ },
+ {
+  "title": "Exercise and Nutrition Intervention",
+  "date": "November 9, 2020",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "For exercise, the patient began following the Mark Rippetoe program of heavy compound movements with progressive overload. For nutrition, they aggressively restricted carbs–putting him on a ketogenic diet for about six months and then gradually easing in a tolerable amount of carbs.",
+  "content_length": 283,
+  "content_tokens": 54,
+  "embedding": []
+ },
+ {
+  "title": "Patient X's Results After Intervention",
+  "date": "November 9, 2020",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Within a year, the patient had most of the benefits and he’s maintained them. His inflammatory markers didn’t look too bad and his cardiac function markers looked great. His fasting blood glucose was 93, fasting insulin was 15, and his insulin at 60 min was 134 (ideally below 40).",
+  "content_length": 281,
+  "content_tokens": 63,
+  "embedding": []
+ },
+ {
+  "title": "Diagnosis",
+  "date": "November 9, 2020",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "The diagnosis is hyperinsulinemia, an endocrine condition of hyperinsulinemia and effectively insulin resistance on a full-fledged scale. Hemoglobin A1C was 5.8% (pre-diabetic).",
+  "content_length": 177,
+  "content_tokens": 46,
+  "embedding": []
+ }
+]

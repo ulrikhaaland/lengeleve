@@ -1,0 +1,382 @@
+[
+ {
+  "title": "Understanding Insulin Resistance",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "In this AMA episode, Peter and Bob discuss all things related to insulin resistance by revisiting the important points made in the fascinating, yet quite technical, episode of The Drive with Gerald Shulman. They devote the entire discussion to understanding the condition known as insulin resistance, how it’s measured, how it manifests in the muscle and liver, and ultimately, what we can do about it.",
+  "content_length": 402,
+  "content_tokens": 80,
+  "embedding": []
+ },
+ {
+  "title": "Defining Insulin Resistance",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The basics of insulin, defining insulin resistance (IR), and gold-standard methods of quantifying IR in the muscle (7:15);",
+  "content_length": 122,
+  "content_tokens": 28,
+  "embedding": []
+ },
+ {
+  "title": "Testing for Insulin Resistance",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Practical ways to test for insulin resistance in a normal clinical setting (15:45);",
+  "content_length": 83,
+  "content_tokens": 18,
+  "embedding": []
+ },
+ {
+  "title": "Insulin Resistance in the Muscle",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "How insulin resistance manifests in the muscle (23:00); The biochemical block in glycogen synthesis—drivers and mechanisms resulting in insulin resistance in the muscle (30:45); The disparity in fat oxidation between insulin-sensitive and insulin-resistant individuals (44:45); The fate of the ingested carbohydrate in someone who is insulin resistant (51:00);",
+  "content_length": 360,
+  "content_tokens": 71,
+  "embedding": []
+ },
+ {
+  "title": "Exercise and Insulin Resistance",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The role of exercise in mitigating and reversing insulin resistance (1:05:00);",
+  "content_length": 78,
+  "content_tokens": 17,
+  "embedding": []
+ },
+ {
+  "title": "Insulin Resistance in the Liver",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "How insulin resistance manifests in the liver (1:09:15);",
+  "content_length": 56,
+  "content_tokens": 14,
+  "embedding": []
+ },
+ {
+  "title": "Preventing Insulin Resistance",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Biggest takeaways: what we can do to mitigate and prevent insulin resistance (1:20:45);",
+  "content_length": 87,
+  "content_tokens": 22,
+  "embedding": []
+ },
+ {
+  "title": "The basics of insulin, defining insulin resistance (IR), and gold-standard methods of quantifying IR in the muscle",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Insulin is secreted as what’s called a pro-peptide. Insulin as a very anabolic (building/growing) hormone, and does the following: Drives glucose into muscles where it can be turned into glycogen. Plays a role in glycogen synthesis in the liver. Increases fatty acid uptake into fat cells. In short: Insulin makes fat cells more fat, it makes muscle cells more glycogen rich, and it makes the liver more glycogen rich.",
+  "content_length": 418,
+  "content_tokens": 100,
+  "embedding": []
+ },
+ {
+  "title": "Defining insulin resistance (IR) and how it’s measured",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Insulin resistance is probably best defined as an impaired ability for insulin to do some of the things listed above. There are a couple of gold standard ways to measure and quantify insulin resistance that are done in clinical trials. The hyperinsulinemic-euglycemic clamp technique is a measure of tissue insulin sensitivity, and the more insulin sensitive you are, the higher that glucose disposal rate will be. The insulin suppression test is kind of the opposite of the euglycemic clamp, which is you fix the level of glucose and you’re trying to see how much insulin is required to do that. The best way to test for insulin resistance is the oral glucose tolerance test.",
+  "content_length": 676,
+  "content_tokens": 137,
+  "embedding": []
+ },
+ {
+  "title": "Practical ways to test for insulin resistance in a normal clinical setting",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Fasting insulin and fasting glucose are generally talked about as ways that people pay attention to insulin resistance. But the reality of it is those things don’t tell us much. Even something called the HOMA-IR is not much better than looking at fasting insulin. The earliest indication of insulin resistance is an elevation of those “postprandial” insulin levels. The typical progression from normal to severely insulin resistant is glucose stays relatively low after the ingestion and so does insulin, insulin goes up while glucose stays down, glucose goes up while insulin stays up, and fasting glucose going up and then fasting insulin going up.",
+  "content_length": 650,
+  "content_tokens": 127,
+  "embedding": []
+ },
+ {
+  "title": "Metabolic Syndrome Criteria",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The five criteria of metabolic syndrome are having visceral fat, high triglycerides, low HDL cholesterol, high blood pressure, and high fasting glucose. Peter Attia believes that the amount of visceral fat is more important than subcutaneous fat, triglycerides should be below 100 and less than twice the HDL cholesterol, blood pressure should be below 120 over 80, and fasting glucose above 100 is not particularly alarming depending on how it responds.",
+  "content_length": 454,
+  "content_tokens": 85,
+  "embedding": []
+ },
+ {
+  "title": "Insulin Resistance and Health",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Insulin resistance is the root of metabolic syndrome and is detrimental to health. Peter Attia believes that being insulin sensitive is crucial for living a healthy life.",
+  "content_length": 170,
+  "content_tokens": 31,
+  "embedding": []
+ },
+ {
+  "title": "Glucose Disposal and Insulin Resistance",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "In a healthy individual, glucose is stored as glycogen in the muscle and liver. Insulin resistance causes the muscles to take in less glucose, resulting in higher levels of plasma insulin. The liver becomes resistant to insulin, leading to higher levels of plasma glucose. At some point, medication may be needed to overcome this problem.",
+  "content_length": 338,
+  "content_tokens": 65,
+  "embedding": []
+ },
+ {
+  "title": "Fates of Glucose in the Muscle",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Glucose in the muscle can be converted into ATP through oxidative phosphorylation, undergo glycolysis, or be stored as glycogen. When things go wrong, glucose disposal in the muscle is affected.",
+  "content_length": 194,
+  "content_tokens": 43,
+  "embedding": []
+ },
+ {
+  "title": "Glycogen Synthesis and Insulin Resistance",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Gerald Shulman did a study using a technique called NMR to try to answer the question of which of the three factors (glycogen synthesis, oxidative phosphorylation, and glucose uptake) is not working in insulin-resistant people. They found that those with type 2 diabetes made 50% less glycogen out of the same amount of glucose compared to insulin-sensitive people. The entire difference was effectively accounted for by glycogen synthesis. The biochemical block in glycogen synthesis is that an insulin-resistant person can’t make glycogen effectively, so something is blocking that process. The issue was GLUT4, meaning the “glucose isn’t even getting in the door”.",
+  "content_length": 667,
+  "content_tokens": 146,
+  "embedding": []
+ },
+ {
+  "title": "Possible Reasons for Lack of Glycogen Synthesis",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "There are a lot of things that drive glycogen synthesis, and the possible reasons for lack of glycogen synthesis include plasma glucose not entering the cell through a transporter called the GLUT4 transporter, glucose not being converted into glucose 6-phosphate, and many steps that take glucose 6-phosphate to UDP glucose. Ultimately, that gets wound into glycogen using another enzyme called glycogen synthase. Depending on where the roadblock is, you will see different scenarios of what goes up and what goes down.",
+  "content_length": 519,
+  "content_tokens": 105,
+  "embedding": []
+ },
+ {
+  "title": "What’s Driving the GLUT4 Block and What’s the Mechanism of It?",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "One of the things that they speculated on was an association that they noticed — when looking at intramyocellular lipid (IMCL) content they saw that it correlates with muscle insulin resistance. They noticed that the more lipid that is inside of a muscle cell, the more insulin resistant an individual was. You can have lipid outside of a muscle cell, extracellular, and that did NOT seem to correlate.",
+  "content_length": 402,
+  "content_tokens": 83,
+  "embedding": []
+ },
+ {
+  "title": "Intramyocellular lipid and insulin resistance",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The amount of lipid inside the muscle cell correlated with insulin resistance. A study infused a lipid along with heparin to activate an enzyme called lipoprotein lipase and liberate the circulation of free fatty acid. Within a couple of hours of giving people lipid infusion with heparin, they were able to induce profound insulin resistance. This validated their hypothesis that something about intramuscular fat was part of the problem.",
+  "content_length": 439,
+  "content_tokens": 84,
+  "embedding": []
+ },
+ {
+  "title": "The path from insulin to glucose uptake",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Insulin binds to the insulin receptor that sits on the surface of a cell. This receptor autophosphorylates and becomes activated. It then becomes a key substrate for something called insulin receptor substrate 1, or IRS1, which also gets phosphorylated. That then activates something called phosphoinositide 3-kinase (PI3K), which is the required step for the GLUT4 transporter. PI3K puts these GLUT4 transporters on the surface of cells and drives glucose in. When they gave lipid plus insulin, PI3K activity came down, indicating that whatever is going on is happening at, or before, the PI3K step.",
+  "content_length": 600,
+  "content_tokens": 137,
+  "embedding": []
+ },
+ {
+  "title": "Assessing PI3K activity in muscle",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "They did an experiment to assess PI3K activity in the muscle of healthy volunteers before and after a lipid infusion. Under normal conditions, PI3K activity is low. When you infuse insulin, PI3K goes up, so that becomes your control. However, when they gave lipid plus insulin, it came down. So that tells you that whatever is going on is happening at, or before, the PI3K step.",
+  "content_length": 378,
+  "content_tokens": 87,
+  "embedding": []
+ },
+ {
+  "title": "The effect of diacylglycerides on insulin resistance",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The hypothesis was that diacylglycerides are what disrupts insulin sensitivity, and they increase the activity of protein kinase C theta, which impairs IRS1. Impairment of IRS1 leads to the reduction in PI3K, and therefore the reduction in GLUT4 translocation.",
+  "content_length": 260,
+  "content_tokens": 62,
+  "embedding": []
+ },
+ {
+  "title": "The disparity in fat oxidation between insulin-sensitive and insulin-resistant individuals",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Insulin-sensitive individuals can take a lot of fat and run it through their mitochondria, have high fat oxidation in their mitochondria, and can store glucose as glycogen in the muscle. In contrast, individuals with type 2 diabetes can't store glucose in the form of glycogen and have dramatically reduced fat oxidation, which is probably driving up their DAGs, further exacerbating their glucose transport problem.",
+  "content_length": 416,
+  "content_tokens": 82,
+  "embedding": []
+ },
+ {
+  "title": "The athlete's paradox",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Elite endurance athletes have high levels of intramyocellular lipid, but their mitochondria are in top form, and they can efficiently use FFA during exercise due to the enhanced state of their mitochondria.",
+  "content_length": 206,
+  "content_tokens": 43,
+  "embedding": []
+ },
+ {
+  "title": "The fate of the ingested carbohydrate in someone who is insulin resistant",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Insulin resistance is a defect in glycogen synthesis, which has to do with an inability to bring glucose into the muscle cells. That defect seems to be mediated by intramuscular fat, specifically by the diacylglycerides. If glucose for the insulin-resistant person can't go into the muscle to be turned into glycogen, it has to go someplace else.",
+  "content_length": 346,
+  "content_tokens": 78,
+  "embedding": []
+ },
+ {
+  "title": "Glucose and Insulin Response",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Both groups had similar glucose levels following their glucose meals, but the relatively normal glucose tolerance in the insulin-resistant subjects was maintained at the expense of severe hyperinsulinemia. The insulin-resistant group needed twice the insulin to maintain normal glucose levels.",
+  "content_length": 293,
+  "content_tokens": 51,
+  "embedding": []
+ },
+ {
+  "title": "Liver Glycogen Synthesis",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "There was no difference in liver glycogen synthesis between the insulin-resistant and insulin-sensitive groups. However, muscle glycogen synthesis was reduced by 60% in the lower quartile of insulin sensitivity.",
+  "content_length": 211,
+  "content_tokens": 40,
+  "embedding": []
+ },
+ {
+  "title": "Liver Fat Accumulation and De Novo Lipogenesis",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The more insulin resistant you are, and the more fructose you’re eating, the more de novo lipogenesis can become a huge part of the problem. In an insulin-sensitive individual, the creation of liver fat is not that much, especially when you’re eating more glucose than fructose.",
+  "content_length": 278,
+  "content_tokens": 62,
+  "embedding": []
+ },
+ {
+  "title": "Fuel Partitioning",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "In a healthy person, glucose goes into the muscle more readily, and it can be reconstituted into glycogen more readily. In type 2 diabetics, that process happens to a much lower extent. The liver isn’t as resistant as the muscle, and it can more readily take up some of this glucose.",
+  "content_length": 283,
+  "content_tokens": 67,
+  "embedding": []
+ },
+ {
+  "title": "Insulin Resistance and Metabolic Syndrome",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Insulin resistance is associated with elevated glucose, fat in the liver, low HDL cholesterol, high triglyceride, more fat in the muscle, and therefore more insulin resistance in the muscle. About 25% of people globally have non-alcoholic fatty liver disease (NAFLD), and over 80 million Americans have NAFLD (2015).",
+  "content_length": 316,
+  "content_tokens": 68,
+  "embedding": []
+ },
+ {
+  "title": "NAFLD and NASH and liver transplants",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "NAFLD is fat that accumulates in the liver. Non-alcoholic steatohepatitis (NASH) is when fat has accumulated such that the liver now becomes inflamed (reversible) until it becomes cirrhotic (irreversible). With growing epidemic of obesity and MetSyn, NAFLD has become the most common cause of chronic liver disease worldwide and will become one of the leading causes of cirrhosis (2018). Cirrhotic means you need a liver transplant. Within the next five years, NAFLD and NASH will be the leading indication for liver transplant in the United States — In 2020, the number of individuals with NAFLD cirrhosis is predicted to exceed that of those with hepatitis B- and C-related cirrhosis, and NAFLD cirrhosis will become the leading indication for liver transplantation (2018).",
+  "content_length": 775,
+  "content_tokens": 178,
+  "embedding": []
+ },
+ {
+  "title": "The role of exercise in mitigating and reversing insulin resistance",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "An illuminating study was published in 1996 in the NEJM: Increased Glucose Transport–Phosphorylation and Muscle Glycogen Synthesis after Exercise Training in Insulin-Resistant Subjects. They found that just one 45-minute bout of aerobic exercise—three 15-minute sets at ~65% of your maximal aerobic capacity—restored the concentration of glucose-6-phosphate and the rate of glycogen synthesis in the muscle of insulin resistant participants to that of the baseline or pre-exercise level of the insulin sensitive participants. In other words, exercise is boosting insulin sensitivity and glucose disposal. Two probable mechanisms by which exercise is boosting insulin sensitivity and glucose disposal: 1 – The insulin-dependent way. 2 – The insulin-independent way. Over time (i.e., chronically) more exercise reduces intramuscular lipid, increases oxidative phosphorylation, and therefore reduces TAG and DAG. The importance of exercise in this situation cannot be overstated. Combine exercise with regulating carbohydrate level to your tolerance, reducing fructose intake, etc. for even better results. This is great news because we now know metabolic syndrome, NAFLD, NASH, don’t need drugs to cure them.",
+  "content_length": 1206,
+  "content_tokens": 247,
+  "embedding": []
+ },
+ {
+  "title": "How insulin resistance manifests in the liver",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The liver doesn’t need insulin to bring glucose in. Glucose can enter passively. Insulin still plays an important role in glycogen synthesis but also in gluconeogenesis. If you look at the mechanism by which glucose and glycogen are managed in the liver, you have something called insulin receptor substrate 2 instead of insulin receptor substrate 1, you still have the role of PI 3-kinase, you have something called AKT2, FOXO, a whole bunch of other things. The mechanisms are actually quite similar. In other words, the diacylglycerides turned out to be a big part of the problem.",
+  "content_length": 583,
+  "content_tokens": 130,
+  "embedding": []
+ },
+ {
+  "title": "The Effects of Starvation on the Liver",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "During periods of food deprivation, the body liberates more fatty acids from fat cells while reserving more glucose for the brain. This leads to lower insulin, increased lipolysis at the fat cell, more hepatic accumulation of lipid, and more insulin resistance in the liver. The liver can make glucose out of amino acids, lactate, glycerol, and pyruvate. Insulin regulates hepatic gluconeogenesis through transcriptional regulation of key gluconeogenic enzymes, alterations in substrate supply to the liver, modulation of the cytosolic redox state, and changes in hepatic Acetyl-CoA. However, Shulman concluded that hepatic gluconeogenesis is allosterically regulated.",
+  "content_length": 668,
+  "content_tokens": 145,
+  "embedding": []
+ },
+ {
+  "title": "Metformin's effect on gluconeogenesis",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Metformin reduces the ratio of NADH to NAD, which slows down the path to gluconeogenesis. It increases the NADH to NAD plus ratio, making it energetically impossible to convert lactate into pyruvate, leading to an increase in lactate levels. At therapeutic concentrations, it inhibits mitochondrial glycerol-3-phosphate dehydrogenase, which lowers gluconeogenesis by reducing the availability of lactate and glycerol. However, metformin may not stop gluconeogenesis, but it may dial it down.",
+  "content_length": 491,
+  "content_tokens": 113,
+  "embedding": []
+ },
+ {
+  "title": "Insulin's effect on glucose production",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Insulin leads to glycogen synthesis, which reduces glycogen production or hepatic glucose output. It impairs lipolysis, which means less glycerol and acetyl-CoA, leading to less pyruvate carboxylase and less gluconeogenesis. Less glycogen synthesis and less gluconeogenesis both lead to less glucose production.",
+  "content_length": 311,
+  "content_tokens": 72,
+  "embedding": []
+ },
+ {
+  "title": "Preventing insulin resistance",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "To prevent insulin resistance, get an oral glucose tolerance test to know if you're insulin resistant long before it shows up in a traditional way. Exercise matters a lot, especially 45 minutes of submaximal/zone 2 exercise, which has an immediate and direct effect on glucose disposal. There is an enormous role for dietary intervention, specifically fructose and glucose reduction until homeostasis is achieved. Liver function tests are key, and pharmacologic options like the mitochondrial uncoupler have potential.",
+  "content_length": 518,
+  "content_tokens": 96,
+  "embedding": []
+ },
+ {
+  "title": "Mitochondrial Uncouplers and Exercise",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Perhaps this new hepatic mitochondrial uncoupler will not have some of those problems, but historically mitochondrial uncouplers come with a lot of hyperthermic problems",
+  "content_length": 169,
+  "content_tokens": 33,
+  "embedding": []
+ },
+ {
+  "title": "Exercise and Metabolic Syndrome",
+  "date": "February 15, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Exercise and nutrition are a first line of defense against metabolic syndrome",
+  "content_length": 77,
+  "content_tokens": 13,
+  "embedding": []
+ }
+]

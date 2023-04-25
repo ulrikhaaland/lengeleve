@@ -1,0 +1,32 @@
+[
+ {
+  "title": "The Importance of Exercise",
+  "date": "February 22, 2022",
+  "context": "Insulin Resistance",
+  "people": "Peter Attia",
+  "content": "The importance of exercise in this situation cannot be overstated.",
+  "content_length": 66,
+  "content_tokens": 12,
+  "embedding": []
+ },
+ {
+  "title": "Exercise and Carbohydrate Regulation",
+  "date": "February 22, 2022",
+  "context": "Insulin Resistance",
+  "people": "Peter Attia",
+  "content": "Combine exercise with regulating carbohydrate level to your tolerance, reducing fructose intake, etc. for even better results.",
+  "content_length": 126,
+  "content_tokens": 22,
+  "embedding": []
+ },
+ {
+  "title": "Exercise as a Cure",
+  "date": "February 22, 2022",
+  "context": "Insulin Resistance",
+  "people": "Peter Attia",
+  "content": "This is great news because we now know metabolic syndrome, NAFLD, NASH, don’t need drugs to cure them.",
+  "content_length": 102,
+  "content_tokens": 28,
+  "embedding": []
+ }
+]

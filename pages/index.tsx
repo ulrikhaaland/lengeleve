@@ -1,7 +1,9 @@
 import { Answer } from '@/components/Answer/Answer';
 import { Footer } from '@/components/Footer';
 import { Navbar } from '@/components/Navbar';
+import SearchBar from '@/components/SearchBar';
 import { Chunk } from '@/types';
+import { getFollowUpQuestions } from '@/utils/followUp';
 import {
   IconArrowRight,
   IconExternalLink,
@@ -10,21 +12,33 @@ import {
 import endent from 'endent';
 import Head from 'next/head';
 import { KeyboardEvent, useEffect, useRef, useState } from 'react';
+import { Drawer, useMediaQuery, Theme } from '@mui/material';
 
 export default function Home() {
   const inputRef = useRef<HTMLInputElement>(null);
+  const divRef = useRef<HTMLInputElement>(null);
 
-  const [query, setQuery] = useState<string>('');
+  const [question, setQuery] = useState<string>('');
   const [chunks, setChunks] = useState<Chunk[]>([]);
   const [answer, setAnswer] = useState<string>('');
   const [loading, setLoading] = useState<boolean>(false);
-
+  const [answering, setAnswering] = useState<boolean>(false);
+  const [userHasScrolled, setUserHasScrolled] = useState(false);
   const [showSettings, setShowSettings] = useState<boolean>(false);
-  const [mode, setMode] = useState<'search' | 'chat'>('chat');
   const [matchCount, setMatchCount] = useState<number>(5);
   const [apiKey, setApiKey] = useState<string>('');
+  const [followUpQuestions, setFollowUpQuestions] = useState<string[]>([]);
+  const [questions, setQuestions] = useState<string[]>([]);
+  const [answers, setAnswers] = useState<string[]>([]);
+  const [passages, setPassages] = useState<Chunk[][]>([]);
+  const [showPassages, setShowPassages] = useState<boolean>(false);
+  const [selectedIndex, setSelectedIndex] = useState<number | undefined>();
 
-  const handleSearch = async () => {
+  const handleAnswer = async (q?: string) => {
+    setUserHasScrolled(false);
+    setFollowUpQuestions([]);
+    const query = q ?? question;
+    setQuery('');
     if (!apiKey) {
       alert('Please enter an API key.');
       return;
@@ -39,6 +53,8 @@ export default function Home() {
     setChunks([]);
 
     setLoading(true);
+
+    setQuestions((prev) => [...prev, query]);
 
     const searchResponse = await fetch('/api/search', {
       method: 'POST',
@@ -55,56 +71,49 @@ export default function Home() {
 
     const results: Chunk[] = await searchResponse.json();
 
-    console.log('chunks' + chunks.length);
+    const filteredResults: Chunk[] = [];
 
-    setChunks(results);
+    let tokens = 0;
 
-    setLoading(false);
-
-    inputRef.current?.focus();
-
-    return results;
-  };
-
-  const handleAnswer = async () => {
-    if (!apiKey) {
-      alert('Please enter an API key.');
-      return;
+    for (let i = 0; i < results.length; i++) {
+      const chunk = results[i];
+      tokens += chunk.content_tokens;
+      if (tokens > 2048) {
+        tokens = tokens - chunk.content_tokens;
+        continue;
+      } else {
+        filteredResults.push(chunk);
+      }
     }
 
-    if (!query) {
-      alert('Please enter a query.');
-      return;
+    setPassages((prev) => [...prev, filteredResults]);
+
+    if (tokens > 2048) {
+      console.log(
+        'The total number of tokens in the passages exceeds the limit of 2048. Please try a different query.'
+      );
+      console.log('Total number of tokens: ' + tokens);
+      // setLoading(false);
+      // return;
     }
 
-    setAnswer('');
-    setChunks([]);
-
-    setLoading(true);
-
-    const searchResponse = await fetch('/api/search', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({ query, apiKey, matches: matchCount }),
-    });
-
-    if (!searchResponse.ok) {
-      setLoading(false);
-      throw new Error(searchResponse.statusText);
-    }
-
-    const results: Chunk[] = await searchResponse.json();
-
-    setChunks(results);
+    setChunks(filteredResults);
 
     console.log('chunks' + chunks.length);
 
     const prompt = endent`
-    Use the following passages to provide an answer to the query: "${query}"
+    Use the following passages to provide an answer to the query: "${query}" 
+    \n\n Evaluate each passage in relation to the question, 
+    and use the passage if you deem it relevant.
+    \n\n Combine the information in the passages to form a coherent answer to the query. 
+    \n\n If the passages does not contain information that is fit to answer the query, 
+    you should form your own answer.
+    \n\n Be concise and clear in corresponding your answer to the query.
+    \n\n Try to not repeat yourself.
+    \n\n Do not include information that does not address the question.
+    \n\n Passages:
 
-    ${results?.map((d: any) => d.content).join('\n\n')}
+    ${filteredResults?.map((d: any) => d.content).join('\n\n')}
     `;
 
     const answerResponse = await fetch('/api/answer', {
@@ -127,28 +136,44 @@ export default function Home() {
     }
 
     setLoading(false);
+    setAnswering(true);
 
     const reader = data.getReader();
     const decoder = new TextDecoder();
     let done = false;
 
+    let newAnswer = '';
+
     while (!done) {
       const { value, done: doneReading } = await reader.read();
       done = doneReading;
       const chunkValue = decoder.decode(value);
-      setAnswer((prev) => prev + chunkValue);
+
+      setAnswer((prev) => {
+        newAnswer = prev + chunkValue;
+        return prev + chunkValue;
+      });
+    }
+
+    if (done) {
+      setAnswers((prev) => [...prev, newAnswer]);
+      onFollowUpQuestions(query, newAnswer);
+      setAnswering(false);
     }
 
     inputRef.current?.focus();
   };
 
-  const handleKeyDown = (e: KeyboardEvent<HTMLInputElement>) => {
-    if (e.key === 'Enter') {
-      if (mode === 'search') {
-        handleSearch();
-      } else {
-        handleAnswer();
-      }
+  const onFollowUpQuestions = async (query: string, answer: string) => {
+    console.log('onFollowUpQuestions');
+    const followUp = await getFollowUpQuestions(query, answer);
+
+    /// parse json string
+    if (followUp) {
+      const parsed = await JSON.parse(followUp);
+      const followUps = parsed.map((d: any) => d.question);
+      setFollowUpQuestions(followUps);
+      console.log(followUps);
     }
   };
 
@@ -160,7 +185,6 @@ export default function Home() {
 
     localStorage.setItem('PG_KEY', apiKey);
     localStorage.setItem('PG_MATCH_COUNT', matchCount.toString());
-    localStorage.setItem('PG_MODE', mode);
 
     setShowSettings(false);
     inputRef.current?.focus();
@@ -173,15 +197,10 @@ export default function Home() {
 
     setApiKey('');
     setMatchCount(5);
-    setMode('search');
   };
 
   useEffect(() => {
-    if (matchCount > 10) {
-      setMatchCount(10);
-    } else if (matchCount < 1) {
-      setMatchCount(1);
-    }
+    setMatchCount(matchCount);
   }, [matchCount]);
 
   useEffect(() => {
@@ -197,15 +216,99 @@ export default function Home() {
       setMatchCount(parseInt(PG_MATCH_COUNT));
     }
 
-    if (PG_MODE) {
-      setMode(PG_MODE as 'search' | 'chat');
-    }
-
     inputRef.current?.focus();
   }, []);
 
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  const loadingAnswerElement = (
+    <>
+      <div className='font-bold text-2xl'>Answer</div>
+      <div className='animate-pulse mt-2'>
+        <div className='h-4 bg-gray-300 rounded'></div>
+        <div className='h-4 bg-gray-300 rounded mt-2'></div>
+        <div className='h-4 bg-gray-300 rounded mt-2'></div>
+        <div className='h-4 bg-gray-300 rounded mt-2'></div>
+        <div className='h-4 bg-gray-300 rounded mt-2'></div>
+      </div>
+    </>
+  );
+
+  const handleClose = () => {
+    setSelectedIndex(undefined);
+  };
+
+  const handleScroll = (e: any) => {
+    const divElement = divRef.current!;
+    const threshold = 20; // Adjust this value to control the sensitivity
+    const isScrolledToBottom =
+      divElement.scrollHeight - divElement.clientHeight <=
+      divElement.scrollTop + threshold;
+
+    if (!isScrolledToBottom) {
+      setUserHasScrolled(true);
+    } else {
+      setUserHasScrolled(false);
+    }
+  };
+
+  useEffect(() => {
+    const divElement = divRef.current!;
+    divElement.addEventListener('scroll', handleScroll);
+
+    return () => {
+      divElement.removeEventListener('scroll', handleScroll);
+    };
+  }, []);
+
+  useEffect(() => {
+    const divElement = divRef.current;
+    if (divElement && !userHasScrolled) {
+      divElement.scrollTop = divElement.scrollHeight - divElement.clientHeight;
+    }
+  }, [answer, userHasScrolled]);
+
   return (
     <>
+      <Drawer
+        anchor={'right'}
+        open={selectedIndex !== undefined}
+        onClose={handleClose}
+        sx={{
+          '.MuiPaper-root': {
+            width: '23.625rem',
+          },
+          '.MuiDrawer-paper': {
+            padding: '1.094rem 1.5rem',
+          },
+        }}
+      >
+        {selectedIndex !== undefined && (
+          <div className=''>
+            <div className='font-bold text-2xl mb-4'>
+              {questions[selectedIndex]}
+            </div>
+            {passages[selectedIndex].map((chunk, index) => (
+              <div key={index}>
+                <div className='mt-4 border border-zinc-600 rounded-lg p-4'>
+                  <div className='flex justify-between'>
+                    <div>
+                      <div className='font-bold text-xl'>{chunk.title}</div>
+                      <div className='mt-1 font-bold text-sm'>
+                        {chunk.people}
+                      </div>
+                      <div className='mt-1 font-bold text-sm'>
+                        {chunk.context}
+                      </div>
+                      <div className='mt-1 font-bold text-sm'>{chunk.date}</div>
+                    </div>
+                  </div>
+                  <div className='mt-2'>{chunk.content}</div>
+                </div>
+              </div>
+            ))}
+          </div>
+        )}
+      </Drawer>
       <Head>
         <title>Paul Graham GPT</title>
         <meta
@@ -216,10 +319,13 @@ export default function Home() {
         <link rel='icon' href='/favicon.ico' />
       </Head>
 
-      <div className='flex flex-col h-screen'>
-        <Navbar />
-        <div className='flex-1 overflow-auto'>
-          <div className='mx-auto flex h-full w-full max-w-[750px] flex-col items-center px-3 pt-4 sm:pt-8'>
+      <div className='flex flex-col h-screen w-full h-screen items-center'>
+        <div
+          className='flex-1 overflow-auto mb-12 overflow-auto max-h-screen'
+          style={{ maxHeight: 'calc(100vh - 20px)' }}
+          ref={divRef}
+        >
+          <div className='mx-auto flex h-full w-full max-w-[750px] flex-col items-start px-3 pt-4 sm:pt-8'>
             <button
               className='mt-4 flex cursor-pointer items-center space-x-2 rounded-full border border-zinc-600 px-3 py-1 text-sm hover:opacity-50'
               onClick={() => setShowSettings(!showSettings)}
@@ -229,26 +335,12 @@ export default function Home() {
 
             {showSettings && (
               <div className='w-[340px] sm:w-[400px]'>
-                <div>
-                  <div>Mode</div>
-                  <select
-                    className='max-w-[400px] block w-full cursor-pointer rounded-md border border-gray-300 p-2 text-black shadow-sm focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500 sm:text-sm'
-                    value={mode}
-                    onChange={(e) =>
-                      setMode(e.target.value as 'search' | 'chat')
-                    }
-                  >
-                    <option value='search'>Search</option>
-                    <option value='chat'>Chat</option>
-                  </select>
-                </div>
-
                 <div className='mt-2'>
                   <div>Passage Count</div>
                   <input
                     type='number'
                     min={1}
-                    max={10}
+                    max={30}
                     value={matchCount}
                     onChange={(e) => setMatchCount(Number(e.target.value))}
                     className='max-w-[400px] block w-full rounded-md border border-gray-300 p-2 text-black shadow-sm focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500 sm:text-sm'
@@ -289,123 +381,74 @@ export default function Home() {
                 </div>
               </div>
             )}
-
-            {apiKey.length === 51 ? (
-              <div className='relative w-full mt-4'>
-                <IconSearch className='absolute top-3 w-10 left-1 h-6 rounded-full opacity-50 sm:left-3 sm:top-4 sm:h-8' />
-
-                <input
-                  ref={inputRef}
-                  className='h-12 w-full rounded-full border border-zinc-600 pr-12 pl-11 focus:border-zinc-800 focus:outline-none focus:ring-1 focus:ring-zinc-800 sm:h-16 sm:py-2 sm:pr-16 sm:pl-16 sm:text-lg'
-                  type='text'
-                  placeholder='How do I start a startup?'
-                  value={query}
-                  onChange={(e) => setQuery(e.target.value)}
-                  onKeyDown={handleKeyDown}
-                />
-
-                <button>
-                  <IconArrowRight
-                    onClick={mode === 'search' ? handleSearch : handleAnswer}
-                    className='absolute right-2 top-2.5 h-7 w-7 rounded-full bg-blue-500 p-1 hover:cursor-pointer hover:bg-blue-600 sm:right-3 sm:top-3 sm:h-10 sm:w-10 text-white'
-                  />
-                </button>
-              </div>
-            ) : (
-              <div className='text-center font-bold text-3xl mt-7'>
-                Please enter your
-                <a
-                  className='mx-2 underline hover:opacity-50'
-                  href='https://platform.openai.com/account/api-keys'
+            {questions.map((q, i) => {
+              return (
+                <div
+                  key={i}
+                  className={`${
+                    i === questions.length - 1 ? '' : 'mt-6'
+                  } w-full flex flex-col`}
                 >
-                  OpenAI API key
-                </a>
-                in settings.
-              </div>
-            )}
-
-            {loading ? (
-              <div className='mt-6 w-full'>
-                {mode === 'chat' && (
-                  <>
-                    <div className='font-bold text-2xl'>Answer</div>
-                    <div className='animate-pulse mt-2'>
-                      <div className='h-4 bg-gray-300 rounded'></div>
-                      <div className='h-4 bg-gray-300 rounded mt-2'></div>
-                      <div className='h-4 bg-gray-300 rounded mt-2'></div>
-                      <div className='h-4 bg-gray-300 rounded mt-2'></div>
-                      <div className='h-4 bg-gray-300 rounded mt-2'></div>
-                    </div>
-                  </>
-                )}
-
-                <div className='font-bold text-2xl mt-6'>Passages</div>
-                <div className='animate-pulse mt-2'>
-                  <div className='h-4 bg-gray-300 rounded'></div>
-                  <div className='h-4 bg-gray-300 rounded mt-2'></div>
-                  <div className='h-4 bg-gray-300 rounded mt-2'></div>
-                  <div className='h-4 bg-gray-300 rounded mt-2'></div>
-                  <div className='h-4 bg-gray-300 rounded mt-2'></div>
-                </div>
-              </div>
-            ) : answer ? (
-              <div className='mt-6'>
-                <div className='font-bold text-2xl mb-2'>Answer</div>
-                <Answer text={answer} />
-
-                <div className='mt-6 mb-16'>
-                  <div className='font-bold text-2xl'>Passages</div>
-
-                  {chunks.map((chunk, index) => (
-                    <div key={index}>
-                      <div className='mt-4 border border-zinc-600 rounded-lg p-4'>
-                        <div className='flex justify-between'>
-                          <div>
-                            <div className='font-bold text-xl'>
-                              {chunk.title}
-                            </div>
-                            <div className='mt-1 font-bold text-sm'>
-                              {chunk.people}
-                            </div>
-                            <div className='mt-1 font-bold text-sm'>
-                              {chunk.context}
-                            </div>
-                            <div className='mt-1 font-bold text-sm'>
-                              {chunk.date}
-                            </div>
-                          </div>
-                        </div>
-                        <div className='mt-2'>{chunk.content}</div>
-                      </div>
-                    </div>
-                  ))}
-                </div>
-              </div>
-            ) : chunks.length > 0 ? (
-              <div className='mt-6 pb-16'>
-                <div className='font-bold text-2xl'>Passages</div>
-                {chunks.map((chunk, index) => (
-                  <div key={index}>
-                    <div className='mt-4 border border-zinc-600 rounded-lg p-4'>
-                      <div className='flex justify-between'>
-                        <div>
-                          <div className='font-bold text-xl'>{chunk.title}</div>
-                          <div className='mt-1 font-bold text-sm'>
-                            {chunk.date}
-                          </div>
-                        </div>
-                      </div>
-                      <div className='mt-2'>{chunk.content}</div>
-                    </div>
+                  <div className='font-bold text-2xl w-max'>Question</div>
+                  <div
+                    className='mt-2 cursor-pointer'
+                    onClick={() => setSelectedIndex(i)}
+                  >
+                    {q}
                   </div>
-                ))}
-              </div>
-            ) : (
-              <div className='mt-6 text-center text-lg'>{`AI-powered search & chat for Paul Graham's essays.`}</div>
-            )}
+
+                  {i === questions.indexOf(questions[questions.length - 1]) &&
+                  loading ? (
+                    loadingAnswerElement
+                  ) : i ===
+                      questions.indexOf(questions[questions.length - 1]) &&
+                    answering ? (
+                    <>
+                      <div className='font-bold text-2xl mb-2'>Answer</div>
+                      <Answer text={answer} />
+                    </>
+                  ) : (
+                    answers[i] && (
+                      <>
+                        <div className='font-bold text-2xl mt-6'>Answer</div>
+                        <div className='mt-2'>{answers[i]}</div>
+                      </>
+                    )
+                  )}
+
+                  {i === questions.length - 1 && (
+                    <div className='mt-6'>
+                      {followUpQuestions.map((fuq, index) => (
+                        <button
+                          key={index}
+                          className='mt-2 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline'
+                          onClick={() => {
+                            setQuery(fuq);
+                            handleAnswer(fuq);
+                          }}
+                        >
+                          {fuq}
+                        </button>
+                      ))}
+                    </div>
+                  )}
+                </div>
+              );
+            })}
           </div>
         </div>
-        <Footer />
+
+        <SearchBar
+          disabled={loading || answering}
+          query={question}
+          setQuery={function (query: string): void {
+            setQuery(query);
+          }}
+          handleSearch={function (): void {
+            handleAnswer();
+          }}
+          inputRef={inputRef}
+        ></SearchBar>
       </div>
     </>
   );

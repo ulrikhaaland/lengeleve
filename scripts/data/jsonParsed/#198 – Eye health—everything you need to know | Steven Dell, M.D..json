@@ -1,0 +1,972 @@
+[
+ {
+  "title": "Introduction to Steven",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Steven is an internationally recognized leader in refractive eye surgery, specializing in LASIK surgery, cataract surgery, and refractive lens exchange. He’s also the chief medical editor of the Cataract & Refractive Surgery Today. He’s the Emeritus Chair and President Emeritus of the American European Congress of Ophthalmologic Surgery. He’s a principal investigator on a variety of FDA clinical trials in the field of eye surgery. He’s the inventor of several surgical instruments and devices and holds over 20 US and international patents in the field of eye surgery. He is also the author of numerous textbook chapters and peer-reviewed journal articles.",
+  "content_length": 660,
+  "content_tokens": 138,
+  "embedding": []
+ },
+ {
+  "title": "Fundamentals of Eye Anatomy",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Peter really picks Steven’s brain about the anatomy of the eye. They discuss how it factors into the natural processes of aging and how that differs from some of the pathologic processes that also tend to increase with age. They also discuss what is nearsightedness, farsightedness, and presbyopia.",
+  "content_length": 298,
+  "content_tokens": 65,
+  "embedding": []
+ },
+ {
+  "title": "Treatments for Eye Conditions",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "This episode gets into the really simple fundamentals of what the treatments look like for nearsightedness, farsightedness, and presbyopia. Including a very nuanced discussion about how the different treatments might be beneficial to some people versus others. LASIK eye surgery will be explained as well as a procedure that came along slightly before that’s called PRK. Steven will talk a little bit about a procedure that is coming online today, called SMILE. All three of these surgeries are similar, but they differ in fundamental ways, and that can be an important thing to consider for someone in the market for one of these procedures.",
+  "content_length": 642,
+  "content_tokens": 130,
+  "embedding": []
+ },
+ {
+  "title": "Eye Health",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Eye health is also discussed, including what can be done to maximize eye health in our kids. They also discuss some of the real epidemics that are going on in myopia, that is to say, kids that are requiring glasses earlier and earlier. What could be the cause of this and what can be done in our kids to prevent those things, and also in ourselves, what we can be doing.",
+  "content_length": 370,
+  "content_tokens": 81,
+  "embedding": []
+ },
+ {
+  "title": "Ophthalmology Training",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Steven explains that ophthalmologists are trained to become eye surgeons. There are nonsurgical ophthalmologists, such as neuro-ophthalmologists, but they don't do eye surgery. The tools in ophthalmology are tiny and everything they do operationally is under a microscope. They use a binocular microscope, which is either mounted from the ceiling and is controlled by their feet.",
+  "content_length": 379,
+  "content_tokens": 80,
+  "embedding": []
+ },
+ {
+  "title": "Suture Sizes",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Peter recalls stealing 11-0 suture from the ophthalmology OR to practice suturing. The tools in ophthalmology are tiny, and they use an 11-0 suture, which is thinner than a 7-0 suture used in cardiac surgery. The scale progresses from 1-0, 2-0, 3-0, etc. By a 4-0 suture, it's actually quite thin.",
+  "content_length": 297,
+  "content_tokens": 86,
+  "embedding": []
+ },
+ {
+  "title": "Ergonomic Challenges",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Ophthalmologists tend to hyperextend and bring their head forward, which creates ergonomic challenges. Steven was coached on how to sit and have his spine arranged to avoid craning his neck forward. He has to make sure his shoulders are down.",
+  "content_length": 242,
+  "content_tokens": 52,
+  "embedding": []
+ },
+ {
+  "title": "Surgical Movements and Stressful Positions",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Steven notes that surgeons tend to raise their shoulders up and lift their hands up due to the very compromised and stressful position they are in during surgery. The surgical movements are small, so very small positional changes can have a huge impact on the outcome of the surgery.",
+  "content_length": 283,
+  "content_tokens": 52,
+  "embedding": []
+ },
+ {
+  "title": "Steven's Journey to Ophthalmology",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Steven did not know he wanted to do ophthalmology when he began medical school, but he knew he wanted to do something surgical. He had a Eureka moment during an ophthalmology rotation when he looked through a slit lamp and was hooked. He did a transitional residence internship, where he did a little bit of everything, including general surgery and internal medicine.",
+  "content_length": 368,
+  "content_tokens": 74,
+  "embedding": []
+ },
+ {
+  "title": "Bread and Butter of Ophthalmology",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "During Steven's residency, the most common procedures were cataract surgery and retinal disease. Cataract surgery is still the most common procedure, while diabetes causes complex retinal problems.",
+  "content_length": 197,
+  "content_tokens": 38,
+  "embedding": []
+ },
+ {
+  "title": "Anatomy of the Eye",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "The eye is built like a camera, with the cornea at the front, followed by the pupil, lens, vitreous cavity, and retina. Images come in, are bent by the cornea and lens, and focus on the retina. The whole back of the eye is covered by the retina, but the fovea is the point where one casts their gaze.",
+  "content_length": 300,
+  "content_tokens": 76,
+  "embedding": []
+ },
+ {
+  "title": "The Fovea and Vision Loss",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "The image of the thing one’s looking at falls on the fovea, which is the very center, the bullseye literally of the retina. Common types of vision loss and age-related changes. Now, if someone is nearsighted (aka myopia), those images come into focus in a point that is not exactly on the retina, and so that can become a problem. Nearsighted means one sees things near well; one sees better up close, and needs glasses to see things at a distance. Farsighted (aka hyperopia) is a little trickier because farsighted people see better at far. But their far might also be blurry; it’s just that the near vision is even worse.",
+  "content_length": 623,
+  "content_tokens": 153,
+  "embedding": []
+ },
+ {
+  "title": "Presbyopia and Cataract Formation",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Peter asks about the person who says they are near and farsighted; is that an accurate statement. No, it’s actually probably that they’re presbyopic, which is that they see well far away. Their focusing ability is compromised, typically through age, and they can’t see up close. Peter is very interested in the details of this because a few years ago this rocked his world, it didn’t happen gradually but seemed to happen overnight. When a person is born, and when they are young, the lens of their eye is extremely elastic. It’s like a gummy bear, and it can change shape to bring near objects into focus. With age, and this is universal, the elasticity of the lens goes down, and one is no longer able to zoom focus in. So one has to start pushing things farther and farther away or get some optical aid like a pair of spectacles to see up close. That process continues as the lens become less elastic and harder, eventually resulting in a cataract where it begins to lose its optical clarity. With a cataract, the lens is stiff, hard, and starts to become opaque. Steven thinks that cataract formation is a universal component of days on earth. He doesn’t recall seeing many people in their 70s without some degree of cataract formation. It starts to become universal. However, there are things that can pathologically prematurely cause cataract formation. Some of them are surprising, like being electrocuted can actually cause premature cataract formation; trauma, head trauma can certainly do it. Typically the eye is in the head, and if the head receives trauma, there’s going to be a certain amount of trauma in the eye itself. Peter clarifies, the point is, it doesn’t have to be direct trauma to the eye. Forces of the brain are presumably also being reverberated through the vitreous fluid. The eye is a fluid-containing organ, and when it receives trauma, those same forces come to bear on the eye itself. It is more common to develop cataracts when one has direct eye trauma, but even head trauma alone can predispose someone to cataract formation. Certainly, diabetes is a cause of premature cataract formation. Steroid use, corticosteroid use can lead to cataract formation.",
+  "content_length": 2189,
+  "content_tokens": 492,
+  "embedding": []
+ },
+ {
+  "title": "The Lens of the Eye",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Peter asks if the lens is a vascular structure. It is  not; the lens is about the shape and size of an M&M candy, a plain chocolate one. It’s got a coating like the candy shell, and the protein inside (the chocolate) is optically clear when one is a kid. That protein does not turn over or exchange, but the membrane (the candy coating, the so-called lens capsule) can allow molecules to diffuse in and out. A classic example of this— someone will point out, hey, my vision, my glasses prescription suddenly changed; they became much more nearsighted, or farsighted in the space of a month. They go to the eye doctor, and find out that their glasses are totally wrong.",
+  "content_length": 668,
+  "content_tokens": 156,
+  "embedding": []
+ },
+ {
+  "title": "Blood sugar and vision changes",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "The first thing Steven thinks of is for them to go get their blood sugar checked because glucose can diffuse into the lens and cause it to swell. This will change the shape of the lens. The lens becomes physically bigger; it’s like a thicker, more powerful lens. Diffusion of glucose into the lens causes an osmotic change. The timeframe for that to happen is over a period of several weeks. If the blood sugar goes up there may be a lag of a month or two before the vision change. And when the blood sugar goes down, same thing; it takes weeks for that to go back to normal.",
+  "content_length": 575,
+  "content_tokens": 127,
+  "embedding": []
+ },
+ {
+  "title": "Blood-retinal barrier",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Steven notes the eye itself is certainly prone to damage from systemic infection. There is a blood-retinal barrier in the same way that there’s a blood-brain barrier that protects that highly metabolically active retina from systemic disease. The lens itself is relatively privileged from an immune standpoint. It’s within that capsule, and it’s hard for large molecules to get across that, small molecules can. Peter notes this is important from a pharmacotherapy standpoint.",
+  "content_length": 476,
+  "content_tokens": 96,
+  "embedding": []
+ },
+ {
+  "title": "Medication for softening the lens",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "On that topic, Steven mentions a medication being examined as a way of softening the lens to to maybe break some of the disulfide bonds that become a problem and become one of the reasons why the elasticity of the lens is lost. This is a lipoic acid choline ester; the safety study was just published. Yes, and the onset of cataract. At the moment it’s in the early experimental phase. This compound must be applied in a topical fashion. So putting in an eyedrop and that drop has to run the gauntlet of going through the cornea, which has lipid layers and water-soluble layers. It’s got to get through all that into the aqueous humor in the front and then through the lens capsule into the lens to actually do its work. That’s why this particular drug or compound is a choline ester, because that allows it to get through that lipid layer in the front, through the water-soluble portion of the cornea, and then hopefully into the lens itself. This is not easy to do; the lens is a relatively privileged area, both from an immunological, but also a pharmacological standpoint.",
+  "content_length": 1076,
+  "content_tokens": 247,
+  "embedding": []
+ },
+ {
+  "title": "Anatomy of the eye from back to front",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "The pupil changes size to dilate and constrict, or is this just the iris moving (the colored part of the eye)? Yes, the physical aperture of the pupil changes in size; it gets bigger; it gets smaller. When someone goes to the eye doctor, and their pupils are dilated, the pupil is physically opened up pharmacologically, and that’s mostly so the doctor can see into the back of the eye to see what’s going on. In effect, this forces the iris to move out of the way. The iris almost looks like the aperture of a camera; one can either constrict it or make it bigger.",
+  "content_length": 565,
+  "content_tokens": 135,
+  "embedding": []
+ },
+ {
+  "title": "Eye drops that can potentially improve vision",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Interestingly, one of the big pharmacological frontiers in development are drugs that intentionally shrink the aperture (of the pupils) in the pursuit of increased depth of focus. Students of photography will know that the smaller the aperture, the smaller the hole, the more stuff is in focus at the same time. If one can make the pupil small pharmacologically and get it into the sweet spot (which is probably about 1.6 millimeter) one can suddenly see up close again. This expands the depth of focus. Steven explains, “That’s exactly right. Imagine it’s squinting.” When one squints, they’re reducing the aperture through with they are looking and filtering out optically.",
+  "content_length": 675,
+  "content_tokens": 148,
+  "embedding": []
+ },
+ {
+  "title": "Presbyopia",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Peter thinks this is a little counterintuitive. He’s farsighted and knows that nothing makes it worse, nothing makes presbyopia worse than darkness. One example is the difficulty he has reading this train book to his kids in bed. The other place it’s a problem is in a restaurant, where it’s usually poorly lit. In both those situations, isn’t his aperture narrowed? Steven explains no, it’s the opposite; “If you put the sun on something, you’re going to be able to read it because your pupil constricts” Yes, it’s the pupil effect alone; constriction of the pupil. Some of it is the light; there’s much more light energy available to resolve something.",
+  "content_length": 654,
+  "content_tokens": 165,
+  "embedding": []
+ },
+ {
+  "title": "Depth of Focus",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "So yes, there are competing forces when you reduce the size of the aperture. You’re letting less light in, but the only light you’re letting in are those rays that happen to be parallel in perfect focus, and you can actually see. In an ongoing clinical trial that he performed to look at this, those competing forces were examined very closely, and they found that the aperture effect, the depth of focus outweighed any loss of vision from loss of light. Data not yet published.",
+  "content_length": 478,
+  "content_tokens": 102,
+  "embedding": []
+ },
+ {
+  "title": "Pharmacological Manipulation of the Pupil",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "No, and what was really interesting is when Steven looked at patients who had their pupil size reduced pharmacologically, their distance vision also improved by the same principle because their depth of focus was so good. Squinting improves vision and pharmacological manipulation of the pupil will do this as well. He thinks commercials for these drugs will begin to be aired early in 2022.",
+  "content_length": 391,
+  "content_tokens": 73,
+  "embedding": []
+ },
+ {
+  "title": "Eye Drops for Presbyopia",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "It would last about 6-8 hours, maybe up to 10 hours. So this would be a once-a-day, maybe a twice-a-day eye drop. Steven explains that this is a drug that shrinks the pupil and works in 15 minutes. Versus something that softens the lens that might work in 15 months. Those  are very different markets. Lipoic acid choline ester is being pursued as a presbyopia near vision aid or something to reduce the effects of. One real goal is to reduce the incidence or delay the onset of cataract formation, which would be really cool. Study published in Eye in 2021,  Topical lipoic acid choline ester eye drop for improvement of near visual acuity in subjects with presbyopia: a safety and preliminary efficacy trial.",
+  "content_length": 710,
+  "content_tokens": 167,
+  "embedding": []
+ },
+ {
+  "title": "Eye Color and UV Light",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Darker eye color provides greater protection from UV light. The advantage of a brown iris is the protection it offers from UV light, and visible light. This works in the same way as darker skin tones. So typically, it is common to see dark-eyed people clustered closer to the equator because the visible light and UV light and infrared light or infrared radiation are really destructive. One of the few things that people remember from medical school about the retina is it’s one of the most metabolically active tissues in the body. And because it’s constantly being bombarded with radiation, effectively, it’s prone to free radical formation.",
+  "content_length": 644,
+  "content_tokens": 133,
+  "embedding": []
+ },
+ {
+  "title": "Physiology of the Eye",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "The retinal pigment epithelium is responsible for shielding the vascular supply behind the retina from radiation. Cones are primarily for daytime vision and are clustered in the center of one's visual sphere. The rods are in the periphery and are responsible more for dim illumination vision like night vision. Each rod cell and each cone cell provides one signal.",
+  "content_length": 364,
+  "content_tokens": 68,
+  "embedding": []
+ },
+ {
+  "title": "Visual Processing in the Brain",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Most of the visual processing is in the very back of the brain. About half of the overall brain structure deals with vision in some capacity. The brainstem is responsible for autonomic function. The midbrain is sort of a reptilian brain, a lot of emotion there. The neocortex is what distinguishes humans from all the other animals and is responsible for visual processing and the actual mapping of the visual sphere.",
+  "content_length": 417,
+  "content_tokens": 82,
+  "embedding": []
+ },
+ {
+  "title": "Pupil Responses and Visual Deficits",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Pupil responses are controlled by the midbrain. Visual processing and the actual mapping of the visual sphere has been mapped to the cortex. About half the fibers cross at the optic chiasm. If a visual deficit is in one eye only, this shows that it is in front of the chiasm. If it’s behind the chiasm, it should affect both eyes, maybe asymmetrically, but it should affect both eyes.",
+  "content_length": 384,
+  "content_tokens": 89,
+  "embedding": []
+ },
+ {
+  "title": "The Importance of Vision",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Steven notes that vision is the one sense that people would be least willing to give up. It is also the sense that people value the most. Evolutionarily, vision is highly valued because so much of the brain is devoted to it. Injuries are one of the main causes of devastating visual loss in young people, with blunt trauma being the most common eye injury seen by Steven.",
+  "content_length": 371,
+  "content_tokens": 76,
+  "embedding": []
+ },
+ {
+  "title": "Human Vision Through an Evolutionary Lens",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Human vision is the most highly developed sense and rivals the best in nature. Humans can see so many orders of magnitude of change of illuminations, which is astonishing. There is a very narrow window at dusk and dawn, where humans have better vision. Humans have good vision in a slightly greater range of light than some animals. Humans did not develop a better sense of smell or hearing compared to animals.",
+  "content_length": 411,
+  "content_tokens": 81,
+  "embedding": []
+ },
+ {
+  "title": "Preventing Vision Loss Due to Trauma",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Vision loss due to trauma can often be prevented. Blunt trauma is the most common eye injury seen by Steven. The eye is pretty well protected with the brow and the cheek, but there are certain things that can get in there and can directly impact the eye. In a young person, trauma is something one has to watch out for.",
+  "content_length": 319,
+  "content_tokens": 68,
+  "embedding": []
+ },
+ {
+  "title": "Enhancing vision beyond 20/20",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "20/20 simply means that one can see at 20 feet what a “normal” person can see at 20 feet. If one’s vision is 20/10, they can see at 20 feet what a normal person has to get 10 feet up to in order to see. So 20/10 is better than 20/20. There are ways to boost human performance beyond 20/20. The theoretical limit of how well one can see is defined by essentially the pixelation of their retina. This is the spacing of the cells of those photoreceptors discussed earlier. This varies from person to person, but it’s somewhere in the vicinity of about 20/08 or so. With a sharp enough image, one could theoretically see better than 20/10. And the only way one can really achieve that is to remove some of the optical irregularities that everyone is born with and somehow neutralize them along with the glasses prescription. Currently, this can be achieved laser vision correction.",
+  "content_length": 877,
+  "content_tokens": 201,
+  "embedding": []
+ },
+ {
+  "title": "Laser vision correction compared to contact lenses",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Why would it be beneficial to an athlete who, for understandable reasons, needs the best vision possible to undergo laser corrective surgery versus just using contact lenses to accomplish the same thing? Is that possible? Let’s first consider contact lenses; anyone who’s ever worn contact lenses knows that when they put in a brand new pair, they can see pretty well with them. But then the eye begins to regard that contact lens as a foreign object. So one’s body just begins to attack it, coat it with all sorts of immunological debris. One is susceptible to pollen, dust, whatever it is that coats this formerly pristine object. And let’s say there is correction for astigmatism in that contact lens, where its orientation is important. Every time one blinks, that contact lens moves a little bit. All of those factors contribute to optical performance that is less than what could be achieved with spectacles or laser vision correction. In particular, soft contact lenses do a very, very good job, but they typically don’t provide superhuman vision performance.",
+  "content_length": 1066,
+  "content_tokens": 219,
+  "embedding": []
+ },
+ {
+  "title": "Astigmatism",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Astigmatism is when the eye is shaped like a football instead of a basketball, specifically the cornea. The cornea is about as thick as a credit card, about 500-550 microns (half a millimeter). There can be astigmatism in the lens itself, the lens behind the pupil. The prevalence of astigmatism is pretty high, around 60% of patients with a glasses prescription have some significant degree of astigmatism.",
+  "content_length": 407,
+  "content_tokens": 91,
+  "embedding": []
+ },
+ {
+  "title": "Nearsightedness",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "The length of the eye is really what determines whether one is nearsighted or farsighted. So a very nearsighted person has a very long eyeball. If a young person exclusively performs near tasks, their eye will grow longer so that those near objects are in perfect focus. There are two drivers of nearsightedness in the plastic developing human: deprivation from outdoor light and near work. Many studies of children have been done in Asia, where there is an epidemic right now of myopia of astonishing proportions. About 90% of the population is now nearsighted in certain southeastern nation cities.",
+  "content_length": 600,
+  "content_tokens": 119,
+  "embedding": []
+ },
+ {
+  "title": "Going outside reduces risk of nearsightedness",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "The risk of or the incidence of nearsightedness is half in the group that went outside. So the risk of nearsightedness can be cut in half by going outside. Without any instruction to go and look at things far away, but just by the very fact that outside there’s so much more to see and ones is going to be looking further out.",
+  "content_length": 326,
+  "content_tokens": 74,
+  "embedding": []
+ },
+ {
+  "title": "Light is the most important driver of protection from nearsightedness",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "It’s actually both. But the light is really the most important driver of protection from nearsightedness. So if one is outside on a bright sunny day, they’re releasing a fair bit of dopamine from the retina and dopamine inhibits the growth of the eye. So the worst thing to do is stay inside in a dimly lit room and perform near tasks. That raises the risk of nearsightedness 16 fold compared to kids who go outside.",
+  "content_length": 416,
+  "content_tokens": 93,
+  "embedding": []
+ },
+ {
+  "title": "Other risks associated with nearsightedness",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "By the way, myopia (or nearsightedness) is not just the inconvenience of wearing glasses or contact lenses or having laser vision correction when one is 23 years old. There are pathologies that are much more common in very nearsighted patients compared to the general population. It’s much more common to see cataract formation in myopic patients. They get something called myopic macular degeneration. They’re at risk for glaucoma. They’re at risk for tears and detachments of the retina. These are disease-associated conditions.",
+  "content_length": 530,
+  "content_tokens": 118,
+  "embedding": []
+ },
+ {
+  "title": "Genetic component of nearsightedness",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Both are true; there is a genetic component. For siblings of individuals who wear spectacles, there is a higher incidence of myopia or hyperopia. This could be susceptibility. It is not known whether parents of reading children were reading children themselves; so it’s hard to separate out the genetic component; there does seem to be a genetic component as well. But the environmental component seems to be way stronger and more powerful.",
+  "content_length": 440,
+  "content_tokens": 87,
+  "embedding": []
+ },
+ {
+  "title": "Vision without contacts",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Peter notes that he’s at the point where without contacts, he can’t drive, he can’t do anything. And some people are -15. They literally must have their glasses near the bedside. Peter can spend the first hour of the day without contact lenses. It’s easier for him to read without his contacts.",
+  "content_length": 294,
+  "content_tokens": 73,
+  "embedding": []
+ },
+ {
+  "title": "Nearsightedness and near tasks",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Near tasks such as reading and extended screen time can result in nearsightedness. Steven notes that things are very well in focus at a typical normal reading distance for Peter; so his eyes have been tuned postnatally for near work. The classic example Steven sees is law students who have great vision when they enter law school but then they read for 12 hours a day and then they come in and they say, “You know, I think my vision’s going.” He looks at them and sure enough, they’ve become nearsighted. That’s not rare in many graduate school situations, where there’s just grinding reading for hours on end.",
+  "content_length": 611,
+  "content_tokens": 139,
+  "embedding": []
+ },
+ {
+  "title": "Preventing nearsightedness in children",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "So Peter thinks this is very important for his kids; it’s too late for him. Steven agrees, get them outside. Make sure they’re spending a couple hours outside a day. The data also suggest that good illumination would be helpful as opposed to poor illumination. But he doesn’t want to discourage near activities because those are really important developmentally. Peter wonders if the opposite is true for hunter-gatherers or illiterate societies who are outside all the time. They don’t develop nearsightedness. Do they develop farsightedness? No, Steven thinks they are fairly well tuned to distance vision, to prey hunting, etc.",
+  "content_length": 630,
+  "content_tokens": 138,
+  "embedding": []
+ },
+ {
+  "title": "Cataracts: impact of aging and how they can be repaired",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Now, there’s a whole host of other problems that come into play once one has outlived their genetic usefulness, after one has reproduced and imparted their knowledge onto the next generation. Then one can go ahead and get cataracts because they’re done from a standpoint of genetic utility. Peter asks if developing cataracts is functionally like atherosclerosis. It’s something that has no bearing on reproductive capacity, but is otherwise inevitable to our species. Steven agrees, it seems to be fairly inevitable to our species. He hasn’t seen patients in their 70s typically who don’t have some cataract formation. Now there are patients who are 80 that are still functioning with cataracts, but the optical clarity of their lenses has degraded to the point that it’s not the way it was when they were 20. Maybe their visual needs are significantly reduced.",
+  "content_length": 862,
+  "content_tokens": 185,
+  "embedding": []
+ },
+ {
+  "title": "Vision loss due to light exposure and trauma",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Peter recalls, earlier Steven mentioned that senescent cells or their soluble secretory products probably play a role in the loss of vision as one ages. In the lens, Steven thinks it’s mostly that the lens proteins are degrading or becoming damaged over time. Maybe UV light contributes to this. It’s known that light exposure is related to cataract formation, as are some of the other things previously discussed like: glucose going into the lens, corticosteroid use. It is not known what it is specifically about trauma that causes a premature loss of clarity of the lens proteins. The trauma worries Peter because he boxed for so long. He took way too many hits to the head.",
+  "content_length": 677,
+  "content_tokens": 141,
+  "embedding": []
+ },
+ {
+  "title": "Cataract Surgery Today",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Cataract surgery today is like a four or five-minute procedure, and it’s astonishingly effective. Cataract surgery implants a new lens. Cataract surgery typically is not repeated; it’s a once in a lifetime deal. The first thing they probably notice is changes in their night vision. Glare, halos, streaks off of lights at night, problems with contrast sensitivity, for those who can appreciate that loss of contrast. These are really early signs of cataract formation. This is common at age 54 or 64.",
+  "content_length": 500,
+  "content_tokens": 114,
+  "embedding": []
+ },
+ {
+  "title": "Implant Lenses",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Now the implant lenses that are put in to replace the cataract, they have advanced in terms of function to the point that they can fix the near vision, as well as the distance vision, the astigmatism, the nearsightedness, the farsightedness, the presbyopia. These are all correctable with artificial lenses that he puts in the eye to replace the cataract. Yes, virtually every cataract surgery he performs involves removal of the cataract and replacing it with an artificial lens. The implant lens is placed in that bowl; the bowl holds the implant in place. The implant lens is a bendable plastic object; it can be folded up and put through a tiny incision then opened up again. This folding and opening of the implant lens was a very big advancement that happened in the 1980’s.",
+  "content_length": 780,
+  "content_tokens": 174,
+  "embedding": []
+ },
+ {
+  "title": "Cataract Treatment in Ancient Times",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "In the ancient world, if one had cataracts, the way they dealt with it is that they would just poke the lens of the eye backward, and it would drop down into the bottom of the eye so that the person now had a clear optical pathway, again, to let light in. They no longer have a lens, so there is no way to focus. But it’s basically like taking someone who has no light transmission and saying, “We’re going to let unfocused light go through.” This is what happened in in Hammurabi time. They would take a gold needle and poke it through the cornea. The procedure was called couching. They would just poke the lens, and it would detach from its ligamentous attachments and then drop down into the bottom of the cavity of the eye. There are some of these artifacts from Egypt. This was done in China. It was certainly done in ancient Greece; that was how they dealt with cataracts back then.",
+  "content_length": 889,
+  "content_tokens": 206,
+  "embedding": []
+ },
+ {
+  "title": "The First Implant Lens",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Fast forward to right after World War II; there’s an ophthalmologist in the UK named Harold Ridley.",
+  "content_length": 99,
+  "content_tokens": 25,
+  "embedding": []
+ },
+ {
+  "title": "Polymethyl methacrylate in the body",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Peter didn’t realize it until Steven said it, but polymethyl methacrylate is all over the body in terms of joints. A replacement knee joint, the tibial plateau, he thinks it’s made out of polymethyl methacrylate. So presumably, there’s something about it that is just invisible to the immune system.",
+  "content_length": 299,
+  "content_tokens": 75,
+  "embedding": []
+ },
+ {
+  "title": "Current technology used in cataract surgery",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "First, the cataract was removed and then the implant lens placed in. 2 converging technologies made that go away: 1) They were able to take the cataract out through a tiny in incision. 2) The implant lens can be folded up and put them through that same tiny incision and then they can open up and be exactly where they need to be. A big incision takes longer to heal. It also induces astigmatism. It’s best for the incision to be tiny.",
+  "content_length": 435,
+  "content_tokens": 106,
+  "embedding": []
+ },
+ {
+  "title": "Cataract surgery history",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "They put 8 of these in patients. These patients did shockingly well, and this was viewed as heresy. There was 20 years of, “You’re blinding people.” But eventually, the technology won out and became standard. Like any new technology, the first iteration of it is probably terrible and maybe just a little bit less terrible than the alternative. Now it’s ubiquitously used.",
+  "content_length": 372,
+  "content_tokens": 84,
+  "embedding": []
+ },
+ {
+  "title": "Cataract surgery and its benefits",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Cataract surgery can greatly improve the ability to see. Especially now that the implant lenses can correct the near vision and the distance vision. This in addition to the added clarity from just removing the cataract, patients typically have this benefit of not needing spectacles.",
+  "content_length": 283,
+  "content_tokens": 54,
+  "embedding": []
+ },
+ {
+  "title": "Risks of cataract surgery",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "The number 1 risk of this surgery is infection. It’s extraordinarily unusual; less than 1 in 10,000 cases results in a serious infection. It’s like any other surgery in the body. He looks for bleeding, damage to the inside of the eye. He has to to keep tabs on the pressure. It’s basically everything that a doctor would look for if they were taking out an appendix, but they’re also dealing with in the eye.",
+  "content_length": 408,
+  "content_tokens": 98,
+  "embedding": []
+ },
+ {
+  "title": "Lens implants that can correct and improve vision",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Not everybody gets the same lens; lens to correct vision are expensive and the patient has to pay some extra money to get them. Regular cataract surgery makes no attempt to get rid of spectacles. Regular cataract surgery is probably going to be completely covered by a person’s health insurance. One may have to pay thousands of dollars out of pocket if they wanted to get rid of their glasses.",
+  "content_length": 394,
+  "content_tokens": 83,
+  "embedding": []
+ },
+ {
+  "title": "Correcting vision with lenses",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "The technology has evolved to the point where he can actually correct those spectacle requirements. Now, many of his patients don’t really care about spectacle independence. They just want to see well, and that’s easy to achieve. But as these lenses have gotten better, the capabilities of ophthalmologists have gotten better.",
+  "content_length": 326,
+  "content_tokens": 67,
+  "embedding": []
+ },
+ {
+  "title": "Tuning vision for distance or near vision",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "They can intentionally set one’s vision for near or leave it for near. It’s just an optical calculation to set the point of focus where one wants it to be.",
+  "content_length": 155,
+  "content_tokens": 38,
+  "embedding": []
+ },
+ {
+  "title": "Measuring the surface of the cornea",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "One of the first things that he has to do is make sure that the surface of the cornea is tuned up from a dry eye standpoint. Because dry eye patients, the surface of their corneas, it’s not optically pristine; it’s a little distorted.",
+  "content_length": 234,
+  "content_tokens": 59,
+  "embedding": []
+ },
+ {
+  "title": "Measuring the Eye",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "The length of the eye from front to back can be accurately measured with lasers. With light, they can bounce a beam off the back of the retina and know exactly how long the eyeball is. If he knows some other dimensions of the eye and uses the front curvature as another piece of data, he can predict what power implant lens to put in.",
+  "content_length": 334,
+  "content_tokens": 72,
+  "embedding": []
+ },
+ {
+  "title": "Implant Technology in Development",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "In the mid-2000s, Steven started getting involved in product design for a type of implant lens that could actually zoom focus front to back. He developed an implant that was put in humans in multiple clinical trials outside the United States and found that these could zoom focus kind of like the human lens would. But multifocal lenses, that they’ve been talking about, the bifocals, trifocal implants, they surpassed the capability of what could be achieved with the lenses that he designed. Until someone comes out with a focusing implant lens that can zoom focus with the same degree of power as the bifocal and trifocal implants, it’s not going to be successful. But if there was a lens that could change its shape or change its position and zoom focus seamlessly from near to far, that would be a game-changer.",
+  "content_length": 816,
+  "content_tokens": 175,
+  "embedding": []
+ },
+ {
+  "title": "Effects of Eye Trauma",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Steven notes, “if you violate that capsule of the lens, the lens immediately becomes cloudy.” Here’s an example about trauma; so a typical scenario is somebody is working with a weed eater, a weed whacker, or whatever. And a shard of rock or glass or something goes through the cornea and embeds itself in the lens. But once that capsule has been pierced, inevitably, lens protein starts leaking out, and it’s no longer an immune privileged site. A cataract becomes visible within days. Sometimes they need a new cornea, but oddly enough, sometimes an object will pass through the cornea; and because it’s traveling at such a high velocity, it’s usually sterile, and it’ll go through the cornea and embed itself in the lens or the iris or wherever. Some of these objects can be left alone. But if the cornea has been damaged sufficiently that it’s no longer able to transmit a clear image, then it has to be replaced.",
+  "content_length": 917,
+  "content_tokens": 216,
+  "embedding": []
+ },
+ {
+  "title": "Corneal Abrasions",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "One thing Peter remembers from surgery is to always tape the patient’s eyes shut, to avoid corneal abrasions. It’s one of the more common ones.",
+  "content_length": 143,
+  "content_tokens": 37,
+  "embedding": []
+ },
+ {
+  "title": "Dry Eye and Corneal Abrasion",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Dry eye is intimately related to corneal abrasion because these patients lack the lubrication that normally takes place to prevent that type of thing.",
+  "content_length": 150,
+  "content_tokens": 31,
+  "embedding": []
+ },
+ {
+  "title": "Causes of Dry Eye",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Dry eye is an enormous issue in our society. It can be caused by lots of medications, antihistamines, hormonal influences, autoimmune conditions, perturbations of thyroid metabolism, and a lack of testosterone. Women on hormone replacement therapy may suffer from dry eye. All of the connective tissue diseases have a dry eye component to them.",
+  "content_length": 344,
+  "content_tokens": 69,
+  "embedding": []
+ },
+ {
+  "title": "Treatment for Dry Eye",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Treatment for dry eye depends on the type of dry eye. Eye drops work pretty well for most people. There are some mist sprays, believe it or not, one is a hypochlorous acid compound that is sprayed on the lids; and it sort of migrates into the eye. There’s a very significant benefit from supplementing with omega-3 fatty acids, especially high doses of omega-3 fatty acids and certain types of omega-6 fatty acids such as GLA.",
+  "content_length": 426,
+  "content_tokens": 102,
+  "embedding": []
+ },
+ {
+  "title": "Omega-3 Supplementation and Dry Eye",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "A study published in Ophthalmology in 2020 showed no superiority of omega-3 compared to olive oil in treating dry eye. However, there has been criticism of this study. Peter has a strong clinical impression that omega-3s in high doses do help with dry eye, primarily from an anti-inflammatory standpoint. Participants in the study were able to continue using eye drops to help with dry eye. Peter recommends bringing patients into the eye doctor four times a year to improve compliance with artificial tears.",
+  "content_length": 508,
+  "content_tokens": 99,
+  "embedding": []
+ },
+ {
+  "title": "Sunglasses for Eye Protection",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Peter recommends wearing sunglasses for eye protection. The most common site of skin cancer is the lower lid, and sunglasses reduce the incidence of basal cell and squamous cell carcinomas. Sunglasses also delay the onset of cataract and reduce the risk of age-related macular degeneration. Light-eyed patients are more vulnerable to UV light because they have less pigment in their eyes. Peter recommends wearing sunglasses even on cloudy days to protect the eyes from UV light.",
+  "content_length": 479,
+  "content_tokens": 93,
+  "embedding": []
+ },
+ {
+  "title": "Polarized Sunglasses",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Polarized lenses have some pluses and minuses. One of the big minuses is the difficulty in viewing a lot of the displays in cars now. One gets this really messed up cross-polarized effect where the light coming off of the screen is polarized.",
+  "content_length": 242,
+  "content_tokens": 55,
+  "embedding": []
+ },
+ {
+  "title": "Polarized lenses and UV protection",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Peter has found himself more comfortable in non-polarized lenses, unless he’s on water. In terms of polarization, there’s no evidence that polarization versus non-polarization in sunglasses helps. It’s really the UV filter that is helpful in terms of protection of eye health. One could wear clear spectacles, as long as they had UV protection, and still achieve the benefit of sunglasses. Car and truck windows do let some UV light in.",
+  "content_length": 436,
+  "content_tokens": 98,
+  "embedding": []
+ },
+ {
+  "title": "Glasses or contacts for nearsightedness",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "When a nearsighted person comes in, they can correct this with glasses or contacts. Steven Dell says that the safest thing you can do is wear spectacles for sure. So spectacles and glasses are synonymous; that’s the safest option. There’s a big debate about what the next safest thing is. Is it contact lens wear for 10 years, where one might be susceptible to infection, or is it laser vision correction? He tends to say, “If you’re doing fine with spectacles or contact lenses, do that.”",
+  "content_length": 489,
+  "content_tokens": 115,
+  "embedding": []
+ },
+ {
+  "title": "Laser eye surgery - photorefractive keratectomy (PRK)",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Most people probably haven’t heard of PRK (photorefractive keratectomy), which came alone first. The approvals for PRK and LASIK were in the mid ’90s, 1995, 1996.",
+  "content_length": 162,
+  "content_tokens": 48,
+  "embedding": []
+ },
+ {
+  "title": "PRK Procedure",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "PRK is a procedure that uses an excimer laser on the very front part of the cornea. The very front coating of the cornea is called the epithelium. It’s a very thin layer, about 50, 55 microns thick; it’s got a basement membrane. He removes that layer of cells with a solution of alcohol eye drops; it just sloughs right off, and it grows back in the same configuration. Then he uses a very carefully calibrated laser to change the shape of the cornea. The laser is effectively perpendicular to the cornea. The patient is laying down flat on their back. Steven gives Valium simply because it is intimidating; but the procedure only takes a minute.",
+  "content_length": 646,
+  "content_tokens": 148,
+  "embedding": []
+ },
+ {
+  "title": "How PRK Works",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Consider the cornea again like the glass on a watch, the thing a contact lens would sit on. And let’s say that the person is nearsighted; their cornea is a little bit too steep to focus the light perfectly on their retina. The length of the eye cannot be changed; this was discussed as being somewhat malleable during development. The corneal shape doesn’t seem to change that much throughout life. It’s the length of the eye that changes, unless there’s a pathological condition that changes the cornea. The cornea is about half a millimeter thick (500 microns). Since the length of the eye cannot be changed; what can be changed is the curvature of the front of the eye. The curvature doesn’t have to change that much; think about how thin a contact lens is. Only a little curvature needs to change in order to focus the light on the retina.",
+  "content_length": 843,
+  "content_tokens": 196,
+  "embedding": []
+ },
+ {
+  "title": "Details of the PRK procedure",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Long before this patient ever laid down on this gurney to have this laser treatment done, their eye was digitally mapped using what is referred to as a wavefront sensing device. A known uniform beam of light is sent in and he looks at how it bounces back from the back of the eye. That reveals what are the distortions present in this eye; how much nearsightedness, farsightedness… Diagnostically, this is part of the workup for laser vision correction. They look at how a particular eyeball distorts light as it goes through the optical pathway. This technology was developed for telescopes that have to contend with atmospheric distortion, like the Keck. In the eye they have the benefit of not having to deal with real time, evolving distortion, but he can take a snapshot of what the distortions are in the eyeball. Part of that involves the ability to track the eye. They have to lock onto, and register the eye with the equipment. The laser can track any movement one makes far more rapidly than it is possible to move the eye. It doesn’t matter if the patient’s eyes are moving during this diagnostic because the laser is moving. The fear of the patient, “I’m going to mess it up.” is not a ridiculous fear; it’s universal. Steven tells patients, “Hey, I’m not going to let you do anything to mess this up” The laser will not fire unless the patient is within its range of tracking, and the laser will move faster than the patient can move. So PRK is changing the shape of the eye by vaporizing the tissue. It’s a laser that’s scanning around the cornea where it does a little treatment here and there. Thermally one doesn’t want to do another shot right next to the previous one, so it moves over to another area to let the tissue cool down for a few milliseconds. This takes anywhere from 15 seconds to 2 minutes. The worse the prescription is, the longer it takes. So a -10 would take a minute or so. It depends on the laser and the overall treatment size. This fixes the astigmatism and all the little distortions. He measures all the little optical distortions, the coma and trefoil (terms optical physicists are very familiar with), and does his best to eliminate them with laser vision correction. For PRK this takes 2-3 minutes, plus the Valium time. The patient takes Valium a half an hour before; it works pretty quickly when they chew it.",
+  "content_length": 2356,
+  "content_tokens": 531,
+  "embedding": []
+ },
+ {
+  "title": "PRK recovery",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "With PRK the epithelium is removed so now there is a 7-8 mm diameter area of the central cornea that has no epithelium. It has to grow back.",
+  "content_length": 140,
+  "content_tokens": 38,
+  "embedding": []
+ },
+ {
+  "title": "Comparing PRK and LASIK",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "30 days after the procedure, the results are indistinguishable. But the LASIK patients get there way quicker.",
+  "content_length": 109,
+  "content_tokens": 22,
+  "embedding": []
+ },
+ {
+  "title": "PRK Procedure",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "PRK is a procedure where they remove the epithelium of the cornea, which is like having a big corneal abrasion. They put a contact lens over the eye, which acts like a band-aid. The epithelium begins to heal from the outside in, which takes about 4 days. After 4 days the contact lens is removed, but the vision is still not perfect yet because those cells have to reorient themselves like a bunch of orderly bricks in a brick wall.",
+  "content_length": 432,
+  "content_tokens": 101,
+  "embedding": []
+ },
+ {
+  "title": "LASIK Procedure",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "LASIK is different from PRK because the epithelium is not shaved off; instead a flap is cut. The new shape of the cornea is determined by how much tissue is removed when the flap comes back. The same laser is used in LASIK and PRK. Instead of using the laser on the surface of the eye, a step is added before that. He creates a flap in the cornea using a different type of laser. He uses a femtosecond laser to create about a 100 micron flap; so now he can work under the epithelium. The beauty of LASIK is that because the tissue removal is sequestered under that flap, the body doesn’t perceive that anything has been done.",
+  "content_length": 625,
+  "content_tokens": 152,
+  "embedding": []
+ },
+ {
+  "title": "LASIK Recovery",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "The risk of infection with LASIK is lower because the epithelium is not taken away. But another step is introduced in the procedure, the flap; if the flap is not performed correctly, it can lead to problems. There is more dry eye following LASIK compared to PRK. Some people have data to show that dry eye is equal in patients receiving LASIK and PRK, but he thinks there is more dry eye following LASIK; it’s controversial. The majority of patients are back to their baseline in about 60 to 90 days.",
+  "content_length": 500,
+  "content_tokens": 116,
+  "embedding": []
+ },
+ {
+  "title": "Night vision complaints and laser vision correction",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "From the ’90s to now, the treatment beam patterns have changed to address that issue and to treat that peripheral cornea differently. So now, night vision complaints are pretty unusual with laser vision correction.",
+  "content_length": 214,
+  "content_tokens": 42,
+  "embedding": []
+ },
+ {
+  "title": "Cost of laser corrective eye surgery",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "The cost has stayed pretty stable over the last 20 years; it’s a couple thousand dollars per eye.",
+  "content_length": 97,
+  "content_tokens": 23,
+  "embedding": []
+ },
+ {
+  "title": "Contraindications for LASIK and/or PRK",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "There are conditions of the cornea where the cornea is biomechanically unstable, where the cornea actually has a tendency to bow forward in a pathological state. And that means that the cornea is essentially a moving target. So further biomechanically weakening of the cornea makes no sense, and either procedure would do that. There are patients who have irregularities in their astigmatism that cannot be measured or corrected with any laser vision correction. There are patients that have certain autoimmune diseases that maybe render them as poor candidates for laser vision correction. People who have other eye diseases like cataract, or maybe glaucoma, or retinal pathology are not good candidates for laser vision correction.",
+  "content_length": 733,
+  "content_tokens": 141,
+  "embedding": []
+ },
+ {
+  "title": "When is PRK the best option?",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "There are certain patients where PRK is a far better option. Sometimes the thickness of the cornea will dictate this. Sometimes it might be related to someone with preexisting dry eye, and he thinks PRK may be a little better. These pretty much all went away; all aviators and pilots can now have LASIK or PRK.",
+  "content_length": 310,
+  "content_tokens": 72,
+  "embedding": []
+ },
+ {
+  "title": "20/20 vision after laser corrective surgery",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Yes, the way lasers are built today, this is typically the case. Patients will be 20/20 or better. If the patient is taken to 20/15 and they have presbyopia to begin with, their near vision will be based on their age. So if they’re 50 years old, they are probably going to need some near correction, some spectacles for reading. If their in their early to mid 40’s, they may not need glasses for close up.",
+  "content_length": 405,
+  "content_tokens": 100,
+  "embedding": []
+ },
+ {
+  "title": "SMILE procedure",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "SMILE (small incision lenticule extraction) is an interesting procedure. It’s using a single laser, a femtosecond laser. This seems to be an effective procedure. This was designed to solve dry eye. The problem it really solved, especially outside the United States, was needing only 1 laser instead of 2.",
+  "content_length": 304,
+  "content_tokens": 70,
+  "embedding": []
+ },
+ {
+  "title": "SMILE technology",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "SMILE technology is evolving. Steven hasn’t seen any data that shows that SMILE is in any way better than LASIK or even equal to LASIK; but it seems to be a very good procedure. He doesn’t currently use the SMILE procedure; but when the next generations of it rise to the point when they are better than what he is doing he will probably adopt it.",
+  "content_length": 347,
+  "content_tokens": 87,
+  "embedding": []
+ },
+ {
+  "title": "Glaucoma: definition, causes, symptoms, and care",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Glaucoma is probably about a hundred different diseases, but they all share the final common pathway of damage to the optic nerve (the nerve in the back of the eyes) and the cranial nerve (mentioned at the beginning), that is somehow related to pressure. So this is a pressure related optic neuropathy. Glaucoma is not known to have any symptoms until the very end. The peripheral vision is damaged at the end of glaucoma. Most people will not detect a slight reduction in their peripheral vision, particularly if it’s segmental. There will be just a little area off to the side that they can’t see. But as glaucoma progresses, it can affect central vision, and then it becomes symptomatic. Luckily glaucoma has become much more treatable. The pharmacological management of glaucoma has gotten way better. And there are numerous laser procedures that can treat glaucoma, what are referred to as minimally invasive glaucoma surgery (MIGS).",
+  "content_length": 938,
+  "content_tokens": 214,
+  "embedding": []
+ },
+ {
+  "title": "Cause of glaucoma",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "80% of glaucoma cases are caused by what is referred to as garden variety chronic open angle glaucoma. This means that the glaucoma is not a function of the anatomy of the front of the eye being too crowded, where the fluid can’t get out. It’s more a problem of overproduction of fluid inside the eye, and the pressure is too high inside the eye. It is not known what causes this; the pathogenesis is likely multifactorial. It runs in families, so there is a family history component but it’s not simple heredity. It is not coupled with diabetes. There’s some relationship to hypertension, blood pressure; but it can be seen in patients who are not hypertensive at all. It’s very common.",
+  "content_length": 687,
+  "content_tokens": 168,
+  "embedding": []
+ },
+ {
+  "title": "Glaucoma Screening and Prevention",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Steven thinks everyone should be screened for glaucoma when they go to the eye doctor for a yearly exam. The appearance of the optic nerve is examined as well as the pressure, and those are probably the two most important things to look for with glaucoma. Incidence does go up with age; so in the 50’s and beyond, it’s much more important to pay attention to glaucoma. Tips for preserving eye health include wearing hats and sunglasses to protect the eyes.",
+  "content_length": 456,
+  "content_tokens": 104,
+  "embedding": []
+ },
+ {
+  "title": "Supplements for Eye Health",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Nutritional supplements might have some effect. Vitamin C deficiency is associated with an elevated risk of cataract. But it’s been shown conclusively that vitamin C supplementation to super normal levels does not protect against cataract formation. Other antioxidants that have been looked at (vitamins A, C, and E) basically have no effect on cataract formation. There is a little bit of mixed weak evidence for lutein and zeaxanthin as possibly being protective for cataract and macular degeneration. In the drugstore they sell AREDS formula for macular degeneration; that stands for Age-Related Eye Disease Study.",
+  "content_length": 617,
+  "content_tokens": 134,
+  "embedding": []
+ },
+ {
+  "title": "Light and Macular Degeneration",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Light is also a big risk for macular degeneration.",
+  "content_length": 50,
+  "content_tokens": 12,
+  "embedding": []
+ },
+ {
+  "title": "Screen time and eye health",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Exposure to blue light from a screen at night is not damaging their retinas or giving them cataracts, but may be messing up their circadian rhythms. Although it is hard to disentangle that from the total amount of light that they’re seeing, which is also unnatural and what comes with it. Steven has software embedded in all of his PCs that changes the color temperatures. f.lux is a software that’s free; it will take the blue light sequentially out of the monitor as the day goes on, as the evening goes on to the point that it’s like super amber, as it gets close to bedtime. He really thinks that’s great.",
+  "content_length": 609,
+  "content_tokens": 143,
+  "embedding": []
+ },
+ {
+  "title": "Contact lenses: good hygiene and considerations",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "The big takeaways for him have been the importance of sunglasses, artificial tears, taking one’s contact lenses out as frequently as possible, right? Don’t sleep in contact lenses and stuff like that. The daily ones seem best if one can afford it. It makes more sense than the 2-week ones that have to be washed every night. Steven thinks the most important thing is to just get them out of the eye. He doesn’t like extended-wear contact lenses. He’s not a big fan of sleeping in contact lenses in general, but if one is going to sleep in them, he’d rather they be a perfect, pristine, new pair every single time. And get them out as quickly as you possibly can.",
+  "content_length": 662,
+  "content_tokens": 156,
+  "embedding": []
+ },
+ {
+  "title": "A bonus benefit from repairing cataracts",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "The other takeaway for me, is not to be so afraid of cataracts. They’re inevitable. And…  there’s a potential silver lining, which is not only the improvement of your vision, but potentially the correction of other age-related visual changes. Steven agrees, it’s interesting that once word got out in the community that this was something that could be done, he saw people coming in asking for cataract surgery a little sooner than they otherwise would. Because they know that this added benefit is a potential possibility.",
+  "content_length": 523,
+  "content_tokens": 113,
+  "embedding": []
+ },
+ {
+  "title": "Cataract Surgery and Implant Lenses",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "In the old days when intraocular lenses were not available, people would have to wear these cataract glasses. These super thick lenses that were very, very powerful and magnified everything. Without implant lenses, their prescription was typically about +10. Peter asks if cataract surgery is one and done; do people every need reoperations. It’s not unheard of; if the implant lens isn’t functioning, it can be replaced.",
+  "content_length": 421,
+  "content_tokens": 93,
+  "embedding": []
+ },
+ {
+  "title": "Corrective Eye Surgery and Prescription Stability",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "The other question Peter had on laser surgery is, how stable does one’s prescription need to be? There are 3 variables to think about. The cornea, the length of the eye, and the lens itself. The lens will continue to change throughout life, but typically not until one’s in their 50’s, 50’s, and 70’s, when cataract formation will start to affect the light bending power of the lens. The cornea should not be changing. So just the length of the eye needs to be fixed.",
+  "content_length": 467,
+  "content_tokens": 117,
+  "embedding": []
+ },
+ {
+  "title": "Metabolic Illness and Eye Exams",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Peter asks about hemoglobin A1C, which is a pretty crude, unimpressive way to assess glycosylation. He thinks the eye is the most sensitive end organ to excessive glycosylated hemoglobin. Could an angio of the eyes be done noninvasively? Yes. Peter asks if there will come a day when everybody has an angio done on their eyes every year, to look for changes? The lens could be imaged to determine if glucose is leaching into this lens? Might that be a screening technique for diabetic disease… probably yes.",
+  "content_length": 507,
+  "content_tokens": 117,
+  "embedding": []
+ },
+ {
+  "title": "The importance of monitoring microvascular health",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Peter Attia emphasizes the importance of monitoring a person's metabolic health by investigating the microvascular system. This can be done by looking at lipids, glucose, and blood pressure. By doing so, it becomes easier to detect any damage to the microvascular system. Steven notes that it's inexpensive to do this test, and that perturbations in glucose migration into the lens can be seen sooner than architectural changes in the retinal microvasculature. The technology to measure glucose in the lens is being studied, but for now, optical coherence tomography can be used to image the capillary network noninvasively.",
+  "content_length": 624,
+  "content_tokens": 128,
+  "embedding": []
+ },
+ {
+  "title": "The importance of ophthalmology in medicine",
+  "date": "March 7, 2022",
+  "context": "Podcast",
+  "people": "Peter Attia",
+  "content": "Peter Attia believes that ophthalmology should be more integrated into medicine. Ophthalmologists can see things that are important to systemic health, such as the microvascular system and the brain. He thinks there should be more integration between ophthalmologists and other medical professionals. Steven Dell also notes that it's amazing that we have the ability to directly observe the brain and the vascular tree.",
+  "content_length": 419,
+  "content_tokens": 80,
+  "embedding": []
+ }
+]
