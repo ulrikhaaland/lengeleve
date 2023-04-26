@@ -1,0 +1,102 @@
+[
+ {
+  "title": "Flaws in Self-Reporting Tools",
+  "date": "February 26, 2022",
+  "context": "Understanding science",
+  "people": "Peter Attia",
+  "content": "Self-reporting from food frequency questionnaires (FFQs) is notoriously inaccurate, but the use of FFQs continues to persist in nutritional epidemiology. David and his colleagues note that the FFQ does not accurately estimate frequency of intake or gauge serving size and energy intake from FFQs is invalid. Many FFQs ask you how frequently you’ve eaten particular foods over the course of a year.",
+  "content_length": 397,
+  "content_tokens": 84,
+  "embedding": []
+ },
+ {
+  "title": "Recommendations for Stronger Measurement",
+  "date": "February 26, 2022",
+  "context": "Understanding science",
+  "people": "Peter Attia",
+  "content": "Self-reporting tools have utility for some uses; however, when possible, self-report should be used in conjunction with additional, objective means of evidence validation, and should be avoided when invalid or unfit for a particular use. Blending varying degrees of automation with traditional, observational studies can improve the quality of self-reported data. Researchers should continually seek additional biomarkers and other new technologies and methods for collecting objective data.",
+  "content_length": 491,
+  "content_tokens": 84,
+  "embedding": []
+ },
+ {
+  "title": "Mitigating Biases in Observational Studies",
+  "date": "February 26, 2022",
+  "context": "Understanding science",
+  "people": "Peter Attia",
+  "content": "Bias due to confounding is a core limitation of observational research. Confounding occurs when a factor is associated with both the exposure (or treatment) and the outcome (e.g., disease or death), and is not part of the causal pathway from exposure to outcome. In observational nutritional epidemiology, there are many confounding factors that can distort the results of a study. Using statistical analyses, confounding factors can be adjusted for after data gathering. But confounding can persist, even after adjustment. There are often additional confounding factors that were not considered, or there was no attempt to adjust for them because they were not measured during the process of data gathering.",
+  "content_length": 708,
+  "content_tokens": 129,
+  "embedding": []
+ },
+ {
+  "title": "Recommendations for Stronger Analyses",
+  "date": "February 26, 2022",
+  "context": "Understanding science",
+  "people": "Peter Attia",
+  "content": "The relationship of dietary factors to numerous potential confounders, such as age, sex, education, and income, should be determined, and uniform standards developed to include and address these. Investigators should use multiple analytical methods, including appropriately robust and sometimes novel statistical tools, to mitigate biases common to simple observational studies. To resolve the complex problem of innumerable interacting variables in the exposome, investigators should seek information technology approaches to the investigation, reduction, and interpretation of data.",
+  "content_length": 584,
+  "content_tokens": 94,
+  "embedding": []
+ },
+ {
+  "title": "Issues with Reporting Observational Studies",
+  "date": "February 26, 2022",
+  "context": "Understanding science",
+  "people": "Peter Attia",
+  "content": "The reporting of observational studies is often inadequate. Two of the biggest issues raised by Allison and colleagues are the multiple hypothesis testing problem and selective non-reporting of studies and results. This multiple hypothesis testing problem often leads to the reporting of nonexistent effects and associations and contributes to the poor reproducibility of many nutritional epidemiology studies.",
+  "content_length": 410,
+  "content_tokens": 65,
+  "embedding": []
+ },
+ {
+  "title": "Publication Bias in Nutrition Studies",
+  "date": "February 26, 2022",
+  "context": "Understanding science",
+  "people": "Peter Attia",
+  "content": "Selective non-reporting typically leads to underrepresentation of negative (non-significant) results in scientific literature. One reason for this bias is that investigators often think their (usually null) results are unimportant or uninteresting and therefore never submit them for publication.",
+  "content_length": 296,
+  "content_tokens": 53,
+  "embedding": []
+ },
+ {
+  "title": "Reproducibility in Nutritional Epidemiology",
+  "date": "February 26, 2022",
+  "context": "Understanding science",
+  "people": "Peter Attia",
+  "content": "Reproducibility — the ability to generate the same results from previous studies using the same methods and analysis — is an essential part of the scientific process. Multiple hypothesis testing and selective non-reporting are each major contributors to irreproducibility, particularly when the two issues are combined (as is often the case).",
+  "content_length": 342,
+  "content_tokens": 63,
+  "embedding": []
+ },
+ {
+  "title": "Recommendations for Stronger Execution and Reporting",
+  "date": "February 26, 2022",
+  "context": "Understanding science",
+  "people": "Peter Attia",
+  "content": "Nutritional epidemiology should adhere to reporting guidelines (e.g., CONSORT and STROBE-n). To prevent selective non-reporting of studies and results, investigators should register research prospectively (e.g., on ClinicalTrials.gov) and report results for all outcomes and analyses. To improve transparency and openness, investigators should share research materials, data, and code. To promote scientifically appropriate interpretations, researchers should avoid “spin” in scientific reports and press releases and identify limitations associated with their findings.",
+  "content_length": 570,
+  "content_tokens": 106,
+  "embedding": []
+ },
+ {
+  "title": "Observational Studies in Nutrition",
+  "date": "February 26, 2022",
+  "context": "Understanding science",
+  "people": "Peter Attia",
+  "content": "Observational studies in nutrition continue to be popular with the press, where spurious associations are often translated into flashy headlines. Moreover, food industry sponsorship has long ensured ample funding for nutrition studies, and on many occasions, this conflict of interest has been found to lead to flawed methodology or misleading reporting of results.",
+  "content_length": 365,
+  "content_tokens": 61,
+  "embedding": []
+ },
+ {
+  "title": "Reforming Nutrition Studies",
+  "date": "February 26, 2022",
+  "context": "Understanding science",
+  "people": "Peter Attia",
+  "content": "Editors and reviewers for scientific journals might help to elevate standards by requiring more rigorous methods and public disclosure of data and analytical codes. Perhaps the ultimate gatekeepers must be investigators themselves. We can only hope that most have a hunger for truth over flash.",
+  "content_length": 294,
+  "content_tokens": 50,
+  "embedding": []
+ }
+]

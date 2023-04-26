@@ -1,0 +1,62 @@
+[
+ {
+  "title": "Hangover Prevention Pills",
+  "date": "September 24, 2022",
+  "context": "Alcohol",
+  "people": "Peter Attia",
+  "content": "Myrkl hangover pills contain L-cysteine, vitamin B12, and two probiotics: bacillus subtilis and bacillus coagulans. L-cysteine covalently binds to acetaldehyde, creating a stable compound, which reduces the toxicity of acetaldehyde, the byproduct of alcohol metabolism that is thought to contribute to hangover symptoms. The inclusion of the two probiotics may increase your metabolic rate of alcohol and its byproducts, reducing BAC and less alcohol absorption. However, the increased rate of elimination of alcohol and acetaldehyde may help reduce hangovers, but this effect comes at the expense of the alcohol-induced “buzz.”",
+  "content_length": 628,
+  "content_tokens": 143,
+  "embedding": []
+ },
+ {
+  "title": "Alcohol and Metabolism",
+  "date": "September 24, 2022",
+  "context": "Alcohol",
+  "people": "Peter Attia",
+  "content": "Alcoholic drinks are associated with numerous metabolic effects and are notoriously high in calories.",
+  "content_length": 101,
+  "content_tokens": 17,
+  "embedding": []
+ },
+ {
+  "title": "Hangover Pills",
+  "date": "September 24, 2022",
+  "context": "Alcohol",
+  "people": "Peter Attia",
+  "content": "The use case of hangover pills is targeted at those who are looking to reduce the next-day effects of having a couple drinks for enjoyment or socially.",
+  "content_length": 151,
+  "content_tokens": 31,
+  "embedding": []
+ },
+ {
+  "title": "Efficacy of Hangover Pills",
+  "date": "September 24, 2022",
+  "context": "Alcohol",
+  "people": "Peter Attia",
+  "content": "Because this is a supplement and not a medication, the studies indicating efficacy of combining these ingredients are very limited.",
+  "content_length": 131,
+  "content_tokens": 22,
+  "embedding": []
+ },
+ {
+  "title": "Hangover Pill Success",
+  "date": "September 24, 2022",
+  "context": "Alcohol",
+  "people": "Peter Attia",
+  "content": "Despite the difference in recommended use from experimental conditions, the product page boasts success for 70% of people.",
+  "content_length": 122,
+  "content_tokens": 21,
+  "embedding": []
+ },
+ {
+  "title": "Preventing Hangovers",
+  "date": "September 24, 2022",
+  "context": "Alcohol",
+  "people": "Peter Attia",
+  "content": "The only truly fool-proof way to prevent a hangover is to avoid consuming alcohol in the first place.",
+  "content_length": 101,
+  "content_tokens": 22,
+  "embedding": []
+ }
+]

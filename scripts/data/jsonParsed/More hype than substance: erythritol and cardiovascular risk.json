@@ -1,0 +1,92 @@
+[
+ {
+  "title": "Study links erythritol to cardiovascular risk",
+  "date": "March 4, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "A study published this past Monday reported that the common sweetener erythritol increases risk of heart attack, stroke, and cardiovascular (CV) death. Investigators Witkowski et al. first identified erythritol as a molecule of interest by conducting metabolomics analyses on fasting plasma samples from 1,157 participants (the “discovery cohort”) to determine which circulating compounds were associated with major adverse cardiovascular events (MACE: death, heart attack, or stroke) over a maximum 3-year follow-up period. Erythritol emerged as one of the top hits for MACE association, with a hazard ratio (HR) of 3.22 (95% CI: 1.91–5.41, P<0.0001).",
+  "content_length": 652,
+  "content_tokens": 156,
+  "embedding": []
+ },
+ {
+  "title": "Erythritol and blood clotting",
+  "date": "March 4, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Witkowski et al. then evaluated the possibility that erythritol might contribute to MACE risk by enhancing blood clotting, thus increasing risk of vascular blockage. They applied varying concentrations of erythritol or control solution to human platelet-rich plasma and observed a dose-dependent relationship between erythritol treatment and platelet aggregation, one of the early steps in blood clot formation. Additionally, injecting mice with erythritol sped the rate of clot formation relative to control solutions, though it is worth noting that serum erythritol concentrations in this experiment were over double the highest concentrations seen in the human discovery, US, or Europe cohorts.",
+  "content_length": 697,
+  "content_tokens": 140,
+  "embedding": []
+ },
+ {
+  "title": "Diet isn’t the only source of erythritol",
+  "date": "March 4, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The problem with interpreting these results as a condemnation of erythritol consumption is that diet isn’t the only source of circulating erythritol. This compound is also produced by our own bodies through a process known as the pentose phosphate pathway, one of the pathways by which we metabolize glucose. So how can we tell if dietary erythritol intake in particular is contributing to MACE risk?",
+  "content_length": 400,
+  "content_tokens": 87,
+  "embedding": []
+ },
+ {
+  "title": "Limited Data on Health Effects of Artificial Sweeteners",
+  "date": "March 4, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Witkowski et al. correctly note that we have limited longitudinal data on the health effects of most artificial sweeteners, but unfortunately, their study offers nothing in the way of fixing that problem.",
+  "content_length": 204,
+  "content_tokens": 39,
+  "embedding": []
+ },
+ {
+  "title": "No Evidence of Harmful Effects of Erythritol",
+  "date": "March 4, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "So we don’t know about dietary erythritol, but can we at least conclude that circulating erythritol – regardless of the source – is harmful? Again, the answer is a hard “no.”",
+  "content_length": 174,
+  "content_tokens": 50,
+  "embedding": []
+ },
+ {
+  "title": "Circulating Erythritol is a Covariate of Countless Other Variables",
+  "date": "March 4, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The authors present these data as evidence that erythritol raises MACE risk, but the fact that our bodies produce erythritol as a result of metabolic processes introduces a very high likelihood of a “third variable problem” – a situation in which two unrelated variables appear to be correlated because they are both influenced by a third, unknown variable.",
+  "content_length": 357,
+  "content_tokens": 74,
+  "embedding": []
+ },
+ {
+  "title": "Flawed Paper and No Need for Alarm",
+  "date": "March 4, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Another flawed paper, another spray of alarming headlines, another rush by the scientific community to set the record straight before panic spreads.",
+  "content_length": 148,
+  "content_tokens": 25,
+  "embedding": []
+ },
+ {
+  "title": "Erythritol is the Least Appealing of Sugar Substitutes",
+  "date": "March 4, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Far from condemning erythritol as an ingredient in foods and beverages, these data provide no insight whatsoever on the effects of dietary erythritol intake. For those who would still rather steer clear until we have more data on this relatively new sweetener, there are plenty of alternatives available. Regardless of this study, I and most of my patients generally find erythritol to be the least appealing of sugar substitutes in large part because of the non-trivial gastrointestinal side effects many experience after consuming it.",
+  "content_length": 536,
+  "content_tokens": 107,
+  "embedding": []
+ },
+ {
+  "title": "Erythritol and Heart Attack",
+  "date": "March 4, 2023",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "you’re more likely to get a heart attack from the fearmongering surrounding this study than from erythritol itself.",
+  "content_length": 115,
+  "content_tokens": 28,
+  "embedding": []
+ }
+]

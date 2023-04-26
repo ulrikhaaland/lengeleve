@@ -1,0 +1,32 @@
+[
+ {
+  "title": "How insulin resistance manifests in the muscle",
+  "date": "February 16, 2022",
+  "context": "Insulin Resistance",
+  "people": "Peter Attia",
+  "content": "This section explains how insulin resistance manifests in the muscle and how glucose is stored as glycogen in the muscle and liver. It also explains how glucose disposal works in a healthy individual and how insulin secretion stimulates glucose uptake in muscle and suppresses GNG by the liver.",
+  "content_length": 294,
+  "content_tokens": 53,
+  "embedding": []
+ },
+ {
+  "title": "What goes wrong from here?",
+  "date": "February 16, 2022",
+  "context": "Insulin Resistance",
+  "people": "Peter Attia",
+  "content": "This section explains what happens when things go wrong in the process of glucose disposal. It explains that the first thing that goes wrong is the muscles take in less glucose, and by extension, the plasma insulin level has to rise to force that in. It also explains that the liver being resistant to insulin means it’s not slowing down glucose production, and therefore in the presence of glucose it’s still making glucose. At some point, there’s not even enough insulin that the pancreas can make to overcome the resistance resulting in a person needing medication to start to overcome this problem.",
+  "content_length": 602,
+  "content_tokens": 121,
+  "embedding": []
+ },
+ {
+  "title": "What is it about the muscle that fails in this process of glucose disposal?",
+  "date": "February 16, 2022",
+  "context": "Insulin Resistance",
+  "people": "Peter Attia",
+  "content": "This section explains the three fates of glucose within the muscle, which are oxidative, glycolytic, and glycogen. It also explains that when things go wrong, at least one of those three are not working, and the question becomes, which one?",
+  "content_length": 240,
+  "content_tokens": 53,
+  "embedding": []
+ }
+]

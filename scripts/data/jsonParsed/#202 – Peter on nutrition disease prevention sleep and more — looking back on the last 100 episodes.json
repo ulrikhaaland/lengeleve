@@ -1,0 +1,602 @@
+[
+ {
+  "title": "Nutrition and Disease Prevention",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Peter covers topics including cancer therapy and screening, as well as prevention strategies for cardiovascular disease and Alzheimer’s disease. He also describes changes in his perspectives on time-restricted feeding and protein consumption.",
+  "content_length": 242,
+  "content_tokens": 40,
+  "embedding": []
+ },
+ {
+  "title": "Sleep Supplements",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Peter discusses some sleep supplements with remarkable efficacy.",
+  "content_length": 64,
+  "content_tokens": 9,
+  "embedding": []
+ },
+ {
+  "title": "Cancer: the promise of immunotherapy",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Cancer: the promise of immunotherapy [14:15];",
+  "content_length": 45,
+  "content_tokens": 13,
+  "embedding": []
+ },
+ {
+  "title": "Cancer: how aggressive screening for gastrointestinal cancers could save lives",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Cancer: how aggressive screening for gastrointestinal cancers could save lives [24:30];",
+  "content_length": 87,
+  "content_tokens": 17,
+  "embedding": []
+ },
+ {
+  "title": "Cardiovascular disease: how early and aggressive lowering of apoB could change the course of ASCVD",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Cardiovascular disease: how early and aggressive lowering of apoB could change the course of ASCVD [31:30];",
+  "content_length": 107,
+  "content_tokens": 25,
+  "embedding": []
+ },
+ {
+  "title": "Alzheimer’s disease: genes that modify risk associated with the APOE4 variant",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Alzheimer’s disease: genes that modify risk associated with the APOE4 variant [40:15];",
+  "content_length": 86,
+  "content_tokens": 24,
+  "embedding": []
+ },
+ {
+  "title": "Time-restricted feeding: where the benefit comes from, and when this practice can be problematic",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Time-restricted feeding: where the benefit comes from, and when this practice can be problematic [44:00];",
+  "content_length": 105,
+  "content_tokens": 23,
+  "embedding": []
+ },
+ {
+  "title": "The common problem of protein underconsumption",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "The common problem of protein underconsumption [51:45];",
+  "content_length": 55,
+  "content_tokens": 13,
+  "embedding": []
+ },
+ {
+  "title": "The Physiology of Stress Response",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Robert Sapolsky, Ph.D., discusses the widespread impact of stress on our physical and emotional health as well as the mechanisms by which it can precipitate chronic illness, dementia, depression, and more. He also provides insight into the factors that contribute to the stress response (and our ability to handle it) such as social rank, personality, environment, and genetics.",
+  "content_length": 378,
+  "content_tokens": 75,
+  "embedding": []
+ },
+ {
+  "title": "The Impact of Stress on Health",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Robert Sapolsky, Ph.D., discusses the impact of stress on atherosclerosis, dementia, addiction, and depression. He also talks about the role of stress in cancer and how it can lead to chronic illness.",
+  "content_length": 200,
+  "content_tokens": 45,
+  "embedding": []
+ },
+ {
+  "title": "Tips for Managing Stress",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Robert Sapolsky, Ph.D., provides tips for managing stress in the modern world. He talks about the impact of subjective socioeconomic status and social media on stress levels and health.",
+  "content_length": 185,
+  "content_tokens": 37,
+  "embedding": []
+ },
+ {
+  "title": "Update on Peter's upcoming book",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Peter's upcoming book is in the process of being cut down from close to 200,000 words to about 120,000 words. Peter's coauthor is Bill Gifford and they are relentlessly pushing each other to figure out how this can be said in fewer words. Similarly, with a book, there’s a part of Peter that wants the reader to see how much work has gone into this but, of course, that doesn’t make for a good book.",
+  "content_length": 399,
+  "content_tokens": 97,
+  "embedding": []
+ },
+ {
+  "title": "Cancer: the promise of immunotherapy",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Peter says there are three disease topics where his thinking today is either more clear or different than it was before: cancer.",
+  "content_length": 128,
+  "content_tokens": 24,
+  "embedding": []
+ },
+ {
+  "title": "Immunotherapy for Cancer",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Peter is excited about the promise of immunotherapy for cancer. The holy grail of cancer therapy is undoubtedly immunotherapy. Historically speaking, very few people have a cancer where the immune system can automatically recognize it at sufficient force to eradicate it. There are a couple such patients like that, that Steve Rosenberg saw during his training, that basically formed the impetus for his life’s work. But there’s another subset of patients typically with cancers like melanoma and renal cell cancer, which have a high mutagenic burden where they might not have enough immune cells to recognize and kill the cancer completely without any prompting, but if you prompt them with a cytokine, like interleukin-2 at a very high dose, that is sufficient for their T cells to go and eradicate the cancer. The next step would be using something called a checkpoint inhibitor—drugs that block the checkpoints on immune cells. By dropping these checkpoint inhibitors on patients—so things that block either CTLA-4 or PD-1 being the two most well studied of these—we have the same effect. It tends to only work in patients that either have specific mutations or patients that, again, have a very high mutagenic burden. But when you look at the fact that 80% of patients have neoantigens on their cancers that are recognized by their immune system, yet only about 10% respond really well to immunotherapy and/or checkpoint inhibitors, what about those other 70% of people? What this finding gives us hope for is that we may, in fact, be able to use some combination of tumor infiltrating lymphocytes, TIL, or adaptive cell therapy where you genetically engineer T cells with that recognition. So, the reason that those patients aren’t having spontaneous remissions or aren’t responding to interleukin-2 or even checkpoint inhibitors is because they probably don’t have enough of those T cells yet. This now becomes just as much a bioengineering problem as it is an immunology problem. You have to be able to recognize those cells (turns out it’s pretty easy to do). Then you now have to be able to expand them in a manner where they still have the longevity necessary to go in and be infused into patients and basically arrest and eradicate their tumors. Peter thinks that in 10 years we’re going to basically be using designer-based immunotherapies to eradicate most solid organ metastatic cancers.",
+  "content_length": 2402,
+  "content_tokens": 501,
+  "embedding": []
+ },
+ {
+  "title": "Solid Organ Tumors",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Solid organ tumors are basically anything that is not a leukemia and lymphoma. Leukemias and lymphomas probably account for about 20% of cancer deaths. Solid organs about 80% of cancer deaths. Almost every time we hear about somebody dying of cancer—colon cancer, breast cancer, prostate cancer, brain cancer—those are what we call epithelial tumors, to be more technically correct.",
+  "content_length": 382,
+  "content_tokens": 80,
+  "embedding": []
+ },
+ {
+  "title": "Screening for Gastrointestinal Cancers",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Peter has an increased aggression when it comes to screening for gastrointestinal cancers. For perspective, in 2020 there were about 600,000 people in the US that died of cancer. 170,000 of the 600,000 were in the GI system (so mouth to anus). Some of those GI cancers are very difficult to screen for. The esophagus, the stomach, and the colon probably represent about 40% of those GI cancers. Liver and intrahepatic, bile duct, and pancreas are probably also about 40%, and those are much harder to screen for. But when you look at organ-specific sites, colon cancer is generally in the top three leading causes of death for both men and women. Bold and controversial opinion from Peter: “Nobody should ever die from colon cancer.” (same for esophageal and stomach). The reason for that is that the progression from non-cancer to cancer is visible to the naked eye, through the transition of nonmalignant polyp to malignant polyp. *Thought experiment: if you did a colonoscopy on somebody every single day of their life, they would never get colon cancer because, at some point, you would see the polyp, you would remove it while it is non-cancerous, and they would not get cancer. So… how do you turn that thought experiment into a real life idea? You have to ask the question: what is the shortest interval of time for which a person can have a completely normal colonoscopy until they can have a cancer? There’s no clear answer to this question — some case reports that it can happen in as little as six to eight months. Most people would agree that if you had a colonoscopy every one to two years, the likelihood that you could ever develop a colon cancer, while maybe not zero, is so remote that you could effectively take colon cancer off the list of the top 10 reasons why someone dies of cancer.",
+  "content_length": 1805,
+  "content_tokens": 401,
+  "embedding": []
+ },
+ {
+  "title": "Importance of Frequent Screening for Colorectal Cancer",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Peter emphasizes the importance of frequent screening for colorectal cancer, including upper endoscopy, due to the high risk of the disease. The financial cost, risk of sedation, and risk of perforation are the downsides to more frequent screening. While the ideal frequency is not yet known, Peter believes it should be much more frequent than what is currently being done, likely every one to three years. He recommends starting screening at age 40 for those with no history of colon cancer.",
+  "content_length": 493,
+  "content_tokens": 100,
+  "embedding": []
+ },
+ {
+  "title": "Aggressive ApoB Reduction for ASCVD Prevention",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Peter has become more aggressive in his approach to reducing ApoB levels for the prevention of ASCVD. ApoB is a better indicator of non-HDL cholesterol than LDL cholesterol. Peter recommends treating early and aggressively, with the goal of lowering ApoB to the 20-30 milligram per deciliter range for everyone in their 20s. While this may not be practical, Peter believes that anyone with a measure of ApoB above the 20th percentile should have it completely lowered by their late 30s or early 40s. The \"ceiling\" for ApoB should be around 60 milligrams per deciliter, and Peter wants everyone to be below the 5th percentile.",
+  "content_length": 625,
+  "content_tokens": 144,
+  "embedding": []
+ },
+ {
+  "title": "Lowering ApoB",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "If you have an LDL cholesterol below 30 or an ApoB below 40 milligrams per deciliter for a very long period of time, the odds that you’re going to suffer for ASCVD are incredibly low. The earlier you start and the lower you go the more you can make that number approximate zero. For some people to lower ApoB that much is trivial — Peter takes a PCSK9 inhibitor and a statin and he can basically eradicate it. But for some people, statins are difficult to tolerate. If they’re a hyper absorber we would use ezetimibe, if they’re a hyper synthesizer, but can’t respond to statins, we use mefenamic acid.",
+  "content_length": 602,
+  "content_tokens": 154,
+  "embedding": []
+ },
+ {
+  "title": "Genes that modify risk associated with the APOE4 variant",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "When it comes to Alzheimer’s disease, Peter’s focus on genes outside of APOE is now pretty significant. It turns out that there are a lot of genes that seem to modify the risk of APOE. There are certain haplotypes of the TOMM40 gene that amplify risk. There are certain mitochondrial haplotypes that amplify risk. One of the most exciting genes is the Klotho modifier. KL-VS is the modified snip of klotho that actually seems to erase all of the downside of APOE4. Unfortunately, the ways to measure these other genes, it’s very challenging and we have to do it by brute force today.",
+  "content_length": 583,
+  "content_tokens": 138,
+  "embedding": []
+ },
+ {
+  "title": "Time-restricted feeding",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Time-restricted feeding: where the benefit comes from, and when this practice can be problematic.",
+  "content_length": 97,
+  "content_tokens": 19,
+  "embedding": []
+ },
+ {
+  "title": "Time Restricted Feeding and Caloric Restriction",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Peter now believes more strongly that most of the benefit of time restricted feeding is accrued through caloric restriction. When people talk about how time restricted feeding is helping them lose weight and manage insulin resistance and things like that, it appears that’s all due to reduced caloric intake (It’s just harder to eat more during a narrower window).",
+  "content_length": 364,
+  "content_tokens": 69,
+  "embedding": []
+ },
+ {
+  "title": "The Problem with Protein Underconsumption",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Most people are not eating enough protein. The RDA for protein is roughly 0.8 grams per kilogram of body weight. We probably need closer to two grams per kilogram or about a gram per pound of body weight. The concern is that if you consume enough protein you’re going to overtax the kidneys because that’s how we excrete the excess nitrogen.",
+  "content_length": 341,
+  "content_tokens": 78,
+  "embedding": []
+ },
+ {
+  "title": "Body Composition and DEXA Scans",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "DEXA scans are the most practical and useful way to measure important body composition metrics. When we do a DEXA scan, we’re looking at lots of information (bone mineral density, total body fat, and more). But what Peter is really interested in is: what’s your fat free mass index (FFMI)– that’s the total lean tissue in kilograms divided by height in meters squared. Another metric is appendicular lean mass index (ALMI) which is the same as the FFMI, except it’s only using the lean mass of the four limbs, not including the torso. Also looking at visceral adipose tissue (VAT).",
+  "content_length": 581,
+  "content_tokens": 140,
+  "embedding": []
+ },
+ {
+  "title": "Protein intake and muscle mass in middle-aged women",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Lack of protein in middle-aged women seems to be a really big problem, especially in women that show up with no muscle mass, eating no protein, doing very little strength training. To me that is a recipe for a shorter life, but more importantly, a lower quality of life.",
+  "content_length": 270,
+  "content_tokens": 59,
+  "embedding": []
+ },
+ {
+  "title": "Importance of exercise on lifespan and healthspan",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Peter has really come to appreciate the magnitude of the value that is brought to a person’s lifespan and healthspan by having higher cardiorespiratory fitness and more strength. When you look at the improvements in all-cause mortality by moving up from below average, to average to above average, and so on, your all cause mortality drops and it drops at levels that aren’t appreciated by any other intervention. So comparing someone with end-stage renal disease to someone who doesn’t have it, a smoker to a non-smoker, someone with type two diabetes to someone who does not, those thing above are all big multipliers of risk. But they’re dwarfed by the multiplier in risk that you would go from having a very high VO2 max to a low VO2 max. Note: These associations have lots of interplay with other variables—There’s some genetic component to this, there’s obviously a healthy user bias, etc. But the point here is if you can get yourself to exercise versus not, that’s a big driver of mortality reduction. And the VO2 max becomes one way that we can track the progress you’re making on that metric. Similarly with strength, similarly with muscle mass, and things like that.",
+  "content_length": 1177,
+  "content_tokens": 265,
+  "embedding": []
+ },
+ {
+  "title": "Strength vs. muscle mass",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Turns out that strength matters more than muscle mass. But muscle mass is a very good proxy for strength.",
+  "content_length": 105,
+  "content_tokens": 22,
+  "embedding": []
+ },
+ {
+  "title": "Grip strength and longevity",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Peter thinks grip strength is a great proxy for longevity. It’s always been known to be that way and the question is why? Among them it’s just a great proxy for overall body strength and muscle mass, but I think it’s also a very functional form of strength. Basically everything in your upper body is mediated through your hands. If your grip is weak, everything downstream of that is weak. When you watch someone who’s got a weak grip deadlifting, it’s very difficult for them to deadlift correctly because they don’t create a proper wedge. They don’t create enough tension between the bar and their torso because their grip is weak. If they don’t create that tension, they’re going to compromise their lift.",
+  "content_length": 709,
+  "content_tokens": 164,
+  "embedding": []
+ },
+ {
+  "title": "Training for grip strength",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Peter will do a lot of super sets. He’s doing a farmer’s carry in between other workouts. One of his favorites is SkiErg machine — one minute, all out SkiErg followed by a one minute farmer’s carry with about 70 pounds in each hand. Secondly, dead hangs from a pull-up bar. Peter’s PR is 4 min, 35 sec.",
+  "content_length": 302,
+  "content_tokens": 84,
+  "embedding": []
+ },
+ {
+  "title": "Peter’s shoulder surgery",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Just had shoulder surgery two days ago and it was to have his labrum repaired in the right shoulder.",
+  "content_length": 100,
+  "content_tokens": 21,
+  "embedding": []
+ },
+ {
+  "title": "Impact on Workout Regimen",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Doctors estimate about eight to nine months before he’s back to full strength. His workouts will change in phases. For the first four to six weeks, it’s going to be really quite gentle like walking and doing zone 2 rides. He’ll be switching to the Peloton because it’s easier to sit upright on the Peloton than on his regular bike. He’ll keep doing his lower body workouts as well as some upper body stuff on his left side.",
+  "content_length": 423,
+  "content_tokens": 101,
+  "embedding": []
+ },
+ {
+  "title": "Mobility Recovery",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "When you have labral surgery, you are reducing mobility which is something Peter is very afraid of because of the downstream arthritis and things like that. He will be moving early and doing so smartly. He will use blood flow restriction with his KAATSU which is going to be a very important part of that recovery and doing a lot of isometric stuff. For example, instead of doing bicep curls with the right, he’ll do isometric pressure with the blood flow restriction so that he’s not putting the stress on the joint but he’s still getting the muscle to work.",
+  "content_length": 559,
+  "content_tokens": 125,
+  "embedding": []
+ },
+ {
+  "title": "Peter's View on NAD Precursors",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Peter remains quite uninspired by the entire NAD stratosphere. Two years ago, he was pretty neutral on their ability as a longevity tool. And today, he’s even less than neutral on them. There’s evidence that you can take NAD precursors, NR and NMN being the two most common and increase NAD levels. What’s not been demonstrated is that there is a phenotypic benefit from doing that outside of very pathological states. In other words, if you take a “normal person,” or a normal aging person and do that, is it bringing any benefit to them in terms of lifespan or health span. “And I would say the answer right now is, ‘No.’ It’s very difficult for me to get excited about this, even though it generates a tremendous amount of excitement on social media.”",
+  "content_length": 754,
+  "content_tokens": 181,
+  "embedding": []
+ },
+ {
+  "title": "Psychedelics as a Therapeutic Tool",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Peter worries a little bit about the hyper focus on psychedelics as the catchall cure all to every problem in isolation. He hears many stories of somebody raving about this shaman in Peru, or this shaman here, or their psychedelic experience being life changing. But they’re describing something in isolation that he doesn’t think is very durable.",
+  "content_length": 347,
+  "content_tokens": 71,
+  "embedding": []
+ },
+ {
+  "title": "Psychotherapy and Molecules",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Therapy should be guided by these types of molecules (e.g., psilocybin and MDMA). Peter thinks psychotherapy is probably the most powerful tool in different forms. Peter thinks that using MDMA and, potentially eventually, psilocybin as adjuncts to that type of therapy should be coming to the mainstream soon.",
+  "content_length": 309,
+  "content_tokens": 66,
+  "embedding": []
+ },
+ {
+  "title": "Sleep Aids",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Phenibut has become impossible to acquire in the US which has lead Peter to look for more appropriate sleep aids. What emerged from his search is trazodone. This can be used as a regular maintenance sleep drug. For most people (80%+), there is a dose between 25 and 100 milligrams before bed that produces remarkable sleep, both in quality, duration and lack of interruption.",
+  "content_length": 375,
+  "content_tokens": 82,
+  "embedding": []
+ },
+ {
+  "title": "Blue Light and Sleep",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Peter is less concerned today with the light from electronics before bed — he used to view them as pretty deadly for sleep. The negative impact on sleep is more likely to do with the stimulation that often accompanies blue light. So in other words, it might not be your phone per se that is killing your sleep, it might be what you’re doing on your phone (i.e., watching cat videos not so bad, reading stressful emails probably very bad).",
+  "content_length": 438,
+  "content_tokens": 93,
+  "embedding": []
+ },
+ {
+  "title": "Trazodone and Sleep",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Trazodone is a sleep drug that doesn't have dependency issues like benzodiazepines. It's getting a reasonable amount of acceptance amongst doctors. Data on the mechanism of action can be found in Shin and Saadabadi, 2021. Data on the efficacy can be found in Yi et al., 2018 and Fagiolini et al., 2020. Data on stage preservation can be found in Wang et al., 2020.",
+  "content_length": 364,
+  "content_tokens": 87,
+  "embedding": []
+ },
+ {
+  "title": "Book Recommendation: The Comfort Crisis",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Peter recommends The Comfort Crisis by Michael Easter. The book talks about how we are in a comfort crisis and how that level of comfort can have negative outcomes on our mental and physical health. The book explores how to exploit this information and get appropriate doses of things that are uncomfortable to recoup some of the benefits.",
+  "content_length": 339,
+  "content_tokens": 62,
+  "embedding": []
+ },
+ {
+  "title": "Formula 1: The 5 Variables That Determine the Winner",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "There are five variables that determine who's going to win a race in Formula 1. The four variables having to do with how fast the car goes are the skill of the driver, the tires, the engine, and the chassis. The fifth variable is strategy. You can be perfect on all four of those things, but if you have the wrong strategy you're going to lose.",
+  "content_length": 344,
+  "content_tokens": 76,
+  "embedding": []
+ },
+ {
+  "title": "F1: Drivers",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "There are 10 F1 teams and 2 drivers per team. Usually, one of the two drivers is the more senior driver. Team Ferrari is an expectation where this year with Charles Leclerc and Carlos Sainz – both of those guys could win. On some teams, the competition between the drivers on the same team is the most fierce because technically the cars are close to identical.",
+  "content_length": 361,
+  "content_tokens": 77,
+  "embedding": []
+ },
+ {
+  "title": "F1: Tires",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Pirelli has been the tire manufacturer in F1 for about six years now. Sometimes, different tire manufacturers are used in the same year. Pirelli has seven tire options, two for wet weather. For each race, they designate a soft, medium, and a hard tire. The five tire compounds are C1, 2, 3, 4, and 5 in increasing hardness. If you look at the tire rim, you'll know it's a soft tire because it's red. The medium for that race is the yellow, and the hard is the white. Then the “intermediate” is a green tire with an intermediate tread.",
+  "content_length": 534,
+  "content_tokens": 132,
+  "embedding": []
+ },
+ {
+  "title": "Tire Types and Tradeoffs",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "The soft, medium, and hard are the slick tires. The harder the tire, the longer it lasts and the slower it is because it has less grip. Unless it’s a wet or intermediate tire, you must use at least two tires of two different compounds in a race. Every time you switch tires, you have a guaranteed time hit of roughly 25/26 seconds.",
+  "content_length": 331,
+  "content_tokens": 77,
+  "embedding": []
+ },
+ {
+  "title": "Tire Strategy and Pit Stops",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Certain races like Bahrain in March 2022, you’ll see multiple pit stops from the teams because the tire degradation of that circuit is so high. Every time you switch tires, you have a guaranteed time hit of roughly 25/26 seconds. Last year, tire changes were taking about 3 seconds. If you can make up half a second per lap on a 50 lap race with a different tire strategy, then you would stay out. There’s always a risk when you do a pit stop that something goes wrong and that three seconds of actual tire changing becomes 10 seconds.",
+  "content_length": 535,
+  "content_tokens": 116,
+  "embedding": []
+ },
+ {
+  "title": "F1 Engines and Chassis",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "As far as engines go, there are only a handful of engine manufacturers in F1. Last year, you had four manufacturers: Mercedes, Ferrari, Renault, and Honda. In IndyCar, everybody’s on the same engine and the same chassis. Even though Mercedes makes the engine, you can’t assume that the same engine is in the Williams car. The chassis is also important. So you end up with very different equipment in F1.",
+  "content_length": 403,
+  "content_tokens": 93,
+  "embedding": []
+ },
+ {
+  "title": "Rule Changes Around Cars",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Every few years you get a rule change. This year there was a major rule change after 8 years. A huge regime change in F1 was in 2013 to 2014.",
+  "content_length": 141,
+  "content_tokens": 34,
+  "embedding": []
+ },
+ {
+  "title": "New rule changes",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "The new rules that were introduced for this year are going to readjust the pecking order. The rules basically came down to how to make the cars more competitive and how to create more wheel-to-wheel racing that basically reduced the down force of the cars, which means that when a car is following another car, it is less susceptible to the dysregulation of airflow going over it. They wanted to make it more competitive and it looks like they’ve succeeded.",
+  "content_length": 457,
+  "content_tokens": 95,
+  "embedding": []
+ },
+ {
+  "title": "Looking at a recent race",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "The race was basically down to Verstappen and Leclerc until Verstappen’s engine failed. There were five passes between the two of them, something you wouldn’t have seen historically.",
+  "content_length": 182,
+  "content_tokens": 45,
+  "embedding": []
+ },
+ {
+  "title": "Rule change: bigger wheels",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "They’ve also changed the tire size, so the wheels are now bigger wheels which is exciting b/c we’re basically back to square one trying to figure out tires and engines.",
+  "content_length": 168,
+  "content_tokens": 40,
+  "embedding": []
+ },
+ {
+  "title": "Rule change: E10 fuel",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "They also introduced E10 fuel which Peter calls “the dumbest idea ever”. “It’s in an effort to be sustainable, which I think is so ironic for F1 to try to be sustainable. It’s like, an easier way to be sustainable might be scheduling races in such a way that you don’t have to fly across the world 27 times as opposed to dropping from proper octane to E10, that has zero bearing on the outcome compared to one cross world flight in the F1 schedule”.",
+  "content_length": 449,
+  "content_tokens": 114,
+  "embedding": []
+ },
+ {
+  "title": "F1 Teams Performance",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Last year McLaren and Ferrari were battling a little bit for third in the Constructors, but there wasn’t a lot of competition in that. This year is just going to be a big reshuffling. Based on preseason testing, Ferrari and Red Bull looked to be the strongest and McLaren looked to take a step backwards.",
+  "content_length": 304,
+  "content_tokens": 66,
+  "embedding": []
+ },
+ {
+  "title": "F1 Weekend Schedule",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "The schedule for an F1 weekend consists of five sessions, typically. Always start with Free Practice 1 (FP1) and FP2 on Friday. Saturday morning is FP3. Then qualifying (Qualy) is Saturday afternoon. The race is on Sunday.",
+  "content_length": 222,
+  "content_tokens": 52,
+  "embedding": []
+ },
+ {
+  "title": "Free Practice",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "The purpose of FP1, FP2, and FP3 is to scrub some tires, to basically get that sheen off them so that you have a nice set of brand new tires to get ready — plus you’re also learning the track. With FP1 and FP2, it’s very difficult to draw much of a conclusion for how people are going to perform that weekend because they’re really fiddling with the setup of the car.",
+  "content_length": 367,
+  "content_tokens": 94,
+  "embedding": []
+ },
+ {
+  "title": "Qualifying Races",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "You have what’s called Q1, Q2 Q3. Q1, everybody goes out for 12-15 minutes and put a lap time down. At the end of Q1, the top 15 move on and for the bottom 5, their place is determined on the grid by where they finished. With Q2, you do the same thing again and now it’s the top 10 that go forward to Q3 and places 11 to 14 are set on the grid. With Q3, the final 10 positions are set on the grid. That’s virtually how every race works.",
+  "content_length": 436,
+  "content_tokens": 123,
+  "embedding": []
+ },
+ {
+  "title": "Tracks and Passing Opportunities",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Monaco is almost impossible to pass, while Suzuka has only a handful of places to pass. Abu Dhabi was historically difficult to pass, but changes were made last year to create more passing opportunities. Higher grid place is always better, even though there are tracks that are harder to pass on than others.",
+  "content_length": 308,
+  "content_tokens": 61,
+  "embedding": []
+ },
+ {
+  "title": "F1 Racing Strategy",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "When watching F1, it's important to understand how much drivers push the car and when they do it. Tires play a big role in determining speed, with softer tires being generally faster. Drivers also have to manage how they discharge the battery, as these are turbo hybrid cars. Drivers can't go all out all the time and have to protect their tires and batteries. When Verstappen and Leclerc were going back and forth passing each other, they ended up taking quite a bit out of their tires.",
+  "content_length": 487,
+  "content_tokens": 105,
+  "embedding": []
+ },
+ {
+  "title": "F1 Season Outlook and Predictions",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Ferrari looked the most dominant during the two testing weeks and finished first and second in the first race, making them the smart prediction to win this year. However, it's a 23-race season and anything can happen. Red Bull finished with zero points in the first race, but they may come back strong if they can figure out what's wrong with their fuel lines.",
+  "content_length": 360,
+  "content_tokens": 76,
+  "embedding": []
+ },
+ {
+  "title": "Fuel Issue with Honda Engines",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "He wonders if there’s an issue with their fuel because they’re using a different fuel from everybody else—they’re using Exxon as opposed to Petronas or Shell—and it might be that Exxon has just shit the bed on this E10 mixture and there’s something not working there. On that note, three out of the four Honda engines failed last week so that might be something to keep an eye on.",
+  "content_length": 380,
+  "content_tokens": 91,
+  "embedding": []
+ },
+ {
+  "title": "Competition Among Top Teams",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "There’s a lot more intriguing storylines and competition based on this first race compared to what we’ve seen in the past… The competition between Lewis Hamilton and George Russell is going to be intense. The competition between Charles Leclerc and Carlos Sainz, Jr. could become intense, even though historically they’ve been the most cordial teammates of all time but that could change here. Those three teams, Ferrari, Red Bull and Mercedes at the top, is going to be intense. And anybody who’s watched Drive to Survive can appreciate the interpersonal dynamics between Toto Wolff and Christian Horner, the Mercedes and Red Bull team principles, two guys who can’t stand each other.",
+  "content_length": 685,
+  "content_tokens": 147,
+  "embedding": []
+ },
+ {
+  "title": "Mercedes' Decision to Replace Valtteri Bottas",
+  "date": "April 11, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "The difference this year is Mercedes now has two drivers that can really win this thing as opposed to just Hamilton, so you have George Russell. Russell is viewed largely as the heir apparent within the team and that’s why they made the somewhat difficult decision of getting rid of Valtteri Bottas—an amazing wingman to Hamilton—in favor of someone who’s going to be nipping at his heels more, but is also probably the future for Mercedes.",
+  "content_length": 440,
+  "content_tokens": 96,
+  "embedding": []
+ }
+]

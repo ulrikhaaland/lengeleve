@@ -1,0 +1,522 @@
+[
+ {
+  "title": "Interpreting DEXA scans: important metrics, radiation levels, and more",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "In this AMA episode, Peter discusses the importance of understanding body composition and explains how to interpret the most important metrics revealed by a DEXA scan, such as lean muscle tissue mass, visceral adiposity tissue mass, bone mineral density, and more.",
+  "content_length": 264,
+  "content_tokens": 50,
+  "embedding": []
+ },
+ {
+  "title": "DEXA metrics: Bone mineral density (BMD)",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Peter explains the importance of bone mineral density (BMD) as a metric revealed by a DEXA scan.",
+  "content_length": 96,
+  "content_tokens": 23,
+  "embedding": []
+ },
+ {
+  "title": "DEXA metrics: Visceral adipose tissue (VAT)",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Peter explains the importance of visceral adipose tissue (VAT) as a metric revealed by a DEXA scan.",
+  "content_length": 99,
+  "content_tokens": 24,
+  "embedding": []
+ },
+ {
+  "title": "DEXA metrics on lean tissue: appendicular lean mass index (ALMI) and fat-free mass index (FFMI)",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Peter explains the importance of appendicular lean mass index (ALMI) and fat-free mass index (FFMI) as metrics revealed by a DEXA scan.",
+  "content_length": 135,
+  "content_tokens": 34,
+  "embedding": []
+ },
+ {
+  "title": "Concerning trends in BMD, VAT, & muscle mass revealed through DEXA scans",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Peter discusses common concerning trends in bone mineral density (BMD), visceral adiposity tissue (VAT), and muscle mass revealed through DEXA scans as well as strategies to address them.",
+  "content_length": 187,
+  "content_tokens": 38,
+  "embedding": []
+ },
+ {
+  "title": "Female patient case studies: DEXA scan results and prescribed interventions",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Peter goes through DEXA scan results of female patient case studies and explains the prescribed intervention for each patient.",
+  "content_length": 126,
+  "content_tokens": 22,
+  "embedding": []
+ },
+ {
+  "title": "Male patient case studies: DEXA scan results and prescribed interventions",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Peter goes through DEXA scan results of male patient case studies and explains the prescribed intervention for each patient.",
+  "content_length": 124,
+  "content_tokens": 22,
+  "embedding": []
+ },
+ {
+  "title": "Protein consumption: recommended daily intake, Peter’s personal approach, timing around workouts, and more",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Peter answers numerous questions about dietary protein including how much we need, when we need it, and how intake should be divided throughout the day to optimize muscle protein synthesis.",
+  "content_length": 189,
+  "content_tokens": 33,
+  "embedding": []
+ },
+ {
+  "title": "What to look for with protein supplements",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Peter discusses what to look for with protein supplements.",
+  "content_length": 58,
+  "content_tokens": 10,
+  "embedding": []
+ },
+ {
+  "title": "Protein intake: optimal timing and how it should be divided throughout the day",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Peter explains the optimal timing of protein intake and how it should be divided throughout the day.",
+  "content_length": 100,
+  "content_tokens": 18,
+  "embedding": []
+ },
+ {
+  "title": "Time-restricted feeding (TRF): Peter’s updated perspective",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Peter provides his updated point of view on time-restricted feeding and fasting and how his personal approach and recommendations for patients has evolved.",
+  "content_length": 155,
+  "content_tokens": 26,
+  "embedding": []
+ },
+ {
+  "title": "Prolonged fasting: potential benefits and tradeoffs",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Peter discusses the potential benefits and tradeoffs of prolonged fasting.",
+  "content_length": 74,
+  "content_tokens": 12,
+  "embedding": []
+ },
+ {
+  "title": "A protein-supplemented version of time-restricted feeding (TRF)",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Peter discusses a protein-supplemented version of time-restricted feeding (TRF).",
+  "content_length": 80,
+  "content_tokens": 18,
+  "embedding": []
+ },
+ {
+  "title": "Theories about time-restricted feeding (TRF) and its positive influence on sleep and circadian rhythm",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Peter discusses theories about time-restricted feeding (TRF) and its positive influence on sleep and circadian rhythm.",
+  "content_length": 118,
+  "content_tokens": 22,
+  "embedding": []
+ },
+ {
+  "title": "What is a DEXA scan?",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "DEXA scan is sort of a moving X-ray. You lay on a table and get a really low-powered X-ray—meaning very little ionizing radiation. There’s a plate behind the object or the person being X-rayed, and it’s effectively looking at what’s hitting the plate. The more dense something is in front of the plate, the less electrons that are going to hit the back of the plate.",
+  "content_length": 366,
+  "content_tokens": 95,
+  "embedding": []
+ },
+ {
+  "title": "Is radiation a concern?",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "There’s a unit in radiation that we talk about, and it’s usually millisieverts of radiation, and the more radiation to some extent is harmful. So the U.S. Nuclear Regulatory Commission (NRC) recommends that a person receive no more of 50 millisieverts in a year, To put that in context, just living at sea level is something to the tune of one to two millisieverts per year—maybe 4% of your annual allotment. So if you lived in Colorado, where you’re basically a mile above sea level, it’s about twice that amount that you’re getting. If you look at something like an East Coast to West Coast flight — it would be about 40 microsieverts.",
+  "content_length": 637,
+  "content_tokens": 159,
+  "embedding": []
+ },
+ {
+  "title": "Radiation levels of DEXA compared to other scans",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "A DEXA has no more radiation than even the lowest end of a chest X-ray. It has 1/20th of the radiation of a mammogram and about half the radiation of a cross-country flight.",
+  "content_length": 173,
+  "content_tokens": 45,
+  "embedding": []
+ },
+ {
+  "title": "Frequency of DEXA scans and what it measures",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "A DEXA scan is done once, maybe twice per year. DEXA distinguishes bone, fat, and other based on the density of what the electrons are going through. It gives you four broad pieces of information: body fat, BMD, an estimate of VAT or visceral adipose tissue, and appendicular lean mass index (ALMI) and fat-free mass index (FFMI).",
+  "content_length": 330,
+  "content_tokens": 81,
+  "embedding": []
+ },
+ {
+  "title": "What you get from a DEXA scan",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "You essentially get those four things from DEXA and you want to see how you stack up against a population. The population is typically stratified by your sex and by your age, therefore, we have nomograms for each of these things, and that’s how we present the data to a patient and that’s how we therefore make decisions about where you rank and what you need to do.",
+  "content_length": 366,
+  "content_tokens": 83,
+  "embedding": []
+ },
+ {
+  "title": "Clarification on DEXA scan metrics",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Not every place you get a DEXA scan will give you those exact metrics (BMD, VAT, ALMI and FFMI), but every place will provide the metrics you need to come to the conclusion of that for yourself. There are some DEXA places that only give total body z-score for bone, and they don’t break it out individually by hip and lumbar spine. If there’s any concern about BMD, you’re going to have to go to a place that is able to give the segmented information.",
+  "content_length": 451,
+  "content_tokens": 116,
+  "embedding": []
+ },
+ {
+  "title": "Bone mineral density (BMD)",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "BMD is shown as the actual grams per centimeter squared. A z-score is your BMD value, subtracting the population mean, divided by the standard deviation. The diagnosis of osteopenia and osteoporosis are actually typically made off a t-score. When we get these scores, we pay very close attention to lumbar spine, left hip, and right hip. We really want to see z-scores above zero.",
+  "content_length": 380,
+  "content_tokens": 92,
+  "embedding": []
+ },
+ {
+  "title": "Visceral adipose tissue (VAT)",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "VAT is included within total body fat. Everybody has a somewhat genetically predetermined capacity for how much energy they can store. One of the places excess energy goes is into the viscera, the organs in your abdomen. It’s really important to get a measurement on VAT because that’s the one that we can capture. If a female has 1,000 grams, i.e., 2.2 pounds of visceral fat at the age of 30, she is at the 97th percentile, meaning she has more visceral fat than 97% of the population. These extra subcutaneous fat depots are highly inflammatory.",
+  "content_length": 548,
+  "content_tokens": 127,
+  "embedding": []
+ },
+ {
+  "title": "Adiposity and Cardiometabolic Consequences",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "So when you think about all of the cardiometabolic consequences of adiposity, they are not the result of subcutaneous fat, they are the result of these extra sources of fat. In other words, it’s not the water in the bathtub that’s killing you, it’s the water that’s leaking out of the bathtub that’s killing you.",
+  "content_length": 312,
+  "content_tokens": 84,
+  "embedding": []
+ },
+ {
+  "title": "VAT and Body Fat Percentile",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "An astute practitioner can pretty much eyeball a person’s body fat to probably within 5%, but that’s certainly not true with VAT. Patients who are relatively thin, i.e., “skinny fat”, their total body fat might only be at the 30th percentile, but their VAT would be at the 90th. Conversely, Peter has had patients whose total body fat is at the 60th percentile and VAT is at the 10th percentile. So that’s an individual where from the standpoint of cosmetics, you want to be leaner perhaps. But from a metabolic health standpoint, their obesity is not really contributing to metabolic ill health.",
+  "content_length": 596,
+  "content_tokens": 138,
+  "embedding": []
+ },
+ {
+  "title": "Importance of VAT",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "So when we roll the results out for patients, without exception, the first thing people want to see is, ‘What’s my total body fat and what percentile does that put me at?’, but we’re much more interested in what the VAT is, and that’s where we tend to draw their attention to.",
+  "content_length": 276,
+  "content_tokens": 72,
+  "embedding": []
+ },
+ {
+  "title": "ALMI and FFMI",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Here we’re looking at both the male and female nomograms for appendicular lean mass index (ALMI) and fat-free mass index (FFMI). The ALMI is a more accurate representation of muscle mass because basically it’s saying how much muscle do you have in your arms and your legs? Divide it by the height. Period. FFMI is used equally, but truthfully has some confounders in there because you’re looking at the entire mass of the individual, which includes organs. Therefore, you’re getting a lot of other mass in there that isn’t directly muscle mass. There’s a quite strong correlation between FFMI and ALMI, but we do see discordance. When we do see discordance, we tend to favor the ALMI. In other words, if you see ALMI at the 80th percentile and an FFMI at the 50th percentile, we tend to think that the person is closer to the 80th percentile.",
+  "content_length": 842,
+  "content_tokens": 206,
+  "embedding": []
+ },
+ {
+  "title": "Metrics for Nutrition",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "You can’t really answer that question in a blanket statement because it really depends on the patient’s makeup and obviously on what their goals are. For Peter personally, he aspires to be at, or above, the 97th percentile at all times. They are sometimes spit out, but they’re quite easy to do yourself. Then the ALMI is a little bit more work, but you basically you add up the sum total of lean mass in the extremities and you divide that by the height. As long as you get your units right, you’re going to be in the right ballpark.",
+  "content_length": 534,
+  "content_tokens": 127,
+  "embedding": []
+ },
+ {
+  "title": "Trends in BMD, VAT, & Muscle Mass",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "An obvious trend is that people tend to lose muscle as they age. They add fat mass as they age. And BMD goes down as you age. So everything’s going in the wrong direction as you age. Therefore, the objective becomes: During what window of time can we actually increase these things before we get to the point where it becomes very difficult to make increases? Another way to state that is, there’s a point at which decline becomes almost inevitable. So you want to be as high as you can, going into that phase. And that’s particularly relevant for BMD. When it comes to muscle mass… “Find me one example in history where a 90-year-old said, ‘God, I wish I had less muscle. I just wish I wasn’t so strong.’” says Peter. So you simply can’t enter your eighth decade over muscled. And therefore, that’s really what we need to do: Add and protect muscle. Peter says a patient who’s 50 years old, who’s at the 50th percentile for one of the muscle metrics, he’s not “losing sleep” over that. If they’re at the 30th percentile, he’s not losing sleep over that either because we’re playing a long game. If you are at that 30th percentile now, there is a path in five years to get you to the 80th percentile, but you’re not going to get there in a year. But this really allows Peter to frame things for patients in the direction of the centenarian decathlon. Just know that it can take years to see full scale changes on DEXA scans.",
+  "content_length": 1424,
+  "content_tokens": 364,
+  "embedding": []
+ },
+ {
+  "title": "Expectations and Limitations for DEXA Scans",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Peter discourages patients from ever doing DEXA scans more than twice a year. You have to accept that there’s noise in this system and if you do DEXA scans on two consecutive days, you’re not going to get the same thing. Even though DEXA is still what we consider the gold standard, it’s quite dependent on hydration because remember, it’s differentiating bone, fat, and “other” (and water counts as other). It’s important to be cognizant of these things when you do this type of testing. Other trends really just come down to a person’s athletic history. People who have a history of resistance training tend to have a higher ALMI and FFMI. Another thing Peter sees is that people who have restrictive diets tend to be lower in lean mass. That’s even true if they’re resistance training. The fact is that if you’re really, really restrictive, you’re going to lose lean mass. Peter does have patients that show up and, by any sort of metric, they’re in a caloric deficit.",
+  "content_length": 971,
+  "content_tokens": 240,
+  "embedding": []
+ },
+ {
+  "title": "Calorie and Protein Restriction",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "The first order term is just calorie restriction, and obviously protein restriction would probably play a disproportionate role there.",
+  "content_length": 134,
+  "content_tokens": 21,
+  "embedding": []
+ },
+ {
+  "title": "Muscle and Lean Tissue Loss with Age",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "We begin a slow downward trend from about age 35 to 75. At age 75, it just drops like crazy. This does beg the question, which one is driving which? Is the decrease in fat mass driving the reduction in physical activity level? Is the reduction in physical activity level driving the loss in fat-free mass? Peter thinks these are bidirectional, meaning they’re both impacting each other, and it becomes a vicious cycle.",
+  "content_length": 418,
+  "content_tokens": 90,
+  "embedding": []
+ },
+ {
+  "title": "Anabolic Resistance",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Peter has this sense this urgency because he is aware of this concept of anabolic resistance. It’s a very important idea, which is, what are the factors? Nutritionally, from an energy signaling standpoint, inflammatory-wise, what are these figures that are contributing to the huge difficulty at anabolic gains? By anabolic gains, he means putting on muscle mass once you reach a certain age. How do you overcome this anabolic resistance before time makes it a very difficult problem to solve?",
+  "content_length": 493,
+  "content_tokens": 101,
+  "embedding": []
+ },
+ {
+  "title": "Patient 1",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "This patient has a Z-score of -0.8 and it’s about the same in the right femur and in the lumbar spine. Her body fat is about 32% (60th percentile). Her VAT is also around 32% which is about the 80th percentile. Her ALMI is quite low (40th percentile) so it’s about six kilograms per meter squared. Her FFMI is slightly better than that (65th percentile). The implication in this patient’s case is that she is overnourished but under muscled. That means she needs energy restriction but protein advancement and strengths training.",
+  "content_length": 529,
+  "content_tokens": 131,
+  "embedding": []
+ },
+ {
+  "title": "Patient 2",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "This patient is a 45-year-old woman with Z-scores of -1.2 in her left femur and -0.6 in the L spine, so she’s already got osteopenia. Her total body fat is 19% (about the fifth percentile). Her VAT is barely measurable, it’s below the 10th percentile. But here’s the problem: Her appendicular lean mass index (ALMI) is at the third percentile and her fat-free mass index is at the 10th percentile. She’s clearly undernourished and under muscled. Here we have a slightly easier problem to solve conceptually, though operationally and psychologically, it can be difficult.",
+  "content_length": 570,
+  "content_tokens": 149,
+  "embedding": []
+ },
+ {
+  "title": "Undernourished Individual",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "This individual is probably consuming less than she ought to be and not coming close to their nutritional requirements. They are doing lots of yoga and some cardio, but they’ve never done any form of resistance training.",
+  "content_length": 220,
+  "content_tokens": 43,
+  "embedding": []
+ },
+ {
+  "title": "Overnourished Individual",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "This individual is overnourished but adequately muscled. The treatment is energy restriction without protein restriction. The training is going to be the right balance of both cardio and strength training. Once he gets to a new baseline, he can slowly work to rebuild lean tissue.",
+  "content_length": 280,
+  "content_tokens": 54,
+  "embedding": []
+ },
+ {
+  "title": "Under Muscled Individual",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "This individual is visibly lean but under muscled. The intervention/treatment is to increase his protein to probably a gram per pound of body weight and not pay much attention to what else happens with it, and train. The biggest issue here though is going to be adding muscle mass. It’s going to really come down to the training and the sources of protein.",
+  "content_length": 356,
+  "content_tokens": 74,
+  "embedding": []
+ },
+ {
+  "title": "Protein Consumption",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "The RDA recommendation of 0.8 grams per kilogram of body weight is completely incorrect. The correct answer is somewhere from 1.6 to 2.0 grams per kilogram of body weight. Over time, that need can increase.",
+  "content_length": 206,
+  "content_tokens": 48,
+  "embedding": []
+ },
+ {
+  "title": "Protein intake for obese individuals",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "For someone who’s really obese and has a really high amount of body fat, someone with 35-40% body fat, Peter might modify the recommendation to either two grams per kilogram of lean weight or two grams per kilogram of target weight.",
+  "content_length": 232,
+  "content_tokens": 52,
+  "embedding": []
+ },
+ {
+  "title": "How to consume enough protein",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Peter is trying to divide protein intake into four portions, with a minimum of 160 grams per day and ideally closer to 180 grams. Protein should be spread out throughout the day, with 40 to 50 grams consumed four times a day. The first serving is a protein shake using super high-quality whey protein (50 g) mixed with almond milk or cashew milk and frozen berries. The second serving is typically a wrap or a sandwich ensuring to consume 40 grams of protein in the form of turkey or black forest ham or something like that. The third serving is usually a pre-dinner snack of venison or elk jerky. His final serving is dinner which usually consists of elk or salmon or venison.",
+  "content_length": 677,
+  "content_tokens": 145,
+  "embedding": []
+ },
+ {
+  "title": "Importance of first protein serving",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "The first protein serving is a really important one in terms of appetite regulation. If he’s doing strength training early in the morning, having his first protein prior to lifting weights is “not necessary for the lift” because “there is no nutritional state you can put yourself in to prevent the catabolism during a hard lifting session”.",
+  "content_length": 341,
+  "content_tokens": 73,
+  "embedding": []
+ },
+ {
+  "title": "Protein supplements",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "It’s just not necessary to have sugar in protein supplements. Peter uses four different types of whey protein (none with sugar) to make his shakes and he always uses two at a time. The nutrient label tells you all you need to know both in terms of protein quality. You want a high-quality whey isolate and basically, you don’t want it to have a whole bunch of fat and carbohydrates in them.",
+  "content_length": 390,
+  "content_tokens": 89,
+  "embedding": []
+ },
+ {
+  "title": "Optimal Protein Intake",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Peter recommends breaking up protein intake into 4 sessions throughout the day, with 40-60 grams being the most you can put to use. Consuming too little or too much protein is not optimal. The number of servings needed varies depending on the individual's size.",
+  "content_length": 261,
+  "content_tokens": 52,
+  "embedding": []
+ },
+ {
+  "title": "CGM and Protein",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Peter says that seeing a little bit of a spike in glucose levels when consuming protein is not a concern, as long as the shakes don't have a lot of other stuff in them.",
+  "content_length": 168,
+  "content_tokens": 37,
+  "embedding": []
+ },
+ {
+  "title": "Peter's Updated Perspective on Time-Restricted Feeding",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Peter discusses a recent study that investigated the benefits of time-restricted feeding beyond caloric restriction. The study found no significant difference in weight loss between a group that followed an 8-hour feeding window and a group that followed a calorie restriction diet. Both groups consumed the same amount of energy, with one group consuming it in an 8-hour window.",
+  "content_length": 379,
+  "content_tokens": 69,
+  "embedding": []
+ },
+ {
+  "title": "Plateau in weight loss",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "A lot of this has to do with the compensation to lower body weight. Our energy expenditure goes down as our intake goes down. Losing weight is not the hardest problem in the world, but keeping weight off is a challenging problem. One of the things that you want to look at when you look at this study is, what was the feeding window for the ad lib group? The people who were able to eat whenever they could eat, what was going on? In this study, they were eating over about 11 hours (plus or minus one hour) for the ad lib feeding window for the control group versus the strict eight hours that was the feeding for the other group.",
+  "content_length": 631,
+  "content_tokens": 135,
+  "embedding": []
+ },
+ {
+  "title": "Three strategies for reducing energy intake in over-nourished patients",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "If you’re in the over-nourished camp, we have to reduce energy intake and there are three broad ways to do that: 1 – The first way is direct caloric restriction. Which means if you’re consuming 3,000 calories a day right now, we’re going to cut that down to 2,500 calories per day. We’re not going to pay attention to when you eat those calorie. We’re not even really paying attention to what those calories are, but there’s going to be an energy deficit. 2 – The second strategy to reduce intake is dietary restriction. This basically means “make something a bogeyman, and never eat it”. 3 – The final way is time restricted feeding (TRF). This means we’re not going to ask you to count how many calories you’re eating and we’re not even going to tell you what not to eat. We’re just going make the window in which you eat narrower and narrower.",
+  "content_length": 846,
+  "content_tokens": 215,
+  "embedding": []
+ },
+ {
+  "title": "Prolonged Fasting",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Peter has talked about his three-day and seven-day fasts. He’s not currently doing any of these types of prolonged fasts. He is focused on lean mass and strength at the moment. Peter is hoping/assuming that the rapamycin he takes is achieving some of those benefits.",
+  "content_length": 266,
+  "content_tokens": 62,
+  "embedding": []
+ },
+ {
+  "title": "Fasting as a Weight Loss Strategy",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Peter doesn’t view fasting as a weight loss strategy because you’re going to gain the weight back once you stop. If you don’t eat for three days, within two days after, you have all that weight back. There’s some exceptions to that…maybe there’s a few patients where doing a three-day fast once a month, coupled with enormous TRF and caloric restriction on the other 27 days, was part of the overall strategy. But for the most part, Peter doesn’t really want people to think about fasting as a weight loss strategy.",
+  "content_length": 515,
+  "content_tokens": 123,
+  "embedding": []
+ },
+ {
+  "title": "Biomarkers for Fasting",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "If we’re going to make the case to do a fast, the case based on purging senescent cells, autophagy, all sorts of things…Then we have to acknowledge, we’re taking a bit of a leap of faith. We don’t really have biomarkers for any of these things. So it’s hard to make a great case for them. A lot of biomarkers get better when you fast, but you don’t need to be fasting to get those benefits. The biomarkers (or the biological measurements) that really matter, we can’t measure yet. Hence, this leap of faith is necessary. Peter thinks that the field of metabolomics will be able to unlock a lot of this stuff, combined with proteomics as well. Proteomics and metabolomics will, with a reasonable amount of computing power which already exists, it’s really just a question of doing the studies. So yeah, Peter sees this happening in the coming decade for sure.",
+  "content_length": 858,
+  "content_tokens": 210,
+  "embedding": []
+ },
+ {
+  "title": "Protein-Supplemented Version of Time-Restricted Feeding (TRF)",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Peter doesn’t want to be the anti-TRF guy anymore than he would want to be the pro-TRF guy. You got to be agnostic to this stuff. If TRF is working for you according to all metrics that we have available, by all means, stay with it. Worth noting that there are ways to do TRF a little more intelligently, such as using protein outside of the feeding window. For instance, if you really want to do an 18/6 feeding window where you’re just committed to eating two big meals between noon and 6:00 PM, Peter would still encourage you to consume a protein shake that is otherwise relatively low calorie outside of that window.",
+  "content_length": 621,
+  "content_tokens": 144,
+  "embedding": []
+ },
+ {
+  "title": "Theories about time-restricted feeding (TRF) and its positive influence on sleep and circadian rhythm",
+  "date": "October 17, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "What about the theories around time-restricted feeding and what they can do to influence circadian rhythms? Peter does think there’s something to be acknowledged between the relationship between food and sleep. There’s no circumstance under which I think it makes sense to be eating right before bed. There’s no upside to eating your biggest meal at 9:00 PM and then going to bed at 10:00 or 11:00 because you’re then going to see higher glucose levels at night, higher cortisol levels at night, and you’re going to see less regulated sleep. Therefore, that’s another argument that says, “look, regardless of how we’re telling a patient to eat, sleep is very important. And we really would like to see people not eating within ideally three hours before bed.”",
+  "content_length": 759,
+  "content_tokens": 172,
+  "embedding": []
+ }
+]

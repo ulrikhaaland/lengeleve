@@ -229,14 +229,14 @@ const chatCompletetion = async (content: string) => {
         {
           role: 'user',
           content:
-            'I will give you a chunk of text. You will extract the parts that is relevant to exercise. You will not use any personal names. You will leave out parts where they talk about peoples backgrounds. Then you will combine the relevant text into a chunks, give each chunk a title, and only return a JSON list containg each chunk as JSON format: {title: title, content: content}. It is crucial to respond in the JSON Format as requested.',
+            'I will give you a chunk of text. You will extract the parts that is relevant to nutrition. You will not use any personal names. You will leave out parts where they talk about peoples backgrounds. Then you will combine the relevant text into a chunks, give each chunk a title, and only return a JSON list containg each chunk as JSON format: {title: title, content: content}. It is crucial to respond in the JSON Format as requested.',
         },
         {
           role: 'user',
           content: content,
         },
       ],
-      temperature: 0.1,
+      temperature: 0.0,
       max_tokens: 1000,
     });
   } catch (e) {
@@ -421,7 +421,7 @@ function splitString(input: string, maxLength: number = 1000): EncodedString[] {
   return result;
 }
 async function startScrape(results: any[]) {
-  for (let i = 83; i < results.length; i++) {
+  for (let i = 7; i < results.length; i++) {
     const row = results[i];
     await runScrape(row);
     console.log('generated embeddings for: ' + row['title']);
@@ -431,7 +431,7 @@ async function startScrape(results: any[]) {
 async function main() {
   const results: any[] = [];
 
-  fs.createReadStream('scripts/csvdata.csv')
+  fs.createReadStream('scripts/data/csv/nutrition_unique.csv')
     .pipe(csv())
     .on('data', (data: any) => results.push(data))
     .on('end', () => {

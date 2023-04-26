@@ -1,0 +1,592 @@
+[
+ {
+  "title": "Introduction to Dr. Mike Gershon",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Dr. Mike Gershon is a Professor of Pathology and Cell Biology at Columbia University. His research focuses on the neural control of the gastrointestinal tract, and the role of serotonin in the gut as a neurotransmitter. Mike earned his medical degree from Cornell University followed by a postdoctoral fellowship at Oxford. Mike has received numerous awards and honors over the years. He has published hundreds of peer reviewed papers on the nervous system. He authored a book on the role of the brain and the GI system.",
+  "content_length": 520,
+  "content_tokens": 100,
+  "embedding": []
+ },
+ {
+  "title": "Overview of the Episode",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "This episode’s different from a lot of our episodes; truthfully it comes across more as a bit of a med school lecture. It is really interesting, but I think at the surface it doesn’t really come across as highly applicable. The reality of it is you just have to get through some of the embryology, anatomy, and neurophysiology of the gut and the brain to understand how these things coexist. Expectations‒ if you’re coming into this thinking that this is going to be a podcast that’s about how to eat this and not that and affect your gut biome, it’s really not about that. This is a much more basic discussion, and I mean basic not in simple, but I mean basic in more elemental explanation, of how this system works.",
+  "content_length": 717,
+  "content_tokens": 167,
+  "embedding": []
+ },
+ {
+  "title": "The Basics of the Gastrointestinal System",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The GI system is basically a tube that begins at the mouth and ends at the anus. It’s hollow so the inside of the GI tract is really an internalized external space; it’s outside the body. If you bleed into your GI tract, you lose blood (even if you can’t see it). This is one of the major crises in medicine‒ hidden bleeding in the GI tract. It can be very damaging, even if you don’t see any blood. The inside of your gut is outside of your body, and it provides a space for a community of extra organisms to live. This space is immense. This space can be dangerous and a barrier is necessary to keep it separate from the rest of you. This barrier is defended by the body. It also allows food to be digested and absorbed. It has to maintain the communication with the lumen, which is what we call the inside of the GI tract.",
+  "content_length": 825,
+  "content_tokens": 195,
+  "embedding": []
+ },
+ {
+  "title": "The GI tract and its unique challenges",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "There is a balance in the GI between protection of the body and allowing food stuff to come in. The GI tract has unique challenges because it must allow transmission of nutrients across its surface but not allow bacteria/ organisms to go through. Food has to be digested. The lining of the gut is absolutely remarkable. Complex molecules that are not sterile are entering a non-sterile environment and somehow only sterile nutritional building blocks are allowed to cross the border of the GI tract.",
+  "content_length": 499,
+  "content_tokens": 94,
+  "embedding": []
+ },
+ {
+  "title": "The development of the GI system",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "During development the body forms a flat disc. That disc undergoes a series of folds from head to toe, and from side to side, and the lateral or side folding produces the tube from which the gut forms. So the flat disc folds around to create an internal space, and that tube because the gut. This takes place during the 1st trimester. The gut is fully developed between the 2nd and 3rd trimester.",
+  "content_length": 396,
+  "content_tokens": 87,
+  "embedding": []
+ },
+ {
+  "title": "The unique properties of the blood supply and portal system in the GI tract",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The foregut is defined as the part of the gut from the celiac artery. The celiac artery supplies the pancreas, the stomach, the first part of the duodenum, and the liver and the gallbladder. The superior mesenteric artery supplies the midgut. The inferior mesenteric artery supplies the end of the gut. When the celiac gives rise to the stomach and first part of the small intestines arterial supply (that then breaks into capillaries, absorbs materials from the gut), those capillaries drain into veins in the gut. And in a unique way, those veins then form large vessels which then move into the liver. So the venous system that supplies the liver is actually acting as if it were an artery, but it begins in the gut. Basically the liver is perfused with blood coming from the gut.",
+  "content_length": 783,
+  "content_tokens": 178,
+  "embedding": []
+ },
+ {
+  "title": "The liver's role in nutrient absorption",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The liver is the first step in the body’s ability to use the nutrients that the gut absorbs. When the gut absorbs fatty acids, the liver turns them into chylomicrons, which can go out and supply energy to the body.",
+  "content_length": 214,
+  "content_tokens": 50,
+  "embedding": []
+ },
+ {
+  "title": "The gut's nervous system",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The gut has its own intrinsic nervous system, and it's called “The Second Brain”. The nervous system of the gut is able to function and control reflexes and behavior independently of any influence from the brain or spinal cord. The gut is the only nervous system of the body that can work on its own.",
+  "content_length": 300,
+  "content_tokens": 65,
+  "embedding": []
+ },
+ {
+  "title": "The history of the gut's nervous system",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The nervous system of the gut has been known to be present for a long time. It was discovered about the time of the American Civil War. The intestinal nervous system is able to function independently of the CNS (central nervous system); no other nervous system outside the CNS can do that.",
+  "content_length": 289,
+  "content_tokens": 57,
+  "embedding": []
+ },
+ {
+  "title": "Anatomy of the GI",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "When you go from the lumen at the very inside all the way out you have a mucosal layer, a submucosa, and a muscular layer. The lining of the gut is called the mucosa.",
+  "content_length": 166,
+  "content_tokens": 44,
+  "embedding": []
+ },
+ {
+  "title": "Layers of the gut",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The gut has a superficial lining called an epithelium, underneath that is a loose nervous system called a lamina propria, and below that there’s a dense layer of connective tissue. The next layer is a circular layer of smooth muscle, another layer of smooth muscle, a second one called the longitudinal layer. Then, if it’s in the peritoneal cavity, there is another layer of very thin epithelium. The major parts of the nervous system of the gut are the submucosal plexus (the Meissner’s plexus); that’s in that dense layer of connective tissue, and that’s the smaller of the 2. The larger one is the myenteric plexus, and that is in between the two layers of smooth muscle on the outside of the gut.",
+  "content_length": 701,
+  "content_tokens": 176,
+  "embedding": []
+ },
+ {
+  "title": "Peristaltic rhythmic contraction of the gut",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The gut has two muscular walls, one of them runs longitudinally, and the other runs circularly. If the circular inner layer contracts, that shrinks the lumen. Then, as the longitudinal one contracts, it shortens it along its long axis. Together this is what permits this remarkable peristaltic rhythmic contraction of the gut.",
+  "content_length": 326,
+  "content_tokens": 71,
+  "embedding": []
+ },
+ {
+  "title": "Turnover of the epithelial lining and why cancer rarely develops in the small intestine",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The gut epithelium turns over about once a week. Enterocytes turn over very rapidly. The Paneth cell, which lives for 3 weeks, has 2 major functions: defense and nursing the stem cells responsible for turn over of all the cells. Gut endocrine cells live a little bit longer. The colon is so susceptible to neoplasia (the formation of cancer), because it has at its surface a cell that is constantly turning over. As a result, there are more chances for genetic errors of replication that can produce oncogenic mutations. However, the small intestine has a huge microbiome, which is orders of magnitude larger than that of the large intestine, and this may be part of the reason why cancer almost never develops in the small intestine.",
+  "content_length": 734,
+  "content_tokens": 151,
+  "embedding": []
+ },
+ {
+  "title": "Nutrient and water absorption in the small and large intestine",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Most nutrient absorption takes place in the small intestine and the large intestine mainly reabsorbs water. The large intestine conserves/ absorbs sodium and secretes potassium. Water follows sodium as it comes back into the body. The colon acquired this function to enable organisms to live on land. However, the bulk of the water that the gut absorbs is not in the large intestine; it’s done in the small intestine. But the final 100 mL+ of water absorbed happens in the colon; it’s important in maintaining the body’s fluid content. If you lose this fluid (as happens with cholera), you can die of dehydration in about 4 hours.",
+  "content_length": 630,
+  "content_tokens": 136,
+  "embedding": []
+ },
+ {
+  "title": "Tangent on what can be learned from fluid loss in the large intestine due to cholera",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The cholera toxin turns sodium absorption into chloride secretion, causing water to flow out. Around 3 million people get cholera each year, resulting in 21,000-143,000 deaths (primarily in Africa and Asia). There have been major outbreaks of cholera along the coast of Peru that led to cases a for north at New Jersey, transmitted as people ate contaminated crab. Hati is the most famous large outbreak; it occurred after an earthquake destroyed a lot of their infrastructure. Cholera is a simple illness, all one has to do is keep track of the water. Patients are put on what’s called a cholera cot; it has a gurney hole in the middle for the anus to be positioned over, and a bucket is put under it. The nurse puts a ruler into that bucket periodically to see how much fluid is coming out. This fluid is replaced intravenously and orally. A great life saving discovery was that although cholera blocked the absorption of sodium, it does not block the absorption of glucose in the small intestine. And so adding a little bit of sugar to the fluid used for oral rehydration has saved countless lives.",
+  "content_length": 1101,
+  "content_tokens": 241,
+  "embedding": []
+ },
+ {
+  "title": "Ways in which the gut and brain communicate",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The intrinsic nervous system of the gut is a term representing the nerve cells that live within the gut; there are 2 plexuses. The extrinsic innervation includes the brain (which sends fibers to those neurons) and the sympathetic nervous system (which projects from outside the gut into it). It also includes the spinal cord and the ganglia associated with the spinal cord. It includes sensory ganglia and dorsal root ganglia (which provide a sensory innervation of the gut). When Peter practiced as a general surgeon, patients presenting with a bowel obstruction were in as much pain as those with a bowel perforation. It’s important to be able to put a nasogastric into them and decompress them. Even if you haven’t had a bowel obstruction, simply being bloated can be incredibly uncomfortable. “The only way the gut feels pain is in response to dilatation or pressure”‒ Michael Gershon. One can cut the inside of the gut with impunity; surgeons do this all the time when they take biopsies from inside the gut without anesthesia. From the point of view of pain, the gut is innervated differently from the skin. The skin feels pressure but this is much less painful than cutting; for the gut, the reverse is true.",
+  "content_length": 1215,
+  "content_tokens": 264,
+  "embedding": []
+ },
+ {
+  "title": "The role of the CNS in gut function",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "In the gut, most of the fibers that get excited by increased pressure are located in the dorsal root ganglia (hose are pain fibers). The vagus nerve relays some pain, but not much. Mostly the vagus nerve carries information back to the brain that has to do with homeostasis.",
+  "content_length": 274,
+  "content_tokens": 62,
+  "embedding": []
+ },
+ {
+  "title": "The effect of the CNS on gut function",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The CNS can affect gut function in various ways, such as causing anxiety-induced diarrhea or constipation in response to true fright. The sympathetic nerves can slow the gut and make it less likely to defecate. The gut receives these messages at the local level through the sympathetic and parasympathetic system communicating via acetylcholine and other neurotransmitters.",
+  "content_length": 373,
+  "content_tokens": 73,
+  "embedding": []
+ },
+ {
+  "title": "The gut's behaviors",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The gut has various behaviors, including paresis, where the gut stops moving, and mixing, where things go back and forth without propulsion. Mixing is important for mixing the enzymes needed for digestion with food. The gut is also able to sense when digestion has occurred sufficiently and stops mixing and propels the contents on. At night while sleeping, a cleaning process goes on in the gut, where a wave begins in the stomach and cleans the gut out.",
+  "content_length": 455,
+  "content_tokens": 92,
+  "embedding": []
+ },
+ {
+  "title": "The gut's role in the regulation of appetite",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The gut plays a role in the regulation of appetite through various factors, such as distension of the stomach causing satiety and decreasing the urge to eat, the rise of blood glucose being sensed by receptors within the gut which send signals to the brain, and enteroendocrine cells within the gut making hormones such as cholecystokinin and leptin.",
+  "content_length": 350,
+  "content_tokens": 72,
+  "embedding": []
+ },
+ {
+  "title": "Hormone receptors and nutrients affecting appetite",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "There are a large number of hormone receptors in the brain that can trigger your urge to eat, as well as nutrients that you absorb, and distension of the bowel itself. The gut has receptors in it and the brain has signals within it that trigger the urge to eat. The 2 mechanisms through which appetite is communicated are mechanical and chemical. Mechanical communication occurs in the stomach and to a lesser extent in the small bowel. Information is transmitted from the gut to the CNS via the vagus nerve. The change in blood glucose is sensed directly in the CNS. Blood vessels that provide blood to the brain have transporters that allow certain chemicals from the gut, such as leptin and cholecystokinin to be transported so that they can affect the CNS directly. Ghrelin is a gut hormone that promotes appetite.",
+  "content_length": 818,
+  "content_tokens": 164,
+  "embedding": []
+ },
+ {
+  "title": "Factors affecting ghrelin secretion",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Ghrelin secretion is affected by certain chemicals in foods eaten. Nutrients that suppress ghrelin secretion include amino acids and fatty acids. The natural state is secretion of ghrelin and it’s the presence of nutrients that turn it down. Ghrelin is secreted at a constant rate that can be turned up or down. Inhibiting secretion is important to prevent the development of the ghrelin effect.",
+  "content_length": 395,
+  "content_tokens": 86,
+  "embedding": []
+ },
+ {
+  "title": "Factors affecting satiety",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Is satiety affected purely through change in the speed of absorption or are there other differences between a liquid and solid meal that might factor into that? Solids also delay gastric emptying; particles can’t get through the pyloric sphincter unless they’re ground down to a millimeter or less in diameter. So the stomach senses the nutrients and the speed at which it empties, regulates the dilatation of the stomach and the signal that the stomach is sending back to urge satiety on the brain, which means that if you’re eating protein and fat, you will reach satiety much sooner than if you’re eating just salt and sugar. Main takeaway: anything that slows the emptying of the stomach will tend to induce satiety and reduce the length of time during which you feel hungry and want to eat.",
+  "content_length": 795,
+  "content_tokens": 175,
+  "embedding": []
+ },
+ {
+  "title": "Gastric bypass surgery and satiety signals",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "One of the most successful operations for the treatment of both obesity and Type 2 diabetes is a gastric bypass. This reroutes the upper GI tract. The gastric bypass triggers an emergency procedure in the small intestine to produce a larger satiety signal. People can ignore signals from the stomach when they overeat. Signals from the small intestine act as a back up signal to stop eating; it makes eating objectionable. What the gastric bypass is doing is to make eating so objectionable that it stops sooner and you eat much, much less. Another way to do this is to put a band on the stomach and interfere with the process of grinding the food won; this allows large particles to move into the small intestine and the same thing happens (signals to stop eating are released).",
+  "content_length": 779,
+  "content_tokens": 158,
+  "embedding": []
+ },
+ {
+  "title": "VZV and Shingles",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Mike and his wife discovered that the gut is a source of infection by the varicella-zoster virus (VZV) (the virus of chickenpox and shingles). After someone recovers from the chickenpox, VZV remains in the body (sleeping). Then, for reasons that are unknown, the virus can reactivate. Reactivation (reemergence) of VZV always starts in a nerve cell. Reactivation is called shingles (or zoster); this can be extremely painful because the nerve cells die and become extremely active (they’re pain nerve cells). About 15% of people develop postherpetic neuralgia (PHN) where the pain persists for years and is very difficult to treat.",
+  "content_length": 631,
+  "content_tokens": 156,
+  "embedding": []
+ },
+ {
+  "title": "VZV and the Immune System",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Despite how the virus comes into you (through natural infection and immunity of vaccine-induced immunity), it remains latent in the dorsal root ganglion. When the virus is in the nerve cells, the immune system can’t see it. Your immune system can’t see it because it’s not expressed on the surface of the nerve cells that have it. The immune system has a very good look at it when it reemerges. It attacks it and kills the cells in which it reemerges. Even still, pain can continue in a small number of people.",
+  "content_length": 510,
+  "content_tokens": 119,
+  "embedding": []
+ },
+ {
+  "title": "VZV and the Enteric Nervous System",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Mike has discovered that the enteric nervous system can be infected by VZV when you have chicken pox or when you get the live virus vaccine. It can establish latency within the intrinsic nervous system of the gut, in the enteric nervous system. When the virus re-arises, even if it gets killed by the immune system, it’s killing nerve cells. This leads to diseases such as pseudo-obstruction in which the gut loses the ability to work and just becomes totally paralyzed. Or if the virus emerges and gets into the mucosa, the gut can perforate. This has just been discovered, so the frequency of this is unknown. He’s just published on its reemergence in the esophagus, where it causes a disease called achalasia. In this disease the ability of the esophagus to deliver food to the stomach is lost. The esophagus can’t open, so you can’t swallow at all. This only occurs during reemergence, not during the primary infection.",
+  "content_length": 923,
+  "content_tokens": 217,
+  "embedding": []
+ },
+ {
+  "title": "Shingles Vaccine",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The current vaccine (Shingrix) [for shingles/ zoster] is 2 shots separated by 6 months. The purpose is to prime the immune system to the virus again, so it can catch the virus more quickly if it escaped. It’s about 97% effective, a remarkable vaccine.",
+  "content_length": 251,
+  "content_tokens": 63,
+  "embedding": []
+ },
+ {
+  "title": "Autism and Gastrointestinal Illness",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Autism is a disease that probably involves synaptic transmission. It occurs in the CNS. It also occurs in the enteric nervous system. There is a smaller effect on the GI tract‒ often diarrhea and sometimes constipation. This is not well understood but seems to be related to activation of mast cells.",
+  "content_length": 300,
+  "content_tokens": 61,
+  "embedding": []
+ },
+ {
+  "title": "Food Sensitivities and Allergies in Autism",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter notes that many parents of autistic children are convinced that if they pay more attention to what their kids eat, they can reduce the severity of their symptoms. Michael points out, “there’s no regularity to the symptoms that you can point to. It’s hard to back it up. And people have been unable to produce any sort of rigorous background for that, so that when you put controls and constant observation, you just can’t document it.”",
+  "content_length": 441,
+  "content_tokens": 99,
+  "embedding": []
+ },
+ {
+  "title": "Fraudulent Studies on Autism and Gastrointestinal Illness",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Wakefield associated autism with GI inflammation. The idea was that if you ate gluten, you could produce endorphins from what you were eating. You would eat an opiate-like material, then magically the enzymes of the digestive tract would liberate opiate-like products. These opiate-like substances would be absorbed and affect the immature, developing nervous system and cause autism. This is not true. His idea was that if you got the measles, mumps, and rubella vaccine (MMR), it would cause a defect in the gut that could lead to absorption of these opiate-like products. This was also incorrect.",
+  "content_length": 599,
+  "content_tokens": 129,
+  "embedding": []
+ },
+ {
+  "title": "Absorption of Amino Acids in the GI Tract",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter clarifies, in the GI tract only single amino acids or maybe 2 amino acids joined are absorbed. This is smaller than an immunogenic peptide (what the immune system recognizes).",
+  "content_length": 181,
+  "content_tokens": 37,
+  "embedding": []
+ },
+ {
+  "title": "Serotonin in the gut",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Serotonin levels are higher in a subset of kids with autism spectrum disorder (ASD). Serotonin was discovered in the gut. Enterochromaffin cells, which are an endocrine cell of the gut responsible for making about 95% of the body’s serotonin. The brain produces about 2-3% of the body’s serotonin. Serotonin in the gut sends important signals. In sending signals from the gut to the brain, serotonin is an important transmitting substance. During development, serotonin is very important as a growth factor. It also talks to the immune system; it triggers inflammation. As you might imagine, from the amount of it that’s in the bowel, serotonin does everything; it’s a multifunctional molecule. SSRIs prevent the reuptake of serotonin, this neurotransmitter in the brain, presumably leaving more of it around to exert positive effects. Similarly, drugs that are used in cancer chemotherapy also trigger the release of serotonin within the gut and trigger that reflex. SSRIs also first make the gut go a little bit faster. But then when the gut keeps doing that, the receptors, that is the molecules upon which serotonin acts, desensitize. In terms of motility, they can make the gut go faster. Ultimately, they stop the gut and give rise to long term constipation, and have to be stopped. They are nauseating, they change motility.",
+  "content_length": 1331,
+  "content_tokens": 291,
+  "embedding": []
+ },
+ {
+  "title": "SSRIs and Pregnancy",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "There is evidence that a number of conditions are increased in the offspring of mothers who are treated with SSRIs during pregnancy. Such as irritable bowel syndrome. People worry about this, but depression is potentially lethal and if you have something to treat it; sometimes you have to use it. SNRIs (Serotonin–noradrenaline reuptake inhibitors) can be efficacious. They do have some of the same effects, but SNRIs are less selective for serotonin. Additionally they target norepinephrine, and that doesn’t get you anywhere.",
+  "content_length": 528,
+  "content_tokens": 116,
+  "embedding": []
+ },
+ {
+  "title": "Leaky Gut",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Tight junctions have protein in the membrane on one cell that forms an attraction to the membrane across the cell transmembrane, and it obliterates the space between 2 cells. The function of tight junctions are to prevent material going through the channel between two epithelial cells. Anything that interferes with the tight junctions can make the channel open and allow material from the lumen to get into the body, but at the same time, allow material within the body to get into the lumen. It’s very dangerous to have material going into the lumen. Anything going into the lumen is lost from the body. If you open tight junctions in the lining of the gut, you can essentially flow out into your bowel. Allergy (hypersensitivity) where the immune system is reacting and causing tight junctions to open is the most common cause of leaky gut.",
+  "content_length": 844,
+  "content_tokens": 182,
+  "embedding": []
+ },
+ {
+  "title": "Anatomy of the lining in the small intestine",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The lining in the small intestine, and to a lesser extent the large intestine, is arranged so that the lining is highly folded. There are projections that come up from the surface of the gut that look like fingers (called villi). Most absorption occurs on the surfaces of these villi. Between the villi are invaginations called crypts. At the base of crypts there are stem cells. The stem cells, which live next to the Paneth cell, can give rise to each of the cells that form the villi, or line the gut. There’s an escalation of those cells; the progeny of the stem cells keep rising. As new ones form, other ones move up. In part, the proliferation in the crypt produces a pressure that causes cells to rise as they differentiate. But they’re also mobile; they crawl a little bit. At the tips of the villi, there’s a zone called the extrusion zone. Cells are born at the base of a crypt, climb up the crypt, up the villis, reach the tip of the villis, die, and are puffed off at that point. They stay in contact with one another, and the desmosomes are finally lost when the cells die, and they pop off. The mechanism of death is called apoptosis; they’re programmed to die.",
+  "content_length": 1176,
+  "content_tokens": 279,
+  "embedding": []
+ },
+ {
+  "title": "Assays to identify leaky and inflamed gut cells",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "If somebody has a substantially leaky gut, you could guess it from making a determination of the serum protein albumin. If the gut is leaking, albumin will be low. You can also look for an enzyme called alpha-1 antitrypsin. This is a protein found on the vascular side of the gut; it’s also in the blood/ plasma. Loss of protein into the gut is a sign of leaky gut; alpha-1 antitrypsin is a protein that is measured  as a marker for intestinal protein loss. If it gets onto stool there’s a problem. Deficiency in alpha-1 antitrypsin is a hereditary disease, which causes vascular and lung disease, because there’s too much digestive action damaging in those organs.",
+  "content_length": 665,
+  "content_tokens": 160,
+  "embedding": []
+ },
+ {
+  "title": "Causal relationship between leaky gut and autism spectrum disorder (ASD)",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Leaky gut is part of the Wakefield hypothesis. There is no evidence this is correct. The problem in the gut in autism spectrum disorder is [it’s] a disorder of the nervous system. It has nothing to do with leaky gut.”‒ Michael Gershon. Leaky gut is not seen more often in patients with ASD.",
+  "content_length": 290,
+  "content_tokens": 74,
+  "embedding": []
+ },
+ {
+  "title": "Serotonin Deficiency in Super-SERT Mouse",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The mutation in this mouse does not inhibit SERT, rather it makes SERT more active‒ this is the super-SERT mouse. This animal essentially has a deficiency of serotonin; its SERT is so effective at inactivating serotonin after it’s released that it doesn’t have a chance to act. These mice have central features that look like autism. It’s one of the many genes that can give rise to autism. Put into a mouse, it shows autism, and also defect in the gut. The defect in the gut has to do with serotonin, and the ability of serotonin to act as a growth factor. There’s a deficiency in terms of numbers of neuronal cells in the bowel. In a patient with autism spectrum disorder, similar kinds of things happen.",
+  "content_length": 706,
+  "content_tokens": 163,
+  "embedding": []
+ },
+ {
+  "title": "Gut Microbiome",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The greatest number of bacteria are present close to the colon. Some bacteria can survive in the presence of hydrochloric acid in the stomach, such as Helicobacter pylori. The small intestine neutralizes stomach acid. Small numbers of organisms entering the small intestine and its motility contribute to keeping the number of bacteria down in the small intestine. There are also cells (like Paneth cells) which make antibacterial proteins (called defensins) which help keep the lumen of the gut close to sterile. As you get closer and closer to the colon, these mechanisms are reduced and the number of organisms increases. The number of  Paneth cells decline, the gut slows down. In the colon there are huge numbers of organisms. There are an equal number of microbial cells in the colon as all the human cells in the body, trillions. A lot of Gram-negative. Almost all are anaerobes, they live in the absence of oxygen and are hard to grow in culture. They are characterized through molecular biology; you look for genes. There are about 16 different classes. Ones that we think of as good are the Bifidobacteria and Lactobacteria. Ones that are mostly bad (but not entirely) are the Clostridia. Some of those bacteria are related to causing cancer. Some are highly protective, and they do stuff for us. For example, one of the things we eat a lot of is fiber; celery or lettuce for example, we don’t digest that. We have bacteria in our gut that live on that fiber, they digest it and make short chain fatty acids from it. Those short chain fatty acids are absorbed by the lining of the colon. Our colonic epithelia are dependent on the bacteria to keep going. They get the bulk of their energy from the bacteria in the gut.",
+  "content_length": 1728,
+  "content_tokens": 376,
+  "embedding": []
+ },
+ {
+  "title": "Vitamins and other regulation",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The bacteria also makes certain vitamins that we can’t live without;  vitamin K being the most famous of them. They also seem to regulate things like mood and obesity.",
+  "content_length": 167,
+  "content_tokens": 36,
+  "embedding": []
+ },
+ {
+  "title": "The difficulty of studying gut bacteria",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Mike agrees; we are ignorant because we can’t culture most of these organisms. They’re extremely difficult to study. It goes beyond them being anaerobic (an unable to grow them in the presence of oxygen). We don’t know the nutrients they need to live. It’s easy enough to provide them with an atmosphere without oxygen. It’s not so easy to figure out what they need to live. “The colon produces a great environment. How to match it is not so easy to figure.”‒ Michael Gershon",
+  "content_length": 475,
+  "content_tokens": 119,
+  "embedding": []
+ },
+ {
+  "title": "Gut bacteria and the nervous system",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Bacteria in the gut are able to get involved with the nervous system in a way that the bacteria of the skin do not. For example, the bacteria that are in the gut can activate lining epithelial cells, enteroendocrine cells to release serotonin, or other factors that can signaled by way of the vagus nerves to the brain. Chemical products that the bacteria make can also trigger nerve signals that send signals back to the brain, or even go through the blood brain barrier to affect the brain.",
+  "content_length": 492,
+  "content_tokens": 101,
+  "embedding": []
+ },
+ {
+  "title": "Germ-free mice and gut bacteria",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Experiments can be done for example with mice, in which one can breed germ-free mice (gnotobiotic); they grow up without any contact or organisms. They’re born by cesarean section. They’re fed sterile food. They live in incubators. People handle them with gloves. What’s the phenotype of these animals after 1 year? The numbers of nerve cells in their gut, the motility, the lining of the gut‒ they’re all different, much more primitive. There are changes in their immune system; they have no immune system. They have almost no spleen. They lack Peyer’s patches, important for talking to immune cells. They do have a thymus and can develop an immune system in a big hurry if they survive. These mice can be used as vessels to recolonize the gut with organisms. If you colonize them with bacteria derived from a strain of mice that tend to be lean, the mice grow up to be lean. If you colonize them with bacteria from a strain of mouse that tends to be fat, the mice grow up to be fat. “That seems to indicate that bacteria can determine obesity, or lack thereof”‒ Michael Gershon.",
+  "content_length": 1080,
+  "content_tokens": 262,
+  "embedding": []
+ },
+ {
+  "title": "Fecal transplants and gut microbes",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "How does this play out in humans?  We don’t have sterile humans but fecal transplants from lean to obese have been done. With humans you have to take everything with a grain of salt because the experiments are very difficult to do. The experiments are all flawed because you can’t deal with pure organisms. These studies have been done. Anxiety seems to work in a similar fashion. Fecal transplantation has an enormous potential. The only approved use currently is for infection with Clostridium difficile. With organisms that make up the normal flora, one way the number of each type is controlled is through a balance of growth with other bacteria. There’s a competition for nutrients. Bacteria make toxins that affect other types. A problem can arise when people take antibiotics; they have a major effect on the microbiome. A lot of people are exposed to antibiotics in agriculture. “This profligate use of antibiotics in agriculture exposes the human population to antibiotics, and changes our bacteria in ways that we would never have appreciated.”‒ Michael Gershon.",
+  "content_length": 1072,
+  "content_tokens": 224,
+  "embedding": []
+ },
+ {
+  "title": "Cow's milk and penicillin allergy",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Mike's son developed an allergy to penicillin, which he speculates was due to the antibiotics in cow's milk. This genetic susceptibility contributed to his son developing the same allergy. These antibiotics in foods are affecting the microbiome.",
+  "content_length": 245,
+  "content_tokens": 46,
+  "embedding": []
+ },
+ {
+  "title": "Fecal transplant for C. diff infection",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Fecal transplant can be done as an enema or an enteric-coated capsule. Bacteria recolonize the antibiotic wiped-out gut, which then suppresses the growth of C. diff. This procedure is life-saving and approved. However, the stool used for fecal transplant has to be very carefully looked at to be sure it doesn’t contain any potentially dangerous organisms.",
+  "content_length": 356,
+  "content_tokens": 82,
+  "embedding": []
+ },
+ {
+  "title": "Commercial home kits for microbiome",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The field of commercial home kits that tell you about your microbiome seems to be full of a lot of nonsense. They can give you the classes or organisms and the % of total bacteria each of the classes represent, but this turns out to be remarkably un-useful. Far too little resolution is being provided by these tests.",
+  "content_length": 317,
+  "content_tokens": 65,
+  "embedding": []
+ },
+ {
+  "title": "Cologuard and Commercial Tests",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Cologuard looks at stool, at the DNA in the stool; it looks for the genetic signatures of a number of GI cancers. About 90% of GI cancer and be picked up effectively by Cologuard. But using this test doesn’t mean you don’t have to go also do colonoscopy. The problem with Cologuard is you may miss 10% of cancer. Mike’s take on these commercial tests:  because they’re not doing it [testing] at a level that is sufficiently documented and sufficiently informative for you to be actionable on that information, they cost money abnormally, and they change what you do for reasons that are not well documented‒ you shouldn’t be following them yet.",
+  "content_length": 644,
+  "content_tokens": 157,
+  "embedding": []
+ },
+ {
+  "title": "Nutritional Approaches to Maintain Optimal Flora in the Gut",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "One of the most important things nutritionally that people can do to make sure that they have the optimal flora for their gut is to have a balanced diet with appropriate nutrients, including vitamin C, and particularly fiber. From a general maintenance principle, for someone who is not taking a lot of antibiotics and wants to do what’s best for your gut, nutrition is one of the most important levers. The importance of insoluble fiber in the diet: 1 – fiber can absorb toxins; it is thought to decrease their long-term carcinogenic effects. 2 – It provides the colon something to “chew down on”; it’s good for motility and keeping the bowel going and in shape. 3 – It provides food for bacteria of the colon. These bacteria produce short-chain fatty acids, which are good for the lining of the gut.",
+  "content_length": 801,
+  "content_tokens": 175,
+  "embedding": []
+ },
+ {
+  "title": "Gut Cleansing",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Cleansing the inside of the gut is not a good thing to be doing. Peter has heard of many variants of gut cleansing. One method is done in preparation for a colonoscopy; how much does this alter the gut flora? Even though it’s purpose is simply mechanical removal of all stool matter to allow visibility for an endoscopy. Mike replies that this type of cleanse “doesn’t kill organisms or change the balance between them”. When people do dietary cleanses, they’re usually drinking a lot of water with pepper and presumably some nutrients; is this similar to doing a bowel prep? Mike notes that sometimes they supplement this with enemas. He worries about these people getting into electrolyte imbalance. They are not killing the bacteria. But they’re not doing their body a favor by eating strange foods.",
+  "content_length": 802,
+  "content_tokens": 176,
+  "embedding": []
+ },
+ {
+  "title": "Nutrients for Gut Bacteria",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Fiber and polysaccharides are the most important  nutrients for fueling the bacteria of the gut. These bacteria can live on everything that makes its way to the large intestine. Very little of the protein you eat gets to the colon.",
+  "content_length": 231,
+  "content_tokens": 48,
+  "embedding": []
+ },
+ {
+  "title": "Artificial Sweeteners and Gut Microbiome",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "There are bacteria that can metabolize these molecules. The net effect of this is not clear. The literature on this is self-contradictory. Some people think there are impacts. Some people think the effect is negligible.",
+  "content_length": 219,
+  "content_tokens": 46,
+  "embedding": []
+ },
+ {
+  "title": "Fatty Acids in the Colon",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Most of the fatty acids that get to the colon are derived from fiber. Usually they’re not exogenous, but not always. Under abnormal conditions in which bile salts or pancreatic enzymes are deficient, then exogenous fats can get into the colon, and one gets fatty stool. Bacteria can’t metabolize that.",
+  "content_length": 301,
+  "content_tokens": 69,
+  "embedding": []
+ },
+ {
+  "title": "Probiotics and Prebiotics",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "If a person has to take a long course of antibiotics, taking appropriate probiotics at the same time they’re taking those antibiotics, or afterward, is helpful. Prebiotic is defined as material that will enable the body to grow organisms that have beneficial effect. The difference between them is that prebiotic enables you to make your own healthy organisms. You can trust the FTC and the FDA; claims cannot be made for foodstuff like a probiotic that are medical, unless it has been subjected to actual tests and pass FDA muster to show efficacy and safety.",
+  "content_length": 560,
+  "content_tokens": 114,
+  "embedding": []
+ },
+ {
+  "title": "Important Elements in a Probiotic",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Simply the ability to colonize the GI tract. Saccharomyces works very well. It does not need to contain a specific Lactobacillus, just the ability to colonize the GI tract. Saccharomyces works very well in that case.",
+  "content_length": 216,
+  "content_tokens": 53,
+  "embedding": []
+ },
+ {
+  "title": "Refrigeration of Probiotic Pills",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Not necessarily, the probiotic just needs to survive; this depends on the probiotic. Bifidobacterium animalis, which is in Activia, has to be refrigerated; but so does the Activia, because it’s yogurt-based.",
+  "content_length": 207,
+  "content_tokens": 55,
+  "embedding": []
+ },
+ {
+  "title": "Florastor® by Biocodex Inc.",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Florastor® by Biocodex Inc. contains Saccharomyces boulardii.",
+  "content_length": 61,
+  "content_tokens": 21,
+  "embedding": []
+ },
+ {
+  "title": "Bioengineering Bacteria",
+  "date": "July 25, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter’s takeaway: It just seems to me that the big opportunity here is going to come with the bioengineering that’s necessary to grow these bacteria in culture. That seems to be just an enormous blind spot we still have in this space, both from a diagnostic standpoint, but also from a therapeutic standpoint.",
+  "content_length": 309,
+  "content_tokens": 65,
+  "embedding": []
+ }
+]

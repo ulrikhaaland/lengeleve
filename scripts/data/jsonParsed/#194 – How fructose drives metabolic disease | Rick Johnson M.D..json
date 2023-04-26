@@ -1,0 +1,942 @@
+[
+ {
+  "title": "Metabolic Effects of Fructose with Rick Johnson, M.D. | Part I",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Rick Johnson, Professor of Nephrology at the University of Colorado and a previous guest on The Drive, returns for a follow-up about unique features of fructose metabolism, and how this system that aided the survival of human ancestors has become potentially hazardous based on our culture’s dietary norms. In this episode, Rick explains how the body can generate fructose from glucose and how circulating glucose and salt levels can activate this conversion. He discusses the decline in metabolic flexibility associated with aging, as well as how factors such as sugar intake or menopause-associated hormone changes can alter responses to sugar across a lifetime. In addition, Rick lays out strategies for combating the development of metabolic illness using dietary changes and pharmaceutical therapies, and he discusses the impact of fructose metabolism and uric acid on kidney function and blood pressure. He concludes with a discussion of vasopressin, a hormone that facilitates fructose’s effects on weight gain and insulin resistance.",
+  "content_length": 1041,
+  "content_tokens": 188,
+  "embedding": []
+ },
+ {
+  "title": "How Fructose Drives Metabolic Disease with Rick Johnson, M.D. | Part II",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Rick Johnson, Professor of Nephrology at the University of Colorado and a previous guest on The Drive, returns for a follow-up about unique features of fructose metabolism, and how this system that aided the survival of human ancestors has become potentially hazardous based on our culture’s dietary norms. In this episode, Rick explains how the body can generate fructose from glucose and how circulating glucose and salt levels can activate this conversion. He discusses the decline in metabolic flexibility associated with aging, as well as how factors such as sugar intake or menopause-associated hormone changes can alter responses to sugar across a lifetime. In addition, Rick lays out strategies for combating the development of metabolic illness using dietary changes and pharmaceutical therapies, and he discusses the impact of fructose metabolism and uric acid on kidney function and blood pressure. He concludes with a discussion of vasopressin, a hormone that facilitates fructose’s effects on weight gain and insulin resistance.",
+  "content_length": 1041,
+  "content_tokens": 188,
+  "embedding": []
+ },
+ {
+  "title": "Unique features of fructose metabolism and why it matters",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "A discussion on the unique features of fructose metabolism and its impact on health.",
+  "content_length": 84,
+  "content_tokens": 15,
+  "embedding": []
+ },
+ {
+  "title": "A primer on fructose metabolism and uric acid",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "An explanation of fructose metabolism and its relationship with uric acid.",
+  "content_length": 74,
+  "content_tokens": 13,
+  "embedding": []
+ },
+ {
+  "title": "Endogenous fructose production, the polyol pathway, and the effect of non-fructose sugars",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "A discussion on endogenous fructose production, the polyol pathway, and the effect of non-fructose sugars on metabolism.",
+  "content_length": 120,
+  "content_tokens": 24,
+  "embedding": []
+ },
+ {
+  "title": "Findings from animal studies of glucose and fructose consumption",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "A review of animal studies on the consumption of glucose and fructose.",
+  "content_length": 70,
+  "content_tokens": 13,
+  "embedding": []
+ },
+ {
+  "title": "What calorie-controlled studies say about the claim that a “calorie is a calorie”",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "An analysis of calorie-controlled studies and their implications on the claim that a calorie is a calorie.",
+  "content_length": 106,
+  "content_tokens": 20,
+  "embedding": []
+ },
+ {
+  "title": "Implications for aging and disease",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "A discussion on the implications of fructose metabolism on aging and disease.",
+  "content_length": 77,
+  "content_tokens": 13,
+  "embedding": []
+ },
+ {
+  "title": "Impact of endogenous fructose production on obesity and metabolic syndrome",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "A discussion on the impact of endogenous fructose production on obesity and metabolic syndrome.",
+  "content_length": 95,
+  "content_tokens": 15,
+  "embedding": []
+ },
+ {
+  "title": "Why vulnerability to the negative effects of sugar increases with age and menopause",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "An explanation of why vulnerability to the negative effects of sugar increases with age and menopause.",
+  "content_length": 102,
+  "content_tokens": 19,
+  "embedding": []
+ },
+ {
+  "title": "Dietary strategies to reduce the negative impact of fructose",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "A discussion on dietary strategies to reduce the negative impact of fructose.",
+  "content_length": 77,
+  "content_tokens": 13,
+  "embedding": []
+ },
+ {
+  "title": "The role of hypertension in chronic disease and tips for lowering blood pressure",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "A discussion on the role of hypertension in chronic disease and tips for lowering blood pressure.",
+  "content_length": 97,
+  "content_tokens": 17,
+  "embedding": []
+ },
+ {
+  "title": "The impact of fructose and uric acid on kidney function and blood pressure",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "A discussion on the impact of fructose and uric acid on kidney function and blood pressure.",
+  "content_length": 91,
+  "content_tokens": 18,
+  "embedding": []
+ },
+ {
+  "title": "The potential role of sodium in hypertension, obesity, and metabolic syndrome",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "A discussion on the potential role of sodium in hypertension, obesity, and metabolic syndrome.",
+  "content_length": 94,
+  "content_tokens": 17,
+  "embedding": []
+ },
+ {
+  "title": "The role of vasopressin in metabolic disease",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "A discussion on the role of vasopressin in metabolic disease.",
+  "content_length": 61,
+  "content_tokens": 14,
+  "embedding": []
+ },
+ {
+  "title": "The impact of stress on our physical and emotional health",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Robert Sapolsky, Ph.D., discusses the widespread impact of stress on our physical and emotional health as well as the mechanisms by which it can precipitate chronic illness, dementia, depression, and more.",
+  "content_length": 205,
+  "content_tokens": 42,
+  "embedding": []
+ },
+ {
+  "title": "The Physiology of Stress Response",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Robert Sapolsky, Ph.D., discusses the widespread impact of stress on our physical and emotional health as well as the mechanisms by which it can precipitate chronic illness, dementia, depression, and more. He also provides insight into the factors that contribute to the stress response (and our ability to handle it) such as social rank, personality, environment, and genetics.",
+  "content_length": 378,
+  "content_tokens": 75,
+  "embedding": []
+ },
+ {
+  "title": "The Impact of Stress on Health",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Robert Sapolsky, Ph.D., discusses the impact of stress on atherosclerosis, dementia, addiction, and depression. He also talks about the role of stress in cancer and how it can lead to chronic illness.",
+  "content_length": 200,
+  "content_tokens": 45,
+  "embedding": []
+ },
+ {
+  "title": "Tips for Managing Stress",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Robert Sapolsky, Ph.D., provides tips for managing stress in the modern world. He talks about the impact of subjective socioeconomic status and social media on stress levels and health.",
+  "content_length": 185,
+  "content_tokens": 37,
+  "embedding": []
+ },
+ {
+  "title": "Unique features of fructose metabolism and why it matters",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Fructose is pretty unique in terms of nutrient metabolism. The very first enzyme in fructose metabolism is called fructokinase. This is a key enzyme in fructose metabolism. It phosphorylates fructose at the 1 position to generate fructose-1-phosphate. This first step in fructose metabolism requires ATP expenditure, so consuming large amounts of fructose causes severe ATP depletion. Similarly, if the fructose concentration is very low, there won’t be as much ATP depletion. So the degree of ATP depletion varies with the concentration of fructose.",
+  "content_length": 550,
+  "content_tokens": 109,
+  "embedding": []
+ },
+ {
+  "title": "Why high fructose corn syrup is particularly bad",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Liquid fructose (like a soft drink) consumed on an empty stomach, can get absorbed very quickly and even more quickly when it is high fructose corn syrup. There’s some debate on this, but in high fructose corn syrup, the fructose and glucose are already separated so that it may be absorbed differently than sucrose where it’s glucose and fructose bound together, but they are broken and they have to be degraded to the individual fructose and glucose in the gut before they’re absorbed.",
+  "content_length": 487,
+  "content_tokens": 101,
+  "embedding": []
+ },
+ {
+  "title": "Fructose Metabolism and ATP Production",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Drinking liquid fructose leads to very fast absorption; the concentration will be higher when it reaches the liver. The liver is one of the key sites of fructose metabolism that drives this whole process. When fructose gets to the liver, fructokinase phosphorylates it, and the ATP levels acutely fall. The low ATP state is maintained primarily by a drop in intracellular phosphate that accompanies this and that activates this enzyme system that removes the breakdown of ATP products. These 2 reactions occur together (shown in the Figure 1). ATP + H2O → ADP + Pi Fructose → Fructose-1-Phosphate. With ADP and Pi removed, ATP cannot be regenerated easily (see Figure 2). Normally AMP and ADP get reformed to make more ATP. 2 ADP → ATP + AMP. AMP deaminase breaks down the AMP stepwise until it produces uric acid, which is the end product of purine metabolism. The adenine of ATP is a purine, and it eventually gets broken down to uric acid. Uric acid inside the cell actually causes oxidative stress to the mitochondria. The mitochondria are also really important in ATP production. The oxidative stress affects the mitochondria in several ways. Uric acid also inhibits AMP kinase (AMPK, AMP-activated protein kinase); this blocks energy production. In all, fructose metabolism stimulates fat storage.",
+  "content_length": 1303,
+  "content_tokens": 293,
+  "embedding": []
+ },
+ {
+  "title": "Fructokinase Expression and Injury",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Fructose can be metabolized like glucose through some of the glucose enzymes but it prefers to be metabolized by fructokinase. Normally fructokinase is present in modest amounts in the gut. Fructokinase is also present in the liver, brain, islets of the pancreas, some in white fat, and a fair amount in the kidney. Expression of fructokinase can be turned on whenever there is injury. For example, it can be induced in the heart following a heart attack. It can be produced in the kidney further or be activated further to have kidney failure, following damage to the kidney from a COVID infection. Induced expression is probably trying to provide some “survival mechanisms” in these sites. But what happens is, it tends to be over activated and end up causing worse injury rather than protection from injury. The main sites of fructokinase expression are the liver, the brain, the islets, the kidney, and the intestine.",
+  "content_length": 921,
+  "content_tokens": 203,
+  "embedding": []
+ },
+ {
+  "title": "Fructose Metabolism in the Intestine",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Fructokinase in the gut tends to not cause energy depletion and to actually convert the fructose to glucose at low concentrations of fructose. The intestine tends to be a shield that at low concentrations just helps remove the fructose without it being a problem. Fruits have 4 grams of fructose and vegetables have small amounts of fructose, 2-5 grams. Intestinal fructokinase seems to inactivate small amounts of fructose.",
+  "content_length": 424,
+  "content_tokens": 84,
+  "embedding": []
+ },
+ {
+  "title": "Fructose Metabolism in the Liver",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Most fructose is metabolized in the liver and the liver seems to be the primary place that drives the metabolic syndrome and obesity and diabetes. If fructokinase is knocked out just in the liver, animals can be protected from obesity and diabetes and high blood pressure. Fructose that gets through the gut, goes to the liver where it is phosphorylated by fructokinase.",
+  "content_length": 370,
+  "content_tokens": 77,
+  "embedding": []
+ },
+ {
+  "title": "Fructose and ATP Depletion",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Low doses of fructose can be absorbed in the gut without creating an ATP deficit. Higher concentrations of fructose cause a problem; they get through the gut without being metabolized. Fructose that gets through the gut, goes to the liver where it is phosphorylated by fructokinase. By definition, this is a high fructose state because the gut’s capacity to metabolize fructose has been exceeded. This reaction requires ATP.",
+  "content_length": 424,
+  "content_tokens": 87,
+  "embedding": []
+ },
+ {
+  "title": "Metabolism of Fructose and Uric Acid Production",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Fructose metabolism leads to the production of uric acid, which inhibits the process of beta oxidation and increases the substrate for de novo lipogenesis. Uric acid causes oxidative stress in the mitochondria by stimulating NADPH oxidase, which inhibits different enzymes that lead to fat synthesis and block fatty acid oxidation. This metabolic process leads to the development of diabetes, obesity, and hypertension.",
+  "content_length": 419,
+  "content_tokens": 77,
+  "embedding": []
+ },
+ {
+  "title": "Evolutionary Purpose for Downstream Effects of Fructokinase",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Fructokinase is a process so key for survival that all animals use it. In a food scarce environment, fructokinase is not telling the organism to stop eating; there is no signal that the cell has enough energy. The opposite occurs, as more fructose is eaten, more is wanted. It turns off the ability to oxidize fat and turns on the ability to store fat and make more fat from fructose metabolism.",
+  "content_length": 395,
+  "content_tokens": 86,
+  "embedding": []
+ },
+ {
+  "title": "Endogenous Fructose Production and the Polyol Pathway",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The body can make fructose through high glucose levels via the polyol pathway. The enzyme that gets turned on in high glucose states called the polyol pathway can convert glucose to sorbitol, and sorbitol then gets converted to fructose. It's what's going on in the liver that's so important.",
+  "content_length": 292,
+  "content_tokens": 62,
+  "embedding": []
+ },
+ {
+  "title": "Glucose and Starch in the Gut",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "When someone eats bread, rice, potatoes, chips, cereals (or other high glycemic foods), this gets broken down to glucose in the gut. Starch gets broken down to glucose in the gut. A continuous glucose monitor will show a rise in blood glucose after eating these foods. Glucose will also go up in the liver.",
+  "content_length": 306,
+  "content_tokens": 69,
+  "embedding": []
+ },
+ {
+  "title": "Aldose Reductase and Sorbitol",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Bread is going to be much more fattening if the enzyme aldose reductase is elevated in the liver. Aldose reductase is the rate limiting enzyme that converts glucose to sorbitol. It’s normally present in low levels in the liver, but it gets induced. It can be induced by high glucose or high uric acid. Uric acid becomes clinically relevant and might turn on the polyol pathway at levels over 7 mg/dL in a human. This is what is seen in metabolic syndrome.",
+  "content_length": 455,
+  "content_tokens": 109,
+  "embedding": []
+ },
+ {
+  "title": "Glucose and Fructose in Animals",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Rick thought that giving glucose to animals would not cause obesity because glucose would maintain ATP levels (a deficit of ATP would not occur). Fructose is activating this metabolic syndrome through dropping ATP levels. When he did the experiment, and gave mice glucose, over time they became very very fat and insulin resistant. When he looked in the liver, he found that maybe as much as 25% of the glucose was being converted to fructose in these laboratory mice. When he gave mice fructose in their water, they get fat. It takes months to really see the effects of glucose or fructose to cause obesity.",
+  "content_length": 608,
+  "content_tokens": 118,
+  "embedding": []
+ },
+ {
+  "title": "Leptin Resistance and Fructose",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Over a period of a month or so, the mice drinking sugar calories start eating more, despite still drinking a lot. This results in a high caloric state. Then they start developing leptin resistance. Leptin is a hormone produced in the fat cells that tells the brain that it’s full. Overweight people almost always have very high leptin levels. Leptin resistance is how fructose causes animals to eat more. This takes a month or so, but giving animals fructose leads to the animals becoming resistant to leptin. Leptin resistance can be determined experimentally— inject an animal with leptin and if they continue to eat a normal amount they are resistant to leptin. Evidence of leptin resistance can also be determined by studying the hypothalamus. There is a change in the hypothalamus, phosphorylation of STAT3. The mechanism of leptin resistance is not fully known, but there’s some evidence that it might be due to uric acid. A group in China injected uric acid in the brains of animals and showed that caused leptin resistance. They also showed that this caused inflammation in the hypothalamus. Inflammation in the hypothalamus is thought to be the driver for leptin resistance.",
+  "content_length": 1183,
+  "content_tokens": 238,
+  "embedding": []
+ },
+ {
+  "title": "Effects of Glucose Consumption in Mice Lacking Fructokinase",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Back to the mouse experiment, when animals get glucose to drink they initially reduce their chow intake; but over time they start increasing their chow intake. Then they become very fat and insulin resistant. They develop all features of metabolic syndrome. Effects of glucose consumption in mice lacking fructokinase. Further support of this comes from experiments where glucose was given to animals that lack fructokinase. These animals cannot metabolize fructose through this ATP depletion pathway. Give animals without fructokinase glucose to drink and they gain some weight and fat. These animals do not develop insulin resistance or fatty liver. They’re really protected from the metabolic syndrome and they gain much less weight and have less fat. He does lots of pair feeding studies, in this case mice lacking fructokinase are drinking the same amount of glucose as normal controls (that have fructokinase). There may be 3-5% difference, but it’s very similar. The difference in body weight and fat is remarkable. So when he gave just glucose alone, the animals gained a little bit of weight, they drank a lot of glucose. They still gained a little bit of weight compared to a mouse that didn’t get glucose, even when the fructokinase was knocked out. A mouse that just gets glucose alone really gains weight. A mouse that gets glucose in which they cannot metabolize fructose, gains dramatically less weight, but it’s still a little bit more than normal.",
+  "content_length": 1464,
+  "content_tokens": 301,
+  "embedding": []
+ },
+ {
+  "title": "Fructose and Energy Balance",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Fructose stimulates obesity and metabolic syndrome by encouraging an animal to eat more and by dropping their resting energy metabolism. When fructokinase is blocked, animals regulate their weight and caloric intake. When glucose is given to an animal that is a fructokinase knockout, it continues to keep its chow low, so the overall energy intake only very mildly increases. The fructokinase knockout mice eat less, but both groups get the exact same amount of glucose.",
+  "content_length": 471,
+  "content_tokens": 94,
+  "embedding": []
+ },
+ {
+  "title": "Calorie-controlled Studies",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "In an isocaloric experiment comparing mice drinking fructose/glucose and eating chow, fructokinase knockouts were protected from the negative effects of fructose. The groups were paired so that animals were eating the same total calories, and this showed a dramatic difference in fatty liver and insulin resistance. The claim that a calorie is a calorie is not entirely true, as fructose makes you gain weight by increasing energy intake and dropping energy metabolism.",
+  "content_length": 469,
+  "content_tokens": 89,
+  "embedding": []
+ },
+ {
+  "title": "Problems with Claims by the High Fructose Corn Syrup Industry",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Most weight gain from sugar is due to eating more, but some weight gain is due to a decrease in energy metabolism. When Rick used an isocaloric diet, there was minimal difference in weight gain in the short term, but this misses the point that the sugar is actually causing hunger and by forcing an isocaloric diet, the people are hungry, but they’re not able to eat because they’re not allowed to eat. If a longer term was studied, these studies would probably show a difference in weight gain because of the difference in energy metabolism.",
+  "content_length": 542,
+  "content_tokens": 115,
+  "embedding": []
+ },
+ {
+  "title": "Fructose vs Glucose",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter puts some numbers to this to compare a high fructose diet to a high glucose diet, “if the high fructose group was driven to eat an extra 300 calories per day, while simultaneously experiencing a reduction of energy expenditure of 25 calories per day, the increase in the drive to eat 300 calories a day would be readily apparent. Again, this is very back of the envelope math.” But we know that some of the glucose is being converted to fructose, so it’s really not a fair comparison.",
+  "content_length": 490,
+  "content_tokens": 104,
+  "embedding": []
+ },
+ {
+  "title": "Effects of Fructose on Animals",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Even when animals are given the exact same diet, all the other metabolic effects of fructose are still going on. The group getting a high fructose diet still becomes insulin resistant. They’re still getting fatty liver. They’re still getting hypertension. It’s observed in animals and Rick has seen clinical evidence of this in people too.",
+  "content_length": 339,
+  "content_tokens": 70,
+  "embedding": []
+ },
+ {
+  "title": "Pair Feeding Study",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Studies in mice comparing a 40% sucrose diet to an isocaloric 10% starch diet. A pair feeding means let’s say there are 10 animals in this group and 10 animals in the other group; they have to eat the same amount of food each day. This means is that the animal that eats the least amount of food, all the other animals have to eat this same/least amount of food. His group was doing this study and didn’t know 1 of the animals had cancer and was hardly eating anything. This adjusted the diet for the study. Now the animals were on a severe diet. 1 group had a diet of 40% sugar and the other 40% starch; everything was equal. At the end of the 4 months, the sugar fed animals tended to have a higher weight but it wasn’t significant. This was due to changes in resting metabolism, due to the fact that they had a lower energy metabolism. And it looked like it would’ve been significant if they’d gone a little bit longer.",
+  "content_length": 922,
+  "content_tokens": 216,
+  "embedding": []
+ },
+ {
+  "title": "Effects of Fructose on Energy Expenditure",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter summarizes— this suggests that at least in a calorie controlled state, excess fructose does not alter energy expenditure in any clinically relevant manner. Energy expenditure is not a driver of adiposity. Rick thinks it is over decades; maybe half a pound a year. It depends on the individual. One can’t completely separate decreased energy expenditure increased food intake that accompanies this in people. Rick’s work has shown multiple times that there are many, many effects from fructose that are independent of calories and it’s due to this energy depletion pathway. One of the consequences of this energy depletion is that it stimulates food intake.",
+  "content_length": 662,
+  "content_tokens": 126,
+  "embedding": []
+ },
+ {
+  "title": "Metabolism of Dietary Fructose",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The figure below summarizes metabolism of dietary fructose and endogenously produced fructose; the energy depletion pathway is the non-caloric pathway that contributes to obesity and disease.",
+  "content_length": 191,
+  "content_tokens": 33,
+  "embedding": []
+ },
+ {
+  "title": "Metabolism of Fructose Contributes to Disease",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The metabolism of fructose contributes to disease, and there have been studies looking at the effects of sugar on aging done in fruit flies. If you give a fruit fly sucrose or table sugar, which is really fructose and glucose together, they will develop obesity and die early. When they die, they die from complications related to uric acid production. Rick is interested in whether or not mice that lack fructose metabolism (fructokinase knockouts) might live longer than normal mice. Aging-associated renal disease in mice is fructokinase dependent. Normal mice show aging changes in their kidneys, but the fructokinase knockout had no aging changes in their kidney. Endogenous fructose production is maybe more important than we think and could have a role in the aging process.",
+  "content_length": 781,
+  "content_tokens": 155,
+  "embedding": []
+ },
+ {
+  "title": "Long-term Effects of a High Sugar Diet",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Long-term effects of a high sugar diet are highly correlated with obesity, but it's the metabolic derangement that lies under obesity that's the root cause of our mortality.",
+  "content_length": 173,
+  "content_tokens": 36,
+  "embedding": []
+ },
+ {
+  "title": "Effects of Fructose Metabolism on the Kidneys",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Fructose metabolism has effects on the kidneys. Normal mice show aging changes in their kidneys, but the fructokinase knockout had no aging changes in their kidney. Their blood pressure was pretty normal, it tended to be a little bit lower. There is a difference in response to salt; this has been reported in aging. The fructokinase knockout were protected from aging-associated changes to the kidney, and it suggests that endogenous fructose production is maybe more important than we think and that it could have a role in the aging process.",
+  "content_length": 544,
+  "content_tokens": 108,
+  "embedding": []
+ },
+ {
+  "title": "Fatty Liver Disease",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Fatty liver disease is a concern for patients with a high sugar diet.",
+  "content_length": 69,
+  "content_tokens": 15,
+  "embedding": []
+ },
+ {
+  "title": "Low Fructose Diet for Fatty Liver",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "When he has a patient with fatty liver disease, the first thing he does is restrict fructose and alcohol. He stops all alcohol and drops fructose intake dramatically to typically 5 to 10 grams per day, which basically means vegetables and a handful of berries if they must have some fruit. It’s a minimal fruit diet and no alcohol. This is before calorie restriction or manipulation of other macros, carbohydrates, etc. This usually improves non-alcoholic fatty liver disease (NAFLD) in most people. They may or may not lose weight.",
+  "content_length": 532,
+  "content_tokens": 109,
+  "embedding": []
+ },
+ {
+  "title": "Fructose Consumption and Fatty Liver",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Rick’s group was the first to report that fructose could be a cause of fatty liver. Published in the Journal of Hepatology in 2008, Fructose Consumption as a Risk Factor for Non-alcoholic Fatty Liver Disease. This study with Manal Abdelmalek at the University of Florida, and found that patients who were drinking large amounts of soft drinks had high uric acid levels. When they looked at liver biopsies, they found an increased expression of fructokinase by 3-4x.",
+  "content_length": 465,
+  "content_tokens": 106,
+  "embedding": []
+ },
+ {
+  "title": "Endogenous Fructose Production",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "“But now we know that it isn’t just the fructose you drink, it’s the fructose you make” – Rick Johnson. Impact of endogenous fructose production on obesity and metabolic syndrome [1:01:30]. Typical fructose consumption in the American diet. About 15-20% of the diet is from sugar (and sugar is half fructose and half glucose). So 10-15% of the diet is fructose. Fructose comes from added sugars, fruit, and other foods. Sugar in the diet can vary; some people are eating as much as 25% of their diet as sugar. So people can be eating as much as 15, even 20% of their diet as fructose. Conservatively, it’s not hard to eat 100 grams of fructose a day. 400 calories of fructose could represent 15% of the daily caloric intake. Let’s say the average American is eating 75-100 g of fructose; that’s their exogenous consumption of fructose. Let’s assume that person is a little bit insulin resistant and a little bit leptin resistant (but not off the charts); what is their endogenous production of fructose? A guess (based on animal data) would be around 25-50% more fructose comes from endogenous production. There are 3 major sources for endogenous fructose production. 1) High glycemic carbs such as rice, potatoes, bread, and chips [he will come back to the other 2 sources]. Maybe a quarter of that can be turned into fructose. Rick thinks this is playing a major role in metabolic syndrome.",
+  "content_length": 1392,
+  "content_tokens": 319,
+  "embedding": []
+ },
+ {
+  "title": "Fructose and Metabolic Syndrome",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Studies in fructokinase knockout mice. He did another study where animals were given soft drinks/ high fructose corn syrup. They got really fat and insulin resistant. But if he blocked fructokinase, this completely blocked development of metabolic syndrome. Sugar causes obesity and metabolic syndrome in mice independently of sweet taste | American Journal of Physiology Endocrinology and Metabolism (A Andres-Hernando et al. 2020) | [35:45; 1:04:00]. So with soft drinks, it really was all fructose, even though there’s a lot of glucose in there. He saw a little bit of weight gain with glucose alone.",
+  "content_length": 603,
+  "content_tokens": 136,
+  "embedding": []
+ },
+ {
+  "title": "Fructose and Mitochondria",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Fructose works by causing oxidative stress to the mitochondria. This activates these pathways. But if the mitochondria are really powerful, these metabolic effects won’t develop as easily, because the mitochondria are more resistant to the effects of fructose. This is seen in super athletes; they have fantastic mitochondria. Many of them feel like they can drink a lot of sugar and they’re immune and it’s because they have really, really healthy mitochondria.",
+  "content_length": 462,
+  "content_tokens": 96,
+  "embedding": []
+ },
+ {
+  "title": "Mitochondrial Dysfunction and Aging",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Mitochondria are one of your major places where energy is made. Over many years, the mitochondria get less good at making the energy because of damage, recurrent damage, and it’s thought that oxidative stress to the mitochondria can cause this damage. This has been shown with fructose; the mitochondria start to decrease and the mitochondrial change. The mitochondria become smaller and less efficient. The mitochondrial function starts to reduce; the number of mitochondria becomes less. When that happens, less ATP is made. This is associated with feeling more fatigue, more tired. Lower ATP levels in the muscle is associated with muscle fatigue.",
+  "content_length": 650,
+  "content_tokens": 127,
+  "embedding": []
+ },
+ {
+  "title": "Low Fructose Diet and Mitochondrial Biogenesis",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Rick did a study in humans where people were put on a low fructose diet. This showed that mitochondrial biogenesis could be increased in people within 30 days. There was a very dramatic increase in mitochondrial production. Published in Experimental and Clinical Endocrinology & Diabetes in 2013, Low fructose and low salt diets increase mitochondrial DNA in white blood cells of overweight subjects.",
+  "content_length": 400,
+  "content_tokens": 71,
+  "embedding": []
+ },
+ {
+  "title": "Fasting and Caloric Restriction",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Fasting and calorie restriction can also increase the number of mitochondria and function. Fasting is thought to increase mitochondrial probably the same way, and actually even caloric restriction. The concept that caloric restriction can be beneficial to reduce aging is probably through this pathway. The process of eating and storing fat seems to involve some mitochondrial oxidative stress. And so if one eats less food, they’re going to have less oxidative stress to the mitochondria and less fat stores. This will allow them to live longer.",
+  "content_length": 546,
+  "content_tokens": 101,
+  "embedding": []
+ },
+ {
+  "title": "The Importance of Fat Stores",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Animals with chronic diseases will live longer if they have fat stores. The obesity paradox suggests that low levels of obesity are protective. Even a person with a BMI of 28 will do better than a person with a BMI of 24 as they age.",
+  "content_length": 233,
+  "content_tokens": 49,
+  "embedding": []
+ },
+ {
+  "title": "Mechanisms that Make One Sensitive to Fructose Over Time",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Mitochondria tend to be healthier when one is young. The more sugar one eats, the more they are able to absorb and metabolize. The polyol pathway also gets turned on over time. By the time someone has metabolic syndrome, they probably have the aldose reductase enzyme turned on. They have high uric acid; this can activate the polyol pathway too. They convert glucose to fructose.",
+  "content_length": 380,
+  "content_tokens": 84,
+  "embedding": []
+ },
+ {
+  "title": "Fructose Metabolism and Menopause",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Estrogen increases uric acid excretion. Young women tend to have lower uric acid levels compared to men. When women go through menopause and estrogen levels fall, uric acids increase and suddenly post-menopausally women suddenly develop obesity, diabetes, heart disease. Menopause is related to this change in uric acid. Fructose metabolism will be upregulated by uric acid. When uric acid goes up, not only does it turn on the polyol pathway, but it actually upregulates fructokinase as well.",
+  "content_length": 493,
+  "content_tokens": 113,
+  "embedding": []
+ },
+ {
+  "title": "Uric acid and fructose metabolism",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Published in PLoS One in 2012, Uric acid stimulates fructokinase and accelerates fructose metabolism in the development of fatty liver. Published in the Journal of Biological Chemistry in 2019,  Uric acid activates aldose reductase and the polyol pathway for endogenous fructose and fat production causing development of fatty liver in rats",
+  "content_length": 340,
+  "content_tokens": 66,
+  "embedding": []
+ },
+ {
+  "title": "Reducing fructose intake",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter asks “What do people need to be wary of? I mean, I think the other question that emerges from a discussion like this for many people is, oh my God, do I need to not eat any fructose? This means I can’t have any fruit. Tomatoes have fructose in them… how do we provide some insight to people so that they can figure out how to adjust the dose of something that is something that is completely ubiquitous?” The first thing Rick recommends is try not to drink liquids that have lots of sugar in them— soft drinks and fruit juices. Review of risks of liquid sugars, published in Obesity in 2019, Are Liquid Sugars Different from Solid Sugar in Their Ability to Cause Metabolic Syndrome?",
+  "content_length": 688,
+  "content_tokens": 151,
+  "embedding": []
+ },
+ {
+  "title": "Sports drinks",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Sports drinks were developed originally by Bob Cade and the invention of Gatorade. People who are exercising a lot are losing lots of salt in their sweat; they’re burning up glucose, and some of them were getting hypoglycemic on the field. Sports drinks were really meant to help replenish the electrolytes and to fix the glucose problem. Performance was increased by having small amounts of fructose (2-3%) and the optimal glucose in sports drinks was found to be 5-6%. Now, some sports drinks actually have more fructose in it because it tastes better and that’s a problem. But for someone out there exercising, using a sports drink for what it’s meant for, then this is fine. But drinking sports drinks without exercise, in front of the TV, is probably not a good idea",
+  "content_length": 771,
+  "content_tokens": 168,
+  "embedding": []
+ },
+ {
+  "title": "Fruit juice",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The sugar content of freshly squeezed orange juice is probably about two thirds of a soft drink. Apple juice is sweeter, it’s equivalent to a soft drink. The Pediatric Society a long time ago realized that juice has so much fructose that it was being associated with obesity in children. They made recommendations to limit fruit juice, to like 6 ounces or less for older children and 4 ounces or so for really small children. Rick thinks we should even limit it more",
+  "content_length": 466,
+  "content_tokens": 94,
+  "embedding": []
+ },
+ {
+  "title": "Whole, fresh fruit",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Natural fruits are different; they have much less fructose in an individual fruit. Fruit juice is made from multiple fruits. Eat an orange and it has 6-8 grams of fructose, closer to 6 g of fructose and some glucose. Rick thinks natural fruits are fine, even for someone with NAFLD (fatty liver). There are certain fruits that are high in sugar— mangoes, figs, dates. Figs are very, very enriched in fructose; fFigs are probably something that we should avoid. Apples and pears, plums, tend to be fairly high, around 9-10 grams",
+  "content_length": 527,
+  "content_tokens": 124,
+  "embedding": []
+ },
+ {
+  "title": "Fructose content in fruits",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Most fruits are between 3-9 g, 10 g max, with the average being 4-6 g (see the table below). Some fruits have much less sugar— kiwi and berries (strawberries and blueberries). People  should be encouraged to eat these.",
+  "content_length": 218,
+  "content_tokens": 56,
+  "embedding": []
+ },
+ {
+  "title": "Low sugar diet study",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Published in Metabolism in 2011, The effect of two energy-restricted diets, a low-fructose diet versus a moderate natural fructose diet, on weight loss and metabolic syndrome parameters: a randomized controlled trial. One group got natural fruit, but was low sugar and low fructose. The other group was restricted too. They found equivalent improvement in metabolic syndrome in both groups. “The presence of natural fruit did not block the ability of the low sugar diet to improve metabolic syndrome” – Rick Johnson.",
+  "content_length": 516,
+  "content_tokens": 102,
+  "embedding": []
+ },
+ {
+  "title": "Added sugar",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Added sugar is when a food has sucrose or high fructose corn syrup. These are typically the most common agents that are added to the food. So if you go and get a jar of pasta sauce, they have added sugar to it. This is not the sugar naturally present in the tomatoes; it’s deliberately added to make it taste sweeter.",
+  "content_length": 317,
+  "content_tokens": 73,
+  "embedding": []
+ },
+ {
+  "title": "Dried fruits",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "“The trouble with dried fruit is that it still has all the fructose, but a lot of the good things are removed… Dried fruit is sort of like candy.” – Rick Johnson. It’s not just the loss of water that’s a problem in dried fruit, things like vitamin C tend to be low. Dried fruits are thought to be primarily devoid of the good components that are in fruit.",
+  "content_length": 355,
+  "content_tokens": 88,
+  "embedding": []
+ },
+ {
+  "title": "Blocking fructokinase activity",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "There is a condition called essential fructosuria; this is a hereditary condition in which a person does not have fructokinase. They pee about 10% of the fructose they eat (it goes out through the urine), and the rest is metabolized by the glucose enzymes because some of the glucose enzymes can metabolize fructose. No one with this condition has ever been reported with type II diabetes or obesity. It seems that it’s associated with normal lifespan or maybe even prolonged lifespan.",
+  "content_length": 485,
+  "content_tokens": 100,
+  "embedding": []
+ },
+ {
+  "title": "Fructokinase Inhibitors for Metabolic Syndrome",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Several large pharmaceutical companies, including Eli Lilly and Pfizer, are actively working on developing fructokinase inhibitors for the treatment of metabolic syndrome, obesity, type II diabetes, and NAFLD. In animal studies, these inhibitors have shown promise in blocking sugar-induced obesity, diabetes, and fatty liver. Pfizer had a successful phase two trial, but they stopped development of their drug for unknown reasons. No toxicity was reported, and the drug looked very promising.",
+  "content_length": 493,
+  "content_tokens": 94,
+  "embedding": []
+ },
+ {
+  "title": "The Role of Hypertension in Chronic Disease",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "High blood pressure is a major contributor to many chronic diseases, including cardiovascular disease, cerebrovascular disease, neurodegenerative disease, and renal disease. Hypertension is defined as a blood pressure greater than 140 over 90, but Rick Johnson believes that 135 over 85 is a good mark for where hypertension should involve active management. High blood pressure is a major cause of stroke, heart failure, and kidney disease. The greatest risk for these diseases occurs when the systolic blood pressure is 160-180 or higher. Nutritional and exercise-related maneuvers should be the first line of defense for managing blood pressure at 135 over 85.",
+  "content_length": 663,
+  "content_tokens": 128,
+  "embedding": []
+ },
+ {
+  "title": "Dietary changes can reduce blood pressure",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Blood pressure can be fixed by diet— reducing salt, picking healthier foods, and exercising",
+  "content_length": 91,
+  "content_tokens": 17,
+  "embedding": []
+ },
+ {
+  "title": "Antihypertensive medication may provide protection over time",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "If someone can’t lower their blood pressure by dietary means, they should go on an antihypertensive medication because it will provide protection over time",
+  "content_length": 155,
+  "content_tokens": 31,
+  "embedding": []
+ },
+ {
+  "title": "Antihypertensives may not provide long term benefit",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Rick hasn’t seen any evidence that antihypertensives provide long term benefit to patients with a blood pressure of 135/85",
+  "content_length": 122,
+  "content_tokens": 28,
+  "embedding": []
+ },
+ {
+  "title": "Pharmaceutical interventions are uncertain",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Dietary measure makes sense. He’s not sure about pharmaceutical interventions",
+  "content_length": 77,
+  "content_tokens": 16,
+  "embedding": []
+ },
+ {
+  "title": "The absence of evidence is not the evidence of absence",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter notes that “the absence of evidence is not the evidence of absence”; perhaps this should be studied",
+  "content_length": 105,
+  "content_tokens": 23,
+  "embedding": []
+ },
+ {
+  "title": "Studying the impact of ApoB on cardiovascular disease",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "This is  the same problem that we face when we try to think about this through the lens of cardiovascular disease, which is, is a 30 year old with an apoB of a hundred worse off than a 30 year old with an apoB of 70? This episode discussed apoB in great detail: #185 – Allan Sniderman, M.D.: Cardiovascular disease and why we should change the way we assess risk",
+  "content_length": 362,
+  "content_tokens": 89,
+  "embedding": []
+ },
+ {
+  "title": "The problem with hypertension guidelines",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "If one compares people with a blood pressure of 135/85 to 120/80 over five years, it’s not going to reveal enough of a difference. So it creates a bit of a problem with how the guidelines are created, but it shouldn’t confuse the underlying physiology",
+  "content_length": 251,
+  "content_tokens": 58,
+  "embedding": []
+ },
+ {
+  "title": "Reducing insulin resistance may be a treatment for hypertension",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Rick agrees and notes, “I think if you use these more stringent definitions of hypertension, then suddenly a very large number of adults have hypertension. And if you then say that they need treatment for it in terms of like an antihypertensive, then you’re talking about probably the majority of the population.” Or Peter suggests that maybe the treatment is to reduce insulin resistance; Rick agrees",
+  "content_length": 401,
+  "content_tokens": 82,
+  "embedding": []
+ },
+ {
+  "title": "Salt restriction can lower blood pressure",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Studies from 1900 showed that if you took people with high blood pressure and you put them on a salt restriction, this lowered blood pressure. This has led to recommendations to restrict salt in people with high blood pressure",
+  "content_length": 226,
+  "content_tokens": 41,
+  "embedding": []
+ },
+ {
+  "title": "Inflammation in the kidneys can cause high blood pressure",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "For years, it was thought the problem is the kidneys in people with high blood pressure can’t excrete salt as easily or as well as normal people. And so it was thought that there was some defect in the kidney. To make a long story short, over a decade of studying this revealed that people with high blood pressure have inflammation in their kidneys. This low grade inflammation in the kidneys is due to T-cells and macrophages. This inflammation tends to be in the main part of the kidney where the tubules are and around the little blood vessels. Studies were able to prove that the inflammation was actually maintaining the kidney in a state where it couldn’t get rid of salt very well. Reviewed in Physiological Reviews in 2017, Role of the Immune System in Hypertension. This occurs by creating reduced blood flow to the kidney. People with high blood pressure, they all have reduced blood flow to their kidneys. When the blood flow is reduced, this affects the ability of the kidney to excrete salt, and triggers the retention of salt. Studies revealed that high blood pressure is an inflammatory disease that is driven by inflammation",
+  "content_length": 1141,
+  "content_tokens": 232,
+  "embedding": []
+ },
+ {
+  "title": "Many things could drive inflammation in the kidneys",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "He found that many things could drive inflammation in the kidneys. Some drugs are very vasoconstrictive;  cocaine, for example, and other things that constrict the renal arteries",
+  "content_length": 178,
+  "content_tokens": 37,
+  "embedding": []
+ },
+ {
+  "title": "Uric acid and blood pressure in adolescents",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Published in JAMA in 2008, Effect of allopurinol on blood pressure of adolescents with newly diagnosed essential hypertension: a randomized trial. Many of them had high uric acid levels and were discovered to have high blood pressure. He put them on allopurinol, a drug that can lower uric acid. The results were remarkable, 90% of them normalized their blood pressure when their uric acid levels were lowered. There was a 5-8 mm drop in ambulatory blood pressure.",
+  "content_length": 464,
+  "content_tokens": 102,
+  "embedding": []
+ },
+ {
+  "title": "Uric acid and fructose metabolism",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Uric acid produced by fructose metabolism contributes to high blood pressure and metabolic disease. Peter asks about the 2009 study where patients were given 200 g fructose with and without allopurinol. Published in the International Journal of Obesity in 2010, Excessive fructose intake induces the features of metabolic syndrome in healthy adult men: role of uric acid in the hypertensive response. With treatment, their blood pressure was reduced 7 mm systolically and 5 diastolically. 25% of the patients developed metabolic syndrome de novo, mainly because of a rise in blood pressure.",
+  "content_length": 590,
+  "content_tokens": 116,
+  "embedding": []
+ },
+ {
+  "title": "Uric acid and inflammation in the kidney",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Chronically elevated blood pressure is caused by inflammation in the kidney. Inflammation in the kidney is associated with high uric acid. Uric acid is also raising blood pressure directly through effects on blood vessels. Uric acid will inhibit nitric oxide; it will stimulate oxidative stress. Specifically, uric acid will reduce endothelial nitric oxide through multiple mechanisms.",
+  "content_length": 385,
+  "content_tokens": 74,
+  "embedding": []
+ },
+ {
+  "title": "Sugar and hypertension",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Sugar is linked epidemiologically with the development of hypertension. Published in the Journal of the American Society of Nephrology in 2010, Increased fructose associates with elevated blood pressure.",
+  "content_length": 203,
+  "content_tokens": 35,
+  "embedding": []
+ },
+ {
+  "title": "Fructose and Blood Pressure",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "There’s evidence that it’s the fructose component that is driving the blood pressure response because acutely, giving fructose increases blood pressure. Giving glucose does not increase blood pressure acutely. So fructose does something that raises blood pressure.",
+  "content_length": 264,
+  "content_tokens": 47,
+  "embedding": []
+ },
+ {
+  "title": "Sodium and Fructose Production",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Rick’s group discovered that when animals are put on a salty diet, they actually start producing fructose in their bodies. Published in PNAS in 2018, High salt intake causes leptin resistance and obesity in mice by stimulating endogenous fructose production and metabolism. So salty foods turned out to be another way to stimulate fructose production. And when you give salt chronically to animals, they get high blood pressure, they get hypertrophy of their heart, and they also develop metabolic syndrome. They actually develop obesity, insulin resistance and everything.",
+  "content_length": 573,
+  "content_tokens": 105,
+  "embedding": []
+ },
+ {
+  "title": "Salt and Obesity",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "“That may seem surprising because we don’t think of salt as driving obesity, it’s non caloric. But actually there’s data in humans that high salt diet also increases the risk for obesity and insulin resistance besides hypertension” – Rick Johnson. Mechanisms: How salt raises blood pressure and stimulates endogenous production of fructose. The mechanism is that as the salt concentration in the blood goes up, it activates the polyol pathway and turns on this enzyme (aldose reductase) to make fructose. Aldose reductase converts glucose to fructose. When one eats potato chips, the glucose and salt stimulates the enzyme to convert glucose to fructose. “French fries are particularly fattening because they have the salt and the carbs that together really turn on this pathway to make fructose” – Rick Johnson.",
+  "content_length": 812,
+  "content_tokens": 169,
+  "embedding": []
+ },
+ {
+  "title": "Salt and Hypertension",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "There is strong evidence in humans that serum sodium concentration activates aldose reductase; the data is very strong. Increased serum osmolality activates this pathway or increased salt concentration in the blood can activate the aldose reductase pathways. This data is very strong in humans; it’s very strong in all organisms. The change in osmolality is key; this is why elevated glucose can also activate this pathway. Peter notes that, “someone with type two diabetes and their glucose concentration is 140 milligrams per deciliter, that’s a huge osmolar load. So even if they have normal salt concentration, that could be activating it.”",
+  "content_length": 644,
+  "content_tokens": 143,
+  "embedding": []
+ },
+ {
+  "title": "Salt Concentration and Blood Pressure",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Rick has done epidemiologic studies in humans, high salt intake increases the risk for fatty liver and diabetes. One study in Japanese adults, high salt also increased the risk for blood pressure. Published in Nutrients in 2020, Hyperosmolarity and Increased Serum Sodium Concentration Are Risks for Developing Hypertension Regardless of Salt Intake: A Five-Year Cohort Study in Japan. It’s the salt concentration that’s the greatest risk factor for high blood pressure, not the amount of salt one eats or how salty the food is. It’s how much salt goes up in the blood. For example, if someone drinks a lot of water and so the salt concentration doesn’t go up, then the effect of salt to raise blood pressure is blunted. He did a study in humans where they gave salty soup with or without water. Published in the Journal of Clinical Hypertension in 2018, Acute effects of salt on blood pressure are mediated by serum osmolality. If enough water was given to prevent the salt concentration from going up, this could prevent the rise in blood pressure. Salt increases the salt concentration in the blood, and that activates the osmol pathway.",
+  "content_length": 1140,
+  "content_tokens": 250,
+  "embedding": []
+ },
+ {
+  "title": "Salt and Fructose",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Salt and sugar work together to drive blood pressure response and obesity. Salt increases vasopressin levels in the blood, which helps to conserve water. Fructose induces vasopressin gene expression and secretion. The ability of salt to raise blood pressure depends on an increase in serum osmolality. Vasopressin released from the brain helps hold onto water and drive fat. The V1b receptor is important in driving obesity, and blocking it can prevent obesity, metabolic syndrome, and other related conditions.",
+  "content_length": 511,
+  "content_tokens": 103,
+  "embedding": []
+ },
+ {
+  "title": "The Role of Vasopressin",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Vasopressin signaling through the V1b receptor drives obesity. Vasopressin levels go up in the blood when one eats salt or sugar. The V1b receptor stimulates a hormone called ACTH that stimulates cortisol steroids. It also stimulates the islets to produce glucagon, which counters the effects of insulin. The V1b receptor is expressed in the central nervous system, adrenal gland, and islet cells in the pancreas. It seems to be expressed in the liver in obesity.",
+  "content_length": 463,
+  "content_tokens": 104,
+  "embedding": []
+ },
+ {
+  "title": "Fructokinase Knockout vs V1b Receptor Knockout",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Fructokinase knockout mice tend not to like fructose and won't get fat even if forced to eat it. V1b receptor knockout mice will eat a lot of sugar but won't get fat. They are totally regulating total caloric intake.",
+  "content_length": 216,
+  "content_tokens": 49,
+  "embedding": []
+ },
+ {
+  "title": "Fructose Metabolism in Mice",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Although they eat more fructose, they eat less chow; so they maintain their energy balance. They do not get fatty liver. They don’t get insulin resistant. They stay normal. The metabolic syndrome was driven through the energy depletion pathway; the actual caloric pathway is still intact. What we know is that it’s down regulating fructokinase; this is probably the key point. The V1B receptor knockout have less fructokinase; they’re turning it off; they’re reducing the amount. Normally when you eat sugar, the fructokinase levels get higher and higher. They get turned on by sugar. And the V1B knockout doesn’t do that; so the fructokinase stays at a low level. Rick’s guess is that some of the fructose is being metabolized by other enzymes, like glucose, glucokinase and stuff. What happens is they eat normal amounts and they stay normal weight and they don’t develop metabolic syndrome, but they don’t turn up their fructokinase.",
+  "content_length": 936,
+  "content_tokens": 223,
+  "embedding": []
+ },
+ {
+  "title": "Vasopressin and Fat Synthesis",
+  "date": "February 7, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "In the vasopressin story, a very important finding is that when he studied the fructose survival pathway, he found that the fat produced was not just being used as a caloric source, but it was being used as a source for water. Animals in the wild, when they store fat, they’re actually storing it not just for calories, but for water. While they’re storing fat, vasopressin levels are high. But vasopressin levels plummet during hibernation; that seems to allow them to burn the fat. During hibernation, they are making some urine, but their bladders stay permeable and so they reabsorb some of their urine. Rick doesn’t think they’re making large amounts of urine; it’s probably because of the low metabolism. Because they drop their temperature and their body metabolism so they’re generating less urine. But their vasopressin levels typically are turned off during hibernation. The big breakthrough was to realize that vasopressin is not just holding onto water by reducing the excretion (the volume of urine), but it’s also holding onto water by stimulating fat [synthesis]. Vasopressin stimulated fat synthesis through the V1b receptor. The V1b receptor increases cortisol. High cortisol levels can lead to Cushing Syndrome, these individuals develop kind of metabolic syndrome. The V1b receptor also stimulates glucagon, which raises glucose. This counters some of the effects of insulin; it creates an insulin resistant state. But also because the fructokinase in the liver seems to increase in the setting where the V1B receptor is activated. And that may help produce more energy depletion by increasing the enzyme [fructokinase], so that it can really metabolize the fructose as fast as it can. Rick thinks that is the mechanism. And animals that have the V1B receptor knocked out, they like sugar, they like salt, but they cannot metabolize the fructose very well and they seem to be protected from obesity.",
+  "content_length": 1918,
+  "content_tokens": 419,
+  "embedding": []
+ }
+]

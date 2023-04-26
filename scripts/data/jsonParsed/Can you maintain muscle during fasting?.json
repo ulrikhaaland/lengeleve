@@ -14,13 +14,13 @@
   "date": "September 1, 2019",
   "context": "Fasting",
   "people": "Peter Attia",
-  "content": "What happens to LBM during a water-only fast? In particular, what happens to skeletal muscle mass? Can you maintain muscle while fasting? Eating a meal that contains protein with high quantities of all of the essential amino acids, leucine in particular, is a great way to stimulate MPS (and reduce MPB). If you’re fasting, this important contributor of MPS, and attenuator of MPB, appears to be out of play. Another way to stimulate MPS is by exercising (resistance training in particular, but also aerobic exercise, perhaps to a lesser degree). However, this also stimulates MPB. Fasting increases the production of ketones, beta-hydroxybutyrate (BOHB) in particular, and this may spare the body’s protein from oxidation. Infusing BOHB is associated with the maintenance and even increases in circulating branched-chain amino acids (i.e., leucine, isoleucine, and valine). During fasting, insulin and glucose plummet while counter-regulatory hormones increase (e.g., growth hormone, adrenaline), setting up a milieu that favors fat-oxidation and enhanced autophagy. While protein breakdown exceeds protein synthesis during a week-long fast, this does not necessarily mean that MPB exceeds MPS.",
-  "content_length": 1195,
-  "content_tokens": 272,
+  "content": "What happens to LBM during a water-only fast? In particular, what happens to skeletal muscle mass? Can you maintain muscle while fasting? Eating a meal that contains protein with high quantities of all of the essential amino acids, leucine in particular, is a great way to stimulate MPS (and reduce MPB). If you’re fasting, this important contributor of MPS, and attenuator of MPB, appears to be out of play. Another way to stimulate MPS is by exercising (resistance training in particular, but also aerobic exercise, perhaps to a lesser degree). However, this also stimulates MPB. Fasting increases the production of ketones, beta-hydroxybutyrate (BOHB) in particular, and this may spare the body’s protein from oxidation. During fasting, insulin and glucose plummet while counter-regulatory hormones increase (e.g., growth hormone, adrenaline), setting up a milieu that favors fat-oxidation and enhanced autophagy. While protein breakdown exceeds protein synthesis during a week-long fast, this does not necessarily mean that MPB exceeds MPS.",
+  "content_length": 1044,
+  "content_tokens": 232,
   "embedding": []
  },
  {
-  "title": "Resistance Training and mTOR",
+  "title": "Resistance training and mTOR",
   "date": "September 1, 2019",
   "context": "Fasting",
   "people": "Peter Attia",
@@ -30,7 +30,7 @@
   "embedding": []
  },
  {
-  "title": "Fasting and Muscle Mass",
+  "title": "Fasting and muscle mass",
   "date": "September 1, 2019",
   "context": "Fasting",
   "people": "Peter Attia",
@@ -40,13 +40,13 @@
   "embedding": []
  },
  {
-  "title": "Autophagy and Amino Acids",
+  "title": "Autophagy and amino acids",
   "date": "September 1, 2019",
   "context": "Fasting",
   "people": "Peter Attia",
-  "content": "This may be one of the benefits of autophagy, which literally translates to “self-eating.” Your muscle cells may be dining off your skin cells, so to speak. I don’t think it’s out of the realm of possibility that you can “eat” a meal of protein that contains all of the essential amino acids during a fast.",
-  "content_length": 306,
-  "content_tokens": 79,
+  "content": "I don’t think it’s out of the realm of possibility that you can “eat” a meal of protein that contains all of the essential amino acids during a fast. This may be one of the benefits of autophagy, which literally translates to “self-eating.”",
+  "content_length": 240,
+  "content_tokens": 64,
   "embedding": []
  }
 ]

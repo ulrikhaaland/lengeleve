@@ -15,6 +15,20 @@ export const OpenAIStream = async (prompt: string, apiKey: string) => {
   const encoder = new TextEncoder();
   const decoder = new TextDecoder();
 
+  const listContent: string[] = [
+    "You are a helpful assistant that accurately answers queries using Peter Attia's knowledge of training.",
+    'Use the text provided to form your answer.',
+    'When the question indicates a need for a short answer, try to keep your answer short.',
+    'When the question indicates a need for a long answer, try to expand your answer.',
+    'Try to use your own words when possible.',
+    'Try to keep your answer short, but expand if necessary.',
+    'Be accurate, helpful, concise, and clear.',
+  ];
+
+  const content = listContent.join('\n\n');
+
+  console.log(content);
+
   const res = await fetch('https://api.openai.com/v1/chat/completions', {
     headers: {
       'Content-Type': 'application/json',
@@ -22,13 +36,12 @@ export const OpenAIStream = async (prompt: string, apiKey: string) => {
     },
     method: 'POST',
     body: JSON.stringify({
-      model: OpenAIModel.DAVINCI_TURBO,
+      model: 'gpt-3.5-turbo-0301',
       messages: [
-        {
-          role: 'system',
-          content:
-            "You are a helpful assistant that accurately answers queries using Peter Attia's knowledge of training. Use the text provided to form your answer. Try to use your own words when possible. Try to keep your answer short, but expand if necessary. Be accurate, helpful, concise, and clear.",
-        },
+        // {
+        //   role: 'system',
+        //   content: content,
+        // },
         {
           role: 'user',
           content: prompt,

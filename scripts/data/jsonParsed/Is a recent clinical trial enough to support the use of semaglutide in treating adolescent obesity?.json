@@ -1,0 +1,82 @@
+[
+ {
+  "title": "Semaglutide as a treatment for obesity in adolescents",
+  "date": "April 22, 2023",
+  "context": "Medications, Supplements & Other Treatments",
+  "people": "Peter Attia",
+  "content": "A recently published study investigated the efficacy of semaglutide as a treatment for obesity in an adolescent population. Semaglutide is in the class of drugs known as GLP-1 receptor agonists, which have demonstrated impressive weight loss effects in adults with obesity. Study authors conducted a double-blind, randomized trial in which 201 adolescents aged 12 to <18 with overweight or obesity were randomized in a 2:1 ratio to receive either once-weekly semaglutide or placebo for a period of 68 weeks. At the end of the intervention period, the average change in BMI among participants in the semaglutide group was -16.1% from baseline, compared to a slight increase from baseline in the placebo group. Changes in waist circumference and lipid levels similarly favored the semaglutide group, as did exploratory endpoints related to quality of life.",
+  "content_length": 854,
+  "content_tokens": 180,
+  "embedding": []
+ },
+ {
+  "title": "Adverse events and limitations",
+  "date": "April 22, 2023",
+  "context": "Medications, Supplements & Other Treatments",
+  "people": "Peter Attia",
+  "content": "Adverse events were observed in a majority of patients on both the semaglutide and placebo. The most common events were gastrointestinal symptoms such as nausea and diarrhea, which have been reported in previous semaglutide trials. The study had its share of limitations in its patient demographics and primary reliance on intention-to-treat analyses.",
+  "content_length": 351,
+  "content_tokens": 70,
+  "embedding": []
+ },
+ {
+  "title": "The Troubled History of Diet Pills",
+  "date": "April 22, 2023",
+  "context": "Medications, Supplements & Other Treatments",
+  "people": "Peter Attia",
+  "content": "Pharmaceutical interventions targeting particular aspects of metabolic control can have myriad unforeseen effects, which is likely why the long history of “diet pills” has been such a troubled one.",
+  "content_length": 197,
+  "content_tokens": 38,
+  "embedding": []
+ },
+ {
+  "title": "Uncertainty in GLP-1 Agonist Trials",
+  "date": "April 22, 2023",
+  "context": "Medications, Supplements & Other Treatments",
+  "people": "Peter Attia",
+  "content": "Even after several GLP-1 agonist trials, we still don’t have a complete understanding of how these drugs impact the body. They are known to stimulate insulin release from the pancreas, which likely accounts for some of their metabolic benefits. However, GLP-1 receptors are also highly expressed in the brain, where the pathways and effects of GLP-1 signaling remain murky at best.",
+  "content_length": 381,
+  "content_tokens": 83,
+  "embedding": []
+ },
+ {
+  "title": "Concerns with GLP-1 Agonist Use in Adolescents",
+  "date": "April 22, 2023",
+  "context": "Medications, Supplements & Other Treatments",
+  "people": "Peter Attia",
+  "content": "Clinical trials in adults have shown that as much as 40% of semaglutide-induced weight loss is attributable to a loss of lean mass. But in adolescence, a period of development that has life-long impacts on bone density, cardiovascular fitness, and other variables affecting longevity? Significant losses in lean mass could be devastating. An additional consideration in prescribing these medications for young people is the duration of treatment.",
+  "content_length": 446,
+  "content_tokens": 84,
+  "embedding": []
+ },
+ {
+  "title": "Unknown Long-Term Effects of GLP-1 Agonists",
+  "date": "April 22, 2023",
+  "context": "Medications, Supplements & Other Treatments",
+  "people": "Peter Attia",
+  "content": "We don’t know if and how these medications might trigger long-term adaptations in endocrine pathways or metabolic, hedonic, or other brain circuits, especially in individuals who haven’t yet reached maturity. Further, the clinical impact of certain side effects can often accrue as a function of time spent on the drug.",
+  "content_length": 319,
+  "content_tokens": 68,
+  "embedding": []
+ },
+ {
+  "title": "The Need for Caution with GLP-1 Receptor Agonists",
+  "date": "April 22, 2023",
+  "context": "Medications, Supplements & Other Treatments",
+  "people": "Peter Attia",
+  "content": "The rise of child and adolescent obesity has increased the clinical urgency for effective treatments, but if the rocky past of weight loss drugs can teach us anything, it’s that we mustn’t let ourselves be carried away by hype or even by a few promising study results. It’s possible that GLP-1 receptor agonists will improve the lives and overall health of countless individuals, including adolescents. But we still know so little about these medications and their effects, and more thorough research is needed to help illuminate the blind spots. In the meantime, we must be realistic about the long-term possibility of negative consequences from semaglutide and approach its prescription and use with a commensurate level of caution, taking into account the availability of alternative approaches such as bariatric surgery.",
+  "content_length": 824,
+  "content_tokens": 162,
+  "embedding": []
+ },
+ {
+  "title": "Individual Evaluation Needed for GLP-1 Receptor Agonists",
+  "date": "April 22, 2023",
+  "context": "Medications, Supplements & Other Treatments",
+  "people": "Peter Attia",
+  "content": "Each case must be evaluated individually to determine whether benefits outweigh possible risks. Age is an important variable in that evaluation, and minors run the greatest risks with regard to developmental impacts and long-term health. Improving our mechanistic understanding and extending follow-up periods in teen trials may eventually eliminate some of those risks, but until then, turning to semaglutide as a mainstream treatment for adolescent obesity seems, in a word, premature.",
+  "content_length": 487,
+  "content_tokens": 89,
+  "embedding": []
+ }
+]

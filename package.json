@@ -9,13 +9,14 @@
     "lint": "next lint",
     "scrape": "tsx scripts/scrape.ts",
     "embed": "tsx scripts/embed.ts",
-    "explore": "tsx scripts/explore.ts",
+    "csv": "tsx scripts/csv.ts",
     "parse": "tsx scripts/parse.ts"
   },
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
     "@mui/material": "^5.12.1",
+    "@nem035/gpt-3-encoder": "^1.1.7",
     "@next/font": "^13.2.3",
     "@tabler/icons-react": "^2.4.0",
     "@types/node": "18.14.0",

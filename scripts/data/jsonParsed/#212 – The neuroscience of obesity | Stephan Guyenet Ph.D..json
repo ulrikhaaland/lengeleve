@@ -1,0 +1,692 @@
+[
+ {
+  "title": "Stephan's background and research",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Stephan Guyenet is a neuroscientist who has researched neurogeneration and the neuroscience of obesity and energy homeostasis. He has published a book called The Hungry Brain and founded Red Pen Reviews, which reviews health and nutrition books. He is also a review editor at Frontiers in Nutrition.",
+  "content_length": 299,
+  "content_tokens": 60,
+  "embedding": []
+ },
+ {
+  "title": "Obesity and the brain",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Stephan discusses the role of the brain in obesity, including the role of leptin and genes that regulate fat mass and obesity. He also talks about the hedonic aspects of food and how our taste today is different from what our ancestors tasted, and how energy and caloric density relate to taste and food selection.",
+  "content_length": 314,
+  "content_tokens": 62,
+  "embedding": []
+ },
+ {
+  "title": "Carnivore diet and theories around adiposity",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Stephan and Peter discuss Red Pen's review of the carnivore diet, as well as the energy balance model, the carbohydrate insulin model, and unifying theories around adiposity.",
+  "content_length": 174,
+  "content_tokens": 36,
+  "embedding": []
+ },
+ {
+  "title": "Obesity throughout history",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Humans have been around for 6 million years, but in the last 1000 years, our phenotype has changed. Stephan discusses how people in modern, affluent societies are much fatter than typical humans 1000 years ago, and how there was obesity among the wealthy in ancient times.",
+  "content_length": 272,
+  "content_tokens": 54,
+  "embedding": []
+ },
+ {
+  "title": "Defining Obesity",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Just to be clear, we’re defining obesity in the most traditional way as a BMI (body mass index) of more than 30.",
+  "content_length": 112,
+  "content_tokens": 29,
+  "embedding": []
+ },
+ {
+  "title": "Changes in BMI Over Time",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "120-130 years ago only a few % of people (low single digits) had a BMI > 30. More recently, we start to have really good data in the US in 1960 when the NHANES (national health and nutrition examination survey) began. The % of people who are obese by this measure has gone up from the late 1800’s to maybe 12% of adults in the US. More recently, the median BMI has increased too. The most extreme changes happened in the more severe obesity category. Very few people had BMIs > 35 in the earliest measures. Today 9-10% of adults have a BMI > 35. The distribution of BMIs used to be a lot tighter too; today it has spread out.",
+  "content_length": 625,
+  "content_tokens": 149,
+  "embedding": []
+ },
+ {
+  "title": "The Obesity Paradox",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "There were insurance life tables in the early 1900 that suggested that people who had obesity had shortened lifespans and greater risk of certain diseases. This became controversial with a series of studies about the “obesity paradox” that Katherine Flegal was involved in. In these studies, looking at a graph of the relationship between BMI and longevity, the nadir (the lowest point on the graph) was in the overweight range. This finding was repeated in meta-analyses of millions and millions of people. This had people suddenly saying, “Well, maybe higher body fatness is not bad. Maybe it’s actually protective.” The reason this is called a paradox is because there is lots of evidence that excess body fat contributes to all kinds of diseases: type 2 diabetes, cardiovascular disease, certain cancers. How could obesity be productive for mortality when it’s driving all these diseases that are the leading causes of mortality? This is why it’s called the “obesity paradox”. Research has come out since then suggesting this is an artifact of the observational data. There are probably a few things going on. The biggest one is, people who are sick often lose weight. There are lots of health conditions that cause people to lose weight: poorly controlled type 2 diabetes, renal failure, chronic obstructive pulmonary disease (COPD), Alzheimer’s disease, cognitive decline. Leanness can be confounding.",
+  "content_length": 1407,
+  "content_tokens": 293,
+  "embedding": []
+ },
+ {
+  "title": "BMI and Confounding",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "BMI is a crude measure but it’s useful for a population-level study. It can be useful for screening. The concern was, this makes leanness look worse than it really is. Many people in the lean category are not sick. People have called this reverse causation, but David Allison corrected him; the technical term is confounding. Peter’s recent surgery is an illustrative example. He had shoulder surgery less than 3 weeks ago. In the 18 days since his surgery, he’s lost 9 lbs. His BMI probably went from 26 to 24. On paper, this looks good, but he would argue there is nothing superior about his health today compared to 18 days ago. Of the 9 lbs he’s lost, probably 7 lbs were lean body mass. This shows how an improvement in BMI can occur with a deterioration in body composition.",
+  "content_length": 780,
+  "content_tokens": 176,
+  "embedding": []
+ },
+ {
+  "title": "Maximum Attained Weight Method",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "How do you get around the issue of confounding? Stephan likes one method developed by Andrew Stokes and his colleagues. This is the maximum attained weight method. Instead of correlating your current BMI with mortality risk, it asks the question “What’s the heaviest you’ve ever been, and how does that correlate with your health outcomes?” This aims to screen-out an health conditions you may have developed that might have caused you to lose weight. With this method, it sharpens the association between BMI and mortality. The nadar (lowest point on the graph of lowest longevity) now shifts to a lower BMI. Now a BMI in the lean range looks best. Further, there is a larger difference between being the mortality of people who are lean and those who are obese. This analysis excludes a bunch of people who were formerly in the obese category; it puts them in a lower category. Their health outcomes are terrible. Those who used to be classified as obese are now just overweight or lean. But they have massively elevated rates of chronic disease and mortality. They are bringing all this excess mortality into the lower weight categories.",
+  "content_length": 1140,
+  "content_tokens": 232,
+  "embedding": []
+ },
+ {
+  "title": "Obesity Rates",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "The sharp increase in obesity across demographics. From an epidemiologic standpoint, when do obesity rates take off? Back in the 60s we may have been at 12% obese. It’s hard to imagine this low figure given today it is 43% obese. Stephan points out, “Probably a lot of people listening will have seen graphs of NHANES data where it kind of spikes around 1980.” The 1980 data was actually a multiyear survey that spanned somewhere around ‘76-‘84. 1978 was about the average of that data. Today the range is much narrower. So we don’t know exactly when obesity rates began to go up, but it is somewhere in the range of ‘76-‘84. During this time period (‘76-‘84) big changes happen to the diet. Somewhere from the late 70s – early 80s obesity went from around 15% to 43% of US adults. This includes people where 20 years old. So if you look at the lifetime risk, it’s well over 50%. “More than half of US adults will be classified as actually having obesity at some point in their life if the current context is maintained”‒ Stephan Guyenet. The same is true for type 2 diabetes. The prevalence of all diabetes is around 10-12%. The lifetime risk is double that‒ it’s mind blowing the number of people who will, at some point in their life, develop type 2 diabetes.",
+  "content_length": 1262,
+  "content_tokens": 312,
+  "embedding": []
+ },
+ {
+  "title": "Obesity and Type 2 Diabetes",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Over the last 50 years, if you consider the prevalence of type 2 diabetes, this disease has gone up 5-fold.",
+  "content_length": 107,
+  "content_tokens": 25,
+  "embedding": []
+ },
+ {
+  "title": "Obesity and Economic Status",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "If you looked at the bottom 10% of the population economically in the US and compared it to the top 10% economically, there’s very little difference. Women in the top tertile are leaner than women in the bottom tertile. There’s no difference for men in terms of income.",
+  "content_length": 269,
+  "content_tokens": 63,
+  "embedding": []
+ },
+ {
+  "title": "The Hypothalamus and Obesity",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "The hypothalamus and its role in obesity. Rudy was on the podcast 2-3 years ago, so now is a good time to review the neurobiology of the hypothalamus and its regulation of energy expenditure and appetite.",
+  "content_length": 204,
+  "content_tokens": 44,
+  "embedding": []
+ },
+ {
+  "title": "The Lipostat and Obesity",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "A nice name for the regulatory system for body fatness is the lipostat. Lipo meaning fat and stat meaning the current state of. Unfortunately, the body fat regulatory system is not so precise.",
+  "content_length": 192,
+  "content_tokens": 41,
+  "embedding": []
+ },
+ {
+  "title": "Hypothalamic Obesity",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "In 1840 the Viennese physician Bernhard Mohr published a case study about a woman who had extreme obesity, rapid onset extreme obesity. He did an autopsy after her death, and she had a tumor in her hypothalamus. The closest experimental analog of hypothalamic obesity would be VMH (ventromedial nucleus of the hypothalamus) lesion.",
+  "content_length": 331,
+  "content_tokens": 72,
+  "embedding": []
+ },
+ {
+  "title": "The Role of Leptin in Obesity",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Leptin is made in the adipocyte and secreted in proportion to body fat mass. The more adipose tissue you have, the more leptin you have. There are leptin receptors in many parts of the body, but the ones that are relevant for body weight regulation are in the brain. There are a high concentration of leptin receptors in the hypothalamus. They’re in other parts of the brain too. It’s not 100% clear where the important ones are for body weight regulation. Let’s say cut your calories by 25% for a couple of days, you’re going to see a drop in leptin that is disproportionate to your amount of fat mass.",
+  "content_length": 603,
+  "content_tokens": 139,
+  "embedding": []
+ },
+ {
+  "title": "The Lipostat and Circulating Factors",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "There is a negative feedback system in the hypothalamus (similar to your home thermostat) that measures levels of a circulating hormone called leptin. Leptin circulates in proportion to your body fat mass. The hypothalamus determines if you have the amount of fat it wants you to have. So the same way that your thermostat has a set point and your internal thermostat in your body has a set point, your hypothalamus has a certain idea of how much fat it wants you to have on your body. If you deviate from that, it starts to engage a coordinated series of physiological and behavioral responses to restore the previous level of body fat.",
+  "content_length": 637,
+  "content_tokens": 133,
+  "embedding": []
+ },
+ {
+  "title": "The Lipostat and Weight Gain",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Experiments have been done with animals that have a VMH lesion. If you restrict them to a normal level of calorie intake, it prevents weight gain. Later experiments showed that control of calorie intake didn’t completely eliminate weight gain, only about 80% of the weight gain was eliminated. The weight gain is thought to be mostly due to hyperphagia but also in small part, to changes in energy expenditure.",
+  "content_length": 410,
+  "content_tokens": 86,
+  "embedding": []
+ },
+ {
+  "title": "The Lipostat and Weight Loss",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "The lipostat will vigorously defend against weight loss. It’s literally a starvation response. It’s the same behavioral and physiological process that ramps up your hunger. It makes you more focused on food queues, with greater cravings. It downregulates your energy expenditure. It does everything it can to try to bring the fat back. That is a key reason and possibly the primary reason why weight loss is so difficult and so temporary.",
+  "content_length": 438,
+  "content_tokens": 91,
+  "embedding": []
+ },
+ {
+  "title": "Leptin and the Hypothalamus",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Leptin receptors are most important in the hypothalamus, where they convey messages to the AgRP neurons and POMC neurons. The AgRP neurons are the hunger neurons, while the POMC neurons are the satiety neurons. Leptin resistance is the concept that explains why people with obesity have high levels of leptin in circulation, but it doesn't suppress their excess body fat mass. Obese people require more leptin to avert the starvation response.",
+  "content_length": 443,
+  "content_tokens": 90,
+  "embedding": []
+ },
+ {
+  "title": "Leptin Resistance",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Leptin resistance is the concept that explains why people with obesity have high levels of leptin in circulation, but it doesn't suppress their excess body fat mass. Obese people require more leptin to avert the starvation response. The reason for leptin resistance is still unknown, but it could be due to fewer leptin receptors on a certain kind of cell, impairment of downstream signaling affecting intracellular signaling cascades, or a change in cell-to-cell communication.",
+  "content_length": 478,
+  "content_tokens": 91,
+  "embedding": []
+ },
+ {
+  "title": "Genetics and Obesity",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Obesity has a heritability of 0.7, according to studies in identical twins. This level of heritability suggests that something is very genetically predetermined. The heritability of body mass index (BMI) is very high, with about 75% of those differences between people explained by their genetics. Meta-analysis of twins studies suggest an average heritability of 75% for obesity.",
+  "content_length": 380,
+  "content_tokens": 77,
+  "embedding": []
+ },
+ {
+  "title": "Genome-wide association studies (GWAS) on BMI",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Genome-wide association studies (GWAS) are used to ask the question, “If we look at the entire genome, and we look at these representative genetic markers where different people have different genetic code called SNPs (single-nucleotide polymorphisms), where in the genome/ what markers correlate with differences in body mass index?” BMI is really easy to measure, so you can get really big sample sizes in this studies. This is needed to get statistically significant results. You’re looking at millions of people. There are also a lot of genomic markers, so tremendous statistical power is needed to detect anything with a high level of confidence. The latest of these studies is on the order of 800,000 people. An example of studies that have saturated heritability are GWAS studies of height; they looked at around 3 million people. These studies have gotten all the information they can about common genetic variants that correlate with differences in height. Stephan thinks studies of BMI will be saturated in the near future. Soon we may know all the common genetic differences that correlate with differences in BMI. So far, GWAS have identified 900 venetic variants. This suggests that differences in BMI between individuals are genetically very complex. BMI is determined by a lot of different genes with very small effect sizes. So you’re getting this sorting of all these different genes and whatever combination you get determines whether you are susceptible or not to obesity in a fattening environment.",
+  "content_length": 1518,
+  "content_tokens": 300,
+  "embedding": []
+ },
+ {
+  "title": "BMI is linked to brain biology",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "BMI is linked to brain biology. From a teleological viewpoint, why is it that only 50% of us will become obese in our lifetime?  Why not 100%? 1000 years ago, none of us were obese but 50% of us had the genes that would allow us to become obese in an obesogenic environment. Stephan adds the intuitive question, “Why can some people effortlessly stay thin and other people have to really struggle to maintain their weight and maybe are not able to”. Looking at genomic differences, one can identify genes and the tissues where they are expressed. There was a paper that looked at 48 different traits of all kinds of diseases, personality traits, other stuff; they asked “What does the tissue enrichment look like?” If you look at body mass index, it looks like psychiatric diseases and educational attainment. All of those are heavily enriched for brain-related genes to a similar degree. The biology of BMI is heavily enriched for brain-related biology. Peter adds that psychiatric diseases are some of the most heritable in medicine; schizophrenia has a heritability index of 0.6-0.7 (or more). These parallel characteristics are highly genetic and disproportionately concentrated in the brain.",
+  "content_length": 1196,
+  "content_tokens": 248,
+  "embedding": []
+ },
+ {
+  "title": "Genes and eating drive",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "We don’t really know exactly how the brain is doing this, what it is about these genes, but we can see that it correlates with certain types of ways of interacting with food. “People that have obesity promoting genes tend to have greater eating drive”‒ Stephan Guyenet. People with obesity promoting genes also tend to have lower satiety. But this hasn’t been explored very well yet. If you look at the monogenic obesity syndromes (where there is 1 mutation that causes severe obesity), those really revolve around the leptin brain signaling axis. Mutations tend to be in: leptin, the leptin receptor, melanocortins, the melanocortin receptors (which are downstream of leptin in the brain). These are the types of signals that show up in genome-wide association studies. But they’re not dominant; a lot of this stuff is really general. It’s things that affect general neuronal development and neurotransmitters.",
+  "content_length": 911,
+  "content_tokens": 202,
+  "embedding": []
+ },
+ {
+  "title": "Genes and Obesity",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "There is a lot to learn about how genes are involved in obesity; but what we can say is‒ differences in body fatness between individuals are primarily determined by differences in how the brain is constructed and how it operates. Understanding the tendency of humans to store fat through an evolutionary lens.",
+  "content_length": 309,
+  "content_tokens": 58,
+  "embedding": []
+ },
+ {
+  "title": "Efficiency of Energy Storage",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Humans have a remarkable ability to get fat. We rely on the ability to store fatty acids. Excess carbohydrates are stored as fatty acids in a relatively inert structure of white adipose tissue. There are good reasons to have a certain amount of body fat. This provides a way to cover your energy needs between eating opportunities.",
+  "content_length": 331,
+  "content_tokens": 65,
+  "embedding": []
+ },
+ {
+  "title": "Importance of Fat Reserves",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "The awesome thing about fat, it’s a concentrated source of energy. We also need fat reserves for times of illness. Apart from energy, other nutrients and vitamins are important, and the lack of them is also a source of mortality in kids. Humans have a lot more fat than our closest primate relatives. This is another selective pressure to maintain a certain amount of fat.",
+  "content_length": 372,
+  "content_tokens": 77,
+  "embedding": []
+ },
+ {
+  "title": "Hedonic Aspect of Food",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "The hedonic aspect of food, and how the brain reacts to modern, highly-rewarding foods.",
+  "content_length": 87,
+  "content_tokens": 23,
+  "embedding": []
+ },
+ {
+  "title": "Nutrition in Hunter Gatherer Diets",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "When you look at what hunter gatherers ate (either contemporary or historical), it is radically different from what we eat today. There are no sauces; they don’t put salt on it. They will also eat rotten meat. They also eat a lot of baobab. This is a very fibrous fruit that has some sweetness but also has some off-flavors; it’s very different from an apple. Tubers are another major part of their diet; this is their least preferred type of food.",
+  "content_length": 448,
+  "content_tokens": 109,
+  "embedding": []
+ },
+ {
+  "title": "Calorie Density vs Taste",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "To put this in context with the typical American diet, people raised in an environment of tasty, calorie-dense, easy-to-eat food would find it difficult to eat as our ancestors did. Peter thinks table sugar is disgusting, he wouldn’t eat it or mix it into water and drink it. Similarly, he finds the taste of lard disgusting. But he LOVES ice cream, “I think ice cream is about one of the most beautiful tastes in the world”.",
+  "content_length": 425,
+  "content_tokens": 103,
+  "embedding": []
+ },
+ {
+  "title": "The Rewarding Effect of Food",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Mice normally eat these unrefined food pellets. They much prefer calorie-dense, refined, high-fat pellets over these healthier pellets. He looked at the activity of their reward circuits and found that once they’ve been exposed to the preferred food, they devalue the less preferred food. This suggests that her brain is responding. Bliss point is a term used to describe this.",
+  "content_length": 377,
+  "content_tokens": 80,
+  "embedding": []
+ },
+ {
+  "title": "The combination of sugar and fat is what makes food enjoyable",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "If you removed the sugar from ice cream, it probably wouldn’t taste bad but it wouldn’t be nearly as good. If you removed the fat, it also wouldn’t be as good; fat-free ice cream isn’t exactly flying off the shelves. Foods commonly associated with strong cravings and addictive-like behavior are generally a combination of carbohydrate and fat. Usually there are other flavorings involved. Salt in savory foods like pizza or French fries. Sweet or savory are generally combinations of carbohydrate and fat.",
+  "content_length": 506,
+  "content_tokens": 111,
+  "embedding": []
+ },
+ {
+  "title": "Modern foods are crafted to maximally stimulate enjoyment and motivation",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "“Modern foods have been crafted to maximally stimulate enjoyment and motivation”‒ Stephan Guyenet. Generally these foods are hitting multiple bliss points at the same time. They’re not a combination you see in nature; you don’t see foods that are as reinforcing. The closest thing in nature may be certain type of nuts that have some carbohydrate and fat together.",
+  "content_length": 364,
+  "content_tokens": 79,
+  "embedding": []
+ },
+ {
+  "title": "Our bodies are wired to prioritize certain types of nutrients",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Human cultures have figured out what foods are good over long periods of time. Key to this is dopamine-mediated reinforcement. Our bodies are setup to respond to certain types of nutrients and create a motivation and learning response that prioritizes and sets the motivation level on seeking these types of foods. Presumably, these are the kinds of nutrients our ancestors would have needed to prioritize to maximize reproductive success (the currency of natural selection).",
+  "content_length": 475,
+  "content_tokens": 84,
+  "embedding": []
+ },
+ {
+  "title": "Gut-brain signaling and dopamine mediated reinforcement",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Research since 2018 has shown that we have dedicated sensors in the small intestine called neuropod cells. When they detect glucose (carbohydrates), amino acids (protein), or fatty acids (fat), they start sending signals up your vagus nerve to your brain stem. The signal gets distributes to many parts of the brain, particularly relevant is dopamine release in reward centers. If the food that you’re eating contains a high concentration of these valuable nutrients (particularly in combination), you’re going to get a higher level of dopamine release.",
+  "content_length": 553,
+  "content_tokens": 110,
+  "embedding": []
+ },
+ {
+  "title": "Steak is not as addictive as other foods because it lacks sugar and carbohydrates",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Conundrum: Why does it seem difficult to eat steak excessively if we’re hard-wired for calorie dense foods? It’s high in sodium, fat, and protein and total calories. The only thing steak is missing is sugar, fiber, carbohydrates etc. Stephan asks, “With the potato, is that with or without toppings?” It’s so much better with butter, sour cream, salt, and it has to have crispy skin too.",
+  "content_length": 387,
+  "content_tokens": 98,
+  "embedding": []
+ },
+ {
+  "title": "Meat and Cravings",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Stephan notes, “When you look at the foods that people cite as the most typically associated with strong cravings and loss of control over eating behavior, meat does not usually come up high on that list” Thinking about meat, it is about 75% water; so (1) the calorie density is not especially high unless it’s a really fatty piece of meat. Compare meat to something like a brownie or pizza, which is more calorie dense than steak. (2) Steak doesn’t have any carbohydrate, so it doesn’t have that fat-carbohydrate combination that is most closely associated with foods that people lose control around. (3) Steak has a high protein level, and though a strong protein-specific appetite  has been demonstrated in many different species, protein doesn’t work the same as carbohydrate and fat.",
+  "content_length": 788,
+  "content_tokens": 179,
+  "embedding": []
+ },
+ {
+  "title": "Carnivore Diet and Weight Loss",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "A review of the “Carnivore diet” [1:21:45]. People lose weight on a carnivore diet, is this the motivation for going on this diet?  Why does it result in weight loss? Stephan reviewed a book on this diet, The Carnivore Code. We don’t have any good data on the impact of carnivore diet on weight; there are no randomized control trials. Anecdotally, people lose a lot of weight. Stephan speculates that a carnivore diet has multiple properties that make it an effective weight-loss diet. 1 – It has very little carbohydrates. Being on the extreme of the fat:carbohydrate ratio in either direction is more slimming than being in the middle. 2 – The variety of a carnivore diet is very low. You can prepare meat in different ways. You can eat chicken, fish, beef, whatever but the variety is greatly, greatly reduced. 3 –  You’re cutting out all the highly-processed, calorie-dense foods. Everyone agrees these foods drive excess intake and increased body fatness, though we could debate why.",
+  "content_length": 989,
+  "content_tokens": 236,
+  "embedding": []
+ },
+ {
+  "title": "Carnivore Diet and Acute Illness",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Peter notes that a carnivore diet may have a role in overcoming some acute illness. One of the core tenets is that plants are low-grade toxic. Peter is biased toward thinking that plants are valuable. What is the thesis of a carnivore diet? Everything is toxic except grass-fed animal foods. Even tap water is considered not optimal. The book spends a lot of time going through the litany of all the potentially harmful compounds in plant foods. “There is a bias toward thinking if it’s in a plant, it’s healthy; and I don’t think that’s true.”‒ Stephan Guyenet. There are some plant compounds that are not good for some people. If you eat a lot of spinach, you can get kidney stones from all the oxalate. There are studies suggesting that the glucosinolates in cabbage family plants might contribute to type 2 diabetes. Kidney beans, if you don’t cook them enough, they can be really toxic because of the lectins.",
+  "content_length": 914,
+  "content_tokens": 216,
+  "embedding": []
+ },
+ {
+  "title": "Empirical Evidence in Nutrition",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Stephan notes, “The way to think about how healthy a food is is not to say, does it contain toxins? It’s to say what’s the cost-benefit analysis on this food? And most importantly, what are the empirical outcomes that we can see when its impacts on health are directly studied?” Stephan evaluates new ideas people come out with, about a healthy diet. Take lectins for example, Gundry suggests we shouldn’t eat certain plants because they contain lectins. This is a bottom-up approach, extrapolating empirical effects on health from mechanism. Stephan thinks its better in a complex field like nutrition to start with the empirical evidence. You first need a study to suggest that there’s an actual effect on health. Then you can try to understand the mechanism.",
+  "content_length": 761,
+  "content_tokens": 170,
+  "embedding": []
+ },
+ {
+  "title": "Biochemical Changes on a Carnivore Diet",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "What are some biochemical changes that occur in people on a carnivore diet? The obvious one is dyslipidemia. There’s a shift toward a ketogenic metabolism because of the fact that it’s very low carbohydrate.",
+  "content_length": 207,
+  "content_tokens": 49,
+  "embedding": []
+ },
+ {
+  "title": "Carnivore Diet and Blood Lipid Values",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "One of the downsides of the carnivore diet is the change in LDL cholesterol and LDL particle count. A survey of around 2000 carnivore dieters gathered information about their blood lipid values before and after this diet. There was a large increase in LDL cholesterol (LDL-C). HDL and triglycerides were in an optimal range.",
+  "content_length": 324,
+  "content_tokens": 67,
+  "embedding": []
+ },
+ {
+  "title": "Increased LDL-C and Cardiovascular Risk",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Stephan recalls a mean increase in LDL of 30 mg/dL in the survey of people on the carnivore diet. But a large increase in LDL-C raises red flags in terms of cardiovascular risk over the long run. Peter notes that of all the things that could go wrong, this is one of the most treatable. It’s very easy to treat elevated ApoB. High LDL is treatable and you don’t have to stop the diet.",
+  "content_length": 384,
+  "content_tokens": 96,
+  "embedding": []
+ },
+ {
+  "title": "Dietary Tribal Ideology",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Stephan Guyenet notes that these kinds of ideas emerge from the low carb community to defend against the idea that there might be some downside to certain types of low carb diets. It’s been taken to the extreme in the carnivore community because that’s a potent stimulus for increasing LDL. Peter notes the same stubborn ideology at the opposite end of the dietary spectrum, where patients go on these incredibly restrictive plant-based diets. It’s usually some combination of micronutrient deficiency and/or protein deficiency that’s going to be the death of them.",
+  "content_length": 565,
+  "content_tokens": 119,
+  "embedding": []
+ },
+ {
+  "title": "Energy Balance Model and Carbohydrate-Insulin Model",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "The energy balance model and the carbohydrate-insulin model are two models that explain the history of these models. The most recent incarnation of the carbohydrate-insulin model is a lot more complex than previous one. The idea that there are things in the diet and in the environment that impact insulin signaling and insulin signaling impacts body fatness.",
+  "content_length": 359,
+  "content_tokens": 67,
+  "embedding": []
+ },
+ {
+  "title": "The Carbohydrate-Insulin Model of Obesity",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "The carbohydrate-insulin model proposes a reversal of the relationship between energy balance and body fatness. The primary cause is the adipose tissue increasing in its fatness, driven by external factors such as carbohydrates. This is accompanied by a reduction in circulating metabolic fuels, which drives an increase in appetite. All feeding into a drive toward fatness.",
+  "content_length": 374,
+  "content_tokens": 69,
+  "embedding": []
+ },
+ {
+  "title": "The Energy Balance Model of Obesity",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "The energy balance model contends that body fatness is regulated by the energy intake and expenditure via the brain. The conventional model contends that fat tissue is simply a result of how many calories you happen to eat or how much you decide to exercise. None of the obesity researchers who study the mechanism of body fat regulation ascribe to the conventional model.",
+  "content_length": 372,
+  "content_tokens": 68,
+  "embedding": []
+ },
+ {
+  "title": "Are All Calories Equal?",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "The energy balance model does not consider all calories identical in terms of their impact on body fat. There may be different thermogenic effects and regulatory effects on appetite. Different diet compositions can produce animals that will gain fat independent of calorie intake. This has been shown for carbohydrate quality and dietary fat. These types of effects are possible.",
+  "content_length": 379,
+  "content_tokens": 65,
+  "embedding": []
+ },
+ {
+  "title": "Body Weight Set Points",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "The set point around which the lipostat regulates can change based on dietary and environmental variables. For example, if you take someone on a typical diet and put them on a low carb diet, they will spontaneously reduce their calorie intake, lose fat, and end up being comfortable at a lower weight. People who lost weight out to 1 year (maybe 2) haven’t seen any sign that their leptin-dependent starvation response goes away.",
+  "content_length": 429,
+  "content_tokens": 89,
+  "embedding": []
+ },
+ {
+  "title": "Influence of intrauterine environment on obesity",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "There is some evidence that women who undergo bariatric surgery for obesity and lose a lot of weight, their children are at a lower risk of developing obesity than women of similar weight who did not have the surgery. These are 2 women with severe obesity. The woman who had bariatric surgery lost a lot of weight before having a child.",
+  "content_length": 336,
+  "content_tokens": 67,
+  "embedding": []
+ },
+ {
+  "title": "Weight loss through gastric bypass surgery",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Peter doesn’t think weight loss through gastric bypass surgery is physiologically the same as losing weight from diet and lifestyle changes. Gastric bypass is unique where by as long as the person doesn’t take in liquid calories, the weight loss is quite durable. Liquid calories can completely disrupt the feedback mechanisms, similar to a GLP-1 agonist. Anecdotally, Peter has seen patients who take semaglutide who don’t lose weight. The way you can cheat semaglutide is to drink a massive amounts of calories. So drinking a lot of alcohol, juices, or things like that.",
+  "content_length": 572,
+  "content_tokens": 131,
+  "embedding": []
+ },
+ {
+  "title": "Takeaways for people who want to lose weight and keep it off",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "For people in the obese category, it’s worthwhile to consider medical treatment. Something like semaglutide; it’s a very safe drug. It causes something on the order of 18% weight loss. This is better than the typical effect of diet and lifestyle strategies but you have to keep taking the drug. See an obesity specialist. For people who just want to lose a few pounds, try to give the nonconscious brain signals to regulate things in a more slimming direction. Here are some ways to control these signals to your brain: 1 – Control your food environment and the sensory cues your brain is exposed to. 2 – There’s a wide variation in the number of calories it takes to feel satisfied at a meal and this depends on what foods you are eating. It’s intuitive to eat until you feel satisfied and then stop eating. The satiety point can be reached with vastly different numbers of calories.",
+  "content_length": 884,
+  "content_tokens": 191,
+  "embedding": []
+ },
+ {
+  "title": "Satiety and gastric distention",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Is satiety a function of gastric distention? This is important, but the system is complex; the brain is receiving a lot of signals. Signals from the small intestine about what the nutrient composition is. Oral sensory detection of food properties.",
+  "content_length": 247,
+  "content_tokens": 50,
+  "embedding": []
+ },
+ {
+  "title": "Nutrition and Satiety",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Your brain knows based on the sensory properties what the nutritional composition of the food is based on prior experience. Stomach distention is a biggie, and this relates to calorie density. If you have a food that has more volume per calories, it fills up your stomach more and sends signals to oppose further food intake. Protein is more satiating per calorie. Palatability, the better something tastes the less it fills you up per calorie.",
+  "content_length": 444,
+  "content_tokens": 89,
+  "embedding": []
+ },
+ {
+  "title": "Energy Balance Model vs Carbohydrate-Insulin Model",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "The central thrust of the carbohydrate-insulin model is, increased insulin signaling is driving an increase in food intake. This can be initiated by sleep disturbances that increase (or decrease) insulin signaling, or foods that stimulate insulin. Both Peter and Stephan agree, data suggests the energy balance model is easier to explain. The models are not mutually exclusive. If you understand the mechanism of obesity, then it should be easier to address.",
+  "content_length": 458,
+  "content_tokens": 85,
+  "embedding": []
+ },
+ {
+  "title": "New Era of Drug Development for Obesity",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "We’re in a new era where weight loss drugs are being designed based on mechanism and an understanding of biological regulation. Cardiovascular medicine is an example of this more refined era of drug development. Incredible insights have been coming out of genetics studies such as PCSK9 inhibitors. This is an example where we first understood the biology, then we came out with a therapy. And it works awesome. This is the era we’re are getting into now with obesity.",
+  "content_length": 468,
+  "content_tokens": 95,
+  "embedding": []
+ },
+ {
+  "title": "GLP-1 and Semaglutide",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "GLP-1 gave it that much needed time specificity GLP-1 also had some other benefits in reducing food intake and body weight. The figure below summarizes the effects of GLP-1 which would presumably extend to GLP-1 receptor agonists such as Semaglutide.",
+  "content_length": 250,
+  "content_tokens": 60,
+  "embedding": []
+ },
+ {
+  "title": "GWAS on BMI and Body Fat Distribution",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Genome-wide association studies (GWAS) on BMI point largely to genes involved in the brain GWAS on body fat distribution (controlling for BMI and looking at the distribution of fat on the body) point to a insulin signal. This gives some support to the carbohydrate-insulin model.",
+  "content_length": 279,
+  "content_tokens": 61,
+  "embedding": []
+ },
+ {
+  "title": "Energy Intake and Energy Partitioning",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Peter’s takeaway‒ the total amount of body fat seems more related to energy intake; it’s regulated more on the intake side of the equation and somewhat by the brain. Stephan thinks there could be some energy partitioning effect but he doesn’t think the carbohydrate-insulin model explains obesity, because obesity is not just energy partitioning. You have a bigger body, you’re eating more energy, you’re burning more energy. You have more lean mass, more fat. That phenotype is not explained by energy partitioning. But there could be some subtle energy partitioning phenotype that is also operating.",
+  "content_length": 601,
+  "content_tokens": 130,
+  "embedding": []
+ },
+ {
+  "title": "Dietary Fat and Energy Intake",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "John Speakman published a study of around 29 different diets and 5 different strains of mice. Their predictions and findings are summarized in the figure below. They systematically varied the carbohydrate to fat ratio in the diet. They found mice got fatter with the more fat they ate, up to a point at which they began to lose weight. If you start with animals that are on a low fat/ high carbohydrate diet, and you start replacing that carb with fat, they get fatter and fatter and fatter and fatter and fatter until you hit about 60%. But then as they kept increasing the fat and decreasing the carbohydrate, the mice would get slimmer again. Stephan’s takeaway: having a diet in the middle is where the problem is. Peter notes this is ironic, because that’s where the standard American diet is, in the middle.",
+  "content_length": 813,
+  "content_tokens": 174,
+  "embedding": []
+ },
+ {
+  "title": "Explanation for equal proportions of fat and carbohydrate",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Stephan adds, “If you look anywhere in the world where people are rich enough and industrialized enough to eat whatever they want, that’s generally what you’re going to see. At least after a couple decades of cultural adaptation, you’re going to see pretty equal proportions of fat and carbohydrate.” There are some hypotheses to explain why this is (though presently we don’t really know). This is primarily an empirical observation that we’re trying to explain. 1 – There is a physiological effect of not eating much carbohydrate. 2 – There is also a physiological effect of eating a low fat diet. But Stephan doesn’t think these are great explanations as these metabolic effects are very small. His thought is that food in these diets is less rewarding so we eat less of it.",
+  "content_length": 777,
+  "content_tokens": 168,
+  "embedding": []
+ },
+ {
+  "title": "Low fat and low carb diets",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "When people go on a very low fat or a very low carb diet, their energy intake declines by hundreds of calories a day. His thought is that food in these diets is less rewarding so we eat less of it. Peter notes, “It’s not very difficult to take your carbohydrate intake down to 5-7%, a ketogenic diet will do that. It’s a pretty easy diet to adhere to, especially today.” He doesn’t know now how one would go about getting only 5% of their calories from fat; this seems harder. In studies of low fat diets, the lowest fat content was in the 10% fat range. You would have to work hard to lower your fat intake to 15% and Peter is not convinced there are great health benefits to this.",
+  "content_length": 682,
+  "content_tokens": 164,
+  "embedding": []
+ },
+ {
+  "title": "Red Pen Reviews",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Red Pen Reviews is a 501c3 nonprofit that publishes the most informative, consistent and unbiased reviews of popular nutrition books available. Developed by Stephan with the help of other academics; inspired by the nutrition scientist Seth Yoder. What makes this website unique is the semi-quantitative review method they developed and apply to each book. They explain their review method on the website. This yields a numerical score for scientific accuracy, reference accuracy, and helpfulness. This allows them to apply the same rigorous method to all books so the reader can compare apples to apples between different books.",
+  "content_length": 628,
+  "content_tokens": 115,
+  "embedding": []
+ },
+ {
+  "title": "Quality of popular nutrition books",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Most of his surprises were realizing the quality of popular nutrition books was worse than he thought. Publishers do not impose a filter on the contents of these books. They do not view it as their job to police the claims of authors.",
+  "content_length": 234,
+  "content_tokens": 46,
+  "embedding": []
+ },
+ {
+  "title": "Fact-checking process for writing a book",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Peter is in the process of trying to finish his book; one of the things that is so daunting is the fact-checking process. He could never rely on his publisher for this, it’s too technical. He has analysts who fact check, but they have to be analysts who did not help with the research for the book because you’ve got to get fresh eyes on it.",
+  "content_length": 341,
+  "content_tokens": 80,
+  "embedding": []
+ },
+ {
+  "title": "Mistakes are inevitable",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Peter agrees, mistakes are inevitable. The best approach is to collectively figure out what they are and create a repository of updates. Stephan thinks this is the best attitude, a truth-seeking attitude.",
+  "content_length": 204,
+  "content_tokens": 39,
+  "embedding": []
+ },
+ {
+  "title": "Red Pen Reviews",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "The method Stephan developed for Red Pen Reviews is available on their website for authors to see. They have criteria for healthfulness. They have criteria for scientific accuracy that can’t be gamed. It’s a great resource for writing with higher quality evidence.",
+  "content_length": 264,
+  "content_tokens": 54,
+  "embedding": []
+ },
+ {
+  "title": "Nutrition Knowledge",
+  "date": "June 27, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "It is kind of amazing how much we still don’t know about something that is so ubiquitous and so important. Peter knows his thinking on this has changed quite a bit and he now finds the balance of the evidence to be more on the energy balance side of the equation. He enjoys trying to understand both sides of this. It’s very complicated, suggesting that there’s more overlap in the theories than we probably appreciate.",
+  "content_length": 419,
+  "content_tokens": 89,
+  "embedding": []
+ }
+]

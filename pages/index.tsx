@@ -13,6 +13,8 @@ import endent from 'endent';
 import Head from 'next/head';
 import { KeyboardEvent, useEffect, useRef, useState } from 'react';
 import { Drawer, useMediaQuery, Theme } from '@mui/material';
+import { getQuestionPrompt } from '@/prompts/prompts';
+const { encode, decode } = require('@nem035/gpt-3-encoder');
 
 export default function Home() {
   const inputRef = useRef<HTMLInputElement>(null);
@@ -101,20 +103,23 @@ export default function Home() {
 
     console.log('chunks' + chunks.length);
 
-    const prompt = endent`
-    Use the following passages to provide an answer to the query: "${query}" 
-    \n\n Evaluate each passage in relation to the question, 
-    and use the passage if you deem it relevant.
-    \n\n Combine the information in the passages to form a coherent answer to the query. 
-    \n\n If the passages does not contain information that is fit to answer the query, 
-    you should form your own answer.
-    \n\n Be concise and clear in corresponding your answer to the query.
-    \n\n Try to not repeat yourself.
-    \n\n Do not include information that does not address the question.
-    \n\n Passages:
+    let prompt: string = getQuestionPrompt(
+      query,
+      filteredResults,
+      questions,
+      answers
+    );
 
-    ${filteredResults?.map((d: any) => d.content).join('\n\n')}
-    `;
+    let prompt_token_length = encode(prompt).length;
+
+    let i = filteredResults.length - 1;
+
+    while (prompt_token_length > 3096) {
+      i--;
+      filteredResults.splice(i, 1);
+      prompt = getQuestionPrompt(query, filteredResults, questions, answers);
+      prompt_token_length = encode(prompt).length;
+    }
 
     const answerResponse = await fetch('/api/answer', {
       method: 'POST',
@@ -144,6 +149,14 @@ export default function Home() {
 
     let newAnswer = '';
 
+    let followUpQuestions: string[] = [];
+
+    onFollowUpQuestions(query, questions).then((data) => {
+      if (data) {
+        followUpQuestions = data;
+      }
+    });
+
     while (!done) {
       const { value, done: doneReading } = await reader.read();
       done = doneReading;
@@ -157,23 +170,30 @@ export default function Home() {
 
     if (done) {
       setAnswers((prev) => [...prev, newAnswer]);
-      onFollowUpQuestions(query, newAnswer);
+      if (followUpQuestions) setFollowUpQuestions(followUpQuestions);
       setAnswering(false);
     }
 
     inputRef.current?.focus();
   };
 
-  const onFollowUpQuestions = async (query: string, answer: string) => {
+  const onFollowUpQuestions = async (
+    query: string,
+    previousQuestions: string[]
+  ): Promise<string[] | undefined> => {
     console.log('onFollowUpQuestions');
-    const followUp = await getFollowUpQuestions(query, answer);
+    const followUp = await getFollowUpQuestions(query, previousQuestions);
 
     /// parse json string
     if (followUp) {
-      const parsed = await JSON.parse(followUp);
-      const followUps = parsed.map((d: any) => d.question);
-      setFollowUpQuestions(followUps);
-      console.log(followUps);
+      try {
+        const parsed = await JSON.parse(followUp);
+        const followUps = parsed.map((d: any) => d.question);
+        return followUps;
+      } catch (e) {
+        console.log(e);
+        return undefined;
+      }
     }
   };
 
@@ -387,7 +407,7 @@ export default function Home() {
                   key={i}
                   className={`${
                     i === questions.length - 1 ? '' : 'mt-6'
-                  } w-full flex flex-col`}
+                  } w-full flex flex-col mt-6`}
                 >
                   <div className='font-bold text-2xl w-max'>Question</div>
                   <div
@@ -421,7 +441,7 @@ export default function Home() {
                       {followUpQuestions.map((fuq, index) => (
                         <button
                           key={index}
-                          className='mt-2 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline'
+                          className='mt-2 bg-blue-500 text-sm hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline'
                           onClick={() => {
                             setQuery(fuq);
                             handleAnswer(fuq);

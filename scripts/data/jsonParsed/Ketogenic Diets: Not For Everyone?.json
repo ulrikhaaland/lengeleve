@@ -1,0 +1,82 @@
+[
+ {
+  "title": "The Ketogenic Diet and Lipid Perturbations",
+  "date": "December 5, 2021",
+  "context": "Ketosis",
+  "people": "Peter Attia",
+  "content": "The high-fat, very low-carbohydrate (typically between 20-50 grams) diet (VLCD), which we will also refer to as a ketogenic diet, may help to ameliorate metabolic syndromes like obesity and type 2 diabetes, and positively affect problematic cardiometabolic markers. However, a recent paper published in the Journal of Clinical Lipidology highlights five cases in which patients had severe lipid perturbations while on the diet. These lipid perturbations were due to pre-existing conditions, some of which were identified in the paper, and the cases suggest that abnormal lipid responses to the ketogenic diet is driven, in part, by genetics.",
+  "content_length": 641,
+  "content_tokens": 139,
+  "embedding": []
+ },
+ {
+  "title": "Genetic Factors and the Ketogenic Diet",
+  "date": "December 5, 2021",
+  "context": "Ketosis",
+  "people": "Peter Attia",
+  "content": "The VLCD importantly did not cause aberrant baseline lipids in the instances under discussion. Rather, the diet may interact with intrinsic factors to exacerbate underlying conditions, which may or may not be known upon starting the diet. Some patients in the study had an identified family history of cardiovascular disease, and in all cases, subjects responded to the diet with elevated total cholesterol (TC) and low-density lipoprotein cholesterol (LDL-C). Although one out of these five total subjects did not report a pre-existing condition or family history of lipid abnormalities, the patient’s apoE genotype revealed a single copy of the apolipoprotein E4 allele, often correlated with the hyperabsorption of cholesterol. This association could explain the concomitant increase in TC, TG, and LDL-C on a ketogenic diet.",
+  "content_length": 828,
+  "content_tokens": 171,
+  "embedding": []
+ },
+ {
+  "title": "Elevated LDL-C and Cardiovascular Disease Risk",
+  "date": "December 5, 2021",
+  "context": "Ketosis",
+  "people": "Peter Attia",
+  "content": "Elevated LDL-C is a concern for many because it is a measure of cardiovascular disease risk used in most health guidelines, including those by the American Heart Association. The logic goes like this: the LDL-C measure refers to how much cholesterol is carried in LDL particles, each of which also carries a single copy of apolipoprotein B (apoB). ApoB-containing lipoproteins transport cholesterol content into the arterial wall, which may cause plaque to develop. Given the one-to-one ratio of LDL and apoB, an apoB measure, compared to LDL-C, provides a more accurate measure of cardiovascular disease risk, though LDL-C and not apoB is often reported in studies. Some analyses suggest that a ketogenic diet compared to a low-fat diet reduces cardiovascular risk factors despite an increase in LDL-C. With that said, LDL-C remains the primary guideline target for lipid-lowering drug therapy and for dietary management as it pertains to atherosclerotic risk.",
+  "content_length": 961,
+  "content_tokens": 212,
+  "embedding": []
+ },
+ {
+  "title": "Ketogenic Diet and Blood Measurements",
+  "date": "December 5, 2021",
+  "context": "Ketosis",
+  "people": "Peter Attia",
+  "content": "The investigators did not take blood measurements confirming nutritional ketosis (characterized by beta-hydroxybutyrate levels between 0.4 and 0.6 mmol/L).",
+  "content_length": 155,
+  "content_tokens": 35,
+  "embedding": []
+ },
+ {
+  "title": "Useful Markers for Clinical Picture",
+  "date": "December 5, 2021",
+  "context": "Ketosis",
+  "people": "Peter Attia",
+  "content": "The study failed to include other useful markers that would have helped create a better clinical picture and better guide for individualized corrective action. For instance, in addition to lipoprotein burden, I evaluate cardiovascular risk based on measures of inflammation such as C-reactive protein, molecules such as uric acid and homocysteine that relate to endothelial function, and metabolic markers of insulin resistance/sensitivity and kidney function.",
+  "content_length": 460,
+  "content_tokens": 85,
+  "embedding": []
+ },
+ {
+  "title": "Cholesterol Synthesis and Ketogenic Diet",
+  "date": "December 5, 2021",
+  "context": "Ketosis",
+  "people": "Peter Attia",
+  "content": "The case study report also does not mention evaluating markers of cholesterol synthesis. In some people, dietary saturated fat induces excess cholesterol synthesis and can also decrease the expression of LDL receptors in the liver, which impairs clearance cholesterol-carrying apoB particles from the plasma. Understanding the potential effect of dietary saturated fat on increasing circulating LDL particles can inform the decision to pursue a ketogenic diet.",
+  "content_length": 460,
+  "content_tokens": 78,
+  "embedding": []
+ },
+ {
+  "title": "Individualized Diet Modifications",
+  "date": "December 5, 2021",
+  "context": "Ketosis",
+  "people": "Peter Attia",
+  "content": "Those who are starting a ketogenic diet or have experienced abnormal physiological responses to this diet can and should be tested for underlying predispositions. Collecting information to triangulate the responsible drivers of elevated LDL particles and apoB allows for appropriate diet modifications, unique to the individual. In such cases, replacing dietary saturated fat or implementing lipid modulating therapies may preserve the diet’s benefits while mitigating possible cardiovascular risks.",
+  "content_length": 499,
+  "content_tokens": 85,
+  "embedding": []
+ },
+ {
+  "title": "Importance of Individual Assessment",
+  "date": "December 5, 2021",
+  "context": "Ketosis",
+  "people": "Peter Attia",
+  "content": "Irrespective of the diet someone chooses, one thing is for certain: people vary greatly in their response to any given diet, making it especially important to track and assess each scenario on an individual basis.",
+  "content_length": 213,
+  "content_tokens": 40,
+  "embedding": []
+ }
+]

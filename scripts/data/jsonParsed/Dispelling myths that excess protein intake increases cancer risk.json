@@ -1,0 +1,72 @@
+[
+ {
+  "title": "Dispelling myths about protein intake and cancer risk",
+  "date": "May 3, 2022",
+  "context": "Protein",
+  "people": "Peter Attia",
+  "content": "Layne Norton dispels the myth that excess protein intake increases cancer risk through elevations in mTOR and IGF-1. He explains that mTOR elevations that lead to cancer originate mostly via insulin resistance. There’s a big difference between a dose of protein that causes mTOR to rise and go back down in a natural rhythm and a chronic stimulus. This is also tissue-specific; we’re talking about in skeletal muscle, not liver, not brain necessarily, those sorts of things. The same is true for IGF-1.",
+  "content_length": 502,
+  "content_tokens": 111,
+  "embedding": []
+ },
+ {
+  "title": "The difference between acute and chronic response to stressors",
+  "date": "May 3, 2022",
+  "context": "Protein",
+  "people": "Peter Attia",
+  "content": "Exercise is a short-term stressor, it’s a controlled dose of a stressor that your body can handle. There’s a difference between an acute response and a chronic response. If you look at people with elevated inflammation, their inflammatory markers are not super high but are elevated all the time. It’s the chronic pulse that’s the problem.",
+  "content_length": 339,
+  "content_tokens": 79,
+  "embedding": []
+ },
+ {
+  "title": "The role of mTOR in cancer treatment",
+  "date": "May 3, 2022",
+  "context": "Protein",
+  "people": "Peter Attia",
+  "content": "Layne Norton explains that mTOR plays a role in cancer, but it can’t be the cart before the horse sort of thing. People will say Rapamycin is an mTOR inhibitor and that’s a cancer treatment drug. But is it a good idea to use chemotherapy to prevent cancer? Peter Attia adds that Rapamycin has never been a particularly successful cancer therapeutic used constituently. It does show benefits for longevity in basically all animal models. So the extrapolation would be pulsatile rapamycin is probably beneficial.",
+  "content_length": 510,
+  "content_tokens": 110,
+  "embedding": []
+ },
+ {
+  "title": "The relationship between IGF levels and mortality",
+  "date": "May 3, 2022",
+  "context": "Protein",
+  "people": "Peter Attia",
+  "content": "Peter Attia agrees with the point that tissue specificity and time course are very difficult things to infer from the outside, which is sort of the meta view of all things equal. IGF levels have a J curve with mortality and therefore very, very high levels of IGF must be problematic.",
+  "content_length": 284,
+  "content_tokens": 56,
+  "embedding": []
+ },
+ {
+  "title": "Protein and Cancer",
+  "date": "May 3, 2022",
+  "context": "Protein",
+  "people": "Peter Attia",
+  "content": "There are people that will say that protein increases cancer. Meta-analysis looking at cancer and protein content of the diet look at above 70 g protein per day (1.2 g / kg body weight). Layne notes, “What they found was that at the highest levels of meat intake, but also with the highest levels of fruit and vegetable intake, there was no difference in cancer incidents between the lowest level of meat intake and even with the highest level of fruit and vegetable intake”. So high protein is not an issue in a healthy diet.",
+  "content_length": 526,
+  "content_tokens": 112,
+  "embedding": []
+ },
+ {
+  "title": "Diet Quality",
+  "date": "May 3, 2022",
+  "context": "Protein",
+  "people": "Peter Attia",
+  "content": "“You can achieve good diet quality on a whole host of different diets”— Layne Norton. A lot of it boils down to: What are the food choices you’re making on balance? Are you getting enough fruits and vegetables and minerals and micronutrients?",
+  "content_length": 242,
+  "content_tokens": 59,
+  "embedding": []
+ },
+ {
+  "title": "Whole Foods vs Supplements",
+  "date": "May 3, 2022",
+  "context": "Protein",
+  "people": "Peter Attia",
+  "content": "Every time we try to say, fruits and vegetables have these benefits on health that we see pretty consistently, so let’s try and take out these isolated micronutrients and give them in the supplements. We’re always disappointed with the results. We have to eat the whole food to get those benefits.",
+  "content_length": 297,
+  "content_tokens": 65,
+  "embedding": []
+ }
+]

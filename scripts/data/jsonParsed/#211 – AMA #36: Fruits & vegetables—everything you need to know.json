@@ -1,0 +1,442 @@
+[
+ {
+  "title": "Nutrition profiles of various fruits and vegetables",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter discusses the nutritional profiles of various fruits and vegetables as a means of assessing their relative value. He explains the difference between eating them vs. drinking them, how processing fruits and vegetables can change their properties, and how one’s current state of health affects nutrition strategy when it comes to fruits and vegetable consumption.",
+  "content_length": 367,
+  "content_tokens": 63,
+  "embedding": []
+ },
+ {
+  "title": "Benefits and negative effects of phytochemicals in produce",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter explains the potential benefits and negative effects of certain phytochemicals found in produce and concludes with a discussion of supplementing with green powders, multivitamins, and more. Additionally, he discusses phytochemicals in produce: potential positive health impacts on inflammation, cardiovascular (CV) risk, and cancer, as well as phytochemicals with potential negative health impacts.",
+  "content_length": 404,
+  "content_tokens": 78,
+  "embedding": []
+ },
+ {
+  "title": "Nutrition profile of select vegetables",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter discusses the nutrition profile of select vegetables, including sugar content, micronutrients, and more.",
+  "content_length": 110,
+  "content_tokens": 21,
+  "embedding": []
+ },
+ {
+  "title": "Supplementing with vitamins and nutrients",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter discusses supplementing vitamins and nutrients as an alternative to eating whole fruits and vegetables, as well as green powder supplements.",
+  "content_length": 146,
+  "content_tokens": 24,
+  "embedding": []
+ },
+ {
+  "title": "The limitations of nutritional data and challenges of making broad recommendations",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The following is true on average: People who eat more fruits and vegetables are healthier than people who don’t. But if you really get into the details of this stuff, there’s far less that’s known than is represented as true. That’s a broader concept that applies to nutrition in general. And it speaks to why the nutrition chapter of Peter’s book has been “hands down posing the greatest difficulty”.",
+  "content_length": 401,
+  "content_tokens": 94,
+  "embedding": []
+ },
+ {
+  "title": "What we really know and don’t know",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Too much food is bad. Too little food is bad. Too little protein is bad. Certain micronutrients are essential. Certain things are toxic. After that, it starts to go from really clear, absolute knowledge to probable knowledge very quickly (And it does so quicker than it does with sleep, with exercise, and even with pharmaceuticals).",
+  "content_length": 333,
+  "content_tokens": 70,
+  "embedding": []
+ },
+ {
+  "title": "Why do people speak in absolute terms about nutrition despite the nuanced and complex reality?",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "One explanation is that everyone on the planet has some “expertise” with nutrition because we eat food every single day.",
+  "content_length": 120,
+  "content_tokens": 27,
+  "embedding": []
+ },
+ {
+  "title": "Nutrition is a difficult field to study",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Nutrition is a difficult field to study, and it is nearly impossible to do this type of work in large sample sizes over long durations. Therefore, to get insights on those topics, you have to rely almost without exception on epidemiology. There are some reasonably well done, large clinical trials, but they require thousands of people and many, many years…And that means your interventions had better be very, very simple if you’re going to achieve compliance over that period of time.",
+  "content_length": 486,
+  "content_tokens": 99,
+  "embedding": []
+ },
+ {
+  "title": "People doing good work",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Kevin Hall is really doing some super interesting work. This is an area where you can get answers to questions in months. And you don’t need thousands of people, you can actually do these in tens of people provided you’re using very precise instrumentation.",
+  "content_length": 257,
+  "content_tokens": 55,
+  "embedding": []
+ },
+ {
+  "title": "Omega 6 polyunsaturated fats",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter has seen pretty compelling evidence that omega 6 polyunsaturated fats as substituted for saturated fats could actually be viewed as harmful. For example, looking at the initially unpublished data from the Minnesota Coronary Experiment that completed in 1973, but didn’t get published in its first rendition until 1989 and then wasn’t reexamined and republished much later. If you look at those data, you could make a very compelling case that omega 6 polyunsaturated fats as substituted for saturated fats could actually be viewed as harmful. But then you look at a whole bunch of other data and you might conclude that actually any harm associated with those fats is purely due to the confounders of what they track with, the seed oils that show up in low quality foods and junk foods. In other words, it’s not the seed oil that’s the problem, it’s the junk food that’s the problem.",
+  "content_length": 889,
+  "content_tokens": 192,
+  "embedding": []
+ },
+ {
+  "title": "Optimal diet depends on metabolic health",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Don’t confuse the optimal diet for you in a state of health versus the optimal diet for you in a state of sickness that’s trying to restore your health. For example: When Peter works with patients who are metabolically healthy, he’s never once restricted the amount of fruit they consume. But when working with a patient who has type 2 diabetes and non-alcoholic fatty liver disease, he will actually restrict how much fruit they consume. Peter says that “we’re going to have a better chance of improving your metabolic health if we at least temporarily reduce the volume of that significantly. Reduce the burden of fructose on your liver.” This is because both fructose and ethanol are pretty uniquely poised to make a sick liver sicker.",
+  "content_length": 738,
+  "content_tokens": 156,
+  "embedding": []
+ },
+ {
+  "title": "Reducing Fructose Intake",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Empirically, it seems easier to reduce fructose intake and to do so through fruits.",
+  "content_length": 83,
+  "content_tokens": 19,
+  "embedding": []
+ },
+ {
+  "title": "Defining Metabolic Health",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Metabolic health can be defined in many ways. The quickest and easiest way is probably to use the criteria for metabolic syndrome. However, Peter looks at many more factors beyond those things, such as oral glucose tolerance tests, uric acid levels, homocysteine levels, the entire lipid profile, and functional testing.",
+  "content_length": 320,
+  "content_tokens": 64,
+  "embedding": []
+ },
+ {
+  "title": "Nutrition Profiles of Fruits and Vegetables",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The nutrition profiles of various fruits and vegetables can be compared by doing it on equal servings per weight. By normalizing it to a 300 gram serving, you get a sense of the trade-offs between the content in them. For instance, oranges have 28 grams of sugar in a 300 gram serving, while a 300 gram serving of dates has 190 grams of sugar. Looking at Figure 1, you will get a sense of the following: To describe fruits or vegetables as a homogeneous construct is silly.",
+  "content_length": 473,
+  "content_tokens": 100,
+  "embedding": []
+ },
+ {
+  "title": "Benefits of Fiber",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Fiber is beneficial probably first and foremost, because of its effect on the microbiome. We have to distinguish between soluble and insoluble fiber. Soluble fiber is that which we can digest, while insoluble fiber is that which we cannot digest.",
+  "content_length": 246,
+  "content_tokens": 49,
+  "embedding": []
+ },
+ {
+  "title": "The role of fiber in sugar absorption and digestion",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Fiber probably plays a role in slowing down the absorption of the macronutrients—the amount of glucose and fructose and things like that. Also plays an important role in feeding the bacteria in our gut. In short, that’s probably part of why there’s some benefit to fiber from a sugar absorption and digestion standpoint.",
+  "content_length": 320,
+  "content_tokens": 69,
+  "embedding": []
+ },
+ {
+  "title": "Eating whole fruits vs. drinking fruit juice or smoothies",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "All things equal, anytime you eat a fruit or a vegetable closest to its natural form, you’re going to have a lower, basically, glycemic index to it. For instance, apple sauce may have a glycemic index of 53 while a whole apple may have a glycemic index of 38. As a general rule, I think drinking calories is not a good idea. One exception to that rule would be shakes that are meal replacements.",
+  "content_length": 395,
+  "content_tokens": 90,
+  "embedding": []
+ },
+ {
+  "title": "Drinking alcohol: metabolic effects, calories in alcohol, and more",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "“Alcohol is literally the worst food you can drink.” —Peter Attia. Compared to say, a fruit smoothie, you’re getting more caloric density with alcohol. Alcohol is 7 calories per gram. Carbohydrates (e.g., fruit) is 4 calories per gram. Then you also get the metabolic effects of alcohol which are pretty harmful. If weight loss and fat loss is an objective, then I would really make sure you’re not drinking those two glasses of wine a night.” —Peter Attia",
+  "content_length": 456,
+  "content_tokens": 113,
+  "embedding": []
+ },
+ {
+  "title": "Can excess fruit consumption lead to insulin resistance?",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "There is no relevant text on this topic.",
+  "content_length": 40,
+  "content_tokens": 9,
+  "embedding": []
+ },
+ {
+  "title": "Limiting Fruit Consumption in Type 2 Diabetes",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "One could argue that limiting fruit consumption in someone with type 2 diabetes makes sense. However, does Peter worry that excess fruit consumption could lead to insulin resistance in someone who is metabolically healthy? Short answer is “no”. Peter says: “In a metabolically healthy individual, I just don’t see any compelling reason to restrict fruit.”",
+  "content_length": 355,
+  "content_tokens": 75,
+  "embedding": []
+ },
+ {
+  "title": "Glycemic Impact of Different Fruits",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter discusses the glycemic impact of different fruits, using CGM data to assist decision making, and how fruit is fundamentally different from what we evolved to eat. He notes that not all fruits are created equal and gives a personal example of grapes having a huge impact on his blood sugar. He suggests eating fewer grapes or pairing them with a time of day when glucose disposal is better, such as right after a workout, and not eating them before bed.",
+  "content_length": 458,
+  "content_tokens": 90,
+  "embedding": []
+ },
+ {
+  "title": "How Fruit Has Changed",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter notes that a lot of the fruit today probably bears no resemblance to fruits of 100 years ago, let alone 1000 years ago. The real change in fruits and vegetables has been through the domestication of selective breeding and advances in understanding how to create different breeds of fruit. He suggests that while many of these fruits are wonderful, they are pretty foreign to our DNA and not necessarily what we evolved to eat.",
+  "content_length": 432,
+  "content_tokens": 81,
+  "embedding": []
+ },
+ {
+  "title": "Dietary Approaches for People with Carbohydrate Tolerance Disorders",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter discusses dietary approaches for people with a carbohydrate tolerance disorder, such as type 2 diabetes and NAFLD, and when it makes sense to restrict fruit consumption. He notes that type 2 diabetes is a carbohydrate tolerance disorder and that excess energy seems to be the root cause of this energy spillover from the adipocyte into the muscle or into the liver or into the perinephric space or into the pancreas. He suggests that one way to treat T2D is to completely calorically restrict people or to fast, and that ketogenic diets are a very effective way to treat type 2 diabetes.",
+  "content_length": 593,
+  "content_tokens": 121,
+  "embedding": []
+ },
+ {
+  "title": "Ketogenic Diet and Sugar",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The advantage that they have is the patients don’t have to feel starving all the time. It’s generally easier for patients to eat less on a ketogenic diet than it is on a balanced diet (meaning balanced in carbohydrates and fat). That’s just an empirical fact. That’s not saying anything special about a ketogenic diet. It’s simply an empirical fact and anybody who’s tried a ketogenic diet, anybody who has treated patients with ketogenic diets will attest to that. One of the other things that’s missing in a ketogenic diet is sugar. Sugar, even in modest amounts, will boot you out of ketosis and it’s something probably about the elevation of beta-hydroxybutyrate and acetoacetate that makes the ketogenic diet work a little bit better. It augments some of the glucose demand of the brain. It’s probably about a 10- to 20% energy offset, obviously in very, very deep ketosis, which can really only be achieved through fasting.",
+  "content_length": 929,
+  "content_tokens": 220,
+  "embedding": []
+ },
+ {
+  "title": "Fruit and Nutrition",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "“I absolutely feel like the easiest way to get people to start to close the gap when they’re starting out with a place of type 2 diabetes and NAFLD, is to restrict fructose in the form of fruit.” —Peter Attia. Peter will sometimes go pretty draconian and limit people to 15 grams a day of fructose. For context, that’s a small bowl of berries or half an apple.",
+  "content_length": 360,
+  "content_tokens": 88,
+  "embedding": []
+ },
+ {
+  "title": "Nutrition Profile of Select Vegetables",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The first thing that just jumps out at you is that there is way, way less sugar in veggies than in fruit. If you rank veggies in sweetness (starting from least sweet) first would be spinach the sweetest being sweet corn. Peter is surprised at how little sugar is in sweet corn—a 200 gram serving (of which 150 grams is water) has only 12 and a half grams of sugar. Generally speaking, fiber in veggies is as high as Peter would’ve guessed. Kale came in at 7 grams of fiber per 200 gram serving. There really is something to be said for the micronutrient value of things like kale and spinach.",
+  "content_length": 592,
+  "content_tokens": 133,
+  "embedding": []
+ },
+ {
+  "title": "Phytochemicals in Produce",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Phytochemicals in produce: potential positive health impacts on inflammation, cardiovascular (CV) risk, and cancer. Phytochemicals are chemicals that are produced by plants. Sometimes phytochemicals actually play a role in helping plants defend themselves. Polyphenols then get subdivided into flavonoids and non-flavonoids.",
+  "content_length": 324,
+  "content_tokens": 69,
+  "embedding": []
+ },
+ {
+  "title": "Cocoa Flavonoids and Cardiovascular Health",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "There’s some interesting data on the effect of cocoa flavonoids as a supplement with respect to cardiovascular disease. There’s a nutritional supplement made from cocoa extract called CocoaVia. Note that you can’t get enough cocoa flavonoids from eating chocolate (so don’t go nuts!). But the pure cocoa flavonoid seems to offer pretty significant improvements in endothelial health. An interesting study that just came out in 2022 that looked at using about 500 milligrams a day of cocoa flavonoids. Study last 3.5 years. Groups: 400 subjects taking supplement and 450 in the placebo group. Results: It did not find a significant reduction in total cardiovascular events though it did find a reduction in CVD deaths specifically. Peter says that he wouldn’t be surprised if this study was just underpowered so that the effect size that was significant was smaller than what they set out to test. But it at least seems interesting to me that there might be something to these cocoa flavonoids when supplemented as a way to improve endothelial function. And that can be done through presumably promotion of nitric oxide synthase and things like that.",
+  "content_length": 1149,
+  "content_tokens": 238,
+  "embedding": []
+ },
+ {
+  "title": "Phytochemicals for Cancer",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Certain phytochemical classes, again, the polyphenols probably being the most well studied, but also tannins and glycosides, they do show some evidence of reducing inflammation, both in vitro and also in vivo for rodent models, not in vivo for humans (1, 2, 3). The clinical evidence of this in humans is still lacking…“but that doesn’t stop people from being all over social media telling you that the secret elixir to life is more polyphenols.” The data is probably stronger on cardiovascular disease than it is on cancer, says Peter.",
+  "content_length": 536,
+  "content_tokens": 122,
+  "embedding": []
+ },
+ {
+  "title": "Phytochemicals with Potential Negative Health Impacts",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "This speaks to the nature that not everything in plants is good and there’s a subset of these phytochemicals that are actually referred to as anti-nutrients. So these are phytochemicals that interfere with the body’s ability to absorb nutrients. They can actually inhibit binding of vitamins and minerals and things like that. Some to highlight include: Oxalates, Lectins, Phylates, Tannins. Oxalates are found in turmeric and spinach. Lectins are found in legumes and grains. Phylates are found in the holes of whole grains and seeds and they bind two essential minerals like calcium, magnesium, iron, etc. Tannins are typically found in red wine. Tannins can inhibit the absorption of minerals such as calcium, magnesium and vitamins such as A and B12.",
+  "content_length": 754,
+  "content_tokens": 172,
+  "embedding": []
+ },
+ {
+  "title": "Nightshades and inflammation",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "There are a few animal studies that look at nightshades and talk about how they might induce intestinal inflammation due to their glycoalkaloid content. So if you look at human studies, gut inflammation from glycoalkaloid consumption, it’s probably only in those with very high sensitivities or in people who are ingesting completely unripe tomatoes or green potatoes and things like that.",
+  "content_length": 389,
+  "content_tokens": 82,
+  "embedding": []
+ },
+ {
+  "title": "Organic versus nonorganic",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The real distinction is between organic and non-organic. This generally comes down to the exposure to pesticides. Organic still often uses some pesticide residuals. So one just has to be mindful of, are you going with zero pesticide or next to zero pesticide? Peter says it’s pretty hard to make the case, based on the availability of data that glyphosate (the most common pesticide) is harmful. That doesn’t mean that pesticides aren’t toxic. It means at the doses that they are used and in the doses at which they get to us, I just don’t see the toxicity data. The cautionary principle would say that you are better off without a toxin then with one (if you can afford it).",
+  "content_length": 675,
+  "content_tokens": 150,
+  "embedding": []
+ },
+ {
+  "title": "How important is it to eat organic foods?",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Given organic is more expensive, you could stratify the foods into ones worth the money and ones not worth the money. But if you can’t afford to buy organic, I don’t think I would let that discourage you from buying fruits and vegetables.",
+  "content_length": 238,
+  "content_tokens": 54,
+  "embedding": []
+ },
+ {
+  "title": "Importance of washing fruits and veggies",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The first order thing you want to be mindful of when you’re washing food is to free it of the contaminants that may have come along the way. E. coli, for example, is a real (though not huge) consideration. At least a couple times a year there’s an outbreak of E. coli in spinach or lettuce or something. So there is real value in washing your food. Being honest, Peter has no idea if what most people consider washing their fruits and vegetables is actually going to get rid of E. coli. E.g., Would rinsing an apple and wiping it with a towel really rid it of E. coli? It’s kind of a numbers game. It’s a super, super low probability negative outcome. And most of us are going to go our entire lives without exposure to a deadly pathogen in our food. But if you can make the time to really wash the hell out of it, that would be great.",
+  "content_length": 835,
+  "content_tokens": 201,
+  "embedding": []
+ },
+ {
+  "title": "How food preparation changes nutritional composition",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The most obvious thing we do to food that might change the nutritional profile is cooking it (i.e., adding heat). It seems that water-soluble vitamins (e.g., vitamin c) tend to actually degrade with heat. If you are going to cook something that has vitamins C in it, you’re probably going to reduce the amount of vitamin C that reaches you. Conversely, there are four lipid-soluble vitamins: Vitamin A, Vitamin D, Vitamin E, and Vitamin K. It turns out that heat can actually increase the bioavailability of these. So you might actually see an increase absorption in some of those vitamins with some light cooking.",
+  "content_length": 614,
+  "content_tokens": 135,
+  "embedding": []
+ },
+ {
+  "title": "Considerations when eating canned and frozen food, and paying attention to processed food additives",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Most foods that are canned are cooked first, then flash vacuumed and sealed for an almost infinite shelf life. The cooking of those foods prior to canning is going to alter the nutritional profile in the same way that cooking foods yourself would (like mentioned above). What’s more important about canned foods is what gets added to it if it’s processed. Using the applesauce example: The apple sauce versus the whole apple — the issue is probably more that it’s being broken down and it’s easier for you to digest. And if your kid doesn’t want to eat apples, but eats applesauce, “I’d say take it as a win and have them eat the apple sauce, because that’s still 10 times better than drinking apple juice.” “And I think that’s still better than eating cookies or something like that. So I think it’s absolutely better to have something that is canned than to not have fruits and vegetables at all.”",
+  "content_length": 899,
+  "content_tokens": 214,
+  "embedding": []
+ },
+ {
+  "title": "Supplementing vitamins and nutrients as an alternative to eating whole fruits and vegetables",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "A bit dependent on other things. For instance, how do you reconcile the fact that the Inuit consumed no fruits and vegetables and yet had no scurvy, whereas the Limeys crossing the Atlantic Ocean, if they weren’t eating their limes, were going to get scurvy. Comes down to the role of glucose. In the absence of glucose, the amount of vitamin C that you need is very little to act as a co-factor, I think, that’s for Proline, the amino acid that’s necessary to maintain the integrity of the fibrous tissue that would prevent you from having scurvy. The Inuit we’re going to get that small amount of trace vitamin C from the blubber that they were actually eating or probably within the meat of the animal since it’s a water-soluble vitamin. If you’re on a standard American diet, you actually do need vitamin C because you’ve got enough carbohydrate in your diet that you’re probably going to need a higher dose. We do need to make sure that we are somehow getting vitamin A, biotin, folate, vitamin C, vitamin D, E, calcium, magnesium potassium, etc.",
+  "content_length": 1051,
+  "content_tokens": 255,
+  "embedding": []
+ },
+ {
+  "title": "Peter's thoughts on multivitamins and supplement brands he likes",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter has an issue with multivitamins knowing how unregulated the supplement industry is. Supplement brands Peter likes are Pure Encapsulations, Jarrow, Nature’s Way, and Thorne. If you look at those companies above, they’re less likely to make a multivitamin than to make specific products. They generally provide not enough of the things that you probably need. They tend to provide too many things that I don’t think you really need. Peter prefers a more targeted approach when using supplements to try to target these things.",
+  "content_length": 529,
+  "content_tokens": 113,
+  "embedding": []
+ },
+ {
+  "title": "Peter's approach to magnesium and B vitamins",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "For example, people who don’t eat any meat products are generally going to be very deficient in B vitamins. Magnesium is something that is generally deficient in people. Once it gets to the point where you’re frequently cramping, you’re so deficient in magnesium. Peter will typically load people up with two grams of magnesium a day for a couple of weeks to get them over that hump. Then he’ll put them on to a maintenance dose of one gram of supplemental or 1000 milligram supplemental magnesium to follow. Peter also personally takes magnesium.",
+  "content_length": 547,
+  "content_tokens": 117,
+  "embedding": []
+ },
+ {
+  "title": "Peter's thoughts on Athletic Greens",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter can really only speak to one called Athletic Greens (disclosure: he’s an investor in the company). He takes a scoop of Athletic Greens every day, regardless of what else he’s eating. He knows that if he’s taking that AG, he’s getting exactly what he needs (probably a little bit more). AG is an expensive product, but it’s expensive because it costs an unbelievable amount to make. And that’s part of the reason you have to refrigerate it after you open a packet. If you’re consuming a product that doesn’t need to be refrigerated once it’s been exposed to air, it’s probably not a very high quality.",
+  "content_length": 606,
+  "content_tokens": 153,
+  "embedding": []
+ },
+ {
+  "title": "Peter's thoughts on taking more than one scoop of Athletic Greens",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "He will do a scoop in the morning and a scoop in the evening if he’s on a hunting trip or something where there’s super high demands on his output. In part it’s because you’re not eating as many vegetables on hunting trips. Then, frankly, there’s just, I want to be at my absolute best, I suppose. So it’s worth the extra headache of trying to remember to take that second dose.",
+  "content_length": 378,
+  "content_tokens": 98,
+  "embedding": []
+ },
+ {
+  "title": "Important takeaways",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter prefers a more targeted approach when using supplements. People who don’t eat any meat products are generally going to be very deficient in B vitamins. Magnesium is something that is generally deficient in people. Athletic Greens is an expensive product, but it’s expensive because it costs an unbelievable amount to make. If you’re consuming a product that doesn’t need to be refrigerated once it’s been exposed to air, it’s probably not a very high quality.",
+  "content_length": 465,
+  "content_tokens": 103,
+  "embedding": []
+ },
+ {
+  "title": "Different Nutritional Interventions",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Don’t confuse a nutritional intervention that might be more directed towards improving your health, getting you out of a valley with something that might be ideal for helping you maintain altitude. It’s similar to say that it might be very different what you need to do to go from being in the valley of death nutritionally and health wise, to being in an optimal state versus what you might want to do to stay in that state.",
+  "content_length": 425,
+  "content_tokens": 89,
+  "embedding": []
+ },
+ {
+  "title": "Lack of Data in Nutrition",
+  "date": "June 20, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Understand that we don’t have really great data when it comes to nutrition on these macro questions that everybody understandably wants to have insights to. Therefore on some level you have to be somewhat empirical. You want to combine empiricism with the best of the available information that we have and try to not be terribly dogmatic about it. Otherwise you end up spending too much time thinking about this at the expense of thinking about things that are, in my opinion, more important.",
+  "content_length": 493,
+  "content_tokens": 96,
+  "embedding": []
+ }
+]

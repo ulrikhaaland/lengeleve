@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Fructose and the Warburg Effect",
+  "date": "June 24, 2022",
+  "context": "Sugar",
+  "people": "Peter Attia",
+  "content": "Fructose has been shown to contribute to the Warburg effect for cancer growth, particularly in colon cancer. Recent work by Cantley’s lab and Richard Johnson’s lab showed that fructose seems to drive certain cancers. Fructose turns on the Warburg effect, allows ATP to go down, and allows glucose to flow in. This occurs independently of the effect of insulin. When fructose is consumed in excess, fructose metabolism leads to insulin resistance, which leads to hyperinsulinemia. The Colon cancer work by Lew Cantley suggests that it’s an energetic issue, the lowering of ATP in the cell that occurs when fructose is metabolized that can drive hyper-influx of glucose.",
+  "content_length": 668,
+  "content_tokens": 142,
+  "embedding": []
+ },
+ {
+  "title": "The Role of Fructose in Cancer",
+  "date": "June 24, 2022",
+  "context": "Sugar",
+  "people": "Peter Attia",
+  "content": "Sam had decided early in his writing process that sugar was a big part of this story. Recent work by Cantley’s lab and Richard Johnson’s lab showed that fructose seems to drive certain cancers, particularly colon cancer. Sam was surprised that these effects could be disassociated from insulin. He thought maybe sugar is worse than everyone thinks; could it cause cancer in 2 different ways? Peter points out that when fructose is consumed in excess, fructose metabolism leads to insulin resistance, which leads to hyperinsulinemia.",
+  "content_length": 532,
+  "content_tokens": 106,
+  "embedding": []
+ },
+ {
+  "title": "Rick Johnson's Discussion of Fructose",
+  "date": "June 24, 2022",
+  "context": "Sugar",
+  "people": "Peter Attia",
+  "content": "Sam found Rick Johnson’s whole discussion of the role of fructose absolutely fascinating. Johnson discussed fructose with Peter in this podcast from January 2020. His example of the naked mole-rats was fascinating. They live in a low-oxygen environment and run a lot of Warburg metabolism by converting glucose to fructose.",
+  "content_length": 323,
+  "content_tokens": 63,
+  "embedding": []
+ }
+]
