@@ -421,7 +421,7 @@ function splitString(input: string, maxLength: number = 1000): EncodedString[] {
   return result;
 }
 async function startScrape(results: any[]) {
-  for (let i = 7; i < results.length; i++) {
+  for (let i = 0; i < results.length; i++) {
     const row = results[i];
     await runScrape(row);
     console.log('generated embeddings for: ' + row['title']);
@@ -431,7 +431,7 @@ async function startScrape(results: any[]) {
 async function main() {
   const results: any[] = [];
 
-  fs.createReadStream('scripts/data/csv/nutrition_unique.csv')
+  fs.createReadStream('scripts/data/csv/sleep_unique.csv')
     .pipe(csv())
     .on('data', (data: any) => results.push(data))
     .on('end', () => {

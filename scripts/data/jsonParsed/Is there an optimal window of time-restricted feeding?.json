@@ -1,0 +1,82 @@
+[
+ {
+  "title": "Time-Restricted Feeding Study",
+  "date": "July 7, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "The study looked at what they called “early TRF” (eTRF). As its name implies, eTRF refers to shifting the feeding window earlier in the day. In this study, relatively healthy (i.e., non-diabetic) participants were placed on a diet whereby they ate between 8 am and 2 pm each day, in a 4-day randomized crossover study. The control schedule was a feeding window between 8 am and 8 pm. So, eTRF was an 18/6 protocol, while control was a 12/12.",
+  "content_length": 441,
+  "content_tokens": 115,
+  "embedding": []
+ },
+ {
+  "title": "Glucose Levels and Insulin",
+  "date": "July 7, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "The eTRF group had lower 24-hour glucose levels, which only told part of the story. There wasn’t a significant difference between eTRF and control when participants were awake, but eTRF lowered mean glucose levels when asleep. Glucose excursions, something I harp on quite a bit, also were reduced during eTRF. Insulin levels were also significantly lower in eTRF compared to control.",
+  "content_length": 384,
+  "content_tokens": 89,
+  "embedding": []
+ },
+ {
+  "title": "Circadian Rhythm",
+  "date": "July 7, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "Turning to cortisol, eTRF tended to increase morning cortisol levels and decrease them at night (an ideal pattern), which suggests an improvement in circadian rhythm, and may explain the lower glucose levels in this group. But I would have liked to see the investigators look at free cortisol in the urine rather than in the blood as a spot check. The latter gives a really incomplete picture so take these results with a grain of salt.",
+  "content_length": 436,
+  "content_tokens": 86,
+  "embedding": []
+ },
+ {
+  "title": "Gene Expression",
+  "date": "July 7, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "What came as a surprise to the investigators, given only 4 days of intervention, eTRF induced “wide-sweeping changes in circadian clock gene expression,” as 6 out of the 8 circadian genes they tested were affected. In particular, during the morning before breakfast, eTRF (i.e., at the end of an 18-hr fasted period) increased both SIRT1 and the autophagy gene LC3A compared to control.",
+  "content_length": 386,
+  "content_tokens": 95,
+  "embedding": []
+ },
+ {
+  "title": "eTRF and Control Group Ate Same Amount and Type of Meals",
+  "date": "July 7, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "The above are especially interesting because both the eTRF and control ate the same amount, type, and number of meals each of the 4 days of the study.",
+  "content_length": 150,
+  "content_tokens": 33,
+  "embedding": []
+ },
+ {
+  "title": "Social Limitations of eTRF",
+  "date": "July 7, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "There are some obvious social limitations of the eTRF implemented in this study. If your last meal is 2 pm, you’re likely making a hell of a lot of changes in life!",
+  "content_length": 164,
+  "content_tokens": 40,
+  "embedding": []
+ },
+ {
+  "title": "Benefits of Not Eating Before Bed",
+  "date": "July 7, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "My observations do suggest that not eating for several hours before bed improves nighttime glucose and sleep.",
+  "content_length": 109,
+  "content_tokens": 18,
+  "embedding": []
+ },
+ {
+  "title": "Different Feeding Windows for TRF",
+  "date": "July 7, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "While there were several limitations in this study, I’d like to see this group improve from this one and pursue some different feeding windows and see if there is an optimal window of feeding (and fasting) for TRF.",
+  "content_length": 214,
+  "content_tokens": 46,
+  "embedding": []
+ }
+]

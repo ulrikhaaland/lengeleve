@@ -1,0 +1,62 @@
+[
+ {
+  "title": "Alternate Day Fasting Study",
+  "date": "September 8, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "A study published in Cell Metabolism on alternate day fasting (ADF) that got a lot of lay press attention. This study included relatively healthy, non-obese participants. Based on the 6-month cohort, the investigators concluded ADF is safe to practice for several months and improved markers of health in healthy, middle-aged humans. In the 4-week trial, the results were similar. Two dropouts in the control group and just 1 in the ADF group. That’s a 97% compliance rate (29/30) in the ADF group after fasting every other day for just under a month.",
+  "content_length": 551,
+  "content_tokens": 128,
+  "embedding": []
+ },
+ {
+  "title": "Study on ADF",
+  "date": "September 8, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "This is an important study showing that ADF appears to be safe and the compliance suggests that a very simple protocol also looks easy. However, this study certainly suggests that if ADF is efficacious, if it clearly can improve health, we certainly shouldn’t just dismiss the intervention because we don’t think anyone could do it. In other words, it may be both efficacious (it works) and effective (it can actually be adhered to).",
+  "content_length": 433,
+  "content_tokens": 94,
+  "embedding": []
+ },
+ {
+  "title": "Design of the Study",
+  "date": "September 8, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "After looking over how poor the design is, I’m not comfortable making any strong claim based on this study. Figures 3J through 3T add another element, but it, too, is pretty straightforward. In stark contrast, there’s Figure 5. This, according to the authors, is comparing “Differences in the Lipid Profile of Healthy, Non-obese Humans on ADF for >6 Months.” This one is more difficult to interpret, and potentially misleading.",
+  "content_length": 427,
+  "content_tokens": 102,
+  "embedding": []
+ },
+ {
+  "title": "Importance of Baseline Values",
+  "date": "September 8, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "Remember, for reasons not disclosed, the investigators said they don’t have access to baseline values of the long-term (i.e., >6-months) ADF cohort. So, Figure 5 (A-Q) is comparing differences in “the Lipid Profile” of these two groups at the 6-month (technically, “>6-months”) timepoint. To put it mildly, it doesn’t seem like you have complete information to start comparing “performance” metrics, and to step back into the real world, if the investigators of the study don’t have access to baseline values in the >6-month ADF cohort, how can they say they’re comparing apples to apples (as they suggest in their supplementary information)?",
+  "content_length": 642,
+  "content_tokens": 166,
+  "embedding": []
+ },
+ {
+  "title": "Questions about Long-term ADF Cohort",
+  "date": "September 8, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "What do the investigators mean when they say they don’t have access to baseline values of the long-term ADF cohort?",
+  "content_length": 115,
+  "content_tokens": 27,
+  "embedding": []
+ },
+ {
+  "title": "Math Discrepancy in Table 1",
+  "date": "September 8, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "Why doesn’t the math add up in Table 1?",
+  "content_length": 39,
+  "content_tokens": 13,
+  "embedding": []
+ }
+]

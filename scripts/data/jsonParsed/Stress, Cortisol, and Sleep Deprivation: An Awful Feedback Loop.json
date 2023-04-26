@@ -1,0 +1,22 @@
+[
+ {
+  "title": "Cortisol and weight gain",
+  "date": "March 14, 2022",
+  "context": "Stress & Cortisol",
+  "people": "Peter Attia",
+  "content": "Peter says cortisol also plays a role in weight gain. It is a very anabolic hormone to adipose tissue and a very catabolic hormone to muscle tissue. It also affects the liver and glycogen stores via hepatic glucose output ⇒ It’s raising glucose, which in turn is raising insulin, which is now acting alongside cortisol.",
+  "content_length": 319,
+  "content_tokens": 69,
+  "embedding": []
+ },
+ {
+  "title": "Chronic undersleeping",
+  "date": "March 14, 2022",
+  "context": "Stress & Cortisol",
+  "people": "Peter Attia",
+  "content": "Chronic undersleeping (most Americans) leads to hypercortisolemia. That is then causing a cascade of biology that is nonoptimal. ⇒ Example, more cortisol means more anxiety. More anxiety means less sleep. Less sleep means more cortisol (and more anxiety). An awful feedback loop.",
+  "content_length": 279,
+  "content_tokens": 63,
+  "embedding": []
+ }
+]

@@ -15,6 +15,7 @@ export type Topic = {
 };
 
 export type Chunk = {
+  id?: number;
   title: string;
   date: string;
   context: string;

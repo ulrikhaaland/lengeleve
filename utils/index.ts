@@ -27,8 +27,6 @@ export const OpenAIStream = async (prompt: string, apiKey: string) => {
 
   const content = listContent.join('\n\n');
 
-  console.log(content);
-
   const res = await fetch('https://api.openai.com/v1/chat/completions', {
     headers: {
       'Content-Type': 'application/json',
@@ -38,24 +36,21 @@ export const OpenAIStream = async (prompt: string, apiKey: string) => {
     body: JSON.stringify({
       model: 'gpt-3.5-turbo-0301',
       messages: [
-        // {
-        //   role: 'system',
-        //   content: content,
-        // },
         {
           role: 'user',
           content: prompt,
         },
       ],
       max_tokens: 1000,
-      temperature: 0.0,
+      temperature: 0.4,
       stream: true,
     }),
   });
 
   if (res.status !== 200) {
+    console.log(JSON.parse(await res.text()));
+
     throw new Error('OpenAI API returned an error');
-    console.log(res);
   }
 
   const stream = new ReadableStream({

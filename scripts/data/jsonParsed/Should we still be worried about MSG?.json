@@ -1,0 +1,92 @@
+[
+ {
+  "title": "MSG and its safety",
+  "date": "December 20, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "There is a widely held belief that MSG is bad for us. MSG is not a harmful substance. The U.S. Food and Drug Administration (FDA) designated MSG as a Generally Recognized As Safe (GRAS) ingredient long ago in 1958. But the controversy over the safety of MSG has been largely overblown. There’s no evidence to substantiate the claim that MSG causes ill effects in most people who consume it. A minority of people are hypersensitive to glutamate and MSG in food—added or natural—and in a study where MSG was given at 3 grams, in the absence of food, sensitive individuals had short-term, transient adverse reactions.",
+  "content_length": 614,
+  "content_tokens": 136,
+  "embedding": []
+ },
+ {
+  "title": "MSG primer",
+  "date": "December 20, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "MSG is the sodium salt of an amino acid called glutamic acid. Glutamic acid is a nonessential amino acid, meaning that our bodies can produce it. It has two carboxyl groups consisting of a carbon atom, two oxygen atoms, and a hydrogen atom (COOH).  When a carboxyl group loses its hydrogen atom, it becomes negatively charged (COO-) and can bond with a positively charged ion. MSG is formed when a positively charged sodium ion (Na+) binds to the negatively charged carboxyl group (COO-). In 1908, a Japanese biochemist, Dr. Kikunae Ikeda, attributed the distinct taste of seaweed broth to glutamic acid. He named it umami, translated as savory. Umami is one of five basic tastes, which also include: sweet, sour, salty, and bitter. From that point on, the newly isolated glutamic acid was mass-produced and used as seasoning to enhance the flavor of food. Isolated or not, the sodium salt of glutamic acid is found naturally in foods such as tomatoes, cheese, and in vegetables like broccoli and cabbage.",
+  "content_length": 1005,
+  "content_tokens": 236,
+  "embedding": []
+ },
+ {
+  "title": "The story of Chinese Restaurant Syndrome",
+  "date": "December 20, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "In 1968, a Letter to the Editor warning readers about “Chinese Restaurant Syndrome” (CRS) appeared in the New England Journal of Medicine (NEJM). The syndrome refers to the complex of symptoms, often attributed to MSG, like burning sensations in the mouth, facial pressure, headache, maybe some chest pain. And if it sort of sounds like what could happen with elevated sodium intake, think again. MSG is not high in sodium and actually allows for far less added salt given its flavor-enhancing properties. It contains one-third the amount of sodium as sodium chloride (table salt), about 12% versus 39%. The ratio means very little if more MSG is added to a given food in order to make up the difference. However, MSG in excess has been reported to lose the umami taste and make food less-palatable. Further, one study suggests that adding MSG to soup requires less sodium (note this study seems to have been unblinded).",
+  "content_length": 920,
+  "content_tokens": 196,
+  "embedding": []
+ },
+ {
+  "title": "The Origins of Chinese Restaurant Syndrome",
+  "date": "December 20, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The letter was signed by a physician and Chinese immigrant named Dr. Robert Ho Man Kwok, who claimed to feel numbness and palpitations after eating in Chinese restaurants in the US, speculated that MSG was the cause, and called for further research. Six weeks after its publication, the New York Times ran an article on this so-called “Chinese restaurant syndrome,” including interviews with defensive Chinese restaurant owners. Several major newspapers quoted from one of the satirical response letters to the NEJM as if it were a scientific document. The article did not mention that MSG is also widely used in many foods associated with the west rather than China, such as flavored potato chips, parmesan cheese, frozen dinners, and fast food. The inconsistency—symptoms occur after eating “Chinese” restaurant food with added MSG, but not in others—further suggests the entire argument is devoid of merit.",
+  "content_length": 909,
+  "content_tokens": 183,
+  "embedding": []
+ },
+ {
+  "title": "The Scientific Method and MSG",
+  "date": "December 20, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "However, this case allows us to observe how the scientific method can operate—confirming or refuting a hypothesis or, in this case, something held as true with nothing empirical behind it. We can trace how, in the wake of the original 1968 letter to the NEJM, scientists began to look critically at MSG. The published findings have varied in degrees of rigor in experimental design and results have been inconsistent. In the late 1960s, Dr. John Olney raised the most significant concerns regarding MSG, conducting research on infant mice and found that MSG had toxic effects on the brain and it was associated with other health issues. However, the levels of MSG that he found to be toxic resulted from force feeding over a short time period, so the data’s applicability to human infants in real-life situations was unclear, and many other studies could not replicate his results. In contrast, the work of Richard Kenney found no support for the notion that MSG consistently caused specific symptoms. Kenney found that symptoms were not consistent day-to-day and did not correlate with plasma glutamate levels or other physiological markers. Other studies showed similar results. Further, the published conclusions of Mark Friedman from a symposium evaluating MSG’s purported relationship to obesity and abnormal fat metabolism found no effect on body weight and rodent MSG injection studies that reported toxic neural effects were not applicable to humans. Almost no ingested MSG passes the blood-brain barrier, meaning that dietary MSG does not gain access to the brain.",
+  "content_length": 1573,
+  "content_tokens": 301,
+  "embedding": []
+ },
+ {
+  "title": "MSG and Cognitive Biases",
+  "date": "December 20, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The MSG case shows how susceptible we are to confirmation bias and other cognitive biases which I have discussed in previous emails and in discussion with Dr. Carol Tavris and Dr. Elliot Aronson.",
+  "content_length": 195,
+  "content_tokens": 38,
+  "embedding": []
+ },
+ {
+  "title": "Studies on MSG",
+  "date": "December 20, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The list of published studies evaluating MSG-related symptoms goes on and on. However, a 30,000-foot view shows that decades of research demonstrated no danger from MSG consumption. Many separate scientific reviews—by the Joint Expert Committee on Food Additives of the United Nations Food and Agriculture Organization (FAO), the World Health Organization (WHO) from 1987, the European Communities’ Scientific Committee for Foods in 1991, and the Federation of American Societies for Experimental Biology (FASEB) from 1995—all concluded that concentrations of MSG in food are not hazardous to human health.",
+  "content_length": 606,
+  "content_tokens": 117,
+  "embedding": []
+ },
+ {
+  "title": "MSG Safety",
+  "date": "December 20, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "As mentioned, the latter showed safety for the general public, but suggested that a small percent of the population may have adverse effects from large quantities of MSG in the realm of 3 grams. For reference, the average daily intake of added MSG in the U.S. is about 0.55 grams.",
+  "content_length": 280,
+  "content_tokens": 60,
+  "embedding": []
+ },
+ {
+  "title": "MSG Myth",
+  "date": "December 20, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "We can learn a lot from the MSG myth that continues to persist. This story shows it’s very difficult to dispel longstanding cultural myths, even when scientific evidence dismantles them. As MSG researcher Robert Kenney told the Washington Post, “No amount of evidence will ever get rid of an anecdote.” Or as Jonathan Swift, the 17th century satirist and author of Gulliver’s Travels, said, “A lie can travel halfway around the world while the truth is still putting on its shoes.”",
+  "content_length": 481,
+  "content_tokens": 110,
+  "embedding": []
+ }
+]

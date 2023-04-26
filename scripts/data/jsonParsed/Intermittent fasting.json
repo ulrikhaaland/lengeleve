@@ -1,0 +1,62 @@
+[
+ {
+  "title": "Intermittent Fasting and Health",
+  "date": "January 19, 2020",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "The New England Journal of Medicine (NEJM) recently published a review article on the effects of intermittent fasting (IF) on health, aging, and disease. The authors describe the potential mechanisms underlying its beneficial effects—metabolic switching and stress resistance chiefly among them. They also emphasize that ketone bodies produced from fasting are not only used for fuel, but are also signaling molecules that have profound effects on metabolism and are known to influence health and aging.",
+  "content_length": 503,
+  "content_tokens": 90,
+  "embedding": []
+ },
+ {
+  "title": "Types of Fasting",
+  "date": "January 19, 2020",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "The authors conflate three distinct forms of fasting into one in their definition of IF: Alternate-day fasting (ADF), 5:2 intermittent fasting (5:2), and daily time-restricted feeding (TRF). This is confusing because these are quite different forms of fasting or restriction. It’s important to distinguish between them. Most studies on ADF and 5:2 allow up to 700 Calories per day on fasting days, while others don’t allow any Calories.",
+  "content_length": 436,
+  "content_tokens": 99,
+  "embedding": []
+ },
+ {
+  "title": "Ketosis and Fasting",
+  "date": "January 19, 2020",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "The authors question how much of the benefit of IF is due to metabolic switching and how much is due to weight loss, which often, but not always, accompanies fasting. They point out that many studies have indicated the benefits of IF are independent of its effects on weight loss. According to the authors, plasma ketones generally increase to 0.2-0.5 mM during the first 24 hours of fasting. The minimum threshold appears to be about 1 mM, at least in mice. Given the importance put on ketone bodies by the authors, it’s surprising that very few trials in humans measure plasma ketones during IF, TRF, or ADF.",
+  "content_length": 610,
+  "content_tokens": 134,
+  "embedding": []
+ },
+ {
+  "title": "Long-term effects of TRF, IF, and ADF",
+  "date": "January 19, 2020",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "Whether the results are reproducible and what happens when people engage in these regimens long-term hasn’t been determined. Do people improve their metabolic flexibility during long-term TRF, IF, and ADF? Do the levels, and utilization of, ketones increase over time?",
+  "content_length": 268,
+  "content_tokens": 59,
+  "embedding": []
+ },
+ {
+  "title": "Comparison of different forms of restriction",
+  "date": "January 19, 2020",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "Does one regimen work better than the others in this regard? Does a ketogenic diet mimic the effects of TR (or does TR mimic the effects of a ketogenic diet)?",
+  "content_length": 158,
+  "content_tokens": 35,
+  "embedding": []
+ },
+ {
+  "title": "Need for more studies",
+  "date": "January 19, 2020",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "If we have any chance of sorting this out, we need to start carrying out more (and longer) studies that look at different forms of restriction and measure the thing that presumably matters, in this case, ketones.",
+  "content_length": 212,
+  "content_tokens": 44,
+  "embedding": []
+ }
+]

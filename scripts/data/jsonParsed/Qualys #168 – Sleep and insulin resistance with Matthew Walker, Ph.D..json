@@ -1,0 +1,22 @@
+[
+ {
+  "title": "Sleep and insulin resistance",
+  "date": "February 16, 2022",
+  "context": "Insulin Resistance",
+  "people": "Peter Attia",
+  "content": "Inadequate sleep can lead to insulin resistance, which can increase the risk of developing type 2 diabetes. Lack of sleep can also lead to increased hunger and cravings for high-calorie foods, which can contribute to weight gain and further increase the risk of insulin resistance. Studies have shown that getting enough sleep can improve insulin sensitivity and glucose tolerance.",
+  "content_length": 381,
+  "content_tokens": 70,
+  "embedding": []
+ },
+ {
+  "title": "What is Qualys?",
+  "date": "February 16, 2022",
+  "context": "Insulin Resistance",
+  "people": "Peter Attia",
+  "content": "Qualys is a subscriber-exclusive podcast, released Tuesday through Friday, and published exclusively on our private, subscriber-only podcast feed. Qualys is short-hand for “qualifying round,” which are typically the fastest laps driven in a race car—done before the race to determine starting position on the grid for race day. The Qualys are short (i.e., “fast”), typically less than ten minutes, and highlight the best questions, topics, and tactics discussed on The Drive.",
+  "content_length": 475,
+  "content_tokens": 106,
+  "embedding": []
+ }
+]

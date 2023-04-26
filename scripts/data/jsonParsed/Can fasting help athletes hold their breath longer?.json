@@ -1,0 +1,52 @@
+[
+ {
+  "title": "Fasting and Breath-Hold Performance",
+  "date": "December 8, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "A small study of 13 elite freedivers found that the average duration of the max breath-hold in the fasting condition was 50 seconds longer than in the fed condition. The investigators concluded that fasting is beneficial for STA performance in elite divers. In competitive apnea, a crucial component is minimizing metabolic demands. A lower metabolic rate means relatively less O2 is needed or consumed by the body. The less O2 consumed, the less CO2 produced, and as noted above it’s the rising internal CO2 levels that triggers involuntary muscle contractions of the respiratory system.",
+  "content_length": 588,
+  "content_tokens": 114,
+  "embedding": []
+ },
+ {
+  "title": "The effects of longer-term fasts on metabolism",
+  "date": "December 8, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "Longer-term fasts, such as a 5-day water-only fast, have a demonstrable effect on other measures of metabolism that may benefit an elite freediver. Typically, for fasts three days or longer, there are changes in thyroid hormones associated with a lower metabolic rate. Also, the longer the fast, the higher the production and availability of ketone bodies.",
+  "content_length": 356,
+  "content_tokens": 77,
+  "embedding": []
+ },
+ {
+  "title": "The benefits of beta-hydroxybutyrate (BOHB)",
+  "date": "December 8, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "The most abundant of the ketone bodies, beta-hydroxybutyrate, serves as an alternative fuel source to glucose and free fatty acids, which may also lower O2 demand. A detailed study on the metabolism of ketones by Richard Veech and his colleagues in 1994 showed that giving BOHB to the perfused rat heart in place of glucose increased work output, but decreased O2 consumption.",
+  "content_length": 376,
+  "content_tokens": 83,
+  "embedding": []
+ },
+ {
+  "title": "The potential benefits of fasting for freedivers",
+  "date": "December 8, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "Given the above, my hypothesis is that a 5-day water-only fast, or even a 3-day water-only fast, or a Calorie-restricted ketogenic diet (KD-R) will extend the average duration of a maximal breath-hold beyond a 13-hour fasting condition. The beneficial effects of a 13-hour fast in the context of higher breath-hold durations may be enhanced by prolonging the fast or following a KD-R because it should substantially increase the concentration of BOHB, thus lower O2 demand, increase the time it takes for CO2 to build up, and extend the window of time it takes before the first aforementioned IBMs take hold in elite divers.",
+  "content_length": 624,
+  "content_tokens": 145,
+  "embedding": []
+ },
+ {
+  "title": "The benefits of BOHB during fasting",
+  "date": "December 8, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "The longer the fast, the lower the metabolic rate, and the higher the BOHB, resulting in a lower demand for O2. Longer-term fasting induces a lower metabolic rate and the cells are less challenged by low O2 availability because they consume less O2. Those cells also benefit by having and using more BOHB, because it’s the most efficient fuel (in terms of how much oxygen it requires to yield a given amount of ATP), resulting in decreased O2 consumption, relative to glucose or free fatty acids, the predominant fuels in a fed state.",
+  "content_length": 534,
+  "content_tokens": 118,
+  "embedding": []
+ }
+]

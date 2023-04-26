@@ -14,6 +14,8 @@ import Head from 'next/head';
 import { KeyboardEvent, useEffect, useRef, useState } from 'react';
 import { Drawer, useMediaQuery, Theme } from '@mui/material';
 import { getQuestionPrompt } from '@/prompts/prompts';
+import { getPreQuestion } from '@/utils/preQuestion';
+import QuestionsList from '@/components/QuestionList';
 const { encode, decode } = require('@nem035/gpt-3-encoder');
 
 export default function Home() {
@@ -36,10 +38,12 @@ export default function Home() {
   const [showPassages, setShowPassages] = useState<boolean>(false);
   const [selectedIndex, setSelectedIndex] = useState<number | undefined>();
 
-  const handleAnswer = async (q?: string) => {
+  const handleAnswer = async (q?: string, followUpQuestion?: boolean) => {
     setUserHasScrolled(false);
     setFollowUpQuestions([]);
     const query = q ?? question;
+    const followUpAnswer: string | undefined =
+      followUpQuestion === true ? answers[answers.length - 1] : undefined;
     setQuery('');
     if (!apiKey) {
       alert('Please enter an API key.');
@@ -103,11 +107,14 @@ export default function Home() {
 
     console.log('chunks' + chunks.length);
 
+    // const preQuestion = await getPreQuestion(query);
+
     let prompt: string = getQuestionPrompt(
       query,
       filteredResults,
       questions,
-      answers
+      answers,
+      followUpAnswer
     );
 
     let prompt_token_length = encode(prompt).length;
@@ -117,7 +124,13 @@ export default function Home() {
     while (prompt_token_length > 3096) {
       i--;
       filteredResults.splice(i, 1);
-      prompt = getQuestionPrompt(query, filteredResults, questions, answers);
+      prompt = getQuestionPrompt(
+        query,
+        filteredResults,
+        questions,
+        answers,
+        followUpAnswer
+      );
       prompt_token_length = encode(prompt).length;
     }
 
@@ -161,6 +174,8 @@ export default function Home() {
       const { value, done: doneReading } = await reader.read();
       done = doneReading;
       const chunkValue = decoder.decode(value);
+
+      chunkValue.replace('Answer:', '');
 
       setAnswer((prev) => {
         newAnswer = prev + chunkValue;
@@ -285,7 +300,7 @@ export default function Home() {
     if (divElement && !userHasScrolled) {
       divElement.scrollTop = divElement.scrollHeight - divElement.clientHeight;
     }
-  }, [answer, userHasScrolled]);
+  }, [answer, userHasScrolled, followUpQuestions]);
 
   return (
     <>
@@ -401,7 +416,20 @@ export default function Home() {
                 </div>
               </div>
             )}
-            {questions.map((q, i) => {
+            <QuestionsList
+              questions={questions}
+              answers={answers}
+              setSelectedIndex={setSelectedIndex}
+              loading={loading}
+              answering={answering}
+              answer={answer}
+              followUpQuestions={followUpQuestions}
+              setQuery={setQuery}
+              handleAnswer={handleAnswer}
+              text={''}
+              onTextHighlighted={function (selectedText: string): void {}}
+            />
+            {/* {questions.map((q, i) => {
               return (
                 <div
                   key={i}
@@ -441,10 +469,10 @@ export default function Home() {
                       {followUpQuestions.map((fuq, index) => (
                         <button
                           key={index}
-                          className='mt-2 bg-blue-500 text-sm hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline'
+                          className='mt-2 mr-3 bg-blue-500 text-sm hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline'
                           onClick={() => {
                             setQuery(fuq);
-                            handleAnswer(fuq);
+                            handleAnswer(fuq, true);
                           }}
                         >
                           {fuq}
@@ -454,7 +482,7 @@ export default function Home() {
                   )}
                 </div>
               );
-            })}
+            })} */}
           </div>
         </div>
 

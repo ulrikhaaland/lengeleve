@@ -1,0 +1,342 @@
+[
+ {
+  "title": "Explaining fat flux—how fat enters and exits a fat cell",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "In this “Ask Me Anything” (AMA) episode, Peter and Bob take a deep dive into fat flux. They define the major players that impact the flow of fat entering and exiting a fat cell, which determines how much fat a person carries.",
+  "content_length": 225,
+  "content_tokens": 52,
+  "embedding": []
+ },
+ {
+  "title": "What net fat influx looks like, and the impact of insulin in lipolysis",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "What net fat influx looks like, and the impact of insulin in lipolysis (24:30)",
+  "content_length": 78,
+  "content_tokens": 21,
+  "embedding": []
+ },
+ {
+  "title": "What net fat efflux looks like, and the benefits of fasting for breaking the hyperinsulinemic cycle",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "What net fat efflux looks like, and the benefits of fasting for breaking the hyperinsulinemic cycle (28:30)",
+  "content_length": 107,
+  "content_tokens": 26,
+  "embedding": []
+ },
+ {
+  "title": "Exploring why most people with excess body fat will lose fat mass when reducing carbohydrates or eating a ketogenic diet",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Exploring why most people with excess body fat will lose fat mass when reducing carbohydrates or eating a ketogenic diet (32:45)",
+  "content_length": 128,
+  "content_tokens": 27,
+  "embedding": []
+ },
+ {
+  "title": "Why being in nutritional ketosis does not automatically translate to negative fat flux (fat loss)",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Why being in nutritional ketosis does not automatically translate to negative fat flux (fat loss) (42:40)",
+  "content_length": 105,
+  "content_tokens": 23,
+  "embedding": []
+ },
+ {
+  "title": "The two main ways to reduce fat mass",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The two main ways to reduce fat mass are to reduce the total number of fat cells or shrink the fat cells. The former is most typically something that is done with liposuction.",
+  "content_length": 175,
+  "content_tokens": 37,
+  "embedding": []
+ },
+ {
+  "title": "How do you shrink a fat cell?",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "To shrink a fat cell, an engineer would think about this by drawing a boundary, looking at the boundary conditions, and effectively understanding what goes in and what comes out. If a fat cell gets larger, there is a net accumulation of fat in that cell relative to how much goes out of it.",
+  "content_length": 290,
+  "content_tokens": 60,
+  "embedding": []
+ },
+ {
+  "title": "Understanding Fat Flux",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Today they will be looking at fat gain/loss through the lens of fat flux—i.e., What is the flux of fatty acids substrate into and out of a fat cell, and can we infer the behavior of that fat cell in response to that?",
+  "content_length": 216,
+  "content_tokens": 52,
+  "embedding": []
+ },
+ {
+  "title": "Calories In, Calories Out",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "When we talk about weight loss or weight gain or fat loss or fat gain, a lot of times we’ll hear about calories in, calories out. Basically, if any more energy is entering the system than leaving it, the system is getting bigger and vice versa. If more energy is leaving the system than entering it, it’s more or less getting smaller. What Peter is talking about is at the level of the adipose tissue—i.e., how much fat is going into the adipose tissue, how much is being released, and also how much is being trapped.",
+  "content_length": 517,
+  "content_tokens": 120,
+  "embedding": []
+ },
+ {
+  "title": "Explaining Fat Flux",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Looking at the above figure, it has two sides: You have an “in” side and you have an “out” side. On the left hand side of the above figure, there are 2 doors—the upper left door and the lower left door are two ways that the fat cell gets fatter. On the right hand side of this page, you have the exit door—this is how the fat cell gets skinnier.",
+  "content_length": 345,
+  "content_tokens": 92,
+  "embedding": []
+ },
+ {
+  "title": "Insulin and Glucose",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "LPL facilitates the transport of triacylglycerides into the fat cell. Insulin activates and upregulates LPL. Insulin is pro growth, and it wants to bring more of these fats in. Insulin also drives the translocation process of a GLUT4 transporter. In a metabolically healthy person, there’s very little glucose that is being brought into the fat cell. But as a person becomes more and more insulin resistant at the muscle, we will see more of the glucose entering the fat cell via the GLUT4 transporter and then insulin is promoting lipogenesis. Glucose can actually be turned into fatty acids.",
+  "content_length": 593,
+  "content_tokens": 132,
+  "embedding": []
+ },
+ {
+  "title": "Storing and Breaking Down Fat",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Storing fat in the form of a triacylglyceride or triglyceride is a very efficient way to store it, and our body has an amazing set of tools to do that. First and foremost, you have to break down the triacylglycerides or the triglycerides into the fatty acid and the glycerol. And that is done primarily by another hormone called HSL, hormone-sensitive lipase. In animal models, glucagon also seems to promote this. At a minimum adrenaline and noradrenaline also known as epinephrine and norepinephrine, which are acute stress hormones, promote this.",
+  "content_length": 549,
+  "content_tokens": 129,
+  "embedding": []
+ },
+ {
+  "title": "Getting Fat Out of a Fat Cell",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The amount of fat you have in a fat cell is not only determined by the amount of calories you eat and the amount of calories you burn, but also by insulin levels. All of the amount of hormone in the world won’t change the fat, if you don’t have substrate availability. This process is regulated very finely by hormones, but it’s also dependent on substrate availability.",
+  "content_length": 370,
+  "content_tokens": 82,
+  "embedding": []
+ },
+ {
+  "title": "Nutrition and Hormones",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Estrogen, testosterone, thyroid hormone—all of these other hormones play a role and we clearly see clinically. A woman, for example, when she goes through menopause, tends to gain more fat weight. A lot of that has to do with the change of estrogen and testosterone and their regulation of these hormones, whether it be the hormones themselves, the enzymes that regulate them, or otherwise. These things are impacted by what you eat, but they’re also impacted by different disease states, and other hormones such as cortisol.",
+  "content_length": 525,
+  "content_tokens": 108,
+  "embedding": []
+ },
+ {
+  "title": "Fat Balance",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The figure above shows what net fat balance looks like. You’ve got de novo lipogenesis + re-esterification=lipolysis. Similarly, when we look at this adipose tissue: In fat balance, the only thing we know is the combination of de novo lipogenesis and re-esterification is equal to lipolysis.",
+  "content_length": 291,
+  "content_tokens": 72,
+  "embedding": []
+ },
+ {
+  "title": "Impact of Insulin in Lipolysis",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "This is someone whose DNL + re-esterification > lipolysis. This is a person who is getting fatter—i.e., their fat cells are getting bigger. Clinically, this is not necessarily a person who is eating non-stop, contrary to popular belief. These people are people who generally have shut off lipolysis. By contract, the person who’s in fat balance has reasonable amount of fat coming in, but they’re very efficient at getting fat out of the fat cell. The person whose net accumulating, they are usually slowly gaining weight. It’s a very frustrating place to be for many people, especially when their inputs don’t seem that big.",
+  "content_length": 625,
+  "content_tokens": 146,
+  "embedding": []
+ },
+ {
+  "title": "The impact of insulin in lipolysis",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "A really important thing that insulin does when it’s elevated is it inhibits lipolysis, which plays a role in the positive fat flux scenario. The figure shows at a very low level of insulin, there’s a high level of lipolysis. As insulin goes up, lipolysis just crashes. At some point, if insulin is high enough, you’re not getting any fat out of the fat cell. Patients that show up and their fasting insulin is 20 and they’re postprandial insulin is 40, 60, 80, 100 and they’re saying, “I can’t lose a pound, no matter what I do.” And Peter believes them. You aren’t going to be losing a pound of fat when your insulin is that high—that cycle has to be broken.",
+  "content_length": 660,
+  "content_tokens": 175,
+  "embedding": []
+ },
+ {
+  "title": "What net fat efflux looks like, and the benefits of fasting for breaking the hyperinsulinemic cycle",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The figure above would represent a person whose fat cell is getting smaller, meaning they are in net fat efflux, i.e., “negative fat flux”. This is a person who is in a high state of lipolysis, which by definition, means they have low insulin. You need remarkably low insulin levels in order to really get fat breakdown maximized. If mobilization is exceeding deposition, then you’re looking at that negative fat flux or efflux. If deposition is exceeding mobilization, you are looking at positive fat flux or influx. There is no faster way to get into this state than fasting. Nutritional ketosis is probably the fastest way to get into this state if you’re in a eucaloric state. After that, it’s going to be basically a complete fast and then various forms of caloric restriction.",
+  "content_length": 782,
+  "content_tokens": 175,
+  "embedding": []
+ },
+ {
+  "title": "Using Fasting to Break the Hyperinsulinemic Cycle",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Peter Attia recommends using fasting to break the hyperinsulinemic cycle. He suggests that after the fast, the patient should be put on a different nutritional strategy and periodically revisit the fasting. Additionally, there are pharmacologic approaches to this, such as metformin, GLP-1 agonists, and SGLT2 inhibitors.",
+  "content_length": 321,
+  "content_tokens": 68,
+  "embedding": []
+ },
+ {
+  "title": "Why Do Most People Lose Fat on a Low-Carb or Ketogenic Diet?",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "There are several reasons why most people with excess fat lose fat on a well-formulated carbohydrate-reduced or ketogenic diet. One reason is that they end up eating less in the real world. Another reason is that reducing carbohydrates results in lower insulin levels, which gets the body to start mobilizing fatty acid. This process not only results in weight loss but also reduced intake. Additionally, some people may be increasing their energy expenditure when changing their diet.",
+  "content_length": 485,
+  "content_tokens": 92,
+  "embedding": []
+ },
+ {
+  "title": "Exploring the Reason Why Someone on a Low-Carb Diet Would Lose Fat",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "There are two arguments for why someone on a low-carb diet would lose fat. The first argument is the energy expenditure argument, which suggests that people may be increasing their energy expenditure when changing their diet. The second argument is the internal starvation argument, which suggests that reducing carbohydrates results in lower insulin levels, which gets the body to start mobilizing fatty acid. This process not only results in weight loss but also reduced intake.",
+  "content_length": 480,
+  "content_tokens": 85,
+  "embedding": []
+ },
+ {
+  "title": "Nutrition and Obesity",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Morbidly obese people may be accumulating fat because they can't access it, which means they're hungrier and more lethargic. Some studies suggest that cutting calories and reducing carbohydrates can help with weight loss. However, these studies are hard to do because they need to be done in a free-living environment. To understand this topic, people need to be studied with perfect precision, but in a free-living environment because the deltas don't need to be big. It really needs to be weighed amounts of food and things like that.",
+  "content_length": 536,
+  "content_tokens": 111,
+  "embedding": []
+ },
+ {
+  "title": "The Energy Cost of Making Ketones",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Some people are metabolically inefficient at making ketones, and the cost of making those ketones can be high, which means that hundreds of calories per day are being expended in that manner.",
+  "content_length": 191,
+  "content_tokens": 38,
+  "embedding": []
+ },
+ {
+  "title": "Nutritional Ketosis and Fat Flux",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Being in nutritional ketosis does not automatically translate to negative fat flux. To be in negative fat flux, lipolysis needs to be bigger than De novo lipogenesis (DNL) + re-esterification (RE). Nothing about being in ketosis tells us the inputs to that equation.",
+  "content_length": 266,
+  "content_tokens": 60,
+  "embedding": []
+ },
+ {
+  "title": "Ketosis and Fat Intake",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Ketosis just tells you that you are making a lot of BHB, beta-hydroxybutyrate. If you’re restricting carbohydrates and you’re not starving yourself, it means you’re eating a lot of fat. For someone in ketosis, the fat could go to the liver and the liver can make BHB which can be used by  the muscles, the heart, and the brain. The best way to troubleshoot if you are in ketosis and not losing weight is to lower the fat intake.",
+  "content_length": 428,
+  "content_tokens": 112,
+  "embedding": []
+ },
+ {
+  "title": "Bob's Approach to Scientific Research",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Bob’s approach to scientific research starts very broad. First, he tries to triangulate onto, What’s the question that I’m trying to answer? For something like Omega-6, the conventional wisdom kind of depends on which lab or research team you’re looking at. A review paper may have 200 references, and while Bob may not look at all 200, he will dig in to the references if there’s a section of the paper that he’s particularly interested in to make sure the claims that they’re making hold any water. Peter says Bob does really well at taking the “red team approach” which is generally viewing everything as “probably not true”.",
+  "content_length": 628,
+  "content_tokens": 151,
+  "embedding": []
+ },
+ {
+  "title": "Reaching out to people",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Bob sometimes actually attends lectures of people and tries to talk to them after their lecture. But you can also finding interesting speeches and lectures online — see Gerald Shulman’s Banting Memorial lecture on YouTube. Then you can actually find their contact info and follow up with them. If you reach out to a lead author on a paper, for example, you can have a conversation with that person and there’s so many nuggets that are actually not in the paper itself.",
+  "content_length": 468,
+  "content_tokens": 98,
+  "embedding": []
+ },
+ {
+  "title": "Researching limitations",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Bob always tries to look at the limitations of a paper — he gives credit to those that actually are honest about the limitations. You may see an extensive list of limitations but then immediately following the list you’ll see a paragraph of how they totally controlled and adjusted for it — “that’s another tell to me is that if they’re not being honest in the limitations of it”",
+  "content_length": 379,
+  "content_tokens": 83,
+  "embedding": []
+ },
+ {
+  "title": "The importance of curiosity and a desire to learn",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Even Peter and Bob, who have backgrounds in science, are constantly learning new things. “Part of it is you just have to acknowledge like it’s okay not to understand something and it might take you a little longer to get through it, but having that sort of curiosity is, I think the most important step to going through.” —Peter Attia",
+  "content_length": 334,
+  "content_tokens": 75,
+  "embedding": []
+ },
+ {
+  "title": "Bob’s tips and tricks for answering a scientific question in a time-crunch",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "What does Bob do when he has a deadline to answer a complicated question from Peter? Oftentimes, the answer can’t just be googled.",
+  "content_length": 130,
+  "content_tokens": 33,
+  "embedding": []
+ },
+ {
+  "title": "Bob's Process for Answering Questions",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Bob's process will depend on the question and topic and what knowledge he's already accumulated. In many cases, he leans on the network of people he has created. He recently emailed Matt Kaeberlein on an aging-related question. If you need an answer fast, you can reach out to somebody you've already established a relationship with because you showed interest in their work. When Bob does reach out to them, he tries to provide them some info on a topic that interests them that perhaps they haven't been aware of to sort of repay their generosity.",
+  "content_length": 549,
+  "content_tokens": 112,
+  "embedding": []
+ },
+ {
+  "title": "Absolute Risk Reduction vs. Relative Risk Reduction",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Bob recently answered a question from Peter about a JAMA paper that was writing about all the COVID vaccines. The article included a very insightful comment from a reader which pointed out that comparisons amongst vaccines were being reported in terms of relative risk rather than absolute risk reduction. Bob and Rachel both came up with the same answer. It was a great example of basically really organizing the hell out of a bunch of data and knowing that like, if you can't present this in a single table, you don't know what you're talking about. Bob determined that the commenter was more or less correct by searching for a particular number with a decimal point and then honing in on that and finding it.",
+  "content_length": 711,
+  "content_tokens": 138,
+  "embedding": []
+ },
+ {
+  "title": "Bob's Spreadsheet",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Bob made a spreadsheet to compare the JAMA commenter's values to the data from the FDA, which ended up matching in terms of absolute risk reduction.",
+  "content_length": 148,
+  "content_tokens": 30,
+  "embedding": []
+ },
+ {
+  "title": "Online Resources",
+  "date": "April 12, 2021",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Bob recommends Ninja Nerd Lectures, John Ioannidis, Vinay Prasad, Studying Studies series, and Richard Feyman's old lectures on YouTube for learning more about the topic.",
+  "content_length": 170,
+  "content_tokens": 39,
+  "embedding": []
+ }
+]

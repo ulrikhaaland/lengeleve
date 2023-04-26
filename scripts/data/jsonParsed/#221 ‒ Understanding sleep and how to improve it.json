@@ -1,0 +1,292 @@
+[
+ {
+  "title": "Evolutionary reasons to sleep",
+  "date": "September 5, 2022",
+  "context": "Sleep",
+  "people": "Peter Attia",
+  "content": "Sleep has become stigmatized as laziness and sloth. In 70 years, we’ve lost 20-25% sleep. It’s very clear that’s not a good idea. Peter’s personal story about his attitude towards sleep. Overnight it changed the way Peter thought about sleep, which was that evolution went to great lengths to do this. “Sleep is the greatest life support system you could ever wish for. It’s a remarkable health insurance policy, it’s largely democratic, free and largely painless”‒ Matt Walker. Sleep is the foundation of health. In terms of de-risking just about every disease that is killing us in the developed world, it’s very hard to look no further than sleep. Nutrition and exercise are important, but sleep is the foundation. “Sleep is the foundation on which those two other things sit. It’s not the third pillar of good health, I think it is the foundation”.",
+  "content_length": 852,
+  "content_tokens": 208,
+  "embedding": []
+ },
+ {
+  "title": "How long can you survive without sleep?",
+  "date": "September 5, 2022",
+  "context": "Sleep",
+  "people": "Peter Attia",
+  "content": "The record someone survived without food might be 382 days (a lean person maybe 30 days). Deprivation of sleep causes the quickest reduction of health. Guinness has banned trying to set record for sleep deprivation (record might have been up to 24 days) because it’s so dangerous (cancer, mental health, CVD, metabolic syndrome, suicidality).",
+  "content_length": 342,
+  "content_tokens": 75,
+  "embedding": []
+ },
+ {
+  "title": "Stages of Sleep",
+  "date": "September 5, 2022",
+  "context": "Sleep",
+  "people": "Peter Attia",
+  "content": "Humans (mammals) have 2 stages of sleep: 1 – Non-REM and 2 – REM. Non-REM has 4 stages‒ cleverly titled stages 1, 2, 3, and 4. Stages 3 and 4 are the very deep restorative stages. Stages 1 and 2 are the lightest stages of sleep. Non-REM + REM sleep combine to form 90 minute sleep cycles. Every 90 minutes, your brain cycles between non-REM and REM sleep. Then this is replayed every 90 minutes to create what we call a standard cycling architecture of sleep, or what we call a hypnogram of sleep.",
+  "content_length": 497,
+  "content_tokens": 130,
+  "embedding": []
+ },
+ {
+  "title": "Brainwaves During Sleep",
+  "date": "September 5, 2022",
+  "context": "Sleep",
+  "people": "Peter Attia",
+  "content": "Before you start to go to sleep, the back of brain (visual brain) is the first part that starts to settle down. It goes into alpha rhythm when you close your eyes. You can see this transition in your bed partner. Eyeballs start to roll (slow rolling eye movements). This is the first sign of transition to sleep (the reason is unknown). In stage 1 of non-REM sleep, theta waves begin. In stage 2, 50 cycles/sec down to 6-7 cycles/sec, the amplitude is getting bigger. Every now and then, you’ll get these synchronous bursts of electrical activity called sleep spindles ⇒ big slow wave, then a burst of spindle. Stages 3 and 4 are the deepest stages of sleep. The brain in synchronous chant of slow waves. The brain waves slow down to 1 or 2 cycles/sec, but the size of the waves are huge. During this deep sleep info transfer occurs in brain.",
+  "content_length": 842,
+  "content_tokens": 200,
+  "embedding": []
+ },
+ {
+  "title": "Deep Sleep and Brain State",
+  "date": "September 5, 2022",
+  "context": "Sleep",
+  "people": "Peter Attia",
+  "content": "Deep sleep is a brain state of long-distance information transfer.",
+  "content_length": 66,
+  "content_tokens": 13,
+  "embedding": []
+ },
+ {
+  "title": "Stages of Sleep",
+  "date": "September 5, 2022",
+  "context": "Sleep",
+  "people": "Peter Attia",
+  "content": "There are four stages of non-REM sleep, and after 70 minutes, you briefly transition to REM sleep. You flip flop between non-REM and REM sleep, and the ratio of non-REM to REM changes as you move across the night. In the first half of the night, the majority of the 90-minute cycle is deep non-REM and very little REM sleep. In the second half of the night, the majority of the cycle is REM and almost no deep sleep. If you get 6 hours of sleep instead of 8, you could be losing up to 70% of all REM sleep.",
+  "content_length": 506,
+  "content_tokens": 123,
+  "embedding": []
+ },
+ {
+  "title": "Sleep Chronotypes",
+  "date": "September 5, 2022",
+  "context": "Sleep",
+  "people": "Peter Attia",
+  "content": "Your sleep chronotype simply means whether you are a morning person, an evening person, or somewhere in between. There is a strong genetic component underlying sleep chronotypes, and there are a collection of genes that will determine, to a degree, your chronotype. No matter what chronotype you are, you will change as you develop from a young child to an adolescent teen, to an adult, to an older adult. Your innate chronotype can still be twisted/contorted by non-genetic forces such as modern social norms, light exposure, technology, etc.",
+  "content_length": 543,
+  "content_tokens": 114,
+  "embedding": []
+ },
+ {
+  "title": "Camping study during winter",
+  "date": "September 5, 2022",
+  "context": "Sleep",
+  "people": "Peter Attia",
+  "content": "At the end of the week, their melatonin levels began to rise 2.6 hours earlier. Going to be much earlier (more than 2 hours). But they did NOT wake earlier. As a result, they got 2.3 hours more sleep (~9 hr was the median). NOTE: this may not be realistic to normal life. And if you do the same in experiment in summer you don’t get as dramatic an effect because of so much sun (almost like solstice effect in scandinavia)",
+  "content_length": 422,
+  "content_tokens": 105,
+  "embedding": []
+ },
+ {
+  "title": "Determining your sleep chronotype",
+  "date": "September 5, 2022",
+  "context": "Sleep",
+  "people": "Peter Attia",
+  "content": "Paid genetic test like 23andMe. Free online survey‒ the MEQ test provides a decent approximation with genetic tests.",
+  "content_length": 116,
+  "content_tokens": 26,
+  "embedding": []
+ },
+ {
+  "title": "Benefits of knowing your chronotype",
+  "date": "September 5, 2022",
+  "context": "Sleep",
+  "people": "Peter Attia",
+  "content": "It would explain a lot about why you might struggle so much where other people seem to be just these energizer bunnies who go to the gym before getting to the office at 7 am. Realizing that you’re not culpable, it’s not your fault. It can sometimes explain incorrectly diagnosed insomnia.",
+  "content_length": 288,
+  "content_tokens": 66,
+  "embedding": []
+ },
+ {
+  "title": "Defining sleep efficiency and how to improve it",
+  "date": "September 5, 2022",
+  "context": "Sleep",
+  "people": "Peter Attia",
+  "content": "When Matt recommends getting 7-9 hours of sleep per night, he is talking about actual sleep, not just time in bed. The time you are asleep divided by the time you are in bed. You might only be asleep for 85-90% of the time you are lying in bed. If you are someone who needs 8 hours of actual sleep, and you’re sleep efficiency is about 90%, then you need to be lying in bed for approx. 8 hours and 50 minutes (sleep opportunity). Plan for 8-9 hours in bed to get 7-8 hours of total sleep. If there’s a problem with total sleep time and efficiency is low, you have to improve the quality. If total sleep time is low and efficiency is high, you need more time in bed.",
+  "content_length": 665,
+  "content_tokens": 161,
+  "embedding": []
+ },
+ {
+  "title": "Correcting insomnia: a counterintuitive approach",
+  "date": "September 5, 2022",
+  "context": "Sleep",
+  "people": "Peter Attia",
+  "content": "If you’re someone who’s struggling with insomnia and you’re lying in bed awake a lot of the time, you may need to decrease your time in bed to increase sleep pressure. It’s counterintuitive, but one of the tools in the CBT-I toolbox is to shorten the sleep opportunity. Re-establish confidence that you can fall asleep in bed. Constraining the person down to just 6 hours of sleep opportunity. By compressing that window down you’re sleeping less and you’re building up more of that sleep pressure because as a consequence of the reduction of sleep opportunity time, you’re going to be awake during the day longer.",
+  "content_length": 614,
+  "content_tokens": 144,
+  "embedding": []
+ },
+ {
+  "title": "Insomnia Treatment",
+  "date": "September 5, 2022",
+  "context": "Sleep",
+  "people": "Peter Attia",
+  "content": "The idea is force your brain to realize that it only has this tiny opportunity of 6 hours so it must take advantage. Use brute force efficiency in a brute force response from the brain and all of a sudden something magical happens. You start to control your sleep rather than your sleep controlling you. Do you push them more on delaying bedtime? ⇒ Slice off the sleep opportunity on both sides. Next, you should hold the wake up time constant. And then try to go to be a tad earlier, and earlier. If you have a set back you can “reign it back in” by shortening the sleep opportunity again.",
+  "content_length": 590,
+  "content_tokens": 130,
+  "embedding": []
+ },
+ {
+  "title": "Napping",
+  "date": "September 5, 2022",
+  "context": "Sleep",
+  "people": "Peter Attia",
+  "content": "Naps as short as 17 minutes can produce learning and memory benefits (unpublished data from Matt). And you can some benefit from a cardiovascular standpoint as well (unpublished data from Matt). Downside of naps is that it can take away sleep pressure which could exacerbate nighttime sleep issues. If you’re struggling with falling asleep at night (sleep onset insomnia), avoid naps during the day. On the flip side‒ If you are NOT struggling with your sleep at night, there’s no problem with napping regularly during the day.",
+  "content_length": 527,
+  "content_tokens": 113,
+  "embedding": []
+ },
+ {
+  "title": "Biphasic Sleep of Hunter-Gatherers",
+  "date": "September 5, 2022",
+  "context": "Sleep",
+  "people": "Peter Attia",
+  "content": "If you study hunter-gatherer tribes (whose way of life hasn’t changed for thousands of years), they don’t necessarily sleep the way that we do today. During the summer months, they will typically have an afternoon nap. This make sense because when you study human brains you see that somewhere between about 2:00 to 4:00 PM we have a drop in physiological alertness. As a species, we’re almost pre-programmed to have this enforced dip in our alertness suggesting maybe we should be biphasically sleeping at certain times during the year. As opposed to monophasically sleeping. Typically pretty short, says Matt, less than 90 minutes. Hunter gatherers would typically sleep just 6.5 hours at night, and then they would make the rest up with an afternoon nap.",
+  "content_length": 757,
+  "content_tokens": 170,
+  "embedding": []
+ },
+ {
+  "title": "Sleep Hygiene Tips",
+  "date": "September 5, 2022",
+  "context": "Sleep",
+  "people": "Peter Attia",
+  "content": "The five main sleep hygiene tips are regularity, light, temperature, 'walk it out', and avoiding alcohol/caffeine. Regularity means going to bed and waking up at the same time. Getting lots of darkness at night is important, as is getting daylight during the first half of the day. You need to get cool to get to sleep. Don’t lie awake in bed because it trains your brain to be triggered by your bed and force you awake because you have a learned association. Avoid caffeine in the afternoon and alcohol in the evening.",
+  "content_length": 519,
+  "content_tokens": 113,
+  "embedding": []
+ },
+ {
+  "title": "Wind-Down Routine",
+  "date": "September 5, 2022",
+  "context": "Sleep",
+  "people": "Peter Attia",
+  "content": "A wind-down routine is critical to build into your routine. A routine might be 15 minutes for some, for others it’s 30 minutes. Things like light stretches, meditation, putting all of your phones and your gadgets away can be part of the routine.",
+  "content_length": 245,
+  "content_tokens": 54,
+  "embedding": []
+ },
+ {
+  "title": "Removing Technology from the Bedroom",
+  "date": "September 5, 2022",
+  "context": "Sleep",
+  "people": "Peter Attia",
+  "content": "Technology (esp. phones) can cause “anticipatory anxiety”. Don’t make checking your phone (e.g., emails, texts, etc.) the first thing you do in the morning. This trains your brain in a “Pavlovian way” that even as your tucking yourself in bed at night to expect that anxiety waiting for you on your side table. Technology can result in “sleep procrastination”. If you’re going to have your phone in your bedroom, make it a rule that you can only use it if you’re standing up. After 5-10 minutes of standing you just think, “God, I just want to sit down. I just want to get into bed.” Peter has started a new habit that he enjoys‒ don’t look at your phone for an hour after you wake up.",
+  "content_length": 685,
+  "content_tokens": 187,
+  "embedding": []
+ },
+ {
+  "title": "Set Manageable Goals",
+  "date": "September 5, 2022",
+  "context": "Sleep",
+  "people": "Peter Attia",
+  "content": "Set manageable goals for yourself. If you are accustomed to checking your phone the moment you wake up, try to start by giving yourself 5 minutes without checking it. Next, keep pushing it longer and longer (10 min, 20 min, and so on). Don’t set yourself up for failure, ease into it and set yourself up for success.",
+  "content_length": 316,
+  "content_tokens": 71,
+  "embedding": []
+ },
+ {
+  "title": "Optimal Room Temperature and Body Temperature for Best Sleep",
+  "date": "September 5, 2022",
+  "context": "Sleep",
+  "people": "Peter Attia",
+  "content": "According to sleep expert Matthew Walker, the optimal room temperature for sleep is between 65-67 degrees Fahrenheit. However, it varies from person to person. Studies have shown that warming up your extremities with socks or a hot water bottle will bring heat away from your body, resulting in a cooling of your core temperature so you will fall asleep faster. Taking a hot bath or shower before bed can also help cool your core body temperature. Keeping the room cool throughout the middle and later section of sleep and setting your thermostat to rise in the last 15 minutes of your sleep can help you wake up easier and feel less groggy.",
+  "content_length": 641,
+  "content_tokens": 126,
+  "embedding": []
+ },
+ {
+  "title": "Blue Light and Its Impact on Sleep",
+  "date": "September 5, 2022",
+  "context": "Sleep",
+  "people": "Peter Attia",
+  "content": "Sleep expert Matthew Walker has down-regulated his belief in the effects of blue light on sleep. However, a study from Harvard showed that reading on an iPad before bed can delay the release of melatonin, causing a reduction in REM sleep.",
+  "content_length": 238,
+  "content_tokens": 48,
+  "embedding": []
+ },
+ {
+  "title": "Blue Light and Sleep",
+  "date": "September 5, 2022",
+  "context": "Sleep",
+  "people": "Peter Attia",
+  "content": "Studies have played around with the wavelength of light and have found that the shorter wavelength (blue light) is most detrimental. Studies years ago by Charles Czeisler and Steve Lockley at Harvard show that short wavelength light stamps the brakes on melatonin, and this led to this belief. The next evolution of the science will be to do 2 types of studies. 1 – Studies where you use the same amount of light exposure but use different types of lights (type of light being the variable‒ blue light versus red light). 2 – Studies where the type of light actually becomes the constant stimulus where you maintain the same light exposure but cognitively arousing activity is different.",
+  "content_length": 686,
+  "content_tokens": 135,
+  "embedding": []
+ },
+ {
+  "title": "Caffeine and Sleep",
+  "date": "September 5, 2022",
+  "context": "Sleep",
+  "people": "Peter Attia",
+  "content": "Matt has added more construct to his beliefs around caffeine, sleep, and disease risk. While most evidence is associational from epidemiological studies, the evidence is mounting that coffee drinkers are less at risk to “a whole constellation of diseases”. However, once you get past kind of like 3-4 cups, things go in the opposite direction. Caffeine can disrupt your sleep. “The dose and the timing make the poison when it comes to caffeine”‒ Matt Walker. If you’re drinking it later in the day, you’re less likely to see those health benefits. In fact, you would likely see health detriments.",
+  "content_length": 596,
+  "content_tokens": 136,
+  "embedding": []
+ },
+ {
+  "title": "Decaffeinated coffee",
+  "date": "September 5, 2022",
+  "context": "Sleep",
+  "people": "Peter Attia",
+  "content": "A review paper from 2017 showed that decaffeinated coffee carries the same antioxidant load, but without the caffeine, and has many health benefits associated with it. Matt’s personal behavioral adjustment . He now drinks decaffeinated coffee in the mornings. He’s still concerned about caffeine’s effect on sleep, even when consumed in the morning . This study showed that dosing people with caffeine at 7 AM lead to a reduction in the quality of that deep sleep. Genetic differences amongst individuals . There are genetic differences in how quickly people metabolize caffeine. Some people have very little sensitivity to caffeine, for example, and for those people caffeine in the morning is fine",
+  "content_length": 699,
+  "content_tokens": 138,
+  "embedding": []
+ },
+ {
+  "title": "Sleeping pills and Cognitive Behavioral Therapy for Insomnia (CBT-I)",
+  "date": "September 5, 2022",
+  "context": "Sleep",
+  "people": "Peter Attia",
+  "content": "The dangers of sleeping pills, useful alternatives, and cognitive behavioral therapy for insomnia. Peter Attia says, “I feel very comfortable telling patients that I would rather you stick your genitals in a grinder than you take Ambien or Lunesta”. Sleeping pills seems to weaken the immune system leading to higher rates of infection. Weakened immune can increase cancer risk as well. In 2016, the American College of Physicians said sleeping pills must no longer be the first line recommendation for insomnia. Cognitive Behavioral Therapy for Insomnia (CBT-I). Peter has had several patients go through CBT-I with “great success”. It’s a nonpharmacological, psychological method working with a therapist. They try to understand where your sleep problems are at and create a bespoke solution for you, the individual. It’s just as efficacious as sleeping pills in the short term. But the real benefit is in long term benefits. When you stop sleeping pills, the benefit goes away, and you might have even made it worse (“rebound insomnia”). With CBT-I, the benefits can last for years after stopping therapy. How do you recommend people find good CBT-I therapists? Peter recommends a sleep doctor Vik Jain in Chicago [now in Frisco, TX]. Here’s a site to help you find a facility near you that is AASM accredited. What questions to ask a potential sleep doctor? Ask them about their success rates. Ask them where they have found problems with your patients. Which patients have you typically had the hardest difficulty with in terms of the profile of sleep problems? And if they sound like you, then maybe you want to look elsewhere as well. Tylenol PM and Benadryl. For Benadryl… Benadryl-induced sleep also has some of the risks associated with it that sleeping pills have. It’s less potent in terms of that bad consequence and outcome to sleep. For Tylenol PM… Not good enough data yet to suggest that it’s either good or bad. What about low doses, or intermittent use of benzodiazepines? Examples: Xanax, Valium. Matthew says be careful, only use it in the most dire of circumstances. It may have similar negative consequences as Ambien and Lunesta per one study by Dan Kripke. Even just 3-18 pills per year can have a significant mortality risk. “See how far you can really get with all of the other kaleidoscope of possibilities of sleep enhancing possibilities that we’ve discussed.  And if those fail, then I think you can think about last resources.  But those drugs typically just are not producing natural sleep.  So I would think of those medications like that box on the wall that says, ‘Break glass in terms of emergency.’  If you’re in that situation and you’re really struggling, then it’s possible that that’s the time to break the glass, but those shattered shards can sometimes still cut you.”‒ Matt Walker",
+  "content_length": 2825,
+  "content_tokens": 649,
+  "embedding": []
+ },
+ {
+  "title": "Xyrem and GHB",
+  "date": "September 5, 2022",
+  "context": "Sleep",
+  "people": "Peter Attia",
+  "content": "Xyrem and GHB are drugs that appear to increase the amount of deep sleep that you have because it puts your brain into a more sort of sedated slow rhythm. However, a closely look in the lab shows it may not look like naturalistic sleep. Xyrem seems to be detrimental to sleep spindles.",
+  "content_length": 285,
+  "content_tokens": 66,
+  "embedding": []
+ },
+ {
+  "title": "Sleep Spindles",
+  "date": "September 5, 2022",
+  "context": "Sleep",
+  "people": "Peter Attia",
+  "content": "Sleep spindles are short synchronous bursts of electrical activity that happened during non-REM sleep. They last for 1-1.5 minutes. They are critical for things like learning memory and brain plasticity. When you take GHB or Xyrem, the amount of sleep spindle activity is decreased often.",
+  "content_length": 288,
+  "content_tokens": 64,
+  "embedding": []
+ },
+ {
+  "title": "Blocking Sleep Spindles",
+  "date": "September 5, 2022",
+  "context": "Sleep",
+  "people": "Peter Attia",
+  "content": "We see sleep spindles at the end of a deep, slow wave. And what happens is that once you’ve hit the peak of that slow wave, you will often have a little bit of a spindle burst (that burst in tandem is called phase amplitude coupling). That coupling is critical for long term memory transfer and for strengthening connections between brain cells (brain plasticity or long-term potentiation). So when your blocking those sleep spindles, the idea is you are preventing typical memory and brain plasticity events.",
+  "content_length": 509,
+  "content_tokens": 108,
+  "embedding": []
+ },
+ {
+  "title": "Xyrem and GHB Not Recommended",
+  "date": "September 5, 2022",
+  "context": "Sleep",
+  "people": "Peter Attia",
+  "content": "Xyrem and GHB are not recommended to people who do not have narcolepsy. 'We don’t have deep sleep in a pill'‒ Matt Walker.",
+  "content_length": 122,
+  "content_tokens": 38,
+  "embedding": []
+ }
+]

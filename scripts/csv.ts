@@ -41,9 +41,9 @@ async function compareAndSaveCsvFiles(
 
 (async () => {
   compareAndSaveCsvFiles(
-    'scripts/nutrition.csv',
-    'scripts/exercise.csv',
-    'nutrition_unique.csv'
+    'sleep_unique.csv',
+    'scripts/data/csv/nutrition.csv',
+    'sleep_unique.csv'
   )
     .then(() => console.log('Comparison and save completed'))
     .catch((error) => console.error('Error:', error));

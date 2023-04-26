@@ -1,3 +1,4 @@
+import endent from 'endent';
 import { openai } from './openAIConfig';
 
 export const getFollowUpQuestions = async (
@@ -6,28 +7,24 @@ export const getFollowUpQuestions = async (
 ) => {
   let response;
 
-  const content =
-    'This is the most recent question that my user asked my chatbot, it has not yet been answered.' +
-    '\n\n' +
-    question +
-    '\n\n' +
-    'These are previous questions that the user has asked my chatbot' +
-    '\n\n' +
-    'start of previous questions:' +
-    '\n\n' +
-    previousQuestions.join('\n\n') +
-    '\n\n' +
-    'end of previous questions' +
-    '\n\n' +
-    'The chatbot primarily answer questions about health, nutrition and exercise, specifically related to longevity, and how to live a long and healthy life.' +
-    '\n\n' +
-    'Based on the most recent question create 3 follow-up questions that the user might be likely to ask. Make sure they are not equal to the previous questions.' +
-    '\n\n' +
-    'Then return the questions as a JSON-list.' +
-    'Return only the questions, not answers.' +
-    'Return each answer as a JSON object in a list: [{"question": "Question 1"}, {"question": "Question 2"}, {"question": "Question 3"}]' +
-    '\n\n' +
-    'Make sure you only return a JSON LIST. Do not return any ordinary text. Only a JSON LIST as a string';
+  const content = endent`
+    This is the most recent question that my user asked my chatbot, it has not yet been answered.
+    Question: ${question}
+    These are previous questions that the user has asked my chatbot
+    start of previous questions:
+    ${previousQuestions.join('\n\n')}
+    end of previous questions
+    The chatbot primarily answer questions about health, nutrition and exercise, specifically related to longevity, and how to live a long and healthy life.
+    Based on the most recent question create 3 follow-up questions that the user might be likely to ask. 
+    Make sure these 3 new follow up questions does not resemble the previous questions.
+    Make sure any two question are not equal to the previous questions.
+    Make sure the questions are not equal to each other.
+    Make sure the questions are not equal to the question above.
+    Then return the questions as a JSON-list.
+    Return only the questions, not answers.
+    Return each answer as a JSON object in a list: [{"question": "Question 1"}, {"question": "Question 2"}, {"question": "Question 3"}]
+    Make sure you only return a JSON LIST. Do not return any ordinary text. Only a JSON LIST as a string
+  `;
 
   try {
     response = await openai.createChatCompletion({

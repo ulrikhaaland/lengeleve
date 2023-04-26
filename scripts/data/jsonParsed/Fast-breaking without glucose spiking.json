@@ -1,0 +1,52 @@
+[
+ {
+  "title": "Effects of CHO-restricted diet",
+  "date": "July 14, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "A group out of Japan in 2017 took 10 healthy adults, provided them with continuous glucose monitors (CGMs), and provided them with isoenergetic meals for 4 consecutive days. On days 1, 2, and 4, participants ate a higher carbohydrate diet (i.e., 3 meals/day of ~120 gm CHO/meal for males), while on day 3, they ate a CHO-restricted diet (i.e., 3 meals/day of ~10 gm CHO/meal for males). What they found was that one day of almost complete CHO-restriction led to post-meal glucose surges the next day when eating a higher carbohydrate diet.",
+  "content_length": 539,
+  "content_tokens": 133,
+  "embedding": []
+ },
+ {
+  "title": "Insulin resistance in muscle",
+  "date": "July 14, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "Fasting or CHO-restricted diets lower insulin levels, which leads to more circulating FFAs that can be utilized by muscle, and triggers insulin resistance in those muscles, sparing more glucose for the brain and red blood cells in the bargain. Similarly, Phinney and Volek discuss how keto-adaptation can take weeks, and one of the reasons it may take this long is the muscle shifting from ketones and towards more FFA for fuel, which now spares both glucose and ketones for the brain.",
+  "content_length": 485,
+  "content_tokens": 105,
+  "embedding": []
+ },
+ {
+  "title": "Gradual reintroduction of CHO",
+  "date": "July 14, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "The most sensible approach is a gradual reintroduction. If you typically eat 200 grams of CHO a day, take a few days to get back to this volume, titrating up from meal to meal.",
+  "content_length": 176,
+  "content_tokens": 40,
+  "embedding": []
+ },
+ {
+  "title": "High-intensity exercise",
+  "date": "July 14, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "Another possible tool in the belt is high-intensity exercise. This can help promote glucose uptake that’s independent of insulin, often referred to as non-insulin mediated glucose uptake, or NIMGU, for short. Emptying out some glycogen from muscle may help blunt any swings in glucose after a meal because of an increase in NIMGU.",
+  "content_length": 330,
+  "content_tokens": 74,
+  "embedding": []
+ },
+ {
+  "title": "Breaking a fast",
+  "date": "July 14, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "Personally, when breaking a fast, I’m optimizing for minimizing discomfort and a behavioral response to a craving. This usually manifests itself as a salad with a bit of chili or some eggs, and I generally try to take my time, moving from smaller meals and lower CHO, to larger (and more infrequent) ones, titrating up my CHO consumption along the way.",
+  "content_length": 352,
+  "content_tokens": 76,
+  "embedding": []
+ }
+]

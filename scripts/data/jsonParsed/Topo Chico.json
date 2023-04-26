@@ -1,0 +1,62 @@
+[
+ {
+  "title": "PFAS and its dangers",
+  "date": "October 11, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "PFAS are a synthetic class of chemicals that include perfluorooctanoic acid (PFOA) and perfluorooctanesulfonic acid (PFOS). They have been used for industrial purposes in the US since the 1940s. Even though their manufacture has been phased out in the US, they are still present in many imported products. We also know that they remain in the body for a long time (they have a half-life of approximately 4 years). PFOA, also called C8, is an industrial surfactant that is used to manufacture many products such as carpeting and textiles. One study found that there is a “more probable than not” association between PFOA and 6 ailments: kidney cancer, testicular cancer, ulcerative colitis, thyroid disease, hypercholesterolemia, and pregnancy-induced hypertension. But there was a small sample size, many findings were not statistically significant, and there are epidemiologic confounders potentially not accounted for. PFOS is a toxin used in stain repellents like Scotchgard. Higher levels have been associated with preeclampsia, thyroid hormone changes, and high cholesterol. In 2009, the Stockholm Convention decided it had seen enough, and moved to include the compound on a list of persistent organic pollutants that should be restricted in production. There is enough evidence to say that ingesting some amount of PFAS is bad news: the United States Environmental Protection Agency (EPA) has it listed as a contaminant of emerging concern (CAC).",
+  "content_length": 1453,
+  "content_tokens": 316,
+  "embedding": []
+ },
+ {
+  "title": "Regulations and guidelines",
+  "date": "October 11, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "There are no federal standards for levels of PFOA and PFOS in drinking water. The EPA has issued health advisories but not regulations, per se. It says that the combined amounts for these two compounds should be below 70 ppt, but other agencies like the Agency for Toxic Substances and Disease Registry (ATSDR) submitted regulatory guidelines at far lower levels (3 ppt for PFOA and 2 ppt for PFOS) than the EPA’s limit. Separate guidelines are issued by a few states that have set their own more stringent limits that range from 12 to 20 ppt. The International Bottled Water Association (IBWA) holds that bottled water should have PFAS levels below 5 ppt for any single compound and 10 ppt for more than one.",
+  "content_length": 709,
+  "content_tokens": 159,
+  "embedding": []
+ },
+ {
+  "title": "PFAS levels in Topo Chico",
+  "date": "October 11, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The amount of PFAS in Topo Chico is well below the 70 ppt from the EPA health advisory for maximum amounts in drinking and also below the more stringent state standards of 12-20 ppt. However, it is almost twice the amount of the IBWA standard of 5 ppt.",
+  "content_length": 252,
+  "content_tokens": 60,
+  "embedding": []
+ },
+ {
+  "title": "Interpreting the PFAS levels",
+  "date": "October 11, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "In the absence of a “maximum safe level” how shall I interpret the finding of 9.76 ppt for Topo? This is a classic signal-to-noise problem. Is there a chance drinking Topo Chico causes cancer or kidney disease? Sure, just like there is a chance that drinking tap water or using a cell phone causes cancer. But would the magnitude of that insult even remotely approximate that of, say, cigarettes on lung cancer? Not even close.",
+  "content_length": 427,
+  "content_tokens": 99,
+  "embedding": []
+ },
+ {
+  "title": "Precautionary principle",
+  "date": "October 11, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "But in the final analysis, at least for me, the precautionary principle, coupled with the asymmetry of being wrong, would suggest it wise to err on the side of caution and cut down on my consumption to a few bottles a week (rather than multiple bottles each day).",
+  "content_length": 263,
+  "content_tokens": 56,
+  "embedding": []
+ },
+ {
+  "title": "Reducing consumption of Topo Chico",
+  "date": "October 11, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The dose always makes the poison, so I’ll reduce my dose until further notice.",
+  "content_length": 78,
+  "content_tokens": 19,
+  "embedding": []
+ }
+]
