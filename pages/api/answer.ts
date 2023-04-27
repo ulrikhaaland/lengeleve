@@ -15,7 +15,7 @@ const handler = async (req: Request): Promise<Response> => {
     return new Response(stream);
   } catch (error) {
     console.error(error);
-    return new Response('Error', { status: 500 });
+    throw new Error(error as string);
   }
 };
 

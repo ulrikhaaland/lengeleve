@@ -16,6 +16,7 @@ import { Drawer, useMediaQuery, Theme } from '@mui/material';
 import { getQuestionPrompt } from '@/prompts/prompts';
 import { getPreQuestion } from '@/utils/preQuestion';
 import QuestionsList from '@/components/QuestionList';
+import CustomDrawer from '@/components/Drawer';
 const { encode, decode } = require('@nem035/gpt-3-encoder');
 
 export default function Home() {
@@ -30,13 +31,16 @@ export default function Home() {
   const [userHasScrolled, setUserHasScrolled] = useState(false);
   const [showSettings, setShowSettings] = useState<boolean>(false);
   const [matchCount, setMatchCount] = useState<number>(5);
-  const [apiKey, setApiKey] = useState<string>('');
+  const [apiKey, setApiKey] = useState<string>(
+    process.env.NEXT_PUBLIC_OPENAI_API_KEY!
+  );
   const [followUpQuestions, setFollowUpQuestions] = useState<string[]>([]);
   const [questions, setQuestions] = useState<string[]>([]);
   const [answers, setAnswers] = useState<string[]>([]);
   const [passages, setPassages] = useState<Chunk[][]>([]);
   const [showPassages, setShowPassages] = useState<boolean>(false);
   const [selectedIndex, setSelectedIndex] = useState<number | undefined>();
+  const [highlightedText, setHighlightedText] = useState<string | undefined>();
 
   const handleAnswer = async (q?: string, followUpQuestion?: boolean) => {
     setUserHasScrolled(false);
@@ -134,13 +138,20 @@ export default function Home() {
       prompt_token_length = encode(prompt).length;
     }
 
-    const answerResponse = await fetch('/api/answer', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({ prompt, apiKey }),
-    });
+    let answerResponse;
+
+    try {
+      answerResponse = await fetch('/api/answer', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ prompt, apiKey }),
+      });
+    } catch (error) {
+      setLoading(false);
+      throw new Error(error as string);
+    }
 
     if (!answerResponse.ok) {
       setLoading(false);
@@ -254,24 +265,6 @@ export default function Home() {
     inputRef.current?.focus();
   }, []);
 
-  // eslint-disable-next-line react-hooks/exhaustive-deps
-  const loadingAnswerElement = (
-    <>
-      <div className='font-bold text-2xl'>Answer</div>
-      <div className='animate-pulse mt-2'>
-        <div className='h-4 bg-gray-300 rounded'></div>
-        <div className='h-4 bg-gray-300 rounded mt-2'></div>
-        <div className='h-4 bg-gray-300 rounded mt-2'></div>
-        <div className='h-4 bg-gray-300 rounded mt-2'></div>
-        <div className='h-4 bg-gray-300 rounded mt-2'></div>
-      </div>
-    </>
-  );
-
-  const handleClose = () => {
-    setSelectedIndex(undefined);
-  };
-
   const handleScroll = (e: any) => {
     const divElement = divRef.current!;
     const threshold = 20; // Adjust this value to control the sensitivity
@@ -304,46 +297,16 @@ export default function Home() {
 
   return (
     <>
-      <Drawer
-        anchor={'right'}
-        open={selectedIndex !== undefined}
-        onClose={handleClose}
-        sx={{
-          '.MuiPaper-root': {
-            width: '23.625rem',
-          },
-          '.MuiDrawer-paper': {
-            padding: '1.094rem 1.5rem',
-          },
+      <CustomDrawer
+        selectedIndex={selectedIndex}
+        handleClose={function (): void {
+          setSelectedIndex(undefined);
+          setHighlightedText(undefined);
         }}
-      >
-        {selectedIndex !== undefined && (
-          <div className=''>
-            <div className='font-bold text-2xl mb-4'>
-              {questions[selectedIndex]}
-            </div>
-            {passages[selectedIndex].map((chunk, index) => (
-              <div key={index}>
-                <div className='mt-4 border border-zinc-600 rounded-lg p-4'>
-                  <div className='flex justify-between'>
-                    <div>
-                      <div className='font-bold text-xl'>{chunk.title}</div>
-                      <div className='mt-1 font-bold text-sm'>
-                        {chunk.people}
-                      </div>
-                      <div className='mt-1 font-bold text-sm'>
-                        {chunk.context}
-                      </div>
-                      <div className='mt-1 font-bold text-sm'>{chunk.date}</div>
-                    </div>
-                  </div>
-                  <div className='mt-2'>{chunk.content}</div>
-                </div>
-              </div>
-            ))}
-          </div>
-        )}
-      </Drawer>
+        questions={questions}
+        passages={passages}
+        selectedText={highlightedText}
+      />
       <Head>
         <title>ChatAttia</title>
         <meta
@@ -360,11 +323,11 @@ export default function Home() {
           <h2 className='text-m mb-2 text-gray-600'>Model: Attia01</h2>
         </div>
         <div
-          className='flex-1 text-grey overflow-auto mb-12 overflow-auto max-h-screen'
+          className='flex-1 w-full text-grey overflow-auto mb-12 overflow-auto max-h-screen'
           style={{ maxHeight: 'calc(100vh - 20px)' }}
           ref={divRef}
         >
-          <div className='mx-auto flex h-full w-full max-w-[750px] flex-col items-start px-3'>
+          <div className='mx-auto flex h-full w-full max-w-[750px] flex-col px-3'>
             <QuestionsList
               questions={questions}
               answers={answers}
@@ -375,8 +338,8 @@ export default function Home() {
               followUpQuestions={followUpQuestions}
               setQuery={setQuery}
               handleAnswer={handleAnswer}
-              text={''}
-              onTextHighlighted={function (selectedText: string): void {}}
+              onTextHighlighted={setHighlightedText}
+              passages={passages}
             />
           </div>
         </div>

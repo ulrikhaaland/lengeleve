@@ -1,0 +1,42 @@
+[
+ {
+  "title": "Alzheimer's Disease Research Fraud",
+  "date": "September 3, 2022",
+  "context": "Cognitive Health & Neurodegenerative Disease",
+  "people": "Peter Attia",
+  "content": "a news article published in Science sent shockwaves through the scientific community when it reported that one of the most influential and frequently-cited publications in Alzheimer’s disease (AD) research was evidently based on fraud. Lesné and his colleagues reported a key link in the so-called “amyloid hypothesis” of AD pathogenesis – the theory that the cognitive and memory impairments associated with AD are caused primarily by aggregates (known as “plaques”) of amyloid beta (Aꞵ) proteins. Based in large part on Lesné’s findings, research on Aꞵ’s role in AD pathogenesis has received a lion’s share of government funding allotted for the disease over the last 16 years. Virtually all clinical trials using anti-amyloid drugs have failed to show any positive effect on cognition, and many Phase 3 trials have been terminated early for lack of efficacy. So when Schrag revealed compelling evidence that Lesné had falsified data images in the 2006 paper and in several of his subsequent publications on Aꞵ*56, the revelation certainly wasn’t the first blow to the amyloid hypothesis.",
+  "content_length": 1090,
+  "content_tokens": 249,
+  "embedding": []
+ },
+ {
+  "title": "Limited funding for AD research",
+  "date": "September 3, 2022",
+  "context": "Cognitive Health & Neurodegenerative Disease",
+  "people": "Peter Attia",
+  "content": "The problem was exacerbated by the relatively limited NIH budget for AD research in the decade following Lesné’s study. In 2012, AD research received less than 25% of the funding devoted to cardiovascular research and only about 9% of the funding allocated for cancer research.",
+  "content_length": 277,
+  "content_tokens": 55,
+  "embedding": []
+ },
+ {
+  "title": "Shift away from amyloid hypothesis",
+  "date": "September 3, 2022",
+  "context": "Cognitive Health & Neurodegenerative Disease",
+  "people": "Peter Attia",
+  "content": "Inconsistencies in evidence and the failure of anti-amyloid drugs to provide any benefit have prompted experts to rethink the dominance of the amyloid hypothesis, and the rising burden of AD in the United States has motivated Congress to more than quintuple the NIH budget for AD and dementia-related funding since 2015. Some of these funding opportunities specifically prioritize projects exploring new or under-studied hypotheses on AD pathogenesis.",
+  "content_length": 451,
+  "content_tokens": 86,
+  "embedding": []
+ },
+ {
+  "title": "Impact of fraud allegations",
+  "date": "September 3, 2022",
+  "context": "Cognitive Health & Neurodegenerative Disease",
+  "people": "Peter Attia",
+  "content": "It’s too early to know if and how these allegations of fraud might impact theories on AD or practices around scientific research, but even before Schrag’s investigations, the tide appeared to be shifting.",
+  "content_length": 204,
+  "content_tokens": 43,
+  "embedding": []
+ }
+]

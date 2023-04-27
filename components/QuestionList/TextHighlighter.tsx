@@ -20,8 +20,12 @@ const TextHighlighter: React.FC<TextHighlighterProps> = ({
     top: 0,
     left: 0,
   });
+  const [selectedText, setSelectedText] = useState<string | undefined>();
 
   const handleButtonClick = () => {
+    if (selectedText) {
+      onTextHighlighted(selectedText);
+    }
     setButtonVisible(false);
     window.getSelection()?.removeAllRanges();
   };
@@ -35,7 +39,7 @@ const TextHighlighter: React.FC<TextHighlighterProps> = ({
         selectedText &&
         textRef.current?.contains(selection?.anchorNode as Node)
       ) {
-        onTextHighlighted(selectedText);
+        setSelectedText(selectedText);
 
         const range = selection?.getRangeAt(0);
         if (range && textRef.current) {

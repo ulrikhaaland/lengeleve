@@ -295,6 +295,13 @@ const parse = async (scraped: Scraped): Promise<Chunk[]> => {
 
     for (let j = 0; j < parsed.length; j++) {
       const chunk = parsed[j];
+
+      try {
+        chunk.content.trim();
+      } catch (error) {
+        continue;
+      }
+
       chunks.push({
         title: chunk.title,
         date: scraped.date,
@@ -421,7 +428,7 @@ function splitString(input: string, maxLength: number = 1000): EncodedString[] {
   return result;
 }
 async function startScrape(results: any[]) {
-  for (let i = 0; i < results.length; i++) {
+  for (let i = 17; i < results.length; i++) {
     const row = results[i];
     await runScrape(row);
     console.log('generated embeddings for: ' + row['title']);
