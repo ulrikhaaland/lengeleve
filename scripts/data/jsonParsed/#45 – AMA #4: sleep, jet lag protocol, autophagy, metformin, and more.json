@@ -4,9 +4,9 @@
   "date": "March 18, 2019",
   "context": "Sleep",
   "people": "Peter Attia",
-  "content": "In this AMA episode, Peter discusses how blue light blockers can improve sleep.",
-  "content_length": 79,
-  "content_tokens": 15,
+  "content": "We discuss: Blue light blockers and how they improve sleep [1:30];",
+  "content_length": 66,
+  "content_tokens": 16,
   "embedding": []
  },
  {
@@ -14,19 +14,19 @@
   "date": "March 18, 2019",
   "context": "Sleep",
   "people": "Peter Attia",
-  "content": "Peter shares his protocol for minimizing jet lag and sleep disruption while traveling.",
-  "content_length": 86,
-  "content_tokens": 14,
+  "content": "How to minimize jet lag and sleep disruption while traveling [6:45];",
+  "content_length": 68,
+  "content_tokens": 15,
   "embedding": []
  },
  {
-  "title": "Treating PMS symptoms and hormone cycles",
+  "title": "Treating hormone-related symptoms",
   "date": "March 18, 2019",
   "context": "Sleep",
   "people": "Peter Attia",
-  "content": "Peter talks about how to treat symptoms of PMS, the female hormone cycle, testosterone in women, and estrogen in men.",
-  "content_length": 117,
-  "content_tokens": 25,
+  "content": "How to treat symptoms of PMS, the female hormone cycle, testosterone in women, and estrogen in men [15:45];",
+  "content_length": 107,
+  "content_tokens": 26,
   "embedding": []
  },
  {
@@ -34,9 +34,9 @@
   "date": "March 18, 2019",
   "context": "Sleep",
   "people": "Peter Attia",
-  "content": "Peter explains what autophagy is, why it matters, and how we can enhance it.",
-  "content_length": 76,
-  "content_tokens": 19,
+  "content": "Autophagy: what it is, why it matters, and how can we enhance it [26:15];",
+  "content_length": 73,
+  "content_tokens": 23,
   "embedding": []
  },
  {
@@ -44,9 +44,9 @@
   "date": "March 18, 2019",
   "context": "Sleep",
   "people": "Peter Attia",
-  "content": "Peter answers a question about how to find good doctors that are up to date on the latest research.",
-  "content_length": 99,
-  "content_tokens": 20,
+  "content": "How does one find good doctors that are somewhat up to date on the latest research, primary care, etc.? [45:45];",
+  "content_length": 112,
+  "content_tokens": 27,
   "embedding": []
  },
  {
@@ -54,9 +54,9 @@
   "date": "March 18, 2019",
   "context": "Sleep",
   "people": "Peter Attia",
-  "content": "Peter discusses what values he would be interested in monitoring continuously if the technology existed.",
-  "content_length": 104,
-  "content_tokens": 16,
+  "content": "What values would Peter be interested in monitoring continuously if the tech existed? [47:15];",
+  "content_length": 94,
+  "content_tokens": 19,
   "embedding": []
  },
  {
@@ -64,9 +64,9 @@
   "date": "March 18, 2019",
   "context": "Sleep",
   "people": "Peter Attia",
-  "content": "Peter answers a question about whether someone interested in longevity should pursue a Ph.D. or M.D.",
-  "content_length": 100,
-  "content_tokens": 22,
+  "content": "If I’m interested in longevity, should I do a Ph.D. or M.D.? [50:00];",
+  "content_length": 69,
+  "content_tokens": 27,
   "embedding": []
  },
  {
@@ -120,7 +120,7 @@
   "embedding": []
  },
  {
-  "title": "PMS and the female hormone cycle",
+  "title": "Treating symptoms of PMS and understanding the female hormone cycle",
   "date": "March 18, 2019",
   "context": "Sleep",
   "people": "Peter Attia",
@@ -134,9 +134,9 @@
   "date": "March 18, 2019",
   "context": "Sleep",
   "people": "Peter Attia",
-  "content": "Progesterone stays really low throughout follicular phase and does not start to rise until after ovulation when it kicks into gear to prepare the endometrium. Due to the very, very rapid withdrawal of progesterone, some women experience symptoms of emotional lability such as not being themselves, easier to react, be emotional, cry, get upset, and mood swings. It typically goes away once her period arrives. Better sleep, exercise, nutrition, time with friends, a very low dose of progesterone for women to take orally following ovulation, and oral contraceptives are some interventions.",
-  "content_length": 589,
-  "content_tokens": 120,
+  "content": "Progesterone stays really low throughout follicular phase and it does not start to rise until after ovulation when it kicks into gear to prepare the endometrium. Due to the very, very rapid withdrawal of progesterone, some women experience symptoms of emotional lability. It typically goes away once her period arrives. Better sleep, exercise, nutrition, time with friends are some interventions. A very low dose of progesterone for women to take orally following ovulation usually blunts all of the symptoms out.",
+  "content_length": 513,
+  "content_tokens": 104,
   "embedding": []
  },
  {
@@ -144,9 +144,9 @@
   "date": "March 18, 2019",
   "context": "Sleep",
   "people": "Peter Attia",
-  "content": "Estrogen and progesterone rapidly drop off and effectively go to zero in menopause. Testosterone also drops to zero. Testosterone is actually much higher than estrogen and progesterone in women. Testosterone varies throughout a woman’s cycle but to a much less degree than other hormones.",
-  "content_length": 288,
-  "content_tokens": 61,
+  "content": "Estrogen and progesterone drop off rapidly and testosterone also drops to zero. Testosterone is the dominant hormone in both men and women. Testosterone varies throughout a woman’s cycle but to a much less degree than other hormones.",
+  "content_length": 233,
+  "content_tokens": 48,
   "embedding": []
  },
  {
@@ -154,9 +154,9 @@
   "date": "March 18, 2019",
   "context": "Sleep",
   "people": "Peter Attia",
-  "content": "Estrogen is very important in men. A study chemically castrated men and replaced them with testosterone at five different doses and then did so with and without a drug that blocks the conversion of testosterone into estrogen. The idea is you’d get basically 10 different pictures of testosterone and estrogen.",
-  "content_length": 309,
-  "content_tokens": 58,
+  "content": "Estrogen is very important in men. A study showed that estrogen is important for body composition, strength, and sexual function in men. They took a number of men and chemically castrated them and then replaced them with testosterone at five different doses and then did so with and without a drug that blocks the conversion of testosterone into estrogen.",
+  "content_length": 355,
+  "content_tokens": 66,
   "embedding": []
  },
  {
@@ -330,13 +330,13 @@
   "embedding": []
  },
  {
-  "title": "Ph.D. or M.D. for Longevity",
+  "title": "Peter's Trajectory",
   "date": "March 18, 2019",
   "context": "Sleep",
   "people": "Peter Attia",
-  "content": "If interested in longevity, one should do an M.D. or Ph.D. If Peter could go back in time, he would have gotten a Ph.D. Peter was unsatisfied after 10 years in medicine and left to work in credit risk at McKinsey. Before going into medicine, he originally planned to do control theory (math and aerospace). Unsatisfied again, he moved back to medicine. He's very glad he got his M.D. rather than an engineering degree.",
-  "content_length": 418,
-  "content_tokens": 101,
+  "content": "Peter has found himself at many points in life upset at his trajectory. For example, Peter was unsatisfied after 10 years in medicine. He left to work in credit risk at McKinsey. Thought to himself… why didn't I just do my Ph.D. in math like I was planning to do? Before going into medicine, he originally planned to do control theory (math and aerospace). Unsatisfied again, he moved back to medicine. And now that he is back in medicine, he's very glad he got his M.D. rather than an engineering degree. Could have he pursued a Ph.D. and done valuable lab research? Yes, of course, he would have liked that experience, but…",
+  "content_length": 625,
+  "content_tokens": 146,
   "embedding": []
  },
  {

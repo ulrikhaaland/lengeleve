@@ -1,0 +1,52 @@
+[
+ {
+  "title": "Consider the content",
+  "date": "February 11, 2023",
+  "context": "Understanding science",
+  "people": "Peter Attia",
+  "content": "Allowing infants and toddlers to view educational programming specifically designed for these ages is associated with better subsequent cognitive metrics than allowing children to view entertainment programming or programming intended for older audiences. While exposure to adult-oriented content prior to age two predicted delays in language acquisition, viewing toddler-oriented educational content was associated with higher subsequent language scores than those of non-viewers.",
+  "content_length": 481,
+  "content_tokens": 73,
+  "embedding": []
+ },
+ {
+  "title": "Interaction matters",
+  "date": "February 11, 2023",
+  "context": "Understanding science",
+  "people": "Peter Attia",
+  "content": "Infants between 12 and 24 months of age consistently exhibit difficulty in imitating on-screen actions or learning words via video, suggesting that screen time provides no clear educational benefit to children of this age. This phenomenon, known as the “video deficit effect,” can be overcome, however, when an on-screen guide interacts with the child or if a parent is physically present and draws the child’s attention to relevant information. Interaction with others appears to enhance the perceived salience of on-screen information, unlocking a child’s ability to learn from a medium which would otherwise offer no real-world benefit.",
+  "content_length": 639,
+  "content_tokens": 128,
+  "embedding": []
+ },
+ {
+  "title": "Screens can supplement, but not replace, live learning and play",
+  "date": "February 11, 2023",
+  "context": "Understanding science",
+  "people": "Peter Attia",
+  "content": "In addition to any potential direct effects of screen time on cognition, time in front of a television also impacts the amount of time a child spends on other activities. Despite the possible benefits of certain kinds of on-screen content, live social interactions and physical play still appear to be more effective forms of learning and cannot be replaced by even the most educational television shows.",
+  "content_length": 404,
+  "content_tokens": 72,
+  "embedding": []
+ },
+ {
+  "title": "Screen Time and Caregiver Behavior",
+  "date": "February 11, 2023",
+  "context": "Understanding science",
+  "people": "Peter Attia",
+  "content": "Television and on-screen media reduce the amount of time parents spend speaking to or interacting with their young children, which are crucial to learning and cognitive development. Controlled experiments by Kirkorian et al. demonstrate that even background television results in fewer and less rich parent-child interactions than when the television is off.",
+  "content_length": 358,
+  "content_tokens": 62,
+  "embedding": []
+ },
+ {
+  "title": "Screen Time and Young Children",
+  "date": "February 11, 2023",
+  "context": "Understanding science",
+  "people": "Peter Attia",
+  "content": "Whether screen time has a net positive, negative, or neutral influence on very young children is a question loaded with nuance, and the answers aren’t entirely clear, but if one point seems certain, it’s that a screen is no substitute for human interaction.",
+  "content_length": 257,
+  "content_tokens": 55,
+  "embedding": []
+ }
+]

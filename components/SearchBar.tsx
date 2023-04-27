@@ -8,7 +8,7 @@ import {
 interface SearchBarProps {
   query: string;
   setQuery: (query: string) => void;
-  handleSearch: () => void;
+  handleSearch: (query: string) => void;
   inputRef: React.RefObject<HTMLInputElement>;
   disabled: boolean;
 }
@@ -28,10 +28,10 @@ export default function SearchBar({
 
   const onSearch = () => {
     if (query.length === 0) {
-      query = 'How do i maximize lifespan?';
-      setQuery('How do i maximize lifespan?');
+      query = 'What is longevity?';
+      setQuery('What is longevity?');
     }
-    handleSearch();
+    handleSearch(query);
   };
 
   return (
@@ -43,7 +43,7 @@ export default function SearchBar({
         ref={inputRef}
         className='h-12 w-full rounded-full border border-zinc-600 pr-12 pl-11 focus:border-zinc-800 focus:outline-none focus:ring-1 focus:ring-zinc-800 sm:h-16 sm:py-2 sm:pr-16 sm:pl-16 sm:text-lg'
         type='text'
-        placeholder='How do i maximize lifespan?'
+        placeholder='What is longevity?'
         value={disabled ? '' : query}
         onChange={(e) => setQuery(e.target.value)}
         onKeyDown={handleKeyDown}

@@ -8,7 +8,7 @@ async function readCsvFile(filePath: string): Promise<Row[]> {
     const rows: Row[] = [];
 
     fs.createReadStream(filePath)
-      .pipe(csv())
+      .pipe(csv({}))
       .on('data', (row: Row) => rows.push(row))
       .on('end', () => resolve(rows))
       .on('error', (error) => reject(error));
@@ -33,7 +33,11 @@ async function compareAndSaveCsvFiles(
 
   const header = Object.keys(uniqueRowsInFile1[0]).join(',') + '\n';
   const rows = uniqueRowsInFile1
-    .map((row) => Object.values(row).join(','))
+    .map((row) =>
+      Object.values(row)
+        .map((value) => `"${value}"`)
+        .join(',')
+    )
     .join('\n');
 
   await fs.promises.writeFile(outputCsvPath, header + rows);
@@ -41,9 +45,9 @@ async function compareAndSaveCsvFiles(
 
 (async () => {
   compareAndSaveCsvFiles(
-    'sleep_unique.csv',
-    'scripts/data/csv/nutrition.csv',
-    'sleep_unique.csv'
+    'scripts/data/csv/chronic_unique.csv',
+    'scripts/data/csv/exercise.csv',
+    'scripts/data/csv/chronic_unique.csv'
   )
     .then(() => console.log('Comparison and save completed'))
     .catch((error) => console.error('Error:', error));

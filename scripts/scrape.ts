@@ -229,7 +229,7 @@ const chatCompletetion = async (content: string) => {
         {
           role: 'user',
           content:
-            'I will give you a chunk of text. You will extract the parts that is relevant to nutrition. You will not use any personal names. You will leave out parts where they talk about peoples backgrounds. Then you will combine the relevant text into a chunks, give each chunk a title, and only return a JSON list containg each chunk as JSON format: {title: title, content: content}. It is crucial to respond in the JSON Format as requested.',
+            'I will give you a chunk of text. You will extract the parts that is relevant to disease. You will not use any personal names. You will leave out parts where they talk about peoples backgrounds. Then you will combine the relevant text into a chunks, give each chunk a title, and only return a JSON list containg each chunk as JSON format: {title: title, content: content}. It is crucial to respond in the JSON Format as requested.',
         },
         {
           role: 'user',
@@ -431,7 +431,7 @@ async function startScrape(results: any[]) {
 async function main() {
   const results: any[] = [];
 
-  fs.createReadStream('scripts/data/csv/sleep_unique.csv')
+  fs.createReadStream('scripts/data/csv/chronic_unique.csv')
     .pipe(csv())
     .on('data', (data: any) => results.push(data))
     .on('end', () => {

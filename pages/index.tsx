@@ -345,7 +345,7 @@ export default function Home() {
         )}
       </Drawer>
       <Head>
-        <title>Paul Graham GPT</title>
+        <title>ChatAttia</title>
         <meta
           name='description'
           content={`AI-powered search and chat for Paul Graham's essays.`}
@@ -355,67 +355,16 @@ export default function Home() {
       </Head>
 
       <div className='flex flex-col h-screen w-full h-screen items-center'>
+        <div className='border-b w-full text-center'>
+          <h2 className='text-2xl font-bold mt-4 mb-2'>ChatLongevity</h2>
+          <h2 className='text-m mb-2 text-gray-600'>Model: Attia01</h2>
+        </div>
         <div
-          className='flex-1 overflow-auto mb-12 overflow-auto max-h-screen'
+          className='flex-1 text-grey overflow-auto mb-12 overflow-auto max-h-screen'
           style={{ maxHeight: 'calc(100vh - 20px)' }}
           ref={divRef}
         >
-          <div className='mx-auto flex h-full w-full max-w-[750px] flex-col items-start px-3 pt-4 sm:pt-8'>
-            <button
-              className='mt-4 flex cursor-pointer items-center space-x-2 rounded-full border border-zinc-600 px-3 py-1 text-sm hover:opacity-50'
-              onClick={() => setShowSettings(!showSettings)}
-            >
-              {showSettings ? 'Hide' : 'Show'} Settings
-            </button>
-
-            {showSettings && (
-              <div className='w-[340px] sm:w-[400px]'>
-                <div className='mt-2'>
-                  <div>Passage Count</div>
-                  <input
-                    type='number'
-                    min={1}
-                    max={30}
-                    value={matchCount}
-                    onChange={(e) => setMatchCount(Number(e.target.value))}
-                    className='max-w-[400px] block w-full rounded-md border border-gray-300 p-2 text-black shadow-sm focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500 sm:text-sm'
-                  />
-                </div>
-
-                <div className='mt-2'>
-                  <div>OpenAI API Key</div>
-                  <input
-                    type='password'
-                    placeholder='OpenAI API Key'
-                    className='max-w-[400px] block w-full rounded-md border border-gray-300 p-2 text-black shadow-sm focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500 sm:text-sm'
-                    value={apiKey}
-                    onChange={(e) => {
-                      setApiKey(e.target.value);
-
-                      if (e.target.value.length !== 51) {
-                        setShowSettings(true);
-                      }
-                    }}
-                  />
-                </div>
-
-                <div className='mt-4 flex space-x-2 justify-center'>
-                  <div
-                    className='flex cursor-pointer items-center space-x-2 rounded-full bg-green-500 px-3 py-1 text-sm text-white hover:bg-green-600'
-                    onClick={handleSave}
-                  >
-                    Save
-                  </div>
-
-                  <div
-                    className='flex cursor-pointer items-center space-x-2 rounded-full bg-red-500 px-3 py-1 text-sm text-white hover:bg-red-600'
-                    onClick={handleClear}
-                  >
-                    Clear
-                  </div>
-                </div>
-              </div>
-            )}
+          <div className='mx-auto flex h-full w-full max-w-[750px] flex-col items-start px-3'>
             <QuestionsList
               questions={questions}
               answers={answers}
@@ -429,60 +378,6 @@ export default function Home() {
               text={''}
               onTextHighlighted={function (selectedText: string): void {}}
             />
-            {/* {questions.map((q, i) => {
-              return (
-                <div
-                  key={i}
-                  className={`${
-                    i === questions.length - 1 ? '' : 'mt-6'
-                  } w-full flex flex-col mt-6`}
-                >
-                  <div className='font-bold text-2xl w-max'>Question</div>
-                  <div
-                    className='mt-2 cursor-pointer'
-                    onClick={() => setSelectedIndex(i)}
-                  >
-                    {q}
-                  </div>
-
-                  {i === questions.indexOf(questions[questions.length - 1]) &&
-                  loading ? (
-                    loadingAnswerElement
-                  ) : i ===
-                      questions.indexOf(questions[questions.length - 1]) &&
-                    answering ? (
-                    <>
-                      <div className='font-bold text-2xl mb-2'>Answer</div>
-                      <Answer text={answer} />
-                    </>
-                  ) : (
-                    answers[i] && (
-                      <>
-                        <div className='font-bold text-2xl mt-6'>Answer</div>
-                        <div className='mt-2'>{answers[i]}</div>
-                      </>
-                    )
-                  )}
-
-                  {i === questions.length - 1 && (
-                    <div className='mt-6'>
-                      {followUpQuestions.map((fuq, index) => (
-                        <button
-                          key={index}
-                          className='mt-2 mr-3 bg-blue-500 text-sm hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline'
-                          onClick={() => {
-                            setQuery(fuq);
-                            handleAnswer(fuq, true);
-                          }}
-                        >
-                          {fuq}
-                        </button>
-                      ))}
-                    </div>
-                  )}
-                </div>
-              );
-            })} */}
           </div>
         </div>
 
@@ -492,9 +387,7 @@ export default function Home() {
           setQuery={function (query: string): void {
             setQuery(query);
           }}
-          handleSearch={function (): void {
-            handleAnswer();
-          }}
+          handleSearch={handleAnswer}
           inputRef={inputRef}
         ></SearchBar>
       </div>
