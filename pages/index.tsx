@@ -19,6 +19,8 @@ import QuestionsList from '@/components/QuestionList';
 import CustomDrawer from '@/components/Drawer';
 const { encode, decode } = require('@nem035/gpt-3-encoder');
 
+const apiKey = process.env.NEXT_PUBLIC_OPENAI_API_KEY;
+
 export default function Home() {
   const inputRef = useRef<HTMLInputElement>(null);
   const divRef = useRef<HTMLInputElement>(null);
@@ -31,9 +33,6 @@ export default function Home() {
   const [userHasScrolled, setUserHasScrolled] = useState(false);
   const [showSettings, setShowSettings] = useState<boolean>(false);
   const [matchCount, setMatchCount] = useState<number>(5);
-  const [apiKey, setApiKey] = useState<string>(
-    process.env.NEXT_PUBLIC_OPENAI_API_KEY!
-  );
   const [followUpQuestions, setFollowUpQuestions] = useState<string[]>([]);
   const [questions, setQuestions] = useState<string[]>([]);
   const [answers, setAnswers] = useState<string[]>([]);
@@ -223,28 +222,6 @@ export default function Home() {
     }
   };
 
-  const handleSave = () => {
-    if (apiKey.length !== 51) {
-      alert('Please enter a valid API key.');
-      return;
-    }
-
-    localStorage.setItem('PG_KEY', apiKey);
-    localStorage.setItem('PG_MATCH_COUNT', matchCount.toString());
-
-    setShowSettings(false);
-    inputRef.current?.focus();
-  };
-
-  const handleClear = () => {
-    localStorage.removeItem('PG_KEY');
-    localStorage.removeItem('PG_MATCH_COUNT');
-    localStorage.removeItem('PG_MODE');
-
-    setApiKey('');
-    setMatchCount(5);
-  };
-
   useEffect(() => {
     setMatchCount(matchCount);
   }, [matchCount]);
@@ -253,14 +230,6 @@ export default function Home() {
     const PG_KEY = localStorage.getItem('PG_KEY');
     const PG_MATCH_COUNT = localStorage.getItem('PG_MATCH_COUNT');
     const PG_MODE = localStorage.getItem('PG_MODE');
-
-    if (PG_KEY) {
-      setApiKey(PG_KEY);
-    }
-
-    if (PG_MATCH_COUNT) {
-      setMatchCount(parseInt(PG_MATCH_COUNT));
-    }
 
     inputRef.current?.focus();
   }, []);
