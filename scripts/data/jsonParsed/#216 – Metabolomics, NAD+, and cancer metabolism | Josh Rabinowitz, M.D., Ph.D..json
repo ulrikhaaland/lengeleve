@@ -1,0 +1,612 @@
+[
+ {
+  "title": "Cancer Metabolism",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "We end the conversation talking about cancer metabolism. Particularly one way in which cancer metabolism and immunotherapy might intersect.",
+  "content_length": 139,
+  "content_tokens": 22,
+  "embedding": []
+ },
+ {
+  "title": "The Immune System and T Cell Activation",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Peter Attia had Steven Rosenberg on his podcast to discuss the development of cancer immunotherapy and its promise for treating advanced cancers. The T cell receptor recognizes things that are 9-11 amino acids long, and the peptides have to be just the right size to be presented and then recognized. Josh Rabinowitz thinks the system was built to work on a minimal, or just the right amount of information.",
+  "content_length": 407,
+  "content_tokens": 81,
+  "embedding": []
+ },
+ {
+  "title": "Josh Rabinowitz's Career Path",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Josh Rabinowitz decided to be a full-time scientist after realizing that medicine involves a lot of doing the same thing over and over again. He loved the patient interaction part of medicine, but doing things the same every day was challenging. Before joining the faculty at Princeton, he worked with Alex Zaffaroni at Alexza Pharmaceuticals, which focused on fast drug delivery through inhalation of small molecules.",
+  "content_length": 418,
+  "content_tokens": 82,
+  "embedding": []
+ },
+ {
+  "title": "Josh Rabinowitz's Interest in Metabolism",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Josh Rabinowitz took a lateral step to go into academics after realizing there were relatively few labs looking at metabolism broadly, compared to other really important areas of science like immunology, cancer, or neuroscience. He learned about drugs in his work with Alexza Pharmaceuticals and studied every medication in the pharmacopeia for whether it could be a candidate for rapid delivery.",
+  "content_length": 396,
+  "content_tokens": 73,
+  "embedding": []
+ },
+ {
+  "title": "Metabolism and Metabolic Syndrome",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Metabolic syndrome was becoming worse and worse in the population. People realized that genomics as a standalone was not going to solve health problems. Genomics needed to be supplemented by other technologies that looked at biochemistry broadly. Metabolomics was one of those that proved enduring. Josh’s training as a physician becomes important b/c he saw the clinical problem.",
+  "content_length": 380,
+  "content_tokens": 74,
+  "embedding": []
+ },
+ {
+  "title": "Metabolomics 101",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Metabolism is the process that converts the food we eat into usable energy and the building blocks our body needs to grow or regenerate itself, as well as waste along the way. The bulk of metabolism (that makes most of our usable energy) involves something like a hundred metabolites. The 1st thing Josh wanted to do was measure those 100 metabolites really well. Examples of metabolites: This includes all the amino acids and other fundamental inputs we get from our diet. Then there are intermediary metabolites. Then, there are the more effector or energy-holding metabolites‒ ATP, NADH, NADPH.",
+  "content_length": 597,
+  "content_tokens": 121,
+  "embedding": []
+ },
+ {
+  "title": "Discovering New Metabolites",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Josh and other groups around the world keep discovering new metabolites at a steady pace. But he doesn’t think there’s been a completely new and important metabolite discovered yet this century.",
+  "content_length": 194,
+  "content_tokens": 40,
+  "embedding": []
+ },
+ {
+  "title": "Regulation of Metabolites",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Metabolites are tightly regulated, and some behave like pH. The pH spectrum runs from 0 to 14, and pH is tightly regulated to keep us at 7-7.7. For the big metabolites, the healthy range exists in this 2-3 fold range in the bloodstream. The most important principle is: When it’s there, use it up. Insulin is the most important regulatory hormone in mammals and has two equally important roles.",
+  "content_length": 394,
+  "content_tokens": 91,
+  "embedding": []
+ },
+ {
+  "title": "Fluxomics: Metabolism as a System in Action",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Metabolites are intermediates in the process of converting what we eat into usable energy and protein biomass. Metabolites are completely different from part of our bodies that are going to sit there for maybe our entire lifetime. Metabolism is a system in action, and understanding where things are coming from, where they are going, and where we can learn about how metabolism works.",
+  "content_length": 385,
+  "content_tokens": 76,
+  "embedding": []
+ },
+ {
+  "title": "Type 2 Diabetes",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Now let’s say Peter’s fasting blood glucose comes back at 180 mg/dL. This would be type 2 diabetes. Type 2 diabetes more than doubles your risk of mortality and increases your risk of cancer, Alzheimer’s disease, and cardiovascular disease. This disease becomes a problem with only a 2-fold increase in blood glucose levels. The system has been built to have about the most circulating glucose that you can have safely. Josh thinks a lot of the really important metabolites have been pushed to the edge this way. We know that there are deleterious protein modification reactions, glycosylation reactions that occur when glucose gets above this point. Evolution pushed right up to the highest in non-problematic glucose. This didn’t happen for a lot of other metabolites and that’s part of why there isn’t a lot of other diseases like diabetes.",
+  "content_length": 843,
+  "content_tokens": 181,
+  "embedding": []
+ },
+ {
+  "title": "The Randle Hypothesis",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "The Randle Hypothesis: glucose and fatty acids compete as substrates for oxidation. There’s a competition between the fuels glucose and fat; this is a very old idea called the Randle Hypothesis. Josh has a lot of data that’s consistent with this hypothesis. A lot of tissues make room for glucose to be burned by controlling the amount of fat that’s being used by tissues. The essence of the Randle Hypothesis is that fat is somewhere between “A preferred and THE preferred” fuel for tissues and there’s competition between carbohydrates (classically glucose) and fat, for burning. When fat is available, then glucose tends not to be burned effectively; and that’s a possible cause of diabetes. Fat that’s available for use can come in multiple forms. 1 – Free fatty acids floating in the bloodstream (this may be the most important form). 2 – Adipose stores within tissue, ectopic fat, for example, droplets of fat building up in muscle. 3 – Breakdown of lipoproteins from the bloodstream, things like VLDL, we desperately need to have broken down in order to have a good HDL and a low LDL cholesterol. Recent evidence that supports the Randle Hypothesis. Josh’s experiments examines what can suppress glucose use in tissues. They see very clearly that fat suppresses glucose use. There is a long history of this observation, but maybe it hasn’t been adequately appreciated, just how fundamental that result is.",
+  "content_length": 1412,
+  "content_tokens": 316,
+  "embedding": []
+ },
+ {
+  "title": "Lactate as an alternate fuel",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Josh has learned that lactate is a very important circulating fuel, and it also will suppress glucose use. The fact that you can have multiple different types of fuels, either fat or lactate, and any of them will suppress glucose use, really makes Josh believe in this kind of competitive nutrient environment and that that plays a central role in determining whether you clear or don’t clear glucose and how high your glucose has to go in order to be cleared. Conversion of glucose to lactate is a quicker path that’s less efficient, but doesn’t require the same cellular oxygen, and you won’t get nearly as much ATP. This also tends to generate a lot of lactate, which tends to gravitate with hydrogen ions, which tends to poison the muscle a little bit. That’s why it becomes rate limiting, in terms of how long you can sustain that level of output.",
+  "content_length": 852,
+  "content_tokens": 185,
+  "embedding": []
+ },
+ {
+  "title": "Lactate as a major circulating nutrient",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "The other part is that mammals have been wired to use lactate as a major circulating nutrient. It’s a super fast turnover nutrient. When you think of having a few minutes supply of glucose circulating in your blood, you have an even shorter supply of lactate. Lactate is constantly being made, released into the bloodstream, and consumed. There are MCT transporters that will carry lactate into virtually any cell in your body. MCT stands for monocarboxylate, because lactate has 1 carboxylic acid (if you think of it from a chemistry perspective). Jost points out, “I think the really important thing about lactate is that glucose penetration into tissues is actually heavily regulated. It has to be heavily regulated so that if we go through a period of having low carb intake, there’s still glucose preserved for the brain and for other cells that particularly need it. Lactate is the universally available form of carbohydrate. In a healthy heart, at least in the fasted state, it basically will not touch glucose, but it will use lactate as fuel.”",
+  "content_length": 1052,
+  "content_tokens": 231,
+  "embedding": []
+ },
+ {
+  "title": "Lactate as a metabolite to pay attention to",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Peter notes, “Lactate is another metabolite that I pay a lot of attention to… As regularly as I’m checking my glucose, I’m checking my lactate.” As compared to glucose, his range is much greater for lactate. The lowest glucose he ever measured in himself was 50 mg/dL. The highest was when Jerry Reaven had him do an insulin suppression test at stanford; he almost died. It was ridiculous because one of the IV got blown. They were pushing glucose and didn’t know; he was getting so hypoglycemic. In medical school, he learned what hypoglycemia feels like‒ you start sweating profusely. This was like nothing he had ever experienced. “It felt like a bucket of water got dumped on me… I could feel the IV was blown”",
+  "content_length": 714,
+  "content_tokens": 178,
+  "embedding": []
+ },
+ {
+  "title": "Glucose and Lactate Levels",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "When they finally corrected it, his glucose got up to 240 mg/dL. That’s a 5x range in glucose levels. With lactate, Peter has measured it as low as 0.3 mmol and a high as 20 mmol in himself. That’s a 60-fold difference. The point here is there is a much bigger range in blood lactate levels.",
+  "content_length": 291,
+  "content_tokens": 78,
+  "embedding": []
+ },
+ {
+  "title": "Lactate as a Fuel",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Neurons use lactate. The beauty of lactate is it allows a tremendous degree of flexibility that wouldn’t exist otherwise. George Brooks at Berkeley recognized the ubiquitous potential for lactate as a fuel. Josh has contributed to that story by showing lactate is used throughout the whole body, using mass spectrometry. Evolutionary reason for allowing most tissues to use lactate directly as a fuel instead of relying on the liver to mop it up.",
+  "content_length": 446,
+  "content_tokens": 93,
+  "embedding": []
+ },
+ {
+  "title": "Lactate and Pyruvate",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "We see, going all the way back to yeast, that’s a false choice. Josh points out, “The default is to spit out the redox balanced waste [lactate or ethanol] and then you can always pick the waste up and reuse it if you need energy from TCA cycle”. This goes back to the very earliest days of eukaryotic life‒ you want to be able to run glycolysis whenever you need to run glycolysis. Use glucose whenever you need to use glucose. That takes you to pyruvate. This creates a redox problem because you have electrons from the glucose that are not sitting on the pyruvate. The first priority is to solve that redox problem. That’s achieved in our bodies by spitting out lactate.",
+  "content_length": 672,
+  "content_tokens": 170,
+  "embedding": []
+ },
+ {
+  "title": "Lactate and Disease",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "We can’t excrete lactate from the body; too much lactate in the blood can cause medical problems like lactic acidosis. This can occur with certain metabolic deficiencies or if you couldn’t breathe, then you end up in this crisis of redox imbalance. Fasting lactate levels seem to be proportional to metabolic health. The higher that number, the less metabolically healthy they are. In a healthy person, this will be below 0.5 mmol.",
+  "content_length": 431,
+  "content_tokens": 98,
+  "embedding": []
+ },
+ {
+  "title": "Fasting Lactate Levels",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Peter has become very interested in the levels of fasting lactate in the population. If you measure a person’s lactate level, first thing in the morning, you’re going to see a lot of variability. This seems to be proportional to their metabolic health. The higher that number, the less metabolically healthy they are. It’s not uncommon for someone who is insulin resistant to have a fasting lactate level approaching 2 mmol with no activity. In a healthy person, this will be below 0.5 mmol.",
+  "content_length": 491,
+  "content_tokens": 109,
+  "embedding": []
+ },
+ {
+  "title": "Metabolic Syndrome Criteria",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Of Jerry Reaven 5 criteria for what was called Syndrome X (now called metabolic syndrome), fasting glucose is still 1 of these criteria. The 5 criteria are: (1) waist circumference over 40 inches (men) or 35 inches (women), (2) blood pressure over 130/85 mmHg, (3) fasting triglyceride (TG) level over 150 mg/dl, (4) fasting high-density lipoprotein (HDL) cholesterol level less than 40 mg/dl (men) or 50 mg/dl (women), and (5) fasting blood sugar over 100 mg/dl.",
+  "content_length": 463,
+  "content_tokens": 124,
+  "embedding": []
+ },
+ {
+  "title": "Lactate Dysregulation and Metabolic Syndrome",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Peter wonders if lactate dysregulation might be an earlier canary in the coal mine, indicating metabolic syndrome. Josh agrees.",
+  "content_length": 127,
+  "content_tokens": 25,
+  "embedding": []
+ },
+ {
+  "title": "The Krebs Cycle and Energy Production",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "The beauty of the Krebs cycle and the role of NAD in energy production. Before discussing NAD (and NADP, NADPH, NR, NMN and all the things people care about), let’s review how the electron transport chain works. What is the Krebs cycle doing? How is that feeding into this massive generation of energy currency? Explain the concept of redox.",
+  "content_length": 341,
+  "content_tokens": 78,
+  "embedding": []
+ },
+ {
+  "title": "Macronutrients and the TCA Cycle",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Fundamentally, you eat 3 macronutrients: carbs and protein and fat. In a healthy adult first approximation, every carbon atom that you eat in any of those three forms needs to exit your body as exhaled carbon dioxide. All of that exhaled carbon dioxide to a first approximation, is made in the TCA cycle (aka the Krebs cycle). The main way that nutrients flow into the TCA cycle to become carbon dioxide is first turning into pieces that are 2-carbon units in size. From carbohydrates, the basic flow is glucose to lactate and then lactate to pyruvate (a 2-carbon piece that goes into the TCA cycle). Fat is basically composed of preassembled 2-carbon pieces. Fats just get chopped up 2-carbon pieces at a time. The protein part is a little more complicated, we could probably skip it. Ultimately, unless you’re gaining protein mass, whatever amino acid carbon you take in (in the form of protein) has to be balanced with amino acid catabolism. Amino acid catabolism is not that different from carbs and fat, just a little in that it can enter the TCA cycle sometimes as 4-carbon pieces. A lot of amino acids are broken down in these same 2-carbon pieces. There’s just 20 of them (for the 20 amino acids). These 2-carbon pieces congeal with a 4-carbon piece to make citrate.",
+  "content_length": 1274,
+  "content_tokens": 298,
+  "embedding": []
+ },
+ {
+  "title": "The Krebs Cycle and Electron Transport Chain",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "The Krebs cycle is important in metabolism as it spits off the 2-carbon pieces that came in as carbon dioxide. It takes the electrons that were part of those two carbon pieces and passes them to NAD to make NADH. NADH feeds into the electron transport chain where electrons flow through a series of proteins that sit in the inner mitochondrial membrane. Ultimately, it’s the pumping of protons out of the mitochondria that’s the function of the electron transport chain. As they flow back in, they turn a turn style and squeeze ADP together to make ATP. ATP is the master energy currency used to power our neurons for thinking our muscles for moving and so on.",
+  "content_length": 660,
+  "content_tokens": 140,
+  "embedding": []
+ },
+ {
+  "title": "Redox and Oxidation-Reduction Reactions",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Oxidation and reduction are always coupled and refer to the movement of electrons. When electrons go from substance A to substance B, the one that gives up the electrons is oxidized, and the one that receives the electrons is reduced. NAD is the oxidized form, and NADH is the electron holding or reduced form. It normally exists in a biased ratio towards a lot of NAD and a small amount of NADH. This makes NAD a decent electronic acceptor.",
+  "content_length": 441,
+  "content_tokens": 93,
+  "embedding": []
+ },
+ {
+  "title": "Cyanide and NADH/NAD balance",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Cyanide is an electron transport chain inhibitor that leads the whole system just backing up bit by bit. You can’t then transfer electrons from NADH into the electron transport chain. NADH goes way up, NAD falls to the floor, and then you have no way to make ATP. That unfortunately leads to rapid mortality. Often they are a result of toxicities. This comes back to the kinetics and the flux, which is, it’s not like cyanide kills you in an hour. I mean, it kills you in seconds. It’s really a sobering thought. ATP turnover, via this system, is on the time scale of a second. Same for NADH. These are things that are just whizzing through our bodies all the time and that we’re constantly dependent on.",
+  "content_length": 704,
+  "content_tokens": 169,
+  "embedding": []
+ },
+ {
+  "title": "Metformin and NADH/NAD balance",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Metformin is a super interesting medication and probably works mainly by slowing the conversion of NADH back to NAD, by impairing the complex I of the electron transport chain. Complex I does this initial electron offloading from NADH to make NAD. Metformin inhibits the electron transport chain. It’s a mechanistic analog of cyanide. You have one of the most acutely lethal substances and one of the most widely used drugs working in a remarkably similar way. Josh thinks the strong liver specificity of metformin is probably what makes it beneficial for at least a subset of people. Josh is not sure he did this in a way that is clinically applicable, but it’s crystal clear that it goes in the right direction. No, it is certainly aligned to do that.",
+  "content_length": 753,
+  "content_tokens": 159,
+  "embedding": []
+ },
+ {
+  "title": "NAD levels in human tissues",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Like ATP, NAD is a tissue metabolite, not a circulating metabolite. So you need biopsy specimens to measure it. Josh is not a master of the literature on NAD levels in human tissues. His not-fully informed perspective is‒ we don’t have as many of these measurements as we should have. And that’s because it’s hard to get biopsies from people.",
+  "content_length": 342,
+  "content_tokens": 85,
+  "embedding": []
+ },
+ {
+  "title": "NAD clinics and IV NAD",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "7-8 years ago, NAD clinics started popping up all of the the place saying they will give you and IV of NAD. Why did they administer NAD intravenously?  Why not make a pill? NAD (aka nicotinamide riboside) and its precursors are broken down in the gastrointestinal tract. If you take it NR orally, it will mainly enter the body in the form of nicotinic acid (aka niacin). This is a healthy substance, but your body is not seeing nicotinamide riboside (NAD).",
+  "content_length": 456,
+  "content_tokens": 115,
+  "embedding": []
+ },
+ {
+  "title": "Absorption of NAD",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "“There’s no known absorption route for NAD”‒ Josh Rabinowitz. One of the things in metabolism and biology is anytime you put something in a vein, you bypass the liver and the first pass effect. NAD is going to get broken down partially because there are not clear uptake mechanisms known, to get NAD from the bloodstream into cells. NR is a partially broken down form of NAD, but they are nevertheless meaningfully closer to NAD than the normal things that circulate in good amounts in our bloodstream. Partially broken down NAD precursors can be taken into cells and rebuild NAD in a shortcut manner that probably has a good chance to bolster NAD levels.",
+  "content_length": 655,
+  "content_tokens": 137,
+  "embedding": []
+ },
+ {
+  "title": "Effectiveness of IV NAD",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Josh thinks you probably end up with effective NAD supplementation when you go the IV route. Peter’s takeaway: Taking IV NAD will probably increase intracellular NAD levels, though, not directly because there’s not a transporter. It goes through a circuitous route to get there. This corrects a statement Peter has made in the past‒ “Intravenous NAD is not a good way to get NAD because we don’t have a transporter”. This statement is correct, but incomplete. In other words, if you take 100 units of NAD intravenously infused, we don’t really know how many units ultimately make their way into a cell, but it’s probably not 100. Josh thinks there is a fair amount of loss in the process.",
+  "content_length": 688,
+  "content_tokens": 162,
+  "embedding": []
+ },
+ {
+  "title": "CD38 and NAD levels",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "CD38 is a very interesting protein; it’s designed to control these kind of pathways. It’s a suppressor of NAD levels.",
+  "content_length": 117,
+  "content_tokens": 31,
+  "embedding": []
+ },
+ {
+  "title": "NAD and NMN",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "It works by breaking down NAD that’s outside of cells. In normal physiology, there isn’t meaningful amounts of NAD outside of cells, but there is NMN in meaningful amounts. This is a protein that’s super good at breaking down NMN; it leaves you with NR. So it’s one step further away from being NAD, but it’s still meaningfully closer than your typical physiological precursor. It’s positioned to boost NAD, at least in some places in the body.",
+  "content_length": 444,
+  "content_tokens": 108,
+  "embedding": []
+ },
+ {
+  "title": "NR and NMN as NAD Precursors",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Peter thinks the majority of efforts to increase intracellular NAD are done through oral precursors, NR and NMN. These are pretty similar. NR and NMN are approximately equivalent approaches. NR and NMN are also niacin prodrugs, so their conversion to niacin is delayed and they may be better tolerated.",
+  "content_length": 302,
+  "content_tokens": 68,
+  "embedding": []
+ },
+ {
+  "title": "NR and NMN Absorption",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "They get broken down all the way to the level of nicotinic acid (aka niacin). This is the main way they enter the body. It doesn’t mean that there can’t be a trickle of them entering some other way that has a physiological effect or that there’s some local effect or some effect on the microbiome of taking them. Biology is super complicated; there are ways that these could be doing interesting health-supporting things.",
+  "content_length": 421,
+  "content_tokens": 96,
+  "embedding": []
+ },
+ {
+  "title": "NR and NMN Circulating Levels",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "The main finding is both NR  and NMN are converted to niacin. They raise niacin levels in the portal circulation that connects your intestine to the liver. So heading out of the intestine and to the liver. They boost their own circulating levels in a subtle or vanishing amount. NR and NMN are less abundant in the bloodstream than nicotinamide (NAM). Josh’s conclusion from his research‒ there is no clear route for oral NR or NMN to produce circulating levels of NR or NMN that are high enough to compete at a standard concentration level with NAM. Josh’s base assumption is that often the obvious is true, and here the obvious would be the physiological system just isn’t that impacted by this particular type of oral supplement.",
+  "content_length": 732,
+  "content_tokens": 160,
+  "embedding": []
+ },
+ {
+  "title": "Chronic Administration of NR or NMN",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Josh points out, “Human can be different than mouse… We haven’t done these experiments in humans.  Chronic versus acute, there’s a bunch of variables that could alter things.”",
+  "content_length": 175,
+  "content_tokens": 44,
+  "embedding": []
+ },
+ {
+  "title": "Misinterpretation of the Women's Health Initiative Study",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "The Women’s Health Initiative was a randomized experiment, but it was really misinterpreted and initial findings have been overturned. If you go back and look at the Women’s Health Initiative, it’s an awful example of how to misinterpret a study. There was no increase in the risk of breast cancer. And if there was, it probably had nothing to do with the estrogen the women were given. But to talk about an increase in relative risk without talking about the absolute risk is irresponsible; the change in absolute risk was 0.1% or 1 in 1,000. This difference in relative risk versus absolute risk is important. These findings were not held up in subsequent studies. Peter’s takeaway: in 10 years, we’ll look back and see what happened to a generation of women who were deprived of hormone therapy as really unfair and due to a poorly interpreted study.",
+  "content_length": 853,
+  "content_tokens": 182,
+  "embedding": []
+ },
+ {
+  "title": "Route of Administration for Hormone Replacement Therapy",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Today, very few women on hormone replacement therapy are given oral estrogen. The preferred route of administration is a patch, something like a Vivelle-Dot where you’re given topical estradiol, and this provides many benefits (below) without any of the hypercoagulability and cardiovascular risk. Now we actually see the reverse, a statistically significant reduction in cardiovascular mortality. Josh points out this is a great example where the drug has to be given by the right route of administration to see a health benefit.",
+  "content_length": 530,
+  "content_tokens": 106,
+  "embedding": []
+ },
+ {
+  "title": "Boosting NAD levels in select cell types",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "If there are select cell types that are severely NAD depleted, we will need to figure out how to restore NAD in those cell types. It's possible that the general intravenous supplementation is hitting those cells and correcting this depletion, but it's equally possible that it's having some adverse effect that's going to be net negative for people. We don't know the science well enough, and we certainly haven't done the clinical experiment well enough to give good health guidance yet.",
+  "content_length": 488,
+  "content_tokens": 94,
+  "embedding": []
+ },
+ {
+  "title": "Lack of compelling evidence for NR and NMN supplementation",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Peter hasn't seen a single convincing clinical study in humans using either NR or NMN that has made him excited about this. Because he can't find a shred of compelling evidence to tell him to do so, he asks, 'If I'm willing to take rapamycin, why am I not taking NR? And why am I not taking NMN?'",
+  "content_length": 296,
+  "content_tokens": 72,
+  "embedding": []
+ },
+ {
+  "title": "Mapping the basic pharmacology of NAD in animals and humans",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "First, we need to do a better job mapping the basic pharmacology of NAD in animals and humans. We need to look at cellular resolution rather than bulk resolution. Josh is working hard to develop the ability to take a slice of tissue and determine the heterogeneity of NAD levels across cells. It will take the field a few years to get there. Ultimately we need successful clinical experiments.",
+  "content_length": 393,
+  "content_tokens": 76,
+  "embedding": []
+ },
+ {
+  "title": "Finding the strongest animal proof of concept for NAD supplementation",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Conceptually, we need to find the strongest animal proof of concept that can be translated into a small, but definitive clinical trial and prove that this really can do something beneficial in the right context. And then from there you can think about kind of expanding the indication to general health betterment. There is money in the NIH for this question that is central to metabolism and health. Biotech is also interested in ways to do this pharmacologically.",
+  "content_length": 465,
+  "content_tokens": 89,
+  "embedding": []
+ },
+ {
+  "title": "Top labs studying NAD and its precursors or ways to increase it",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Josh is too much of an outsider to name the top labs studying NAD and its precursors or ways to increase it, other than to credit Jo Baur for being a fantastic collaborator.",
+  "content_length": 173,
+  "content_tokens": 38,
+  "embedding": []
+ },
+ {
+  "title": "Introduction to Cancer Metabolism",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Josh was fortunate to be at Princeton, which is this academic bubble where he could do experiments on E. coli and yeast, and set up these good metabolic measurements unmolested. He got a call from the head of the Penn Cancer Center (at that point in time it was Craig Thompson), saying he wanted to visit. That was a life-changing call because it brought him into the world of biomedicine, in the context of working on cancer metabolism. Craig left Penn to go to Memorial Sloan-Kettering shortly after. There is a very natural connection between metabolism and cancer. The first great rational triumph in treating cancer was antifolates and Sidney Farber. His name is memorialized on the Dana-Farber Cancer Center. This is really the origins of how cancer was rationally treated by targeting metabolism. This was understudied for so many years and it was a very natural reentry point for Josh because you can study cancer in isolated cells in a culture dish. Since his lab was studying E. coli and yeast that was much more comfortable to him in the 2008 than trying to work on mice. Though he’s delighted they got back to mice a few years after that.",
+  "content_length": 1150,
+  "content_tokens": 245,
+  "embedding": []
+ },
+ {
+  "title": "Cancer Metabolism and Immunotherapy",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Peter notes cancer metabolism is a booming field today. Cancer metabolism and immunotherapy are really 2 of the most promising and exciting areas of cancer research today. One of the most exciting things is going to be the interface of those 2 fields. The composition of the microbiome is predictive of whether immunotherapy works. Jennifer Wargo has amazing work showing that fiber can promote the effectiveness of immunotherapy. It remains to be determined if this is soluble or insoluble fiber.",
+  "content_length": 497,
+  "content_tokens": 91,
+  "embedding": []
+ },
+ {
+  "title": "Metabolic Changes in Cancer Cells",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "What makes the metabolism in a cancer cell different? Even when you compare cancer to their non-cancer counterparts in the same tissue, there are differences. The 2 hallmarks of cancer are 1 – The inability to respond to cell cycle signaling; this is why it keeps growing. 2 – The capacity to metastasis; cancer cells leave and grow in a new site. Peter asks: What is it about them metabolically that also is a piece of their signature? Cancers tend to be glucose users, says Josh. Downstream from this, there are a ton of metabolic changes in cancer cells. 1 – The most fundamental change is uncontrolled nucleic acid synthesis. This is needed to support uncontrolled growth. This was targeted initially by Farber and by many subsequent medications that are still widely used today. Pemetrexed is first line treatment for lung cancer. If you get these medications right, you can induce mutations through the metabolic stress on the nucleotide system and this can make immunotherapy work better. Immunotherapy as gotten understudied as cancer metabolism has returned to the fore. There’s been a lot of focus on fuel usage cutoff, which is tough because like most cells in the body, cancer cells can use a lot of different types of fuels depending on what’s available.",
+  "content_length": 1267,
+  "content_tokens": 260,
+  "embedding": []
+ },
+ {
+  "title": "Why starving your body of glucose doesn’t totally kill cancer",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Why starving your body of glucose doesn’t totally kill cancer [1:44:30]. It’s natural when people hear that cancer loves glucose that they think the solution is to stop eating glucose. The problem with that logic is no matter how little glucose you eat, you still have plenty of glucose in your circulation, even if you’re in a complete state of starvation. George Cahill’s work, 40 days of starvation, they still had 3 mmol of glucose in their circulation 40 days out. So there is no way to eliminate glucose. Getting glucose below the healthy 89 mg/dL is very difficult. Peter rationalizes that minimizing insulin may be more important than minimizing glucose. The idea of starving cancer seems potentially overly simplistic.",
+  "content_length": 727,
+  "content_tokens": 153,
+  "embedding": []
+ },
+ {
+  "title": "Cancer's Fuel Supply",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Even if you can get your glucose below 89, there are other fuels cancer can use such as glycogen, amino acids, fats, lactate, and ketone bodies. You cannot cut off the fuel supply for cancer without affecting some other critical tissue. Disrupting the function of immune cells or the brain would be a more acute disaster.",
+  "content_length": 321,
+  "content_tokens": 69,
+  "embedding": []
+ },
+ {
+  "title": "Making Cancer a Chronic Disease",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "There is an idea about exploiting the metabolic quirks of cancer in a way that augments the immune system. Peter has a bias, which is cancer is going to be hard to control so a better strategy is to use multiple modes of action instead of pulling really hard on just 1 lever. Josh points out there are lot of moves to try to make cancer into a chronic disease where the therapies are not so terrible. Hitting the nucleic acid side of cancer for people aiming for maintenance therapy. We need a fresh approach to that whole side of cancer metabolism because think there are targets waiting to be developed. If you can create nucleotide imbalances, which is a natural thing to do when you hit that system, then nucleotide imbalances are drivers of mutations and mutations in cancer cells are drivers of immune response to cancer. Interrupt the ability of cancer cells to synthesize DNA and this will result in more mutations. More mutations create more targets for the immune system. Another exciting avenue is to apply a very strong stress to the cancer while putting pressure on their fuel supply. It will be difficult to put so much pressure on the fuel supply, that this alone will slow tumor growth. But if you combine it with chemotherapy, that’s already targeted to the tumor. And then you pair that with something like ketogenic diet, which is lowering insulin, lowering glucose. Studies in animal models show this can be a very powerful combination. We see that the tumors start to deplete glucose in response to the chemotherapy, whether that’s because their vasculature is breaking down or whether that’s because they have hiding glucose demand because they’re having mitochondrial damage from the chemotherapy. Chemotherapy lowers glucose in the tumor intrinsically, and then if you come in with a diet that lowers glucose availability, this becomes stronger and then you can get to really low tumor glucose. Josh has seen some pretty big improvements in outcome in mouse experiments. Hopefully they’ll translate to the clinic. He has a clinical trial open on this now. What’s the best tool we have to interfere with nucleic acid synthesis in cancer cells? Is it old school chemotherapeutics? For the moment, yes. Pemetrexed is probably the most successful clinical agent. Other good ones are gemcitabine, but we need to think fresh. Josh reflects, “When we were in medical school, I thought we would not see a cure in our lifetimes for hepatitis… but look at that now”. Nucleoside analogs have mainly cured hepatitis. “There’s clearly untapped potential there”‒ Josh Rabinowitz. Josh’s guess is that the chemistry has evolved a lot in the past 40 years and this area is ripe for rediscovery.",
+  "content_length": 2702,
+  "content_tokens": 568,
+  "embedding": []
+ },
+ {
+  "title": "The Challenge of Treating Pancreatic Cancer",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Pancreatic adenocarcinoma is the cancer Josh has worked the most on. It’s a horrible disease. It’s the 4th leading cause of cancer death in the US, in both men and women. It’s 95% lethal and Peter has heard it argued that the 5% who don’t die are misdiagnosed. FOLFIRINOX is progress for treating pancreatic cancer. Even more patients respond if you combine gemcitabine and abraxane (an albumin-bound form of paclitaxel) with a platinum agent. That triple combination produces regressions in most patient’s tumors. But the regression is not durable and that’s what kills them. “The duration of response is terrible right now, but the fact there’s response is promise”‒ Josh Rabinowitz. From Josh’s perspective, once you can start seeing a response, you’re on the road. Now they have to figure out how to make the response durable. He hopes that’s where the metabolic part becomes important.",
+  "content_length": 890,
+  "content_tokens": 232,
+  "embedding": []
+ },
+ {
+  "title": "Overview of Gastrointestinal Adenocarcinomas",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Other gastrointestinal adenocarcinomas are really bad diseases.",
+  "content_length": 63,
+  "content_tokens": 13,
+  "embedding": []
+ },
+ {
+  "title": "Pancreatic Adenocarcinoma",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "80-85% of patients with stage I pancreatic cancer die. The pancreas is a soft organ and this cancer is very invasive. You can have local invasion in so many places in the body from that site. Plus there is immediate access to the portal system that’s constantly seeding the liver. Anatomically it’s problematic for keeping the cancer self-contained. Metabolically it’s a very tricky cancer. It’s almost solely driven by mutations in the ras proto-oncogene.",
+  "content_length": 456,
+  "content_tokens": 111,
+  "embedding": []
+ },
+ {
+  "title": "Metabolic Approaches to Therapy",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Epithelial cancers that might respond to metabolic approaches to therapy include lung cancer. Josh doesn’t think metabolic approaches are going to be the standalone part of treating any of these cancers. Instead, it’s more of a key piece of the puzzle in getting enough, either drug killing by preventing their metabolic escape mechanisms, or enough immune activity. And those may be opposites. So you may also need cyclic therapies where you go through rounds of metabolic suppression in order to keep things calm while you can, and then periods of metabolic augmentation that are really directed at augmenting the immune system.",
+  "content_length": 630,
+  "content_tokens": 122,
+  "embedding": []
+ },
+ {
+  "title": "Ras in Pancreatic Carcinoma",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Ras is a driver mutation in pancreatic cancer but the irony is, ras is rarely immunogenic. You need more antigens for the immune system to target. It’s typically quite the lymphocyte desert. There is a ton of macrophage activity in pancreatic cancer. Maybe macrophage rewiring is going to be a big part of allowing lymphocytes to enter. These are areas where Josh thinks metabolism can be impactful.",
+  "content_length": 399,
+  "content_tokens": 93,
+  "embedding": []
+ },
+ {
+  "title": "Hopeful Outlook on the Future of Cancer Treatment",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Josh’s hopeful outlook on the future of cancer treatment is that there’s metabolic limitations on immune response to cancer and that if we can overcome them, we will have major therapeutic benefits.",
+  "content_length": 198,
+  "content_tokens": 40,
+  "embedding": []
+ },
+ {
+  "title": "Combining metabolic immune supplements and diet to treat cancer",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Josh’s big hope on this front is that we’re going to be able to have some combination of directed, metabolic immune supplements, and diet that work with therapy to treat cancer. Because things are metabolically messed up in tumor cells, he’s hopeful that either some sort of supplement or diet will make immunotherapy work for the majority of patients. Currently immunotherapy only works for about 10% of patients.",
+  "content_length": 414,
+  "content_tokens": 87,
+  "embedding": []
+ },
+ {
+  "title": "Nutritional approaches to cancer attenuation",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Amino acids are complicated, but they hold a lot of potential. The type of fat can be important. Saturated and unsaturated fat are very different and will play different roles in cancer. There is nice work from Matt Vander Heiden’s lab showing that a higher saturated fat ketogenic diet could be more tumor suppressive in some context because tumors have trouble making unsaturated fat in the context of hypoxia. Josh thinks the exciting part of diet is how it connects to the microbiome. We need to understand the role of fiber and maybe total protein. There are a lot of things we can do with the timing of macronutrients that can be interesting. Maybe we need to not just think about cycling fasting, and feeding. For example, maybe there’s a time maybe when you want to come in with a lot of carbs in the absence of protein and that may achieve something that creates a particular immune milia. And then you need protein in the right timing after that.",
+  "content_length": 956,
+  "content_tokens": 203,
+  "embedding": []
+ },
+ {
+  "title": "Challenges of studying dietary combinations in animals",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Peter replies, “It seems like an eternity before we’d be ready to study this in a human clinical trial because the permutations are so many. Do you feel like we have high throughput animal models where we can test these hypotheses and say, we’ve looked at 10 ways to do this in animals, but these are the three most promising so we’re going to go ahead and do these now?” The good animal models of cancer are still not that high throughput and there’s a lot of challenges converting animal diet and human diet. Josh will come out with some work showing that some of the most exciting dietary combinations are absolutely effective in animals, but they’re not effective through the mechanisms that people thought before. Because even in animals trying to get the diets aligned so that you really isolate variables is tough. Josh thinks the fact that we’re asking these questions that haven’t been asked before is going to build momentum and we’re going to build this interface out over the next 5 year period in animals. And clinical work will take be done in this field in parallel. Josh hopes that will have an impact on patients lives within the 5 to 10-year timeline.",
+  "content_length": 1169,
+  "content_tokens": 250,
+  "embedding": []
+ },
+ {
+  "title": "Simplifying the diet for patients",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Do you worry about the challenges of patients adhering to the right diet? Josh replies that the diet has to be simple. It has to be clinically actionable. He mentioned earlier the potential of immunotherapy and fiber. The question of is it soluble fiber or insoluble fiber is important. Then there are different flavors of soluble fiber. Maybe it’s the mix of fiber, maybe it’s one isolated molecule. Josh has 1 tiny molecule/ metabolite that will more than double the number of complete responses to immunotherapy observed in mice. Could this be nutritional supplements as opposed to wholesale dietary changes? It could be supplements. The dietary changes may be in an acute way, how the patient comes in the hospital for a tough bout chemotherapy or a tough surgery. Maybe we’re going to go to a place where we take people’s glucose in the hospital, almost down to zero for 12 hours with a deep ketosis and some pharmacotherapy at the time that we hit them really hard with chemo, and 24 hours of that it’s like night and day in terms of the overall effect.",
+  "content_length": 1059,
+  "content_tokens": 228,
+  "embedding": []
+ },
+ {
+  "title": "Low carbohydrate diet trial for cancer patients",
+  "date": "August 1, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Another trial Josh’s group is starting now as a trial with a SGLT2 inhibitor plus a low carbohydrate diet (but not fully ketogenic diet), to see if it can put people in ketosis. This will assess if this is a way for cancer patients to get the benefits of ketosis while still allowing them to have a little bit of breaking bread with the family.",
+  "content_length": 344,
+  "content_tokens": 78,
+  "embedding": []
+ }
+]
