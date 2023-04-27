@@ -53,8 +53,6 @@ export default function Home() {
       return;
     }
 
-    console.log(apiKey);
-
     if (!query) {
       alert('Please enter a query.');
       return;

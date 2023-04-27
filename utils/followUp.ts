@@ -43,7 +43,6 @@ export const getFollowUpQuestions = async (
       temperature: 0.7,
     });
   } catch (e) {
-    console.log(process.env.REACT_APP_OPEN_AI_API_KEY);
     console.log(e);
     throw new Error('Error in GPT-3 request');
   }

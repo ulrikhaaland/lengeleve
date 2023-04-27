@@ -1,0 +1,702 @@
+[
+ {
+  "title": "Max's current research involves the development of novel methods for detecting circulating tumor DNA in the blood of cancer patients",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Max’s current research involves the development of novel methods for detecting circulating tumor DNA in the blood of cancer patients. He also works to understand cancer cells by identifying molecular pathways and genes associated with disease. He’s interested in uncovering biomarkers that can predict response to therapy or predict patient survival and return of disease as early as possible.",
+  "content_length": 393,
+  "content_tokens": 70,
+  "embedding": []
+ },
+ {
+  "title": "The importance of liquid biopsies in cancer screening",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "We dive really deep into liquid biopsies; the landscape, the history, the possible future of liquid biopsies. In this episode, we get a lot more granular around the nuances of the different ways in which not just we can look at circulating tumor cells versus cell-free DNA. When looking at cell-free DNA, what are the different methods that can be used to predict if a cancer is present? We talk about these cell-free DNA, RNA signatures. We talk about methylation patterns. We talk about the importance of knowing mutation information. We talk about the difference in some of the screenings being approved by the FDA versus those that are being permitted to use for patients without FDA approval formally. We talk about the path to using blood alone as a screening for early detection and the use case for liquid biopsies.",
+  "content_length": 823,
+  "content_tokens": 169,
+  "embedding": []
+ },
+ {
+  "title": "Max's training that planted the seeds for development of liquid biopsies",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Max’s training that planted the seeds for development of liquid biopsies. Max chose to do his dissertation with Pat Brown, who was a professor in biochemistry. What attracted Max to Pat Brown’s lab‒ Pat had invented technology for measuring the expression of basically all the genes in the genome with a technique called DNA microarrays. At the time, this was revolutionary. Max’s dissertation was a little unusual; he worked on many different projects. It was a unique time in the lab where a new technology is transformative.",
+  "content_length": 527,
+  "content_tokens": 112,
+  "embedding": []
+ },
+ {
+  "title": "RNA and T Cell Activation",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "His dissertation focused on 2 main areas‒ 1) immunology and 2) cancer biology. One project focused on T cells, a critical part of the adaptive immune system. He was interested to see what genes are turned on and off in T cells when they are activated. He measured RNA. RNA is the intermediate between DNA and proteins. DNA microarrays allowed him to see hundreds and thousands of genes changing as he manipulated T cells. He was able to build a catalog of all the genes that turned on or turned off when T cells were activated using different signals. This catalog has been very helpful for understanding the mechanism of T cell activation. This has gotten more interesting with the advent of immunotherapy.",
+  "content_length": 707,
+  "content_tokens": 141,
+  "embedding": []
+ },
+ {
+  "title": "RNA Stability",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "RNA is chemically unstable when compared to DNA and one has to be very careful to prevent its degradation. This is a hurdle to overcome in working with RNA. For example, in his experiments with T cell stimulation, the cells are alive. This maintains the RNA. Only once the cells die does degradation start to happen. The experiment is designed carefully to immediately add solutions to protect the RNA after the cells are killed at the end of the experiment. So there’s not time for chemical degradation of the RNA. He did a lot of work on methods to stabilize RNA.",
+  "content_length": 565,
+  "content_tokens": 114,
+  "embedding": []
+ },
+ {
+  "title": "RNA Isolation",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "The other project Max worked on during his PhD was to develop a method to isolate RNA that’s stuck to the endoplasmic reticulum (ER) inside cells. RNA encoding proteins that are secreted from cells or surface proteins, is sent to the ER. These RNAs (and proteins) are important for diagnostic and therapeutic purposes. He was interested in cataloging these RNAs. There was a long procedure to purify the subset of RNA stuck to the ER. It required a lot of work in a cold room (at 4o C) to maintain the integrity of the RNA.",
+  "content_length": 523,
+  "content_tokens": 122,
+  "embedding": []
+ },
+ {
+  "title": "Radiation Oncology",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Max considered surgical oncology but ultimately decided on radiation oncology. He really enjoyed radiation oncology from a patient care standpoint. They would generally see less patients in a day than might be seen in medical oncology. Radiation oncologists had a little more time in clinic to spend with each patient. He also really liked the technology aspects. This was a field where they do a lot of imaging to see where tumors are in the patient’s body and then we have fancy robots that deliver the radiation very precisely. There was an opportunity to do work in the laboratory at a molecular level where not so many people were working on this compared to medical oncology.",
+  "content_length": 681,
+  "content_tokens": 138,
+  "embedding": []
+ },
+ {
+  "title": "Radiation Oncology Residency",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Radiation oncology residency programs have a research track for individuals who are interested in laboratory based research called the home and pathway. The idea is they can trade in some of the clinical training time for research time. This gave him a postdoc time of about 2 years during his 4 years of radiation oncology residency. During that postdoc time, he had clinic activities about half a day to a day a week and the other days were in the lab. It actually was a really good preview of what his life would be like once he finished all the training and became a faculty member.",
+  "content_length": 586,
+  "content_tokens": 119,
+  "embedding": []
+ },
+ {
+  "title": "Stanford's Radiation Oncology Department",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "The department at Stanford was one of the very first departments of radiation oncology in the US. Their first chairman, Henry Kaplan, was a very famous radiation oncology physician scientist. He led the movement to develop radiation oncology as its own specialty. The radiation oncology department at Stanford has a history of strong interest in laboratory-based research. Thanks to Henry Kaplan who was doing laboratory research at the time also while seeing patients. There were faculty in this department that were laboratory based. Even just PhD’s who were fully laboratory based; this isn’t the case in many radiation oncology departments. This was a place where Max could see that the kind of research he wanted to do was valued. There were mentors who were successful physician scientists. This is important when you’re young, to have mentors that can show you how to overcome obstacles if you’re in trouble.",
+  "content_length": 915,
+  "content_tokens": 186,
+  "embedding": []
+ },
+ {
+  "title": "Liquid Biopsies",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Max has been working on liquid biopsies for a long time. He became interested in the idea of liquid biopsies before Peter started following it. For many people, liquid biopsies are still a bit of a black box.",
+  "content_length": 208,
+  "content_tokens": 48,
+  "embedding": []
+ },
+ {
+  "title": "Max's Frustration with Lung Cancer Treatment",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Max specialized in treating lung cancer clinically and was frustrated with the fact that after he finished treatment, in the 1st follow-up visit 3 months after radiation, he couldn’t tell who was cured and who would have the cancer come back. State-of-the-art at the time was to have patients come back for scans every 3, 6, 12 months.",
+  "content_length": 335,
+  "content_tokens": 76,
+  "embedding": []
+ },
+ {
+  "title": "Limitations of Imaging Methods for Detecting Cancer",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "It is hard to see things much smaller than one centimeter in diameter, maybe eight millimeters. This will depend somewhat on the location in the body. With the rare exception of a badly placed brain tumor, 1 cm in most cancers would be irrelevant. The detection of micrometastatic disease is beyond the limits of our imaging methods; we can’t see them all.",
+  "content_length": 356,
+  "content_tokens": 78,
+  "embedding": []
+ },
+ {
+  "title": "Max's Motivation to Work on Liquid Biopsies",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Max thought he could potentially get a handle on micrometastatic disease if he had a test that could measure in the blood the contributions from all these dozens of micrometastatic deposits. This was his motivation to work on liquid biopsies.",
+  "content_length": 242,
+  "content_tokens": 52,
+  "embedding": []
+ },
+ {
+  "title": "Shortcomings of Protein Biomarkers",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "There are a couple areas where blood tests for specific proteins are being used for cancer screening; they’re not great. PSA levels for prostate cancer, CEA levels for colon cancer, and CA 19-9 levels for pancreatic cancer are all examples of protein biomarkers. Proteins made by cancer cells that are shed into the blood where they can be measured in a non-invasive fashion.",
+  "content_length": 375,
+  "content_tokens": 83,
+  "embedding": []
+ },
+ {
+  "title": "Protein biomarkers and their lack of specificity for cancer",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "A large issue with these protein biomarkers is that they are actually not that specific for cancer, meaning that these are also proteins that normal cells can make. Cancers often make more of these proteins. The problem is knowing how to interpret low levels of these proteins. That lack of specificity… was the major Achilles’ heel of the protein-based biomarkers.",
+  "content_length": 365,
+  "content_tokens": 73,
+  "embedding": []
+ },
+ {
+  "title": "Sensitivity and specificity in understanding the positive and negative predictive value of tests",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Protein-based approaches were state-of-the art when Max began his research but their major weakness was a lack of specificity. The difference between sensitivity and specificity in understanding the positive and negative predictive value of tests. Sensitivity is a synonym for the true positive rate, the likelihood of having a positive test when the patient has the actual condition. It’s important to realize that there are no perfect tests. This is even more true when you start pushing the envelope to see smaller and smaller tumors. It’s unrealistic to have a test that’s 100% sensitive. No test will catch every cancer patient‒ this is hard for patients to understand and leads to a lot of frustration.",
+  "content_length": 708,
+  "content_tokens": 144,
+  "embedding": []
+ },
+ {
+  "title": "Peter’s anecdote on sensitivity and specificity",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Peter’s former analyst, Bob Kaplan came up with a great thought experiment to explain this. If you drive a test to high sensitivity, the specificity must go down. This illustrates that you can have 100% sensitivity without any clinical utility. Max replies, “That explains a lot of what happens in the research diagnostic research field in general. You try to push sensitivity, but that never is meaningful to report if you don’t also report on specificity.”",
+  "content_length": 458,
+  "content_tokens": 96,
+  "embedding": []
+ },
+ {
+  "title": "Current state of lung cancer and the need for better screening",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "What is the current state of lung cancer? “It’s the number one cause of cancer death”‒ Max Diehn. Outcomes in breast or prostate cancer are actually much better; we can cure a large fraction of these patients. The vast majority of patients with lung cancer, historically, cannot be cured. This is why lung cancer is the #1 cause of cancer-related death. The incidence of lung cancer is going down in men and now also in women due to a decrease in smoking. Secondly treatment have gotten better. Screening is slowly getting better. While smoking is by far the largest risk factor for lung cancer, it’s not the only risk factor. Lung cancer can develop as a result of: pollution, radon gas or other things in the environment, genetic associations. The 2 major types are small cell and non-small cell lung cancer. Non-small cell lung cancer involves adenocarcinoma, squamous cell carcinoma, and large cell. Adenocarcinoma is the most common lung cancer in the non-small cell subtype. Squamous cell carcinoma also makes up a significant fraction of non-small cell lung cancers.",
+  "content_length": 1073,
+  "content_tokens": 243,
+  "embedding": []
+ },
+ {
+  "title": "Carcinoid and Lung Cancer",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Carcinoid is its own category, it’s not a small cell lung cancer and it’s not considered non-small cell lung cancer either",
+  "content_length": 122,
+  "content_tokens": 33,
+  "embedding": []
+ },
+ {
+  "title": "Genetic Drivers of Lung Cancer in Asian Women",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "This is a big mystery, we have not identified the genetic drivers of lung cancer in Asian women. It’s multifactorial‒ it’s due to multiple genetic variants that aggregate to elevate risk. There may also be some further environmental factors that aren’t smoking that may interact with that genetic background to increase risk",
+  "content_length": 324,
+  "content_tokens": 68,
+  "embedding": []
+ },
+ {
+  "title": "Environmental Factors and Lung Cancer",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Radon is a big environmental exposure conferring risk. Particulate matter less than 2.5 microns is small enough to make its way into the most distal part of the lung. There is an increase in all-cause mortality associated with exposure to 2.5 micron particulate matter (PM 2.5). More cases of lung cancer is associated with living in cities versus rural environments and this correlates with particulates in the ambient environment. There is definitely an association in epidemiologic studies. There is a biological rationale‒ particulates cause irritation and chronic inflammation. There are also chemicals in smog that along the lines of what’s in tobacco smoke, can be direct carcinogens",
+  "content_length": 690,
+  "content_tokens": 142,
+  "embedding": []
+ },
+ {
+  "title": "Pack-Years of Tobacco Smoking and Lung Cancer",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Studies suggest there is increased risk as you go from zero to higher levels. Risk plateaus around 20-30 pack-years; this may be saturating risk. A pack-year is not an ideal clinical variable because you can’t measure it in a completely unbiased way. In reality, patients smoke different amounts of time and they don’t always remember perfectly",
+  "content_length": 344,
+  "content_tokens": 75,
+  "embedding": []
+ },
+ {
+  "title": "Secondhand Smoke and Lung Cancer",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "This is very difficult to measure, even harder than pack-years. Some professions are exposed to a lot of smoking‒ waitresses/ waiters, stewardesses/ stewards. There are increases in lung cancer in these groups epidemiologically. How to quantitate secondhand smoke exposure and determine when one’s risk is significantly elevated is a major problem. This is an areas where it would be very useful to have a biomarker that could be quantitatively measured, to actually measure one’s exposure. Secondhand smoke is not a criteria for patient eligibility for cancer screening by low-dose CT",
+  "content_length": 585,
+  "content_tokens": 123,
+  "embedding": []
+ },
+ {
+  "title": "Low-Dose CT Scans and Lung Cancer",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Low-dose CT has been one of the major changes in the last 10 years in how lung cancer is managed. There have been a lot of efforts to develop a screening test for lung cancer, given that it is the number one cause of cancer deaths. The National Lung Screening Trial took patients and randomized them to get either a low-dose CT scan or a chest x-ray. There was a relative reduction of risk of about 20% in the patients who got the low-dose CT scan. This was viewed as a win for using low-dose CT as a screening test. The absolute risk reduction was small, in the single digit %",
+  "content_length": 577,
+  "content_tokens": 130,
+  "embedding": []
+ },
+ {
+  "title": "Low-dose CT scan and radiation exposure",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "A low-dose CT scan is a more high resolution way of looking at the lungs; it can see smaller nodules than a chest x-ray. The estimated amount of radiation in a low-dose CT is 1.5 mSv. This is significantly less than scans used routinely for patients who already have cancer. The risk of causing cancer is much, much lower for a low-dose CT scan. What would be your personal threshold for how much radiation you would want to receive a year from imaging? Peter points out, “The NRC says that we shouldn’t be exposed to more than 50 millisieverts in a year. Is that like saying you shouldn’t drink more than 10 drinks in a day?”",
+  "content_length": 626,
+  "content_tokens": 153,
+  "embedding": []
+ },
+ {
+  "title": "Ordering imaging studies",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "The calculus of medical practitioners who order imaging studies is‒ will this test help manage the patient, will it benefit the patient. If the scans won’t change the course of treatment, then they shouldn’t be ordered. The way practitioners think about scans is‒ are they worth doing? Some patients who have lung cancer and get radiation therapy receive very high doses of radiation. If they were not a cancer patient, one would never want those amount of radiation. But Max points out, “The vast majority of those patients will not get a cancer from their imaging or radiation treatment; and their cancer, if we leave it untreated, will kill them.” This comes back to the need to catch cancer early, to have a chance at a cure. They don’t have patients wear radiation-detection badges to track their exposure, as if beyond a certain point no further imaging would be done. It’s always decided on a case-by-case basis.",
+  "content_length": 919,
+  "content_tokens": 202,
+  "embedding": []
+ },
+ {
+  "title": "Liquid biopsy for cancer recurrence",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Liquid biopsy research began with collecting blood samples from lung cancer patients. A hypothetical cancer patient had either a resection and/or radiation following their NED (no evidence of disease). Let’s say the recurrence rate is 25%. So 25 of 100 of these people are going to have a recurrence of their cancer. We know that the sooner we catch the recurrence, the better the odds are for treatment. There is a lower tumor burden. There is a lower burden of mutations. This gives greater odds for success of therapy. If this were 200 years ago, we’d be hosed because we’d have to wait until the patient was coughing up blood. But even with high-resolution CT scans, at best we have to wait until there are at least a billion cancer cells. How did Max think of looking for a different type of biopsy, a liquid biopsy? “I was frustrated by not being able to diagnose a recurrence earlier”‒ Max Diehn.",
+  "content_length": 903,
+  "content_tokens": 207,
+  "embedding": []
+ },
+ {
+  "title": "Unmet Need for Predicting Cancer Recurrence",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "The inability to predict which of his patients was going to have their cancer recur was an unmet need that he wanted his lab to work on.",
+  "content_length": 136,
+  "content_tokens": 30,
+  "embedding": []
+ },
+ {
+  "title": "Two Approaches to Cancer Research",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "There are 2 ways to go about this: 1 – Build a mouse model (a preclinical model) to try to grow tumors in animals then see if  you could have a hypothesis for what might be a good biomarker. Test it in the mouse and then go back to the human. 2 – Translational research, do the research in the human; it’s the final model. This is where he began. They work directly on blood samples. If they find something, it should be directly applicable.",
+  "content_length": 441,
+  "content_tokens": 105,
+  "embedding": []
+ },
+ {
+  "title": "Funding and Startup Funds",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Was this funded by the NIH, a R01? As a new faculty member, when you get that first job, you get startup funds. This provides the money to kickstart your research because you don’t have any grants yet. This is how he funded this initial work.",
+  "content_length": 242,
+  "content_tokens": 58,
+  "embedding": []
+ },
+ {
+  "title": "Challenges with Protein Biomarkers",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "He read the literature on protein biomarkers. They didn’t seem very useful. Did you find any proteins that were expressed by lung cancer cells that were unique to them? No. They did not screen themselves, but other people had. Mass spectrometry can be used to analyze the proteins in a blood sample; those studies did not find convincing markers unique to lung cancer cells. Some markers were elevated in some patients. CEA was one marker that can be elevated in lung cancer patients and can even be a marker for recurrence (like PSA can be in prostate cancer). But there is a problem with specificity. Many studies of protein biomarkers may be an artifact of the cohort or elevated due to something else going on. There was problems with reproducibility. Often the lack of reproducibility is not published.",
+  "content_length": 807,
+  "content_tokens": 167,
+  "embedding": []
+ },
+ {
+  "title": "Circulating Tumor Cells",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "He spent a year looking at circulating tumor cells (CTCs), which is one subtype of the liquid biopsy field. These are intact cancer cells that can circulate in the blood of patients. These cells are very complicated to measure for a variety of reasons. They are not very abundant so they’re difficult to purify. In a good purification there might still only be 1% or less of the purified sample. Finding circulating tumor cells is like finding a needle in a haystack. Further with intact cells, they need to be processed on the same day or within 1-2 hours of the blood draw. This makes it very difficult to build up biobanks of frozen samples to provide a large enough cohort to study. The last thing he did were some control experiments. They drew blood from healthy individuals who don’t have cancer. They found circulating tumor cells even though these patients didn’t have cancer. This led him to realize they were picking up something else; there was a lack of specificity. He realized looking for circulating tumor cells wasn’t going to make it into the clinic anytime soon. This led him to reevaluate and ask, what else could they do?",
+  "content_length": 1142,
+  "content_tokens": 243,
+  "embedding": []
+ },
+ {
+  "title": "Reproducing Published Works",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Reproducing published works is important to know that something really works. It’s really helpful to see multiple studies from multiple groups, ideally with multiple methods, that find the same thing. This is where reading the literature can show if the finding is robust.",
+  "content_length": 272,
+  "content_tokens": 53,
+  "embedding": []
+ },
+ {
+  "title": "Circulating Tumor Cells",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "For patients that have stage II lung cancer, Max samples around 10-20 ml, a few tablespoons of blood, before resection. Often it’s zero for a stage I-II cancer patient, meaning the sensitivity isn’t very good. In stage IV patients they saw quite a lot, some patients had massive amounts. Occasionally he would see early-stage patients with a lot of CTCs. Caroline Dive from University of Manchester did a lot of these studies. Her group took blood from the draining veins at the time of the surgery (the lobectomy for lung cancer) and did circulating tumor cell assays. They found evidence that they could find more signals, meaning that sensitivity was better in that context. If you had 2 stage II patients, one is typical and has no CTCs while the second patient has a reasonably high burden of CTCs, studies show when you see high levels of CTCs, this is a bad thing; patients are at higher risk of recurrence. One complication in the CTC field is that even non-cancer patients can have circulating cells that look like CTCs using the markers available. A marker for CTCs should be expressed in cancer cells but not white blood cells. One marker is cytokeratin, a structural protein specific to epithelial cells. But, Max’s group and others have found healthy patients can also have cells that have cytokeratin expression but no white blood cell marker expression in circulating cells. Other people have gone further to do single cell sequencing of those to show that their genomes are actually normal and not mutated like cancer cells are. It appears that there can be epithelial cells circulating that are not cancer cells; this makes it complicated to look for the presence of tumor cells. This indicates that looking for CTCs is not a good cancer screening tool. Maybe this approach holds some promise for determining the course of adjuvant therapy in a patient. If they see a high number of CTCs then they may want to give the patient additional chemotherapy because of the increased risk of recurrence. This motivated Max to start work on liquid biopsies. There is still a lot of work going on in the circulating tumor cell field, but more development is required to use it clinically.",
+  "content_length": 2195,
+  "content_tokens": 460,
+  "embedding": []
+ },
+ {
+  "title": "Liquid Biopsy Research",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "After some work with CTCs, Max moved on to look at cell-free DNA. This is DNA found in circulation, in the blood plasma, outside of cells. It’s called cell-free because it’s outside of cells; of course it originally comes from cells but now it’s circulating by itself. Max became interested in this field after reading about prenatal diagnostics. Work by a number of people like Dennis Lo (in Hong Kong) and Steve Quake (in the Stanford Engineering Department) have shown they can detect DNA from the fetus in the pregnant mother’s blood.",
+  "content_length": 538,
+  "content_tokens": 124,
+  "embedding": []
+ },
+ {
+  "title": "Cell-free DNA in Plasma",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "The cell-free DNA (cfDNA) is in the plasma, and that’s a critical technical aspect of isolating it. There are low levels of cfDNA in the plasma. In a healthy person, there’s 1-5 ng/mL of cfDNA in the plasma. This cfNDA is double-stranded DNA, but rather molecules of around 170 base pairs. Histones are the proteins that package DNA in our cells. They’re a scaffold that lets the long lengths of DNA compact to fit into the nucleus of a 10 micron cell. There is a high level of activity of enzymes that chew up DNA in our blood and extracellular fluid. So cfDNA is only in the blood temporarily and it’s temporarily protected by these histones. So the DNA that’s bound to the  histones is present at a higher frequency in the blood than DNA that’s between the histones [linker DNA].",
+  "content_length": 782,
+  "content_tokens": 200,
+  "embedding": []
+ },
+ {
+  "title": "Cell-free DNA and Apoptosis",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Historically most of the reviews and textbooks argue that cfDNA comes from apoptosis. Cells that undergo apoptosis have their DNA chopped up as part of the process. Apoptosis is a type of cell death. It’s a controlled, programmed cell death that gets rid of cells in a tidy way. This is a type of cell suicide that can get activated. It’s critical for our development because sometimes cells have to die to make room for other cells. Apoptosis is part of our normal developmental homeostasis. It also is critical for getting rid of sick cells. DNA inside a cell is chopped up during apoptosis. DNA could also get released from cells through a non-apoptosis process, and it would likely become chopped up too. Necrosis is another way a cell can die and release some of its contents into the blood.",
+  "content_length": 796,
+  "content_tokens": 175,
+  "embedding": []
+ },
+ {
+  "title": "Quantifying Cell-free DNA",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "There is a laboratory procedure for isolating DNA from the plasma (the noncellular component of blood). This has been optimized for low concentrations of DNA. The concentration of cfDNA is really low, in the single-digit ng/mL. Often in the lab we work with mg of DNA so working with ng (1000x less) quantities was one of the early challenges they had to overcome.",
+  "content_length": 364,
+  "content_tokens": 80,
+  "embedding": []
+ },
+ {
+  "title": "Quantifying cfDNA",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "The most common method to quantify the amount of DNA uses a fluorescent dye that binds to the DNA and gives a specific fluorescence. This fluorescence can bread in a machine. You use a standard curve to read off how much DNA you have. The more complicated thing they would do next is quantitative PCR. This is an enzymatic method to amplify DNA. Again, you use a standard curve where the amount of DNA is known and compare to the amplification curve of your sample DNA to determine how much DNA is in the sample. Most of the time they use the simple method‒ add dye to the DNA sample, put it in the machine, and get the result. It’s really fast.",
+  "content_length": 645,
+  "content_tokens": 142,
+  "embedding": []
+ },
+ {
+  "title": "cfDNA in Disease",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "In some patients the level of cfDNA can be much higher (100’s ng/mL)  because there’s a lot of cell death happening in the body. Advanced cancer patients, patients who have trauma, and patients with infection are examples. How do you distinguish cfDNA from a normal cell (presumably the majority of cfDNA) versus a cancer cell? In the cancer field they focus on unique molecular properties of cancer cells that normal cells generally don’t have. These are the mutations that cause cancer; they are only present in cancer cells, not normal cells.",
+  "content_length": 545,
+  "content_tokens": 121,
+  "embedding": []
+ },
+ {
+  "title": "Detecting cfDNA from Cancer Cells",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "They look for mutations in these short DNA molecules that make up cfDNA. Most of the cfDNA molecules come from normal cells and don’t have mutations. There is a small subset of cfDNA molecules that do contain mutations. In a patient with advanced lung cancer 1% of their cfDNA may come from cancer cells. This is still a small amount. In early stage patients, the amount of cfDNA from cancer cells is less than 0.01 or 0.001% of what’s isolated. Next-generation sequencing is the most common method used. This is a high throughput molecular methods for sequencing DNA. It can identify the actual sequence of the bases (the AGTC bases) that make up DNA. It can provide the exact sequence for hundreds of millions of molecules or billions of molecules of DNA in parallel in one experiment.",
+  "content_length": 787,
+  "content_tokens": 170,
+  "embedding": []
+ },
+ {
+  "title": "Mutations in cfDNA",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "The cancer is only going to have maybe 100 mutations in the coding regions of the DNA. Having more than 10,000+ mutations in the whole genome would be unusual. This process of finding mutations in cfDNA strikes Peter ase almost improbable given the few number of mutations that exist in the cancer… they would be easy to miss. Max agrees, this is one of the major challenges in the field. His first paper in this field, back in 2014 addressed this problem.",
+  "content_length": 456,
+  "content_tokens": 95,
+  "embedding": []
+ },
+ {
+  "title": "History of work with cfDNA",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "cfDNA was first observed in the mid 1900s by a French group. They could only find this in very advanced cancer patients because they were using very insensitive methods. From 2005-2010 very sensitive PCR methods were developed to look for single mutations. The way they overcame this problem was fairly simple. They used next-generation sequencing technology to get the sequence for millions of molecules. Instead of looking for 1 mutation, they looked for dozens of mutations from the patient’s cancer in parallel.",
+  "content_length": 515,
+  "content_tokens": 98,
+  "embedding": []
+ },
+ {
+  "title": "Truncal or clonal mutation",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "What is beneficial is to have what’s called a truncal or clonal mutation. This is a mutation present in every cancer cell. It doesn’t matter which mutation they track, they just want a mutation that’s present in all the tumor cells. A lot of people have mutations in p53, but it wasn’t necessarily the driver. This also gets back to the immunology‒ how often are these mutations inducing antigens that are recognized by the immune system?",
+  "content_length": 438,
+  "content_tokens": 104,
+  "embedding": []
+ },
+ {
+  "title": "Cell-free RNA and Max’s vision for cancer detection from a blood sample",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "There is also cell-free RNA (cfRNA). Max doesn’t think it has advantages in looking for mutations. Max’s goal vision for cancer analysis from a blood sample is to determine as much as possible about a patient’s cancer from a blood draw. Even to the point where they don’t need to do a biopsy. To get there they need to be able to measure things other than mutations. Mutations are critical, but they’re only a small part of the puzzle.",
+  "content_length": 435,
+  "content_tokens": 107,
+  "embedding": []
+ },
+ {
+  "title": "RNA and Cancer",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Measuring RNA could tell you about which genes are on and off in the cancer theoretically. In the immunotherapy field, there are some markers expressed in the tumor cells that can basically hide the cancer from the immune system (like PD-L1).",
+  "content_length": 242,
+  "content_tokens": 50,
+  "embedding": []
+ },
+ {
+  "title": "cfDNA and ctDNA",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Generally cfDNA refers to the total DNA in the circulation. Circulating tumor DNA is a subfraction of the cfDNA, maybe 1% of the cfDNA is from the tumor.",
+  "content_length": 153,
+  "content_tokens": 38,
+  "embedding": []
+ },
+ {
+  "title": "DNA Methylation Patterns",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "They can look at the DNA methylation patterns in these 170 bp DNA fragments in circulation. DNA methylation influences which genes are turned on and off. The methylation profile of 2 lung cancers is more similar than their mutation profile. The methylation profile could be used as a pan screen to identify a type of cancer.",
+  "content_length": 324,
+  "content_tokens": 65,
+  "embedding": []
+ },
+ {
+  "title": "Mutation-based Methods",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Max recently published a new method, their 3rd-generation mutation-based method. It’s 100x more sensitive than than their prior methods (and other methods in the field). With the methylation-based assays, the data is still not very mature to know exactly what their sensitivity is.",
+  "content_length": 281,
+  "content_tokens": 62,
+  "embedding": []
+ },
+ {
+  "title": "Liquid Biopsies for Cancer Detection",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "A test like GRAIL looks at methylation patterns of cfDNA; they’re doing a pan screen. They take 10-20 ml of blood and look for all the cfDNA to identify if there’s cancer or non-cancer there. If they find cancer, they want to predict the origin of the tissue. The current sensitivity for all stages is probably 50% with a specificity of > 99%. But if you’re trying to catch an early cancer (stage 1), the sensitivity is maybe 20%.",
+  "content_length": 430,
+  "content_tokens": 107,
+  "embedding": []
+ },
+ {
+  "title": "Understanding the Sensitivity and Specificity of a Diagnostic Test",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "If a test has 50% sensitivity and 99.5% specificity for detecting stage I cancer in an unbiased sample, that would be pretty good. With a 1% prevalence, this test moved you from 99% to 99.5% negative predictive value. Also note that the positive predictive value is 40%. The positive predictive value is the chance that the positive result is not a false positive. Peter never uses these tests in isolation for his patients.",
+  "content_length": 424,
+  "content_tokens": 89,
+  "embedding": []
+ },
+ {
+  "title": "Are Liquid Biopsies Useful Without the Mutational Information?",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "50% sensitivity and 99% specificity sounds great, evening ignoring the fact that stage I sensitivity is < 5%. Even at a 50% sensitivity for a patient that has no risk of cancer (less than 1% of them will have cancer) this test isn’t really moving the needle significantly. It has a high risk of false positives because the positive predictive values isn’t so good. False positive results lead to a lot of testing anxiety. We need to do RCTs on these liquid biopsies to learn if they are good enough to save lives.",
+  "content_length": 513,
+  "content_tokens": 115,
+  "embedding": []
+ },
+ {
+  "title": "The Need for Randomized Trials",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "RCTs will help us determine the benefit of liquid biopsies and ensure that we are helping patients without adding costs to the healthcare system.",
+  "content_length": 145,
+  "content_tokens": 29,
+  "embedding": []
+ },
+ {
+  "title": "The Limitations of Liquid Biopsies",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Liquid biopsies are not designed for early cancer screening or detection, and they are not designed for situations where the levels of ctDNA are many logs lower. They are not designed for determining if the patient is cured or not after treatment.",
+  "content_length": 247,
+  "content_tokens": 49,
+  "embedding": []
+ },
+ {
+  "title": "Guardant Assay",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Guardant assay was developed for a very specific clinical problem where a patient with metastatic cancer needs to identify what mutations they have. This is useful in patients who can't have a biopsy or where the biopsy missed the tumor. Liquid biopsies have an 80% agreement with a traditional biopsy.",
+  "content_length": 302,
+  "content_tokens": 62,
+  "embedding": []
+ },
+ {
+  "title": "FDA-approved tests don’t detect low levels of tumor DNA",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Again where the levels of tumor DNA are much lower, the FDA approved tests don’t detect this well. Is this true of the other FDA-approved tests, CellSearch and FoundationOne? Yes. Foundation has a liquid biopsy test, very similar to what we developed in Guardant and they do the same thing now. CellSearch is actually a circulating tumor cell assay. It was FDA approved before any ctDNA assay.",
+  "content_length": 393,
+  "content_tokens": 89,
+  "embedding": []
+ },
+ {
+  "title": "Difference between FDA approval and clinical usefulness",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "There is a difference between FDA approval and actually clinical usefulness. A test like GRAIL is not FDA approved yet its use is still permitted. This is a complicated area in diagnostics. There are 2 ways the US government regulates tests. 1) FDA approval. This focuses on approving drugs and diagnostic tests. 2) Set up the assay in a lab that is compliant with the CLIA Act (Clinical Laboratory Improvement Amendments).",
+  "content_length": 423,
+  "content_tokens": 86,
+  "embedding": []
+ },
+ {
+  "title": "The holy grail is a blood test that will screen patients with enough sensitivity and specificity to identify cancer",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Peter notes, there are 30 other companies out there doing this right now and from a technology standpoint, the holy grail is a blood test that will screen patients (who don’t think they have cancer) with enough sensitivity and specificity to identify cancer. If it were colon cancer, the patient would then get a colonoscopy to identify the tiny adenomatous polyp in early stage I. They would then get the smallest partial colectomy and be cured. Or a woman who had a negative mammogram 6 months ago could be identified with a blood test then go get a diffusion weighted image MRI to identify the cancer.",
+  "content_length": 604,
+  "content_tokens": 129,
+  "embedding": []
+ },
+ {
+  "title": "Early detection of pancreatic adenocarcinoma would save lives",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "For something like pancreatic adenocarcinoma this type of early detection would save lives. The 5 year survival rate of even a 1 cm pancreatic adenocarcinoma has a 25% five year survival is only 25%. This is a death sentence of a cancer, even at stage 1. So waiting until you can see a billion cells on a CT or MRI is not going to work. Peter notes, “It’s either going to be much earlier detection or treatments that actually work… today we have neither of the above”.",
+  "content_length": 468,
+  "content_tokens": 115,
+  "embedding": []
+ },
+ {
+  "title": "Clinical trials underway to detect cancer in patients",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Is there a path to this sci-fi world where using blood alone can detect cancer in patients 3-4 years earlier than what’s clinically possible now? Max is hopeful and notes, “It’s not going to come in one step, but we are already taking steps towards that, sort of building the bricks on top of each other”. There are clinical trials underway now to see how this can guide therapy. Max has launched a couple trials recently at Stanford with early stage lung cancer patients. After their standard care (chemo &/or radiation) they get a blood test.",
+  "content_length": 544,
+  "content_tokens": 124,
+  "embedding": []
+ },
+ {
+  "title": "The value of early detection and early treatment",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "“Early detection absolutely matters … less tumor burden, less heterogeneity equals better outcomes”‒ Peter Attia\nPeter notes this is an important point that gets lots on many people in the field, the value of early detection\nHe’s never seen it refuted\nEarly detection equals better outcomes",
+  "content_length": 290,
+  "content_tokens": 61,
+  "embedding": []
+ },
+ {
+  "title": "Using liquid biopsy after cancer treatment will be useful for guiding adjuvant therapy for some cancers",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Max explains, “The more cancer you have, the higher chance that one of those mutations will make the cancer resistant to whatever therapy you’re using.  So this idea of guiding adjuvant therapy based on ctDNA MRD I think is the first step towards the future that you’re envisioning.”  \nPeter notes, it won’t be useful in pancreatic cancer because everybody’s probably going to need adjuvant therapy\nIt will certainly be relevant in lung cancer, breast cancer, colorectal cancer\nMaybe even in prostate cancer, although the treatment is pretty bad\nThese are the big 5 in cancer \nMax adds bladder cancer (the 6th or 7th most common cancer) and melanoma\n“It’s going to be useful in the cases where a minority of patients develops recurrence”‒ Max Diehn \nA situation like pancreatic cancer, where the vast majority of most stage I patients will develop recurrence, that’s not the place to start developing this kind of a test \nBecause the tests aren’t ever going to be a 100% perfect\nNo test gives you 75% chance of recurrence\nThis test is useful where there’s a subset of patients that recur \nFor cancers where the vast majority of stage I patients develop recurrence (such as pancreatic cancer), this is not the place to develop this kind of test\nWhen we know the probability of recurrence is high enough, everyone gets adjuvant therapy\nTests are never going to be 100% perfect\nNo test give you a 75% chance of recurrence\nStage III colon cancer is another example where we don’t need the test, everyone gets treated\nStage I and stage II cancers are a different story\nPeter’s takeaway: we’ve identified one problem that can be addressed with liquid biopsies, identifying the high risk patient who needs adjuvant therapy.  Great progress has been made with lung cancer.  \nWhat is the state of the art for this problem in breast, prostate, and colorectal cancer? \nThere are active studies underway\nColorectal cancer might be the furthest along\nThere are some Medicare approved tests using ctDNA from a company called Natera for colorectal cancer\nThis was recently approved even though proof of benefit hasn’t been shown yet\nThere are trials in breast cancer to do similar things \nChallenges presented by breast and prostate cancer \n1) They have very low levels of ctDNA\nThere’s difference between tumor types and how much ctDNA they shed \nThese require very, very sensitive mutation-based methods\nStudies are ongoing in breast cancer, Max is not aware of any for prostate cancer\nPeter notes, “Prostate seems to be a very privileged site. Even the GRAIL test… doesn’t screen effectively for prostate because you’re just not getting enough cell-free DNA in the circulation.” \nThe development plan for GRAIL was initially focused on breast cancer but they pivoted to other cancers because the early results in breast didn’t go well",
+  "content_length": 2822,
+  "content_tokens": 670,
+  "embedding": []
+ },
+ {
+  "title": "Screening for Recurrence",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Would it be patients who have completed adjuvant therapy (or who were deemed low enough risk to not need adjuvant therapy) but are still higher risk in the population in whom you’re screening for recurrence? We need results from these early studies to provide proof of principle that this approach works. This would be the next logical step. Max can envision a future where patients at higher risk of recurrence are tested repeatedly, say every 3 months. They don’t get adjuvant therapy until the test is positive. Maybe this can minimize missing patients and still catch them months before they have clinical recurrence. This would be better because you’re not giving toxic treatment to a big chunk of patients, only those who test positive.",
+  "content_length": 742,
+  "content_tokens": 154,
+  "embedding": []
+ },
+ {
+  "title": "Mutation-Based Screening",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Over a year ago Max’s group published a paper where they developed a mutation based lung cancer screening method using ctDNA called Lung CLiP. CLiP stands for cancer likelihood in plasma. Published in Nature in 2020, Integrating genomic features for noninvasive early lung cancer detection. This method is purely based on mutations. How it works‒ sequence the plasma and the white blood cells of the patients you’re trying to screen. They’ve learned (particularly in older individuals) that there are mutations present in the leukocytes often that have been acquired through age through a process called clonal hematopoiesis. So those mutations that are in the white blood cells end up showing up in the plasma most of the time because the white blood cells die in the circulation and release their DNA and that’s part of the cfDNA. These mutations are not coming from the cancer; so you want to get rid of these from the testing process. Then use a machine learning algorithm that looks at the mutations that are left in the plasma and looks at things like the length of the cell-free DNA molecule (in base pairs, bp). Max and others have shown, that the cancer derived cfDNA molecules are a little bit shorter than that 170 bp. They look at the mutation present, what gene is it in, how long is the cfDNA fragment and the machine learning model tells them if they have seen this mutation before in lung cancer and the model ultimately determines a probability that that blood sample was from a patient with lung cancer or not. Max envisions this mutation based screening approach where you’re not actually using a catalog of mutations because that won’t work because every cancer is unique and you can have a mutation in any gene in any position. The machine learning is used to predict what would be a cancer mutation or not. In the follow-up work, he is trying to add more features. The more features you have that link with cancer, the better it is.",
+  "content_length": 1954,
+  "content_tokens": 413,
+  "embedding": []
+ },
+ {
+  "title": "Combining Approaches",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "“We’re going to move forward to try to ultimately develop the best screening test and it very likely will be a combination of not just methylation or just mutation or just what’s called fragmentomics (which is this size of the molecules or their distribution).  It likely will be a combo method. That’s still very much in the early research phase.”",
+  "content_length": 348,
+  "content_tokens": 81,
+  "embedding": []
+ },
+ {
+  "title": "Theoretical Limits",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Max is hopeful they can push it to above the 5% sensitivity discussed earlier. Their study from a couple years ago showed they could get about 20% sensitivity. If you can keep the specificity > 99%, 50-75% detection in early stage I cancer would be a big step forward.",
+  "content_length": 268,
+  "content_tokens": 58,
+  "embedding": []
+ },
+ {
+  "title": "Liquid Biopsy Groups",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Some liquid biopsy groups have gone with 80 percent specificity. Because if we advertise it has a 99% specificity and a 20% sensitivity, but now you drop the specificity to 80, then your sensitivity management goes up by 20% because just the dumb luck part. The problem is the negative predictive value goes out the window.",
+  "content_length": 323,
+  "content_tokens": 65,
+  "embedding": []
+ },
+ {
+  "title": "Applying Liquid Biopsies",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "There are 2 main ways to apply these types of liquid biopsies. 1) In cancers that currently lack a screening test, where the bar of success is much lower. Most screening methods aren’t perfect. The ideal case would be pancreatic cancer (for reasons discussed earlier). There are other cancers we don’t screen for. How this test compares to current screening tests will be important. Currently, the liquid biopsies aren’t as good as those tests. The use of liquid biopsies should start around some practical consideration or health system consideration.",
+  "content_length": 552,
+  "content_tokens": 117,
+  "embedding": []
+ },
+ {
+  "title": "Proving Effectiveness",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "We still need to prove again that these tests decrease cancer-specific death. All companies working on this are trying to improve their tests constantly.",
+  "content_length": 153,
+  "content_tokens": 28,
+  "embedding": []
+ },
+ {
+  "title": "Liquid Biopsy Research",
+  "date": "July 11, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Max has never seen numbers for how much funding they are putting into liquid biopsy research. It has increased dramatically. When he started working in this area (around 2012, their first publication was in 2014) and went to meetings, he would be the only person talking about ctDNA. Now the vast majority of presentations are focused on liquid biopsies. In the NIH study section he sits on (focused on cancer biomarkers), he sees lots and lots of liquid biopsy work submitted and often scoring high. There’s a lot of interest at NCI and NIH; they see the value just like many of us do.",
+  "content_length": 586,
+  "content_tokens": 128,
+  "embedding": []
+ }
+]

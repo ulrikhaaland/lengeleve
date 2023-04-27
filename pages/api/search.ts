@@ -12,9 +12,6 @@ const handler = async (req: Request): Promise<Response> => {
       matches: number;
     };
 
-    console.log(process.env.SUPABASE_URL);
-    console.log(process.env.SUPABASE_SERVICE_ROLE_KEY);
-
     const input = query.replace(/\n/g, ' ');
 
     const res = await fetch('https://api.openai.com/v1/embeddings', {
@@ -28,9 +25,6 @@ const handler = async (req: Request): Promise<Response> => {
         input,
       }),
     });
-
-    console.log(process.env.SUPABASE_URL);
-    console.log(process.env.SUPABASE_SERVICE_ROLE_KEY);
 
     const json = await res.json();
     const embedding = json.data[0].embedding;
