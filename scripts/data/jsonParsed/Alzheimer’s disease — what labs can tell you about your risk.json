@@ -1,0 +1,82 @@
+[
+ {
+  "title": "What’s driving Alzheimer’s disease?",
+  "date": "July 29, 2022",
+  "context": "Cognitive Health & Neurodegenerative Disease",
+  "people": "Peter Attia",
+  "content": "Alzheimer’s disease is driven by genetics, metabolic health, vascular health, inflammation, and toxins.",
+  "content_length": 103,
+  "content_tokens": 23,
+  "embedding": []
+ },
+ {
+  "title": "The genetic component",
+  "date": "July 29, 2022",
+  "context": "Cognitive Health & Neurodegenerative Disease",
+  "people": "Peter Attia",
+  "content": "Alzheimer’s disease has a strong genetic component. ApoE4 is the most important gene in terms of understanding risk. TOMM40 may also be relevant. However, a small percentage of AD cases (about 1%) are due to “deterministic” genes such as Amyloid precursor protein (APP), PSEN1, and PSEN2.",
+  "content_length": 288,
+  "content_tokens": 78,
+  "embedding": []
+ },
+ {
+  "title": "Metabolic Health component of Alzheimer’s disease",
+  "date": "July 29, 2022",
+  "context": "Cognitive Health & Neurodegenerative Disease",
+  "people": "Peter Attia",
+  "content": "Metabolic health is a common thread that links all chronic diseases, including Alzheimer’s disease.",
+  "content_length": 99,
+  "content_tokens": 20,
+  "embedding": []
+ },
+ {
+  "title": "Vascular component to Alzheimer’s disease",
+  "date": "July 29, 2022",
+  "context": "Cognitive Health & Neurodegenerative Disease",
+  "people": "Peter Attia",
+  "content": "Vascular health is a huge component of Alzheimer’s disease.",
+  "content_length": 59,
+  "content_tokens": 14,
+  "embedding": []
+ },
+ {
+  "title": "Inflammatory component to Alzheimer’s disease",
+  "date": "July 29, 2022",
+  "context": "Cognitive Health & Neurodegenerative Disease",
+  "people": "Peter Attia",
+  "content": "Inflammation is an enormous component of Alzheimer’s disease.",
+  "content_length": 61,
+  "content_tokens": 14,
+  "embedding": []
+ },
+ {
+  "title": "Toxins related to Alzheimer’s disease",
+  "date": "July 29, 2022",
+  "context": "Cognitive Health & Neurodegenerative Disease",
+  "people": "Peter Attia",
+  "content": "Toxins are almost assuredly a component that revolves around Alzheimer’s disease.",
+  "content_length": 81,
+  "content_tokens": 18,
+  "embedding": []
+ },
+ {
+  "title": "Blood tests for the deterministic genes",
+  "date": "July 29, 2022",
+  "context": "Cognitive Health & Neurodegenerative Disease",
+  "people": "Peter Attia",
+  "content": "Deterministic genes such as PSEN1, PSEN2, and APP can be tested for pretty easily. However, that’s usually just to confirm a strong suspicion after seeing a strong family history of getting AD.",
+  "content_length": 193,
+  "content_tokens": 46,
+  "embedding": []
+ },
+ {
+  "title": "The punchline when it comes to Alzheimer’s disease",
+  "date": "July 29, 2022",
+  "context": "Cognitive Health & Neurodegenerative Disease",
+  "people": "Peter Attia",
+  "content": "We get pretty darn good information from the blood. We get the relevant genes, all the vascular stuff, and all the metabolic stuff. We can’t get as much good info about the inflammatory stuff, and we’re pretty bad at getting the toxins because truthfully we just don’t know. But overall we get a pretty darn good way to handicap someone’s risk of Alzheimer’s disease.",
+  "content_length": 367,
+  "content_tokens": 88,
+  "embedding": []
+ }
+]

@@ -32,7 +32,7 @@ export default function Home() {
   const [answering, setAnswering] = useState<boolean>(false);
   const [userHasScrolled, setUserHasScrolled] = useState(false);
   const [showSettings, setShowSettings] = useState<boolean>(false);
-  const [matchCount, setMatchCount] = useState<number>(5);
+  const [matchCount, setMatchCount] = useState<number>(50);
   const [followUpQuestions, setFollowUpQuestions] = useState<string[]>([]);
   const [questions, setQuestions] = useState<string[]>([]);
   const [answers, setAnswers] = useState<string[]>([]);
@@ -52,6 +52,8 @@ export default function Home() {
       alert('Please enter an API key.');
       return;
     }
+
+    console.log(apiKey);
 
     if (!query) {
       alert('Please enter a query.');

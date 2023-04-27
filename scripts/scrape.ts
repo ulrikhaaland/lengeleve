@@ -428,7 +428,7 @@ function splitString(input: string, maxLength: number = 1000): EncodedString[] {
   return result;
 }
 async function startScrape(results: any[]) {
-  for (let i = 17; i < results.length; i++) {
+  for (let i = 18; i < results.length; i++) {
     const row = results[i];
     await runScrape(row);
     console.log('generated embeddings for: ' + row['title']);
