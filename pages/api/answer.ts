@@ -1,4 +1,4 @@
-import { PromptItem } from '@/prompts/prompts';
+import { PromptItem } from '@/utils/getQueryPrompt';
 import { OpenAIStream } from '@/utils';
 
 export const config = {

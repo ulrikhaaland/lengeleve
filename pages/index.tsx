@@ -3,7 +3,7 @@ import { Chunk } from "@/types";
 import { getFollowUpQuestions } from "@/utils/followUp";
 import Head from "next/head";
 import { useEffect, useRef, useState } from "react";
-import { PromptItem, getQuestionPrompt } from "@/prompts/prompts";
+import { PromptItem, getQuestionPrompt } from "@/utils/getQueryPrompt";
 import QuestionsList from "@/components/QuestionList";
 import CustomDrawer from "@/components/Drawer";
 import endent from "endent";
