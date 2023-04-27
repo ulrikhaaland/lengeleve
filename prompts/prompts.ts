@@ -1,5 +1,10 @@
-import { Chunk } from '@/types';
-import endent from 'endent';
+import { Chunk } from "@/types";
+import endent from "endent";
+
+export interface PromptItem {
+  role: string;
+  content: string;
+}
 
 export const getQuestionPrompt = (
   query: string,
@@ -7,21 +12,23 @@ export const getQuestionPrompt = (
   questions: string[],
   answers: string[],
   followUpAnswer?: string
-): string => {
+): PromptItem[] => {
+  const prompts = [];
+
   const chatHistory =
     answers.length > 0
       ? `Chat history Start:
 ${answers
-  .map((a, i) => 'Question: ' + questions[i] + '\n' + 'Answer: ' + a)
-  .join('\n\n')}
+  .map((a, i) => "Question: " + questions[i] + "\n" + "Answer: " + a)
+  .join("\n\n")}
 Chat History End:
 `
-      : '';
+      : "";
 
   const chatHistoryInstruction =
     answers.length > 0
-      ? 'Be aware of the chat history, make sure you do not repeat information contained in previous answers unless you deem it extremely relevant — This is very important!'
-      : '';
+      ? "Be aware of the chat history, make sure you do not repeat information contained in previous answers unless you deem it extremely relevant — This is very important!"
+      : "";
 
   const followUp = followUpAnswer
     ? endent`
@@ -29,9 +36,23 @@ Chat History End:
   Make sure you respond accordingly to the question without repeating the information from the answer above.  
   The answer: ${followUpAnswer}
   `
-    : '';
+    : "";
 
-  return endent`
+  for (let i = 0; i < answers.length && i < 5; i++) {
+    const answer = answers[i];
+    const question = questions[i];
+
+    prompts.push({
+      role: "user",
+      content: question,
+    });
+    prompts.push({
+      role: "assistant",
+      content: answer,
+    });
+  }
+
+  const final = endent`
     Question: ${query}
     First generate your own full, descriptive and adequate idea of an answer to the question, as you would when normally prompted with the question without any additional information provided.
     It is very important that you ensure your answer template is complete and accurate, before you use the passages below.
@@ -54,9 +75,17 @@ Chat History End:
     Do not include information that does not address the question. 
     If there is no relevant information from the passages, you may use your own words to address the question.
     Never mention the passages in your answer.
+    Never mention people or their names unless explicitly asked for in the question, instead mention the information they speak about.
     Passages:
-    ${filteredResults?.map((d: Chunk) => d.date + d.content).join('\n\n')}
+    ${filteredResults?.map((d: Chunk) => d.date + d.content).join("\n\n")}
 `;
+
+  prompts.push({
+    role: "user",
+    content: final,
+  });
+
+  return prompts;
 };
 
 /// V2

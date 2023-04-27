@@ -1,23 +1,13 @@
-import { Answer } from '@/components/Answer/Answer';
-import { Footer } from '@/components/Footer';
-import { Navbar } from '@/components/Navbar';
-import SearchBar from '@/components/SearchBar';
-import { Chunk } from '@/types';
-import { getFollowUpQuestions } from '@/utils/followUp';
-import {
-  IconArrowRight,
-  IconExternalLink,
-  IconSearch,
-} from '@tabler/icons-react';
-import endent from 'endent';
-import Head from 'next/head';
-import { KeyboardEvent, useEffect, useRef, useState } from 'react';
-import { Drawer, useMediaQuery, Theme } from '@mui/material';
-import { getQuestionPrompt } from '@/prompts/prompts';
-import { getPreQuestion } from '@/utils/preQuestion';
-import QuestionsList from '@/components/QuestionList';
-import CustomDrawer from '@/components/Drawer';
-const { encode, decode } = require('@nem035/gpt-3-encoder');
+import SearchBar from "@/components/SearchBar";
+import { Chunk } from "@/types";
+import { getFollowUpQuestions } from "@/utils/followUp";
+import Head from "next/head";
+import { useEffect, useRef, useState } from "react";
+import { PromptItem, getQuestionPrompt } from "@/prompts/prompts";
+import QuestionsList from "@/components/QuestionList";
+import CustomDrawer from "@/components/Drawer";
+import endent from "endent";
+const { encode, decode } = require("@nem035/gpt-3-encoder");
 
 const apiKey = process.env.NEXT_PUBLIC_OPENAI_API_KEY;
 
@@ -25,9 +15,9 @@ export default function Home() {
   const inputRef = useRef<HTMLInputElement>(null);
   const divRef = useRef<HTMLInputElement>(null);
 
-  const [question, setQuery] = useState<string>('');
+  const [question, setQuery] = useState<string>("");
   const [chunks, setChunks] = useState<Chunk[]>([]);
-  const [answer, setAnswer] = useState<string>('');
+  const [answer, setAnswer] = useState<string>("");
   const [loading, setLoading] = useState<boolean>(false);
   const [answering, setAnswering] = useState<boolean>(false);
   const [userHasScrolled, setUserHasScrolled] = useState(false);
@@ -47,28 +37,28 @@ export default function Home() {
     const query = q ?? question;
     const followUpAnswer: string | undefined =
       followUpQuestion === true ? answers[answers.length - 1] : undefined;
-    setQuery('');
+    setQuery("");
     if (!apiKey) {
-      alert('Please enter an API key.');
+      alert("Please enter an API key.");
       return;
     }
 
     if (!query) {
-      alert('Please enter a query.');
+      alert("Please enter a query.");
       return;
     }
 
-    setAnswer('');
+    setAnswer("");
     setChunks([]);
 
     setLoading(true);
 
     setQuestions((prev) => [...prev, query]);
 
-    const searchResponse = await fetch('/api/search', {
-      method: 'POST',
+    const searchResponse = await fetch("/api/search", {
+      method: "POST",
       headers: {
-        'Content-Type': 'application/json',
+        "Content-Type": "application/json",
       },
       body: JSON.stringify({ query, apiKey, matches: matchCount }),
     });
@@ -99,20 +89,20 @@ export default function Home() {
 
     if (tokens > 2048) {
       console.log(
-        'The total number of tokens in the passages exceeds the limit of 2048. Please try a different query.'
+        "The total number of tokens in the passages exceeds the limit of 2048. Please try a different query."
       );
-      console.log('Total number of tokens: ' + tokens);
+      console.log("Total number of tokens: " + tokens);
       // setLoading(false);
       // return;
     }
 
     setChunks(filteredResults);
 
-    console.log('chunks' + chunks.length);
+    console.log("chunks" + chunks.length);
 
     // const preQuestion = await getPreQuestion(query);
 
-    let prompt: string = getQuestionPrompt(
+    let prompt: PromptItem[] = getQuestionPrompt(
       query,
       filteredResults,
       questions,
@@ -120,11 +110,19 @@ export default function Home() {
       followUpAnswer
     );
 
-    let prompt_token_length = encode(prompt).length;
+    const getPromptEncodedLength = (prompt: PromptItem[]) => {
+      let prompt_token_length = 0;
+      prompt.forEach((p) => {
+        prompt_token_length += encode(p.content).length;
+      });
+      return prompt_token_length;
+    };
+
+    let prompt_token_length = getPromptEncodedLength(prompt);
 
     let i = filteredResults.length - 1;
 
-    while (prompt_token_length > 3096) {
+    while (prompt_token_length > 2900) {
       i--;
       filteredResults.splice(i, 1);
       prompt = getQuestionPrompt(
@@ -134,16 +132,16 @@ export default function Home() {
         answers,
         followUpAnswer
       );
-      prompt_token_length = encode(prompt).length;
+      prompt_token_length = getPromptEncodedLength(prompt);
     }
 
     let answerResponse;
 
     try {
-      answerResponse = await fetch('/api/answer', {
-        method: 'POST',
+      answerResponse = await fetch("/api/answer", {
+        method: "POST",
         headers: {
-          'Content-Type': 'application/json',
+          "Content-Type": "application/json",
         },
         body: JSON.stringify({ prompt, apiKey }),
       });
@@ -170,7 +168,7 @@ export default function Home() {
     const decoder = new TextDecoder();
     let done = false;
 
-    let newAnswer = '';
+    let newAnswer = "";
 
     let followUpQuestions: string[] = [];
 
@@ -185,7 +183,7 @@ export default function Home() {
       done = doneReading;
       const chunkValue = decoder.decode(value);
 
-      chunkValue.replace('Answer:', '');
+      chunkValue.replace("Answer:", "");
 
       setAnswer((prev) => {
         newAnswer = prev + chunkValue;
@@ -206,7 +204,7 @@ export default function Home() {
     query: string,
     previousQuestions: string[]
   ): Promise<string[] | undefined> => {
-    console.log('onFollowUpQuestions');
+    console.log("onFollowUpQuestions");
     const followUp = await getFollowUpQuestions(query, previousQuestions);
 
     /// parse json string
@@ -227,9 +225,9 @@ export default function Home() {
   }, [matchCount]);
 
   useEffect(() => {
-    const PG_KEY = localStorage.getItem('PG_KEY');
-    const PG_MATCH_COUNT = localStorage.getItem('PG_MATCH_COUNT');
-    const PG_MODE = localStorage.getItem('PG_MODE');
+    const PG_KEY = localStorage.getItem("PG_KEY");
+    const PG_MATCH_COUNT = localStorage.getItem("PG_MATCH_COUNT");
+    const PG_MODE = localStorage.getItem("PG_MODE");
 
     inputRef.current?.focus();
   }, []);
@@ -250,10 +248,10 @@ export default function Home() {
 
   useEffect(() => {
     const divElement = divRef.current!;
-    divElement.addEventListener('scroll', handleScroll);
+    divElement.addEventListener("scroll", handleScroll);
 
     return () => {
-      divElement.removeEventListener('scroll', handleScroll);
+      divElement.removeEventListener("scroll", handleScroll);
     };
   }, []);
 
@@ -279,24 +277,24 @@ export default function Home() {
       <Head>
         <title>ChatAttia</title>
         <meta
-          name='description'
+          name="description"
           content={`AI-powered search and chat for Paul Graham's essays.`}
         />
-        <meta name='viewport' content='width=device-width, initial-scale=1' />
-        <link rel='icon' href='/favicon.ico' />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <div className='flex flex-col h-screen w-full h-screen items-center'>
-        <div className='border-b w-full text-center'>
-          <h2 className='text-2xl font-bold mt-4 mb-2'>ChatLongevity</h2>
-          <h2 className='text-m mb-2 text-gray-600'>Model: Attia01</h2>
+      <div className="flex flex-col h-screen w-full h-screen items-center">
+        <div className="border-b w-full text-center">
+          <h2 className="text-2xl font-bold mt-4 mb-2">ChatLongevity</h2>
+          <h2 className="text-m mb-2 text-gray-600">Model: Attia01</h2>
         </div>
         <div
-          className='flex-1 w-full text-grey overflow-auto mb-12 overflow-auto max-h-screen'
-          style={{ maxHeight: 'calc(100vh - 20px)' }}
+          className="flex-1 w-full text-grey overflow-auto mb-12 overflow-auto max-h-screen"
+          style={{ maxHeight: "calc(100vh - 20px)" }}
           ref={divRef}
         >
-          <div className='mx-auto flex h-full w-full max-w-[750px] flex-col px-3'>
+          <div className="mx-auto flex h-full w-full max-w-[750px] flex-col px-3">
             <QuestionsList
               questions={questions}
               answers={answers}

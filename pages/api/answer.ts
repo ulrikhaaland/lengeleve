@@ -1,3 +1,4 @@
+import { PromptItem } from '@/prompts/prompts';
 import { OpenAIStream } from '@/utils';
 
 export const config = {
@@ -7,7 +8,7 @@ export const config = {
 const handler = async (req: Request): Promise<Response> => {
   try {
     const { prompt, apiKey } = (await req.json()) as {
-      prompt: string;
+      prompt: PromptItem[];
       apiKey: string;
     };
     const stream = await OpenAIStream(prompt, apiKey);

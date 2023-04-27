@@ -1,46 +1,54 @@
-import { OpenAIModel } from '@/types';
-import { createClient } from '@supabase/supabase-js';
+import { PromptItem } from "@/prompts/prompts";
+import { OpenAIModel } from "@/types";
+import { createClient } from "@supabase/supabase-js";
+import endent from "endent";
 import {
   createParser,
   ParsedEvent,
   ReconnectInterval,
-} from 'eventsource-parser';
+} from "eventsource-parser";
 
 export const supabaseAdmin = createClient(
   process.env.SUPABASE_URL!,
   process.env.SUPABASE_SERVICE_ROLE_KEY!
 );
 
-export const OpenAIStream = async (prompt: string, apiKey: string) => {
+export const OpenAIStream = async (prompt: PromptItem[], apiKey: string) => {
   const encoder = new TextEncoder();
   const decoder = new TextDecoder();
 
-  const listContent: string[] = [
-    "You are a helpful assistant that accurately answers queries using Peter Attia's knowledge of training.",
-    'Use the text provided to form your answer.',
-    'When the question indicates a need for a short answer, try to keep your answer short.',
-    'When the question indicates a need for a long answer, try to expand your answer.',
-    'Try to use your own words when possible.',
-    'Try to keep your answer short, but expand if necessary.',
-    'Be accurate, helpful, concise, and clear.',
-  ];
+  // Else if the question indicates a need for a long answer, expand your answer.,
+  const listContent = endent`
+    You are a helpful assistant that accurately answers queries using Peter Attia's knowledge of training.
+    Use the text provided to form your answer.
+    If the question indicates a need for a short answer, keep your answer short.
+    Try to use your own words when possible.
+    Try to keep your answer short, but expand if necessary.
+    Be accurate, helpful, concise, and clear.
+    Remember the context of the chat, and make sure you dont sound repetetive.
+    Make sure you dont repeat information contained in previous answers unless you deem it extremely relevant.
+    This is very important!
+  `;
 
-  const content = listContent.join('\n\n');
+  const contentPrompt = {
+    role: "user",
+    content: listContent,
+  };
 
-  const res = await fetch('https://api.openai.com/v1/chat/completions', {
+  /// insert content prompt at index 0 of prompt array
+  prompt.unshift(contentPrompt);
+
+  console.log("Running OpenAIStream...");
+
+  const res = await fetch("https://api.openai.com/v1/chat/completions", {
     headers: {
-      'Content-Type': 'application/json',
-      'Authorization': `Bearer ${apiKey}`,
+      "Content-Type": "application/json",
+      Authorization: `Bearer ${apiKey}`,
     },
-    method: 'POST',
+    method: "POST",
     body: JSON.stringify({
-      model: 'gpt-3.5-turbo-0301',
-      messages: [
-        {
-          role: 'user',
-          content: prompt,
-        },
-      ],
+      model: "gpt-3.5-turbo-0301",
+      messages: prompt,
       max_tokens: 1000,
       temperature: 0.4,
       stream: true,
@@ -57,10 +65,10 @@ export const OpenAIStream = async (prompt: string, apiKey: string) => {
   const stream = new ReadableStream({
     async start(controller) {
       const onParse = (event: ParsedEvent | ReconnectInterval) => {
-        if (event.type === 'event') {
+        if (event.type === "event") {
           const data = event.data;
 
-          if (data === '[DONE]') {
+          if (data === "[DONE]") {
             controller.close();
             return;
           }
