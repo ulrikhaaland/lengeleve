@@ -68,7 +68,7 @@ const PageHeader = () => {
       >
         <DialogTitle id='form-dialog-title'>User Information</DialogTitle>
         <DialogContent>
-          <form className='space-y-4'>
+          <form className='space-y-4' onSubmit={handleSubmit}>
             <div className='flex flex-col'>
               <label
                 htmlFor='age-group'
@@ -238,7 +238,7 @@ const PageHeader = () => {
           <Button onClick={handleClose} color='primary'>
             Close
           </Button>
-          <Button type='submit' color='primary'>
+          <Button type='submit' color='primary' onClick={handleSubmit}>
             Submit
           </Button>
         </DialogActions>
