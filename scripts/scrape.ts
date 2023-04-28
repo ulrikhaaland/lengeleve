@@ -119,6 +119,24 @@ const scrape = async (
 
   await page.goto(loginUrl);
 
+  // Check if the button with the specified class exists and click it if found
+  const closeButtonSelector =
+    'CloseButton__ButtonElement-sc-79mh24-0 lnQjcm catoosa-CloseButton catoosa-close catoosa-ClosePosition--top-right';
+  const closeButton = await page.$(closeButtonSelector);
+
+  if (closeButton) {
+    await page.click(closeButtonSelector);
+  }
+
+  // Check if the button with the specified class exists and click it if found
+  const closeButtonSelector2 =
+    'CloseButton__ButtonElement-sc-79mh24-0 lnQjcm catoosa-CloseButton catoosa-close catoosa-ClosePosition--top-right';
+  const closeButton2 = await page.$(closeButtonSelector2);
+
+  if (closeButton2) {
+    await page.click(closeButtonSelector2);
+  }
+
   await page.type('#user_login', username);
   await page.type('#user_pass', password);
   await page.click('#wp-submit');
@@ -428,9 +446,11 @@ function splitString(input: string, maxLength: number = 1000): EncodedString[] {
   return result;
 }
 async function startScrape(results: any[]) {
-  for (let i = 20; i < results.length; i++) {
+  /// Chronic2 started at index 70 and ended at
+  for (let i = 66; i < results.length; i++) {
     const row = results[i];
     await runScrape(row);
+    // console.log(i);
     console.log('generated embeddings for: ' + row['title']);
   }
 }
@@ -438,7 +458,7 @@ async function startScrape(results: any[]) {
 async function main() {
   const results: any[] = [];
 
-  fs.createReadStream('scripts/data/csv/chronic_unique.csv')
+  fs.createReadStream('scripts/data/csv/chronic2_unique.csv')
     .pipe(csv())
     .on('data', (data: any) => results.push(data))
     .on('end', () => {

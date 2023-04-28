@@ -1,0 +1,92 @@
+[
+ {
+  "title": "The Prevalence of Vascular Disease",
+  "date": "November 10, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Looking at 5-year age groups, from the ages of 40-44 to 70-74, death rates for vascular disease (i.e., heart disease and cerebrovascular disease) is the second-leading killer (or a close first) in the United States, behind cancer deaths. By the time we reach 75-79 and beyond, death from vascular disease begins to take over in a big way. The rates of death rise monotonically to the point where a form of vascular disease is about 10 times more likely to show up on a death certificate of someone 95 years of age or older. Vascular disease is the final common path to death.",
+  "content_length": 575,
+  "content_tokens": 134,
+  "embedding": []
+ },
+ {
+  "title": "The Importance of Mitigating Vascular Disease",
+  "date": "November 10, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "This is why (just ask my patients) I harp on atherosclerosis so much when talking longevity. And I’m not talking about the nonsense sci-fi longevity like some pundits who claim it’s within their purview to live to 200 or beyond. I’m talking about normal people, sans centenarian genes, trying to make it into their 90s. If this type of longevity is appealing to you, you need to know everything possible about mitigating vascular disease.",
+  "content_length": 438,
+  "content_tokens": 101,
+  "embedding": []
+ },
+ {
+  "title": "Mendelian Randomization Studies",
+  "date": "November 10, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "For more than 20 years, Mendelian Randomization (MR) studies have been used to evaluate whether observational data might be related to disease causation. MR is based on the assumption that a genetic variant influences only the variable of interest, and since genetic variants are randomly allocated at birth, MR is less susceptible to confounding and reverse causation compared with observational epidemiologic studies. MR is considered to be a natural randomized control trial because genotypes are passed down randomly from parents to their offspring.",
+  "content_length": 553,
+  "content_tokens": 97,
+  "embedding": []
+ },
+ {
+  "title": "Using MR to Study the Association of Genetic Variants with CVD",
+  "date": "November 10, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Recently, a group of investigators used MR to study the association of genetic variants related to a lifetime of lower cholesterol in low-density lipoproteins (LDL-C) and lower systolic blood pressure (SBP; the number on top of the blood pressure ratio, corresponding to the pressure in the arteries during contraction of the ventricles of the heart) with the risk of cardiovascular disease (CVD). Genetic variants are also known as single nucleotide polymorphisms, or SNPs (pronounced as snips), which can be discerned by genotyping (e.g., 23andMe) and gene sequencing.",
+  "content_length": 570,
+  "content_tokens": 129,
+  "embedding": []
+ },
+ {
+  "title": "Genetic LDL-C and SBP Scores and Major CV Events",
+  "date": "November 10, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Using genotyping data from the UK Biobank, the investigators compiled genetic LDL-C and SBP scores to split them into groups with inherited lower LDL-C, lower SBP, or both. They then compared the differences in LDL-C, SBP, and major CV event rates between these groups. Major CV events is defined in this study as coronary death, nonfatal heart attacks, or coronary revascularization (e.g., placement of a stent, bypass procedure). Participants with genetic LDL-C scores higher than the median (ergo, lower LDL-C) had an odds ratio (OR) for major coronary events of 0.74 (95% CI, 0.72-0.76; p < .001) compared with participants with genetic LDL-C scores at or below the median, which means a 26% relative risk reduction. Participants with genetic SBP scores higher than the median (ergo, lower SBP) had an OR for major coronary events of 0.83 (95% CI, 0.81-0.86; p < .001) compared with participants with genetic SBP scores at or below the median, which translates to 17% relative risk reduction.",
+  "content_length": 996,
+  "content_tokens": 248,
+  "embedding": []
+ },
+ {
+  "title": "Dose-Dependent Associations and Meta-Regression Analysis",
+  "date": "November 10, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "The investigators sliced up the scores further, into quartiles, to see if the associated risks were dose-dependent. If the participants were grouped into lower and lower levels of LDL-C, did the associated risk of major CV events get lower and lower? Same question for SBP? Figure 6, below, from the paper (helpful in that it’s a graph, but less helpful in that you can’t really extract the answer I’m after directly) and eTable 4 from the supplement (much more helpful, but you need to stomach a cumbersome spreadsheet), shown below Figure 6, give us some sense of how these two variables impact vascular disease.",
+  "content_length": 614,
+  "content_tokens": 137,
+  "embedding": []
+ },
+ {
+  "title": "Mendelian Randomization and Disease Risk",
+  "date": "November 10, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "This Mendelian randomization demonstrates that a reduction of SBP by 5 mmHg and a reduction of LDL-C by 22.4 mg/dL, over the course of one’s lifetime, reduces risk of major adverse cardiac and vascular events by 53%. Because of the frequency of this disease, a relative reduction of this much is also an enormous absolute risk reduction. It seems at least plausible that these results can be extrapolated further, which the authors suggest, to a reduction of SBP by 10 mmHg and a reduction of LDL-C by 1 mmol/L (38.7 mg/dL). These yield a risk reduction of 45% and 54%, respectively, and note that these are independent, meaning in each case the other variable is not also being reduced.",
+  "content_length": 687,
+  "content_tokens": 160,
+  "embedding": []
+ },
+ {
+  "title": "Lowering LDL-C and SBP",
+  "date": "November 10, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Because the effects of SBP and LDL-C were completely independent across the range of their data, the authors go one step further and extrapolate the combined effect of these changes—lowering LDL-C by 38.7 mg/dL *and* lowering SBP by 10 mmHg—and the results suggest an OR of 0.22, or a relative risk reduction of 78%.",
+  "content_length": 316,
+  "content_tokens": 79,
+  "embedding": []
+ },
+ {
+  "title": "Limitations of Mendelian Randomization",
+  "date": "November 10, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Mendelian randomization can provide powerful evidence on mechanisms of disease and trying to determine the potential effects of modifiable exposures and health outcomes, but MR is not immune from limitations. One of the major threats to MR establishing causation is pleiotropy, which is the potential for SNPs to have more than one specific phenotypic effect. What if the same SNP that is associated with lower LDL-C levels also has an effect on some other aspect of CV risk? For example, say it somehow improves endothelial function. We may be fooled into thinking that the SNP confers CV protection because it lowers LDL-C, but it may be protective for some other reason, or its effects on LDL-C may be only telling part of the story.",
+  "content_length": 736,
+  "content_tokens": 152,
+  "embedding": []
+ }
+]

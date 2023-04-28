@@ -1,0 +1,92 @@
+[
+ {
+  "title": "Delaying Chronic Disease",
+  "date": "March 14, 2021",
+  "context": "Cholesterol",
+  "people": "Peter Attia",
+  "content": "Half of solving the longevity equation comes down to delaying the onset of chronic disease. The longest lived among us do not live longer with chronic disease; they live longer without them. Atherosclerotic cardiovascular disease (ASCVD), the most prevalent disease in the developed world, is the disease most likely to cause death into old age.",
+  "content_length": 345,
+  "content_tokens": 66,
+  "embedding": []
+ },
+ {
+  "title": "Assessing ASCVD Early",
+  "date": "March 14, 2021",
+  "context": "Cholesterol",
+  "people": "Peter Attia",
+  "content": "That is why I am so interested in assessing ASCVD early, so that the wheels of prevention can be set in motion. And when I say early, I mean in the ballpark of adolescence. Guided intervention with early risk assessment markers like non-high-density lipoprotein cholesterol (non-HDL-C) and apolipoprotein B (apoB) can delay the onset of ASCVD.",
+  "content_length": 343,
+  "content_tokens": 83,
+  "embedding": []
+ },
+ {
+  "title": "Non-HDL-C as an Early Predictor of ASCVD",
+  "date": "March 14, 2021",
+  "context": "Cholesterol",
+  "people": "Peter Attia",
+  "content": "A recent study in JAMA concluded non-HDL-C is an important early predictor of ASCVD, the emphasis here being on the early part. The study reported that an elevated non-HDL-C in adolescence—people between the ages of 12 and 18 years old—had the strongest association with ASCVD in midlife. This finding is especially compelling since our aim is to predict the risk of having cardiovascular disease long before it occurs.",
+  "content_length": 419,
+  "content_tokens": 90,
+  "embedding": []
+ },
+ {
+  "title": "Non-HDL-C and ApoB as Risk Assessment Markers",
+  "date": "March 14, 2021",
+  "context": "Cholesterol",
+  "people": "Peter Attia",
+  "content": "The study uses non-HDL-C to assess atherogenic risk because it can estimate the mass of cholesterol molecules contained in potentially atherogenic lipoprotein particles. For the purposes of this discussion, apoB essentially measures the quantity of potentially atherogenic LDL particles, since about 90% of apoB is located on LDLs. So to summarize, non-HDL-C estimates the quantity of the cholesterol mass within particles, whereas apoB measures the number of the potentially atherogenic particles. Even though apoB has a greater predictive ability for ASCVD, non-HDL-C is still a good initial screening tool that generally correlates with apoB measures. Ideally, both can be used to guide individual management.",
+  "content_length": 712,
+  "content_tokens": 153,
+  "embedding": []
+ },
+ {
+  "title": "JAMA Study on Non-HDL-C",
+  "date": "March 14, 2021",
+  "context": "Cholesterol",
+  "people": "Peter Attia",
+  "content": "Back to the JAMA study. This prospective cohort study began in 1980 (before measuring apoB was as easy as it is today) and followed 3 population groups over a 28-year period. The study recorded non-HDL-C, which was determined for 3 different life stages: adolescence, young adulthood, and mid-adulthood. The measure was classified as either “normal” or “elevated,” using guideline-based recommended cutoffs. In the final year of the study, the 589 participants, who were by then between 40 to 46 years old, received a coronary artery calcium (CAC) scan to assess the presence and extent of coronary artery calcification, a manifestation and marker of very advanced coronary artery disease. A CAC scan is a strongly validated and well-accepted indicator of the advanced stages of coronary atherosclerosis.",
+  "content_length": 804,
+  "content_tokens": 180,
+  "embedding": []
+ },
+ {
+  "title": "Association of non-HDL-C and the presence of CAC in mid-adulthood",
+  "date": "March 14, 2021",
+  "context": "Cholesterol",
+  "people": "Peter Attia",
+  "content": "About 1 in 5 participants in the study had calcification in their coronary arteries at the end of the 28-year study period, when they were in their early-to mid-40s. The study reported that, compared to having normal non-HDL-C, elevated non-HDL-C in adolescence was associated with a 16% increased likelihood of developing CAC in mid-adulthood. When non-HDL-C was elevated in either young adulthood or mid-adulthood, there was also an increased likelihood of CAC by the end of the study period (14% and 12%, respectively) (Figure).",
+  "content_length": 531,
+  "content_tokens": 130,
+  "embedding": []
+ },
+ {
+  "title": "Cardiovascular disease is a time-course disease",
+  "date": "March 14, 2021",
+  "context": "Cholesterol",
+  "people": "Peter Attia",
+  "content": "It is not surprising that the study found what it did. I like to explain to patients that cardiovascular disease is a time-course disease, which is why age is such a strong predictor of risk. The longer your artery walls are exposed to atherogenic particles, the more likely they are to incur damage, which is why earlier exposure to these particles incurs more risk and most strongly correlates to disease later in life. In other words, the damage from atherogenic particles accumulates over the course of a lifespan, which means more disease, manifested as CAC, or worse: a cardiovascular event, such as a heart attack or sudden death.",
+  "content_length": 637,
+  "content_tokens": 130,
+  "embedding": []
+ },
+ {
+  "title": "Identifying Risk for Midlife Coronary Artery Disease",
+  "date": "March 14, 2021",
+  "context": "Cholesterol",
+  "people": "Peter Attia",
+  "content": "Measuring non-HDL-C as a marker of atherogenic risk early in life can help identify young adults at risk for midlife coronary artery disease, decades before disease manifests.",
+  "content_length": 175,
+  "content_tokens": 38,
+  "embedding": []
+ },
+ {
+  "title": "Surveillance for Early Intervention",
+  "date": "March 14, 2021",
+  "context": "Cholesterol",
+  "people": "Peter Attia",
+  "content": "Surveilling non-HDL-C (or better yet, apoB) early in life—much sooner than we typically do—provides the opportunity for early lifestyle and pharmacologic intervention to delay the onset of ASCVD.",
+  "content_length": 195,
+  "content_tokens": 48,
+  "embedding": []
+ }
+]

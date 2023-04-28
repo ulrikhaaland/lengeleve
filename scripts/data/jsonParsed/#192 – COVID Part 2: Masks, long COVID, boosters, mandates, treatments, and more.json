@@ -1,0 +1,712 @@
+[
+ {
+  "title": "COVID Part 2: Masks, long COVID, boosters, mandates, treatments, and more",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "In this episode, we talk about new data on Omicron, long COVID, masks, kids and schools, vaccine mandates, policy questions, and treatments.",
+  "content_length": 140,
+  "content_tokens": 33,
+  "embedding": []
+ },
+ {
+  "title": "Severity of Omicron Infection",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Severity of infection from Omicron—reviewing the data [5:15];\nFactors contributing to the relative mildness of Omicron infections [8:30];\nIs SARS-CoV-2 evolving to cause less severe disease? [13:00];",
+  "content_length": 199,
+  "content_tokens": 59,
+  "embedding": []
+ },
+ {
+  "title": "Vaccines and Boosters",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Potential of Covaxin—an inactivated virus-based COVID-19 vaccine [17:45];\nComparing the COVID-19 vaccines, and the rationale for the time between doses  [25:30];\nReviewing the purpose and effectiveness of boosters for reducing severity and transmission [32:30];\nDebating vaccine mandates, and putting COVID’s mortality risk in perspective [41:00];\nLong COVID and the potential for vaccines to reduce risk [1:21:45];\nRisks for children and policies for schools [1:27:30];",
+  "content_length": 470,
+  "content_tokens": 123,
+  "embedding": []
+ },
+ {
+  "title": "Masks and Antiviral Treatments",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Reviewing the data on masks for protecting oneself and protecting others [1:06:30];\nThe inconsistent logic used for mask mandates [1:16:00];\nAntiviral treatments for COVID and a common-sense approach [1:42:15];\nTreating infection with monoclonal antibodies and convalescent sera [2:01:45];",
+  "content_length": 289,
+  "content_tokens": 78,
+  "embedding": []
+ },
+ {
+  "title": "Controversial Claims and Exit Strategy",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Reviewing claims made by the controversial Dr. Robert Malone [2:11:15];\nA potential exit strategy from the current situation [2:30:30];\nChange needed at the NIH [2:40:00];",
+  "content_length": 171,
+  "content_tokens": 47,
+  "embedding": []
+ },
+ {
+  "title": "The impact of stress on physical and emotional health",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Robert Sapolsky, Ph.D., discusses the widespread impact of stress on our physical and emotional health as well as the mechanisms by which it can precipitate chronic illness, dementia, depression, and more.",
+  "content_length": 205,
+  "content_tokens": 42,
+  "embedding": []
+ },
+ {
+  "title": "Factors contributing to chronic illness",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Robert Sapolsky provides insight into the factors that contribute to chronic illness.",
+  "content_length": 85,
+  "content_tokens": 15,
+  "embedding": []
+ },
+ {
+  "title": "The Impact of Stress on Chronic Illness, Dementia, and Depression",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Robert Sapolsky, Ph.D., discusses the widespread impact of stress on our physical and emotional health as well as the mechanisms by which it can precipitate chronic illness, dementia, depression, and more.",
+  "content_length": 205,
+  "content_tokens": 42,
+  "embedding": []
+ },
+ {
+  "title": "The Role of Stress on Cancer, Atherosclerosis, Addiction, and Depression",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Robert Sapolsky discusses the impact of stress on cancer, atherosclerosis, dementia, addiction, and depression.",
+  "content_length": 111,
+  "content_tokens": 23,
+  "embedding": []
+ },
+ {
+  "title": "Severity of infection from Omicron—reviewing the data",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "They found 52,000 cases of Omicron, none required mechanical ventilation. And remember, 52,000 documented means there are 4-5 cases out there in the community for every 1 that is picked-up with testing. Roughly half of infections are asymptomatic and a lot of people have a tough time getting access to testing. So we’re really looking at a population of, say, a quarter million people with Omicron and nobody required a ventilator. There was 1 death in this group (not in the ICU or intubated). Infection with the Omicron variant was determined using PCR diagnosis where S gene dropout was observed. There was a net total of 154 people who were hospitalized out of, say, a quarter million infected with Omicron.",
+  "content_length": 712,
+  "content_tokens": 164,
+  "embedding": []
+ },
+ {
+  "title": "Hospitalizations are mostly incidental COVID admissions",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "NYU reported 53% are not there for COVID, but they are COVID positive. In Jackson Memorial in Florida, 65% are incidental COVID positive cases. Perhaps 50% to 60% of the COVID hospitalizations are incidental. This depends on how highly vaccinated the region is. The numbers are even higher out in California for people with COVID in their noses because so many people are tested. So LA County reported 67%. This was closest to what we saw in South Africa during the Omicron surge which was 63%. And it wasn’t that South Africa was a highly vaccinated region; it was about a 25% vaccinated region.",
+  "content_length": 596,
+  "content_tokens": 132,
+  "embedding": []
+ },
+ {
+  "title": "Immunity contributes to better outcomes with Omicron",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "A study in South Africa just released aims to dissect the contribution of immunity to outcomes with Omicron versus the contribution a milder variant. One from South Africa was really well-documented. It tried to tease out the reason for better outcomes with Omicron, looking at the contribution of immunity versus the more milder aspect of Omicron. This focused on the 4th wave in South Africa. Essentially what this study showed was that absolutely immunity is contributing to why in December 2021, January 2022, we’re having a better outcome with the latest variant. The contribution of immunity, both natural immunity and vaccine induced, estimated vaccination probably led to a 0.24 hazards ratio of a severe outcome.",
+  "content_length": 721,
+  "content_tokens": 142,
+  "embedding": []
+ },
+ {
+  "title": "Immunity and Disease Severity",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "They now have T cells; and their B cells produce antibodies. This attacks that virus; it brings down the viral load quickly. This will make it less infectious and it helps the person do well with the virus. And so, immunity, of course, will help one do well. Less severe outcomes observed in children under 5 infected with Omicron versus Delta. Evolution of virus is accompanied with lessening of disease severity. Will SARS-CoV-2 become a virus that causes disease with severity somewhere between common-cold-coronaviruses and influenza (that causes the flu)? Monica notes this makes sense evolutionarily and that’s been the pattern in history. She also notes that if a more virulent strain arises, we have the protection of immunity across the entire virus from B cells, T cells, antibodies. Break-through infections with Omicron provide broad immunity to other variants.",
+  "content_length": 873,
+  "content_tokens": 184,
+  "embedding": []
+ },
+ {
+  "title": "Omicron Virulence",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Yes, it seems to be not just based on the 6 laboratory studies, including 2 in ex vivo lung transplants. So this is human lung tissue. And then also animal studies that show it can’t infect lung cells very well. 6  studies now. What the South Africa study showed us was very good analysis distinguishing between immunity making it more mild and also having fewer less virulent. “They estimated it’s 25% less virulent than Delta above and beyond immunity” – Monica Gandhi. So it’s not just our increasing immunity in the population that’s making Omicron more mild, but it’s something to do with the virus itself likely, that it can’t infect lung cells well.",
+  "content_length": 656,
+  "content_tokens": 154,
+  "embedding": []
+ },
+ {
+  "title": "Covaxin and Mucosal Antibody Immunity",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Something Monica has been thinking about lately is why we don’t have Covaxin in this country. Covaxin filed for an EUA 73 days ago with the FDA. ZDoggMD asks if there is a difference in mucosal antibody immunity between the mRNA vaccines (specific only to the spike protein) and Covaxin (an inactivated, whole virus). Monica explains that when someone is exposed to the virus, they develop IgA antibodies in their nose. There’s a great interest in mucosal, nasal vaccines to help decrease transmission. But it is true that if one gets Covaxin or gets exposure to the actual virus, they develop IgA against multiple parts of the virus. With the mRNA vaccines, one is developing IgA against only the spike protein.",
+  "content_length": 712,
+  "content_tokens": 160,
+  "embedding": []
+ },
+ {
+  "title": "Adenovirus DNA vector vaccines and T cell response",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Both Johnson & Johnson and AstraZeneca are adenovirus DNA vector vaccines. They show a different part of the spike protein, which is why mixing them exposes one to more of the spike protein antigen. But what Monica thinks happens with the DNA antiviral vectors is they produced a more robust T cell response than the mRNA vaccines, and T cells are the long-lasting friends. AstraZeneca seems to produce and Johnson & Johnson stronger T cells response.",
+  "content_length": 451,
+  "content_tokens": 94,
+  "embedding": []
+ },
+ {
+  "title": "B cells and T cells working together to defend against viruses",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "T cells are actually the main arm of the immune system that fight viruses. And then what B cells do is they become the recipe book or the template to produce more antibodies, but they have to be aided by T cells to do so. B cells are known to develop after vaccination. And not only will they produce antibodies, but they will actually adapt those antibodies to the variant they see. T cells line the whole virus and directly kill the virus itself.",
+  "content_length": 448,
+  "content_tokens": 91,
+  "embedding": []
+ },
+ {
+  "title": "Comparing COVID-19 vaccines and rationale for time between doses",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Paul Offit and others have speculated that J&J really always should have been a 2-dose vaccine. In the US, only Pfizer is off EUA (emergency use authorization); it’s the only vaccine to have full approval. Covaxin is the inactivated, whole-virus vaccine developed by Bharat Biotech in India. Covovax is a protein subunit COVID-19 vaccine developed by Novavax Inc. The CDC has indicated a preference for the mRNA vaccines to J&J.",
+  "content_length": 428,
+  "content_tokens": 108,
+  "embedding": []
+ },
+ {
+  "title": "Vaccine-induced thrombotic thrombocytopenia",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "And then, there is the vaccine-induced thrombotic thrombocytopenia issue which seems to be a class effect with the adenovirus vector vaccines because AstraZeneca has it as well. Monica adds that Sputnik V is another adenovirus DNA vector vaccine; they all have this rare side effect.",
+  "content_length": 283,
+  "content_tokens": 71,
+  "embedding": []
+ },
+ {
+  "title": "Myocarditis from vaccination vs infection",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "The interesting question is what is worse for generating myocarditis— natural coronavirus infection or the vaccine? This is where data sets seem to disagree and how one interprets them. Marty notes, those studies did a head-to-head comparison and found that the rates of myocarditis after vaccination were higher, particularly with Moderna. In parts of Europe they’ve restricted Moderna in anyone under age 30. There’s also this interesting idea— the myocarditis from vaccination may be different than the myocarditis from the infection itself. Monica also notes the difference in the amount of RNA the vaccines contain. Moderna has 100 micrograms, Pfizer’s 30 micrograms. So that dose difference probably explains why myocarditis could be more seen with the Moderna vaccine. She thinks the best study on this is from Canada. That showed that the risk of myocarditis after the second dose is more with higher dose Moderna vaccine. And also more if there is a shorter period between the 2 doses. This is why spacing the doses has been such a strategy in Canada of 8 weeks or even longer between doses.",
+  "content_length": 1100,
+  "content_tokens": 235,
+  "embedding": []
+ },
+ {
+  "title": "Time between vaccine doses",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Peter asks about the immunologic rationale for why the mRNA vaccines were dosed at four weeks apart. Monica thinks it was simply expediency because the trials were conducted in a hurry. Dr. Stanley Plotkin wrote a Clinical Infectious Disease article in January. He was saying we need to space them out longer for 2 reasons. 1) One was to save more lives because if there is a limited supply, we want to save more lives by giving people just 1 dose (and then give them the second dose later). 1 dose will provide some T cell immunity. 2) And then the second was he said that in any field of vaccinology (and now this has been shown in a Cell paper) if you give longer time between doses, you get a better response. Published October 15, 2021, Immunogenicity of standard and extended dosing intervals of BNT162b2 mRNA vaccine. Not just increased antibody responses, but fundamentally what we were talking about is we want to develop cellular memory. There’s better T cell responses if you space them out, the doses, by 8 weeks or so. Peter asks what would be the ideal time to give a booster to somebody who has 2 shots of Moderna or Pfizer. Nobody would be 1 year out from their second show now because these things just became available. Is giving a booster in less than a year the optimal way to boost long-term immunity? Would we be better off boosting less frequently? Monica explains, to extrapolate on the 3-dose vaccines from the hepatitis B vaccine and the human papilloma virus vaccine— the longer the time between the 2nd and 3rd doses, the better.",
+  "content_length": 1557,
+  "content_tokens": 337,
+  "embedding": []
+ },
+ {
+  "title": "Boosters for reducing severity and transmission",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "There was an Omicron paper studying transmission within households, and given a boost did decrease transmission. Monica notes, if the patient benefits from a booster to reduce severe disease, then that’s when we would give a booster in how we usually do infectious disease. Not for this purpose of reducing transmission. The UK study suggests 10 weeks. The booster makes the antibodies go up and then come right back down after 10 weeks. It’s just never been done that we give boosters to decrease transmission.",
+  "content_length": 511,
+  "content_tokens": 102,
+  "embedding": []
+ },
+ {
+  "title": "Universities requiring students to get a 3rd dose",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Monica replies that it is profoundly not recognized is how well the vaccines work for the older adult who is teaching the student. Even 2 doses, certainly 3 doses if they’re older. She asks Marty and ZDoggMD if they think the healthcare worker study in the New England Journal of Medicine from Israel showed anyone over 50 really benefits from a third dose, even in reducing severe disease.",
+  "content_length": 390,
+  "content_tokens": 83,
+  "embedding": []
+ },
+ {
+  "title": "Bad outcomes from a vaccine booster",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Marty notes that even the European CDC basically said specifically that repeated boosters could cause “problems with the immune system”. Anecdotes of autoimmunity. Marty and his colleagues have seen cases that raise questions about the onset of autoimmune disease, either immediately after the second dose or after a very mild infection in somebody fully vaccinated.",
+  "content_length": 366,
+  "content_tokens": 71,
+  "embedding": []
+ },
+ {
+  "title": "Possible link between immune system and diabetes",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Maybe the immune system was revved up and caused juvenile diabetes in an adult. How often do you see that on day two of a very mild infection?",
+  "content_length": 142,
+  "content_tokens": 31,
+  "embedding": []
+ },
+ {
+  "title": "Vaccination still favored despite concerns",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "The risk benefit still favors vaccination. This is not an argument to say, “Hold off on vaccines because there’s concern”. This is an argument to say, “Only give boosters if there’s a clinical benefit”.",
+  "content_length": 202,
+  "content_tokens": 53,
+  "embedding": []
+ },
+ {
+  "title": "Infection with Omicron as a booster",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "ZDoggMD notes that the best booster of all is infection with Omicron; this would be true of any natural infection. Infection elicits profound T and B cell responses; broad neutralizing antibodies across the whole virus. When these B-cells are retriggered, you get another process of what they call somatic hypermutation. The B-cells are constantly undergoing mutational process to diversify. “That is the best booster of all, unless you got a Covaxin booster” – ZDoggMD.",
+  "content_length": 470,
+  "content_tokens": 111,
+  "embedding": []
+ },
+ {
+  "title": "Debating vaccine mandates",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Peter asks what everyone thinks about vaccine mandates; he’s looking for a diversity of opinion. Monica replies that when she and ZDoggMD had this discussion previously, she favored mandates and he did not. Monica supports mandates because she works in a hospital and there is no doubt that the people in the ICU and the people who are sick are unvaccinated adults. If our entire purpose of a lot of what we did throughout this pandemic was to save hospitals, then not having hospitals have unvaccinated people when they could have gotten the vaccine, allows us to work on other aspects of hospitalization. Those who are  vaccinated are more concerned about COVID than those who are unvaccinated. People are fearful. People don’t trust vaccines— this is a failure of public health messaging. People have difficulty estimating risk [43:00].",
+  "content_length": 839,
+  "content_tokens": 174,
+  "embedding": []
+ },
+ {
+  "title": "Facts on risk",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Monica notes COVID is a very interesting and different virus in the sense that young children are very low risk for severe disease. This isn’t true of, for example, influenza, which affects young children and the extremes of age (elderly). Somehow people are not aware of the epidemiology of COVID. Monica blames public health officials also for not clearly laying it out, how much more at risk one is when they’re older. She also blames public health officials for not even putting out this data of how vaccines really make one almost immune to the severe outcomes. Unless someone is in specific risk groups in which case they are vulnerable and must be protected. ZDoggMD notes the emotional response to mandates. If he could wave a magic wand and have everyone eligible to be vaccinated at a minimal level that prevents severe disease, he would do it in an instant because he knows this would reduce suffering. He sees the emotional reaction to mandates and the psychological reactance to a government that nobody trusts and a public health apparatus that people don’t trust. People don’t want to be told what to do. This is why he is nervous about the public health policy tool of mandates.",
+  "content_length": 1194,
+  "content_tokens": 245,
+  "embedding": []
+ },
+ {
+  "title": "Putting risk in context",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Deaths from each of these independently— motor vehicle accidents, suicide, homicide, drug overdoses, just blow COVID out of the water. These are the major public health threats facing young people. People don’t just die of COVID; they die of depression and poverty and hopelessness and alcohol and stress and deferred cancer care and drug abuse.",
+  "content_length": 345,
+  "content_tokens": 71,
+  "embedding": []
+ },
+ {
+  "title": "Risk stratification for vaccination",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "The risk stratification for a healthy child is different. Risk can be stratified by comorbid condition. Marty thinks immunity requirements make sense in healthcare for those who are patient facing. He doesn’t think the same calculus applied to the accountant working at home for the hospital. All these discussions of the mandates hardened a lot of people, and a lot of these immunity requirements do not account for natural immunity.",
+  "content_length": 434,
+  "content_tokens": 84,
+  "embedding": []
+ },
+ {
+  "title": "Crazy anecdote of illogical outcomes from vaccine mandates",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Hospitals who have laid off staff for not being vaccinated are left working with a skeleton crew. The hospital asked people who called in sick with COVID to come in back and work in the hospital. This is the insanity of blanket policies hardening people requirements that do not account for immunity. Natural immunity should be factored into vaccine mandates.",
+  "content_length": 359,
+  "content_tokens": 69,
+  "embedding": []
+ },
+ {
+  "title": "COVID-19 Mandates",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Recovery immunity always has to be taken into account for any mandate. Mandates continue. Peter has read that 50 of the fortune 500 companies in the US are going to continue with mandates even in the context of the recent Supreme Court decision. Almost every single country in Europe takes natural immunity into account, why isn’t this considered in the US?",
+  "content_length": 357,
+  "content_tokens": 71,
+  "embedding": []
+ },
+ {
+  "title": "Why the topic of COVID has become so polarized",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "ZDoggMD speculates that we’ve created a God-shaped hole in our society over multiple years of secularization. What’s happened now is a situation that polarizes people almost the way a religion would. Both sides on this that are polarized; they have a religious aspect to it. That’s why it’s been so hard to understand why this is going on.",
+  "content_length": 339,
+  "content_tokens": 83,
+  "embedding": []
+ },
+ {
+  "title": "Omicron and Destigmatization",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Monica notes that Omicron is actually destigmatizing; that’s good, in a way. It’s a very highly transmissible respiratory variant. Omicron won’t be eliminated because it is a highly transmissible respiratory variant. It has animal reservoirs. It has a presymptomatic period where one is infectious. It has a long infectious period. And vaccines elicit non-sterilizing immunity. All of that means it cannot be eradicated, but it can be made endemic. It can be controlled. It is the time where the shame of getting a pathogen is being destigmatized.",
+  "content_length": 547,
+  "content_tokens": 129,
+  "embedding": []
+ },
+ {
+  "title": "Reviewing the data on masks for protecting oneself and protecting others",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Monica’s first podcast with ZDoggMD was that cloth masks seem to reduce the severity of illness. Then, there were some NIH studies that showed that actually, it’s probably the humidification of air when you’re wearing a cloth mask that reduces the severity of symptoms. The best way to reduce the severity of symptoms is to get vaccinated, right? There are certain masks that seem to work best for the individual. We cannot be mandating mask mandates for the whole population anymore because transmission doesn’t seem to be reduced by cloth masks, doesn’t seem to be reduced by even surgical masks, unless you really tuck them in and double loop them and so forth.",
+  "content_length": 664,
+  "content_tokens": 145,
+  "embedding": []
+ },
+ {
+  "title": "Masks for Individual Protection",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Monica’s interest in cloth masks and my interest in masking were for the individual for reducing severe disease. Data now from the NIH with humidification of air supports this. Masks that offer the best protection are N95s, KN95s, FFP2s, KF94s, a double mask with cloth and surgical, or the final option is actually a cloth mask with a surgical filter inside, a filter inside that’s polypropylene material. That last option is probably the most comfortable; a cloth mask with a filter inside. All of these have been studied very well. All of these protect the individual. For someone who wants no exposure, wear one of those masks.",
+  "content_length": 631,
+  "content_tokens": 144,
+  "embedding": []
+ },
+ {
+  "title": "Mask Mandates",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "It’s important to give people information and let them decide instead of creating a mandate for the whole population. Back to mask mandates— now that vaccines are available, masks should be a choice. That’s different from a mandate. Monica doesn’t think wearing a mask can be mandated. She doesn’t think it’ll be mandated in California after February 15th, nor for travel after March or whatever date Biden has said.",
+  "content_length": 416,
+  "content_tokens": 93,
+  "embedding": []
+ },
+ {
+  "title": "Protecting High-Risk Individuals",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Monica wants her father to wear an N95 because he happens to be getting chemotherapy right now, and he’s 87. She wants her child who’s low risk and fully vaccinated to be able to not wear a mask. Monica thinks the CDC should tell people worried about exposure to wear the right kind of mask. The implication is that he wears a mask to protect him and she will wear a mask to protect him.",
+  "content_length": 387,
+  "content_tokens": 88,
+  "embedding": []
+ },
+ {
+  "title": "Living with COVID",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "The Biden administration task force advisors wrote a piece in JAMA just two weeks ago; it was similar to a piece I’d written in Time that said you have to accept that we have to live with COVID. Monica thinks there’s going to be 4 things that happen that are different now than before what used to happen in the world. 1) We have to protect ourselves from respiratory pathogens as a whole. We’re probably going to always vaccinate. 2) We need better treatments and we need more of those treatments. 3) More attention should be paid to ventilation for all respiratory pathogens. 4) There will be people who want to mask.",
+  "content_length": 619,
+  "content_tokens": 136,
+  "embedding": []
+ },
+ {
+  "title": "Mask Mandates and Risk Stratification in Kids",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "The inconsistent logic used for mask mandates. Should kids be required to wear masks in school? Looking at the risk stratification in kids, it’s just a whole different ballpark as we’ve talked about. There was a Brown University study that talked about significant cognitive and motor delays in children that can only be ascribed to the loss of the human connection. There was a study we discussed last time in PNAS looking at N95 masks with and without a nose piece and surgical masks. So that tells us a lot; it tells us that one can significantly reduce the risk of transmitting. But it also tells us that the quality of the mask matters.",
+  "content_length": 641,
+  "content_tokens": 133,
+  "embedding": []
+ },
+ {
+  "title": "Long COVID and the Potential for Vaccines to Reduce Risk",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "UCSF has a great study on post-acute SARS COVID 2 sequela. This type of disease can occur with any severe viral infection, including influenza. With immunity to the virus (as a result of vaccination or recovery from infection) 2 things happen. Just this morning Monica saw a study out of Israel showing that those who are vaccinated don’t get long COVID symptoms after having a mild breakthrough. There’s people who have had a lot of anxiety and depression during this time, understandably, and that can be mistaken for long COVID symptoms.",
+  "content_length": 540,
+  "content_tokens": 117,
+  "embedding": []
+ },
+ {
+  "title": "Long COVID and Vaccination",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "There are studies that show that the current state of the world is making people have less cognitive function. A study of people who had 2 vaccine doses showed that they had fewer long COVID symptoms than people who never had COVID. Vaccination is one way to treat long COVID. Those who have mild symptomatic breakthroughs who have been vaccinated don’t seem to get long COVID symptoms. The incidence of long COVID in the unvaccinated depended on if someone had severe disease or mild disease. For those who had severe disease, the incidence was about 30%. For those who had mild disease, the incidence was very low. Vaccination helps long COVID, either after the fact or before the fact.",
+  "content_length": 688,
+  "content_tokens": 145,
+  "embedding": []
+ },
+ {
+  "title": "Risks for Children and Policies for Schools",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Children are less likely to get severe COVID and long COVID. Schools should not be a place of fear. School closures have ill effects, including mental illness, anxiety, depression, eating disorders, and learning loss. We need to move towards normality for children in schools.",
+  "content_length": 276,
+  "content_tokens": 56,
+  "embedding": []
+ },
+ {
+  "title": "Colleges Move Toward Management of COVID as an Endemic",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Harvard is not going to do asymptomatic testing or contact tracing starting in the spring semester, they’re going to have normal college. John’s Hopkins is still not having normal college. Universities’ Covid Policies Defy Science and Reason. We can’t eradicate a virus.",
+  "content_length": 270,
+  "content_tokens": 64,
+  "embedding": []
+ },
+ {
+  "title": "Reviewing the Outcomes from Sweden",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Sweden didn’t lock down in spring and summer of 2020. It is unclear what happened in Sweden.",
+  "content_length": 92,
+  "content_tokens": 23,
+  "embedding": []
+ },
+ {
+  "title": "Sweden's Approach to COVID-19",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Sweden took a long-game approach, thinking years, and stayed mostly open. They had some businesses that suffered that the government directly stepped in and paid salaries and things like that. But they really were playing the long game. And it seems like so far, they’ve done quite well. Early on what they found was they did have a higher mortality per capita rate than their neighbors. Largely because the one big mistake that was made early on is failing to protect nursing home patients who are the highest risk of mortality in the early days.",
+  "content_length": 547,
+  "content_tokens": 111,
+  "embedding": []
+ },
+ {
+  "title": "Draconian Measures Implemented in Canada",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Quebec is now trying to tax the unvaccinated. This is a sin tax. An unvaccinated person in Canada cannot travel in Canada. They can only drive themselves. They can’t get on a bus or airplane. They can’t cross the border.",
+  "content_length": 220,
+  "content_tokens": 57,
+  "embedding": []
+ },
+ {
+  "title": "Antiviral Treatments for COVID and a Common-Sense Approach",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "For COVID there is now Fluvoxamine and the more recently Pfizer’s Paxlovid and Merck’s molnupiravir. Ways to protect one’s self: 1) Get vaccinated 2) Have access to therapeutics 3) Have access to a healthcare system that knows how to treat this disease.",
+  "content_length": 253,
+  "content_tokens": 71,
+  "embedding": []
+ },
+ {
+  "title": "Importance of ending tribalism and having rational discussions with humility",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Marty says his agenda is to end tribalism, because that is the most offensive thing. It’s not a different opinion. He’ll hear somebody articulate a different perspective and they’ll come out entirely differently on what we should be doing or should be recommending. That is okay in the context of civility in my mind. And his thought is, “Let’s show the data on both sides to the best of our ability and let people make a decision”. One of the few things that  is morally offensive is the automatic tribalism, the dismissal of people because of something that they thought early on. He sees universities, who ironically are supposed to be champions of data and scientific reason, revert to these primitive practices that are almost barbaric. They’re definitely cruel on students. Peter got a lot of hate mail after the last podcast [1:53:00]. ZDoggMD has been talking about this in the Sensemaking community online, people who are focused on trying to figure out “how do we make sense of the world in a fractured information economy and so on”. So, David Fuller, Rebel Wisdom, BJ Campbell and other people like that. There’s an idea that individual humans actually do instantiate these higher elements of thinking. We call them different things— groupthink, hive mind; he actually calls them egregores, which is a demon that emerges from groups of people and their thinking.",
+  "content_length": 1374,
+  "content_tokens": 300,
+  "embedding": []
+ },
+ {
+  "title": "The power of information over fear",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "The purpose of the podcasts is to give people the information so they can make the best decision in their best interest. Peter Attia believes that there is hope that information can trump fear. People are starving for honesty and data. The honesty of the conversation is what was appealing to Marty Makary.",
+  "content_length": 306,
+  "content_tokens": 59,
+  "embedding": []
+ },
+ {
+  "title": "Monoclonal antibodies and Omicron",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "The GSK monoclonal, sotrovimab, is the only one that works well on Omicron. If Omicron is as mild as we’re seeing, that tells us we should be using it selectively in high-risk individuals. Instead, these industrial strength big guns like PAXLOVID and sotiromab are being used in very low-risk people, sometimes people with wealth and power and access tend to get it.",
+  "content_length": 366,
+  "content_tokens": 96,
+  "embedding": []
+ },
+ {
+  "title": "Fluvoxamine and Omicron",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "There is insufficient data to recommend fluvoxamine against Omicron specifically. Many physicians are creative and smart enough to use it for their patients even if there is no official authorization around it at the FDA.",
+  "content_length": 221,
+  "content_tokens": 42,
+  "embedding": []
+ },
+ {
+  "title": "Convalescent Plasma",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Convalescent plasma is the plasma from someone who recovered from COVID illness. This is the plasma, not the red cells. The plasma contains antibodies. This is an infusion of a partially intact immune system, real antibodies. Essentially, monoclonal antibodies that pharma companies make is the same thing. They’re just antibodies made in a laboratory and they tend to be all one type, hence the name monoclonal as opposed to polyclonal antibodies. So, in the convalescent plasmas, there is a more diverse antibody profile. Arguably this is better. Marty thinks the backlash against convalescent plasma is politically driven. The trump administration had a lot of enthusiasm for it. There was confusion about it. The head of the NIH, Francis Collins, was asked to weigh in on convalescent plasma; and he said, “We need a randomized controlled trial”. Marty thinks this was a cop out. They had strong data in a non-randomized fashion. We should do a randomized control trial, but what he did is he threw water on any sort of interest in using it clinically. The news media distorted it. Pharma companies were saying, “Hey, we’re making antibodies. Why use convalescent antibodies?” Convalescent plasma fell to the wayside. Marty reached out to the study authors of the first trial that showed a benefit, the New England Journal of Medicine, and they said, “That study was flawed. The design was flawed. We need more research and trust us, it’s coming.” And they were very frustrated. They eventually published a study that came out very recently that looked at concentrated convalescent plasma. Concentrated convalescent plasma provides more antibodies. It was a well done study. It showed a dramatic reduction in hospitalization, a reduction by 50%. But nobody talks about it.",
+  "content_length": 1776,
+  "content_tokens": 392,
+  "embedding": []
+ },
+ {
+  "title": "Misleading claims about COVID treatments",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Malone claims that early treatments like hydroxychloroquine and ivermectin could have saved 500,000 US lives, but provides no data to support this. There is no compelling evidence that these treatments work. He also claims that the spike protein used in current vaccines was never tested for safety, which is untrue as clinical trials with tens of thousands of people were conducted to show that it is safe and effective. Malone also falsely claims that there were no pre-clinical or animal studies on these vaccines or mRNA constructs.",
+  "content_length": 536,
+  "content_tokens": 106,
+  "embedding": []
+ },
+ {
+  "title": "Misinformation about COVID cases and deaths",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Malone suggests that PCR is not accurate in estimating the number of COVID cases, which is untrue as it is quite accurate and sensitive. He also claims that hospitals are mischaracterizing COVID cases, which has some validity as there is an incentive to up code in medical billing situations, but he provides no evidence to support his claim that gunshot victims are being coded as COVID patients. Additionally, he questions the number of COVID deaths, but there were 477,000 excess deaths from March 1st to December 21st, 2020, and 74% of those match up with COVID mortality.",
+  "content_length": 576,
+  "content_tokens": 121,
+  "embedding": []
+ },
+ {
+  "title": "Pneumonia and Frailty",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "We see this every winter in the hospital with the flu. That’s why they say pneumonia is the old man’s friend, right? It’s the final thing in a very medically frail person.",
+  "content_length": 171,
+  "content_tokens": 45,
+  "embedding": []
+ },
+ {
+  "title": "Vaccine Monitoring and Injuries",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Malone asserts that we don’t have good vaccine monitoring at all and asserts that there are lots of vaccine injuries and damage that we are not counting. He talks about VAERS, which is really a hypothesis generating system where anybody can report and so on, but he does not talk about PRISM or V-safe or the Vaccine Safety Datalink (read more about them) . These are very robust vaccine monitoring systems that actually help to catch things like very rare events like the vaccine induced thrombotic thrombocytopenia of the Johnson & Johnson, AstraZeneca vaccine.",
+  "content_length": 563,
+  "content_tokens": 125,
+  "embedding": []
+ },
+ {
+  "title": "Misleading Claims about mRNA Vaccines",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Malone is directly misleading when he states that the lipid nanoparticles from the mRNA vaccines concentrate in tissues such as ovaries, explaining things like infertility and menstrual cycle abnormalities in women. And the truth is, the data he’s citing is a rat study where they pounded these rats with super normal levels of this lipid nanoparticle mRNA, and they saw accumulations in various tissues, but no tissue damage, actually. This has not been seen in humans. There are menstrual cycle abnormalities, so that’s where he is correct. And NIH has actually funded studies on this. The speculation on why this may be has been rampant. Some of it is just with any infection with an immune response, there can be abnormalities in menstrual cycles.",
+  "content_length": 751,
+  "content_tokens": 149,
+  "embedding": []
+ },
+ {
+  "title": "Debunking Claims about Ivermectin and Hydroxychloroquine",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "He mentions other things about ivermectin that are incorrect, like Japan recommending ivermectin for treatment of COVID; they did not. He says that the Chinese were using hydroxychloroquine to great effect early on. And he uses that as an example of a reason of why we should be using it. Simply not true.",
+  "content_length": 305,
+  "content_tokens": 72,
+  "embedding": []
+ },
+ {
+  "title": "Judging Credibility and Debating Data",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Peter remarks, “those are the types of claims that are difficult because you can’t counter a negative…you can’t search the anti-truth”. This is why ZDoggMD thinks many people will not research it. They constantly want to debate. “When you actually have days to look at the data, you realize, wow, that’s total bullshit, but I could never have responded that in real time” – ZDoggMD. What is needed is an honest debate, a conversation. Where everyone is familiar with the data.",
+  "content_length": 476,
+  "content_tokens": 120,
+  "embedding": []
+ },
+ {
+  "title": "Misinformation about Virologists and Anti-Vaccine Activists",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Malone actually cites Duesberg as the esteemed virologist who was canceled by Fauci in the early days. This is not true, actually. Duesberg continued to teach at Berkeley where ZDoggMD took his class; where he presented his ideas and the class got to debate them. Duesberg was since proved remarkably wrong on HIV. In the same breath, Malone actually associates with Robert F. Kennedy Jr. who is a known anti-vaccine activist, not a physician.",
+  "content_length": 443,
+  "content_tokens": 102,
+  "embedding": []
+ },
+ {
+  "title": "Mass Formation Psychosis",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "ZDoggMD explains mass formation psychosis, a term based on the work of a European psychologist, and parallels it to what happened with Nazi Germany. Malone claims that the mainstream has created this mass formation psychosis where the only way out is vaccines, and people start to believe it because they’re so destabilized from all the other stuff happening.",
+  "content_length": 359,
+  "content_tokens": 70,
+  "embedding": []
+ },
+ {
+  "title": "A Potential Exit Strategy from the Current Situation",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Peter takes comfort in the idea that colleges might say, “You don’t have to wear masks to sit in class anymore” and that airplanes and the TSA might say the same. Marty thinks that in a matter of a month or two, there will be very low levels of Omicron around, and people will be so giddy to move on that the fatigue is just going to hit all-time highs and people are going to turn the page.",
+  "content_length": 391,
+  "content_tokens": 95,
+  "embedding": []
+ },
+ {
+  "title": "Will New Variants Become the Norm Every Winter?",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Peter asks what will prevent us from backsliding into a state of panic if Omicron or Epsilon shows up next winter. Marty thinks the reaction will depend on geography and that 10% to 25% of the public is going to get some respiratory infection almost every year in perpetuity.",
+  "content_length": 275,
+  "content_tokens": 59,
+  "embedding": []
+ },
+ {
+  "title": "Implications for vaccine mandates",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "ZDoggMD thinks this is an issue where we need discussions. What is the incremental value now of mandating vaccines? Vinay Prasad talks about this, he says, “How many people are actually at risk of high complications? And of those, how many are unvaccinated? And of those, how many will mandates actually reach them?” ZDoggMD thinks the answer is probably much less than one might think. These shotgun mandates that affect a lot of people and are polarizing society more along these like peri-religious lines. ZDogg agrees with what Monica was saying, now at this point in the pandemic it’s an individual choice. One can vaccinate, one can wear a mask or not, and one can take the precautions that they need to.",
+  "content_length": 710,
+  "content_tokens": 166,
+  "embedding": []
+ },
+ {
+  "title": "Potential for future pandemics",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Marty worries about our response to another pandemic with a case fatality rate of truly 10%,  and we are acting like this sort of dysfunctional tribal, big tech censored…This is what we were worried about from the early reports of China. We might be hosed. “We’ve got to have an NIH that responds in seven days with bedside clinical trials to tell us what’s happening, what works, what’s effective” – Marty Makary. Changes needed at the NIH.",
+  "content_length": 441,
+  "content_tokens": 108,
+  "embedding": []
+ },
+ {
+  "title": "NIH Funding and Academic Freedom",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Peter Attia raises concerns about the ethics of having the people at the top of the NIH be both in charge of funding any academic in this country and being the arbiters of what is appropriate to be said and not to be said. Many people feel they can't say anything that goes against the narrative of their funder, and careers have been ruined. Scientific freedom is a key component of actually being able to do science because science isn't a dogma; it's a process.",
+  "content_length": 464,
+  "content_tokens": 96,
+  "embedding": []
+ },
+ {
+  "title": "Concentration of Power in Dr. Fauci",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Marty Makary thinks people are afraid to go against Dr. Fauci and Dr. Collins, who have a tremendous amount of power concentrated in them. Dr. Fauci controls the NIH funding dollars, and it's too much concentration of power, especially when he influences the national dialogue. Marty thinks Dr. Fauci is well-intended, but he disagrees with him on almost every aspect of the strategy.",
+  "content_length": 384,
+  "content_tokens": 86,
+  "embedding": []
+ },
+ {
+  "title": "NIH Funding of COVID-19 Research",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Marty Makary's team analyzed 254 studies looking at COVID research on health disparities and social disparities. Of the 254 grants the NIH put out there on social and health disparities in COVID, only 4 are on how it spreads, 1 is on masks, and 1 is a prevalence study. Marty notes that high-risk people in the community can't get a test when they're sick and vulnerable, and yet young, healthy, triple-vax people are being tested three times a week at Princeton.",
+  "content_length": 463,
+  "content_tokens": 102,
+  "embedding": []
+ },
+ {
+  "title": "Understanding the natural history of the disease",
+  "date": "January 24, 2022",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Peter adds that we need to understand the natural history of the disease is vis a vis the immune system in the people who were infected without a vaccine",
+  "content_length": 153,
+  "content_tokens": 29,
+  "embedding": []
+ }
+]

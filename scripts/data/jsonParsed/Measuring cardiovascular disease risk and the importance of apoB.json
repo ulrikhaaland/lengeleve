@@ -1,0 +1,152 @@
+[
+ {
+  "title": "The Importance of Apolipoprotein B (apoB) Test",
+  "date": "December 22, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "What virtually nobody among them will get is an apolipoprotein B (apoB) test. Yet this is considered the ideal, if not essential, measurement to assess lipoprotein-related atherosclerotic cardiovascular disease (ASCVD) risk, according to recent guidelines and an illuminating review by Dr. Allan Sniderman and his colleagues.",
+  "content_length": 325,
+  "content_tokens": 72,
+  "embedding": []
+ },
+ {
+  "title": "Understanding Lipids and Lipoproteins",
+  "date": "December 22, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Lipids are a class of molecules that are not soluble in water and therefore cannot circulate in plasma (the liquid flowing through our arteries and veins), as plasma is 90% water, any more than you can dissolve a tablespoon of olive oil in a glass of water. A lipoprotein is essentially a vehicle that carries these lipids through plasma. The density of lipoproteins were discovered many decades ago by drawing blood into a sealed collection tube, spinning the living daylights out of that tube, a process called ultracentrifugation, and seeing where they settled. Most lipoproteins then became classified by their density.",
+  "content_length": 623,
+  "content_tokens": 131,
+  "embedding": []
+ },
+ {
+  "title": "Different Classes of Lipoproteins",
+  "date": "December 22, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "The lipoproteins that sit in the plasma at the top of the tube have the lowest density, and these lipoproteins are called chylomicrons (CMs), which are produced in the small intestine. The other four major classes of lipoproteins are all produced in the liver. In order of density, lowest to highest, they are: very-low-density lipoproteins (VLDLs), intermediate-density lipoproteins (IDLs), low-density lipoproteins (LDLs), and high-density lipoproteins (HDLs). Among the LDL class, there is a related lipoprotein called lipoprotein “little a,” or Lp(a) for short. The density of the particles are related to their lipid-to-protein ratio.",
+  "content_length": 639,
+  "content_tokens": 174,
+  "embedding": []
+ },
+ {
+  "title": "Apolipoprotein B (apoB)",
+  "date": "December 22, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Lipoproteins are not only classified by their density, but laboratory techniques allow for the measurement of their apolipoproteins. While there are at least 10 classes, and several subclasses, of apolipoproteins, our focus here is on apolipoprotein B (apoB).",
+  "content_length": 259,
+  "content_tokens": 62,
+  "embedding": []
+ },
+ {
+  "title": "ApoB-containing lipoproteins",
+  "date": "December 22, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Overall, you can think of apoB as a collective measure of all potentially atherogenic lipoproteins including, if present, Lp(a), and this entire family of apoB-containing lipoproteins are shown in Figure 3, including VLDL and its atherogenic remnants.",
+  "content_length": 251,
+  "content_tokens": 65,
+  "embedding": []
+ },
+ {
+  "title": "Total Cholesterol (TC)",
+  "date": "December 22, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "When you get a standard lipid panel and the familiar readout of TC, LDL-C, HDL-C, and TG, it’s showing you the mass of these lipids (i.e., cholesterol, except in the case of the TG measurement) per unit volume of plasma. Here in the States, the mass is shown in milligrams and the unit volume of plasma is a deciliter (i.e., one-tenth of a liter). For example, an assay may show the mass of TGs are 100 mg/dL and the mass of cholesterol in all of the lipoproteins circulating per unit volume of plasma is 200 mg/dL. In other words, TC is the sum of all of the cholesterol within each of the distinct lipoprotein classes, as illustrated in Figure 4 and is expressed in the following equation: \nTC = VLDL-C + IDL-C + LDL-C + Lp(a)-C + HDL-C",
+  "content_length": 738,
+  "content_tokens": 204,
+  "embedding": []
+ },
+ {
+  "title": "Calculated LDL-C",
+  "date": "December 22, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Although LDL-C can be directly measured, LDL-C reported by most labs is usually calculated based on direct measurements of TC, HDL-C, and TG, and is called the Friedewald formula. This formula subtracts HDL-C and VLDL-C from TC to estimate LDL-C. VLDL-C is estimated as TG/5, which assumes VLDLs have 5 times more TG than cholesterol.3Unfortunately, that assumption is often erroneous especially when TG concentrations escalate above 130-150 mg/dL. Historically a normal TG has been listed as 150 mg/dL which would make a normal VLDL-C 30 mg/dL. Since a TG of 150 mg/dl is the 50th-75th percentile population cutpoint, desirable VLDL-C should be much lower (likely 10-15 mg/dL).\nTherefore LDL-C is calculated as: \nCalculated LDL-C = TC – HDL-C – (TG/5)",
+  "content_length": 752,
+  "content_tokens": 204,
+  "embedding": []
+ },
+ {
+  "title": "The Importance of Apolipoprotein B (apoB) Level",
+  "date": "December 22, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "In a recent review article in JAMA Cardiology, Allan Sniderman and his colleagues make the case that apolipoprotein B (apoB) level—rather than LDL-C, non-HDL-C, or even LDL particle count (LDL-P)—is the best measure of potentially atherogenic lipoproteins.",
+  "content_length": 256,
+  "content_tokens": 71,
+  "embedding": []
+ },
+ {
+  "title": "Concordance and Discordance",
+  "date": "December 22, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Important in understanding why lipidologists like Dr. Sniderman are increasingly arguing for more direct measurements of the number of lipoproteins themselves, rather than the cholesterol or triglycerides contained within them, is the concept of concordance and discordance. The most common scenario in which we can examine this concordance/discordance split is contrasting LDL-C (the commonly used measure of cholesterol contained within LDL) and LDL-P (the less commonly used measure of the number of LDL particles).",
+  "content_length": 518,
+  "content_tokens": 102,
+  "embedding": []
+ },
+ {
+  "title": "The Correct Predictor",
+  "date": "December 22, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "When LDL-C is concordant with LDL-P, LDL-C is a fine predictor of adverse cardiovascular events. But when there’s discordance, it’s imperative to know which—LDL-C or LDL-P—is the correct predictor.",
+  "content_length": 197,
+  "content_tokens": 57,
+  "embedding": []
+ },
+ {
+  "title": "LDL particle number and cardiovascular disease",
+  "date": "December 22, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "High LDL-P (independent of LDL-C) predicts more events, while low LDL-P (independent of LDL-C) predicts fewer events. This point is critical in determining patient risk for atherosclerotic cardiovascular disease (ASCVD).",
+  "content_length": 220,
+  "content_tokens": 50,
+  "embedding": []
+ },
+ {
+  "title": "ApoB-containing particle levels",
+  "date": "December 22, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "More technically, it’s apoB-containing particle levels. When I refer to apoB levels or apoBs, I’m talking about the concentration or number of lipoproteins that have an apoB attached to it. While I have historically used LDL-P and apoB metrics somewhat interchangeably, one advantage of measuring apoB over LDL-P is that apoB encompasses all of the potentially atherogenic particles: not just LDLs, but VLDLs, Lp(a), IDLs, and potentially chylomicrons.",
+  "content_length": 452,
+  "content_tokens": 123,
+  "embedding": []
+ },
+ {
+  "title": "Why particle concentrations are better at predicting risk than cholesterol concentrations",
+  "date": "December 22, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "A greater number of apoB-containing particles leads to a greater number of these particles that enter and get trapped within the wall of the artery, leading to a greater amount of injury to the arterial wall. It’s somewhat stochastic: the more shots on goal (particles hitting the artery wall), the more chances of goals (particles getting through the cracks).",
+  "content_length": 360,
+  "content_tokens": 78,
+  "embedding": []
+ },
+ {
+  "title": "ApoB as a Measure of Risk",
+  "date": "December 22, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "For people at moderate to very-high risk with high apoBs, interventions like these can help lower that risk. However, the only way for a clinician to know when apoB and cholesterol measurements are concordant or discordant is to measure apoB and compare it to the lipid profile. In virtually all trials when discordance is present, ASCVD-risk better follows the apoB. If they are correct, and apoB is our best measure of risk, this makes for a very compelling case for including apoB measurement—and perhaps even replacing LDL-C and non-HDL-C altogether—in clinical care.",
+  "content_length": 571,
+  "content_tokens": 134,
+  "embedding": []
+ },
+ {
+  "title": "The Importance of Knowing Your ApoB Level",
+  "date": "December 22, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Bottom line: while there is more to ASCVD risk than just lipoproteins, if you don’t know your apoB level, you are not fully taking advantage of the tools at our disposal to estimate your risk of cardiovascular and cerebrovascular disease. Know your risks and manage them accordingly.",
+  "content_length": 283,
+  "content_tokens": 64,
+  "embedding": []
+ }
+]

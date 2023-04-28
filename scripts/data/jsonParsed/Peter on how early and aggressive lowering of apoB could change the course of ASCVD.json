@@ -1,0 +1,62 @@
+[
+ {
+  "title": "Aggressive lowering of ApoB to change the course of ASCVD",
+  "date": "April 15, 2022",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Peter has become far more aggressive on the timing and magnitude of ApoB reduction. The big three modifiable causes of ASCVD are smoking, hypertension, and hyperbetalipoproteinemia. Hyperbetalipoproteinemia is a fancy word for saying too many lipoproteins that have ApoB on them (LDL, IDL, VLDL, Lp(a)). Peter is a fan of measuring ApoB as opposed to just measuring LP, LDL, particle number, or LDL cholesterol number because we have one single number that captures the total concentration of ApoB. If you pharmacologically lower ApoB to somewhere in the 20 to 30 milligram per deciliter range for everybody in the population while someone is in their 20s, you can eliminate ASCVD. Peter wants everybody to be below the 5th percentile. When you look at a lot of the Mendelian randomizations plus the clinical trial data, if you have an LDL cholesterol below 30 or an ApoB below 40 milligrams per deciliter for a very long period of time, the odds that you’re going to suffer for ASCVD are incredibly low.",
+  "content_length": 1004,
+  "content_tokens": 242,
+  "embedding": []
+ },
+ {
+  "title": "Lowering ApoB",
+  "date": "April 15, 2022",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "When you look at a lot of the Mendelian randomizations plus the clinical trial data, if you have an LDL cholesterol below 30 or an ApoB below 40 milligrams per deciliter for a very long period of time, the odds that you’re going to suffer for ASCVD are incredibly low. The earlier you start and the lower you go the more you can make that number approximate zero. For some people to lower ApoB that much is trivial — Peter takes a PCSK9 inhibitor and a statin and he can basically eradicate it. But for some people, statins are difficult to tolerate.",
+  "content_length": 550,
+  "content_tokens": 128,
+  "embedding": []
+ },
+ {
+  "title": "Intractable Muscle Soreness",
+  "date": "April 15, 2022",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "About 5% of the population has intractable muscle soreness and that appears to be the case regardless of which statin you use and we tend to rotate through different statins.",
+  "content_length": 174,
+  "content_tokens": 37,
+  "embedding": []
+ },
+ {
+  "title": "Statin Options",
+  "date": "April 15, 2022",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Peter likes to start patients with rosuvastatin or pravastatin. If they have difficulties there, move to pitavastatin (Livalo). But if people can’t tolerate any of those things, today we have so many other options.",
+  "content_length": 214,
+  "content_tokens": 55,
+  "embedding": []
+ },
+ {
+  "title": "Alternative Treatments",
+  "date": "April 15, 2022",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "If they’re a hyper absorber we would use ezetimibe. If they’re a hyper synthesizer, but can’t respond to statins, we use mefenamic acid.",
+  "content_length": 136,
+  "content_tokens": 45,
+  "embedding": []
+ },
+ {
+  "title": "Aggressive Treatment",
+  "date": "April 15, 2022",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "We have lots of tools up our sleeve today more than ever before and that’s why I just think we should be more and more aggressive on this now.",
+  "content_length": 142,
+  "content_tokens": 33,
+  "embedding": []
+ }
+]

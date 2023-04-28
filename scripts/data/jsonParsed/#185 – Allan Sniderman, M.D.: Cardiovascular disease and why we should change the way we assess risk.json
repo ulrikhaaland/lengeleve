@@ -1,0 +1,602 @@
+[
+ {
+  "title": "Cardiovascular Disease Risk Assessment",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "This episode will go into great detail about the role of triglycerides, HDL cholesterol, total cholesterol, et cetera, in the understanding of and prediction of cardiovascular disease. Problems with the current 10-year risk assessment of cardiovascular disease (CVD) and the implications for prevention will also be discussed. Coronary artery calcium scoring will also be discussed.",
+  "content_length": 382,
+  "content_tokens": 72,
+  "embedding": []
+ },
+ {
+  "title": "ApoB and Atherosclerosis",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Allan lays out some of the most clear, yet complex concepts that you’ll ever hear anybody talk about with respect to apoB and risk management. This episode will walk you through the journey of what apoB is and why it is a superior metric for predicting risk of atherosclerosis relative to the far more commonly used metric, LDL cholesterol. And the metric that is better than LDL cholesterol, but still inferior to apoB, which is non-HDL cholesterol. This episode will get into some of the interesting exceptions, i. e., disease states where not knowing apoB poses an enormous blind spot. Although much of Allan’s work has been on apoB, the more important part has been on understanding how the natural history of atherosclerosis should direct a prevention strategy.",
+  "content_length": 766,
+  "content_tokens": 165,
+  "embedding": []
+ },
+ {
+  "title": "The Flaws in the 10-Year Risk Approach",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "The 10-year risk approach has two fatal flaws that make prevention of premature disease almost impossible. Firstly, the calculation is driven by the age and sex of the patient, and things like cholesterol and blood pressure contribute minimally to the actual calculation of ten-year risk. Secondly, the disease gets a foothold in the artery for the first three decades or so of life, but it’s only in the fourth decade that one starts to develop the lesions that can actually precipitate a clinical event. So by the time a doctor tries to prevent an event, the disease is well advanced in the arteries.",
+  "content_length": 602,
+  "content_tokens": 121,
+  "embedding": []
+ },
+ {
+  "title": "The Challenge of Predicting Singular Events",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "There’s a real challenge predicting singular events. If one algorithm said a patient has a 10% risk and another one said a patient has a 15% or 20%, whether they have an infarct or not, both algorithms were right because they said there was sort of a chance the patient would have an infarct. When the advice is to treat patients with a risk above 7.5%, that means 92.5% of the time nothing will happen to these patients. That’s not a great incentive for helping people understand what’s truly going to happen.",
+  "content_length": 510,
+  "content_tokens": 119,
+  "embedding": []
+ },
+ {
+  "title": "A 30-Year Model of Risk Focusing on Cause of CVD",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Allan has developed a causal benefit model that focuses on the causes of CVD. With a measure of non-HDL or apoB, risk can be projected for over 20-30 years. For a 30-year-old, the period of time they should care about is up to at least 60. For example, this model could predict that a 35-year-old has a 30% chance of stroke before age 65. This is a number that has meaning. Now a second calculation can be made to determine how much the risk can be reduced by starting treatment at age 35 or how much the patient would lose by starting at age 45 or age 55.",
+  "content_length": 556,
+  "content_tokens": 135,
+  "embedding": []
+ },
+ {
+  "title": "Atherosclerosis and Cardiovascular Disease",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "When Allan gave Peter the book on atherosclerosis he was starting his own journey on trying to construct an alternative to the present risk model. Peter remembers from pathology class in med school something the professor said, “No doctor has more experience with what it is to have heart attacks than pathologists because 50% of the people who have a heart attack die on their first heart attack.“ The textbook went through, in great detail, the pathological staging of atherosclerosis; it was also littered with autopsy sections of coronary arteries from people who had died for other reasons. Looking at their coronary arteries, one realizes they already have atherosclerosis; they have oxidized apoB-bearing particles engulfed by macrophages and thickened intima. Much of statin prevention therapy is to prevent complication of disease not actually prevent disease. Statins lower apoB particle number; that’s how they work. With fewer apoB particles in plasma, fewer get into the arterial wall, fewer get trapped.",
+  "content_length": 1017,
+  "content_tokens": 206,
+  "embedding": []
+ },
+ {
+  "title": "Cholesterol, ApoB, and Plasma Lipoproteins",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Cholesterol is a fat lipid. It’s a critical element in cell structure; it’s in all cell membranes. The amount that’s in the cell membrane is determinative of the function of the membrane. All the cells in the body can synthesize cholesterol. Only the liver can really break it down in any amount and excrete it. When we eat, we absorb cholesterol and fatty acids in the form of triglycerides, and they get resynthesized in the intestine into particles. Fats have to be put in particles like soap bubbles, there are a variety of different particles. All are considered lipoproteins. Lipoproteins transport fats and cholesterol in the blood. The outside (or shell) of the lipoprotein is hydrophilic and contains proteins (apolipoproteins), phospholipids, and cholesterol. There are a few large particles that carry fat and cholesterol from the intestine; they’re called chylomicrons. These particles have a protein called apoB-48 on the outside surface. These chylomicrons go to skeletal muscle, adipose tissue, and the heart.",
+  "content_length": 1024,
+  "content_tokens": 236,
+  "embedding": []
+ },
+ {
+  "title": "Lipid Transport and ApoB Lipoproteins",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "The fatty acids are liberated from the triglycerides and rapidly taken up by adipose tissue, skeletal muscle, and cardiac muscle. The cholesterol we eat in the diet tends to reduce the synthesis of cholesterol in the liver. The liver gets inundated with fatty acids and cholesterol from all over the place, chylomicrons, HDL, LDL particles. There’s a system to regulate the mass of cholesterol and triglyceride in the liver; and that’s the VLDL apoB system. VLDL particles have a molecule of apoB-100, which is twice as long as apoB-48; and that gives a structural integrity to the particle. The VLDL particle gets smaller and more cholesterol-rich; and it eventually becomes an LDL particle.",
+  "content_length": 692,
+  "content_tokens": 159,
+  "embedding": []
+ },
+ {
+  "title": "LDL Particle and Atherogenic Risk",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "The LDL particle is a cholesterol-rich particle with relatively little triglyceride in it. When cholesterol is measured in the blood, the total cholesterol is the cholesterol in the VLDL particle + the LDL particle + the HDL particle. The non-HDL part of cholesterol is the massive cholesterol in VLDL particles and LDL particles. The one with the increased number of particles has higher atherogenic risks because any cholesterol in the artery only got there within an apoB particle. Cholesterol doesn’t just get in the artery, it gets there within an apoB particle (either VLDL or LDL); that gets into the arterial wall and gets stuck there. This is the cause of atherosclerosis.",
+  "content_length": 681,
+  "content_tokens": 147,
+  "embedding": []
+ },
+ {
+  "title": "History of Measuring Cholesterol",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "In the late ‘50’s the connection between high cholesterol and increased risk of cardiovascular disease (CVD) became known. For example, if someone’s cholesterol measures 200 mg/dL, this tells the sum total of cholesterol in all of the lipoproteins. Stratify people at the bottom 5% and people at the top 5% of total cholesterol level. For example, at the bottom end are individuals with 100 mg/dL and on the top end are people whose total cholesterol is more than 200 mg/dL. There’s a stark difference in their risk of CVD. The amount of cholesterol a person ate does not seem to predict their serum level of total cholesterol.",
+  "content_length": 627,
+  "content_tokens": 143,
+  "embedding": []
+ },
+ {
+  "title": "Discovery of different lipoprotein particles",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "15 years later that Fredrickson, Levy, Lees, and others would start to fractionate those lipoproteins and realize that, well, actually there’s different versions (VLDL, LDL, HDL, etc). Later the nuances that some of the lipoprotein particles contain apoA versus apoB was discovered.",
+  "content_length": 282,
+  "content_tokens": 71,
+  "embedding": []
+ },
+ {
+  "title": "Discordance between cholesterol concentration and number of LDL particles",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Bob Lees had a paper in Science in 1970; he measured LDL apoB (the number of LDL particles) and showed it had no clear (or exact) relation to plasma triglycerides or to cholesterol. Ron Krauss and colleagues (including Sniderman) showed in the John Gofman tradition that there were important differences in the size of plasma LDL. And these are related to differences in the amount of cholesterol mass per particle.",
+  "content_length": 415,
+  "content_tokens": 88,
+  "embedding": []
+ },
+ {
+  "title": "Importance of particles over cholesterol for predicting CVD risk",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Allan’s first clinical paper looked at a bunch of patients with coronary angiography; they compared people with clean coronaries to people with diseased coronaries. There was a little difference in triglyceride. There was a difference in cholesterol. But there was a marked difference in apoB. This was one of the first, clinically solid observations showing that particles could be more important than cholesterol. Since 1980 even more evidence shows that particles are more important than cholesterol.",
+  "content_length": 503,
+  "content_tokens": 96,
+  "embedding": []
+ },
+ {
+  "title": "Discordance analysis to identify people with high non-HDL and low apoB",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Allan developed a way of looking at it called discordance analysis to identify people who had a high non HDL (which is the total cholesterol on the apoB particles) and a low apoB (total number of particles) or low non-HDL and high apoB. Review published in 2014, Discordance analysis and the Gordian Knot of LDL and non-HDL cholesterol versus apoB.",
+  "content_length": 348,
+  "content_tokens": 85,
+  "embedding": []
+ },
+ {
+  "title": "Comparison of metrics of non-HDL cholesterol and apoB",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "The mechanism is the same for high non-HDL cholesterol and high apoB. Some people argue that VLDL particles are more atherogenic than LDL particles. Allan thinks they’ve got a long way to go to prove that. People argue that there are problems with the apoB assay and its expense. However, the apoB assay was standardized back in 1994.",
+  "content_length": 334,
+  "content_tokens": 80,
+  "embedding": []
+ },
+ {
+  "title": "Limitations of standard blood panels",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Doctors get a report of 5 numbers: total cholesterol, triglycerides, non-HDL-C, LDL-C, HDL-C. What can they do with that; everything is based on LDL. In reality, the other 4 numbers are doing nothing.",
+  "content_length": 200,
+  "content_tokens": 53,
+  "embedding": []
+ },
+ {
+  "title": "Calculated and measured LDL, amount of cholesterol versus number of particles",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "For example, a patient’s labs report 140 mg/dL LDL. This is an estimation; it’s almost always a calculation. There are at least eight different methods to calculate LDL cholesterol. They don’t all give the same answer. LDL cholesterol can also be measured directly. That assay has never been validated in disease patients. No one has ever published a paper showing that it’s more accurate in terms of disease identification than calculated LDL cholesterol. There’s no question that the number of LDL particles is a more accurate index of risk than the LDL cholesterol. VLDL-C is a cholesterol that’s in the very low density lipoprotein particles. These particles that come out of the liver. This cholesterol is atherogenic, there’s a lot of triglyceride in that particle. High triglycerides: there’s no question that people with high triglycerides are at increased risk of heart disease. The people with the high triglycerides that are at increased risk of heart disease have a higher number of LDL particles and VLDL particles. It’s the particle. When triglycerides are measured, what is measured is just measuring a blob of liquid in a bunch of particles, and one needs to know the number of them. Extremely high triglycerides carry an increased risk of pancreatitis. Allan hasn’t seen any solid evidence that triglyceride itself is pro-atherogenic. “What’s atherogenic is the cholesterol inside the VLDL particles, it’s the number of those particles that get into the wall” – Allan Sniderman.",
+  "content_length": 1495,
+  "content_tokens": 336,
+  "embedding": []
+ },
+ {
+  "title": "Remnant type III hyperlipoproteinemia—high cholesterol, low Apo B, high triglyceride",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "In general, all Allan needs to know to estimate CVD risk is the apoB level, expect for 1 complication. There is a disorder called remnant type III dysbetalipoproteinemia (or hyperlipoproteinemia). This is a very specific, highly atherogenic condition. It manifests with high triglycerides, high cholesterol, but low apoB. When lipids and apoB are measured, this can be recognized. Doctors don’t routinely measure apoB. The pathophysiology of remnant type III, of how a person can have high cholesterol, low apoB, and high triglycerides. In normal metabolism as the VLDL particles get broken down sequentially as a triglyceride is removed and they get converted to LDL particles, as shown in the figure below. In remnant type III hyperlipoproteinemia this process breaks down for reasons that are not well understood. From the age of 30, 35, or 40 people develop high triglycerides and high cholesterol because the VLDL particles aren’t being broken down to LDL particles. This process stalls and VLDL particles circulate a long time in the blood. While they’re circulating, cholesterol gets deposited into them and they become very, very cholesterol rich. These people have a very high risk of coronary disease, peripheral vascular disease. This syndrome is more common than familial hypercholesterolemia (FH), the one that gets all the press. Remnant type III hyperlipoproteinemia is much easier to treat than FH. Remnant type III hyperlipoproteinemia cannot be diagnosed in the US because apoB is not measured. The technology that we used to use to diagnose it, it’s all gone.",
+  "content_length": 1578,
+  "content_tokens": 359,
+  "embedding": []
+ },
+ {
+  "title": "Type III Hyperlipoproteinemia",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "It can be diagnosed based on the triglycerides, total cholesterol, and apoB. Allan developed an algorithm to diagnose it, published in 2018: The spectrum of type III hyperlipoproteinemia. The phenotype of this patient is they have relatively few particles, but they have so much cholesterol because the VLDLs are so large and so cholesterol full. It’s unclear why this condition is so dangerous, given the relative lack of particles. There are 40 or 50x as many of these particles as compared to normal. One can’t use just apoB to make this diagnosis. The need to measure both Lp(a) and apoB.",
+  "content_length": 592,
+  "content_tokens": 139,
+  "embedding": []
+ },
+ {
+  "title": "ApoB and Residual Risk",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Nordestgaard had a paper recently in the Journal of the American College of Cardiology on discordance analysis of non HDL cholesterol in apoB. It showed that apoB was a more accurate index on statin treatment than on HDL cholesterol. Published in 2021, Apolipoprotein B and Non-HDL Cholesterol Better Reflect Residual Risk Than LDL Cholesterol in Statin-Treated Patients. Peter comments, “this is a great paper”. Allan doesn’t understand why the lipid world has been so resistant to change. And he’s pessimistic that it will change any time soon. In Europe, the 2019 guidelines were very pro apoB. “The evidence from Mendelian randomization, the newer technologies, Mendelian randomization, they’ve just been a slam dunk for apoB.” – Allan Sniderman.",
+  "content_length": 750,
+  "content_tokens": 185,
+  "embedding": []
+ },
+ {
+  "title": "Mendelian randomization is bolstering the case for ApoB as the superior metric for risk prediction",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Mendelian randomization allows one to come a lot closer to causality. What a number of Mendelian randomization studies have shown is that apoB includes all the information in triglycerides, LDL cholesterol, and even HDL cholesterol; it sums them. The Mendelian randomization attempts to get around that by saying at the time of conception, we all get randomized to a set of genes. Whereas they also show that apoB and cholesterol are causal. In the past 10 years, it’s an incredible technical advance in being able to examine questions and look at numbers of people that would be unimaginable in conventional studies.",
+  "content_length": 617,
+  "content_tokens": 130,
+  "embedding": []
+ },
+ {
+  "title": "Metabolic Syndrome and ApoB",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Peter notes his surprise that HDL didn’t demonstrate causality (at least at the first order) because there’s no doubt that phenotypically, the high triglyceride and low HDL phenotype is so associated with metabolic syndrome. High triglyceride and low HDL make up 2 of the 5 criteria of metabolic syndrome. Allan notes that HDL is an incomplete description. It’s like  describing yourself as six feet tall, not telling the weight, and asking about BMI. “You cannot characterize any phenotype without the apoB” – Allan Sniderman. How can the system be evaluated without counting the number of atherogenic particles? They could be normal, they could be high or the patient could have a type III. There is no phenotype without putting an apoB in there. They’re lipoprotein particles, they’re disorders of lipoprotein particle metabolism. Of course the triglycerides and cholesterol are important; but this information is incomplete without apoB.",
+  "content_length": 941,
+  "content_tokens": 205,
+  "embedding": []
+ },
+ {
+  "title": "Hypertension and CVD Risk",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "In terms of pathophysiology, the apoB bearing particle wreaks havoc in the artery wall many, many years before clinical events are observed. There are other factors that can amplify or exacerbate this. 1) Smoking 2) Hypertension. Do these factors carry a greater risk for atherosclerosis than apoB? Allan thinks hypertension arises from the loss of elastins in the proximal aorta, and that causes systolic hypertension. He doesn’t think it’s complicated. The literature on hypertension focuses on peripheral arterial tone and complex metabolic studies in sophisticated animal models, as well as some renal studies. Allan suggests looking at factors like cardiac output again (which used to be studied way back when) or factors that alter the behavior of the proximal aorta. He believes these are much more likely to be involved. With hypertension there is a driving force to push particles into the wall. With hypertension, the wall thickens up and it gets harder for particles to go through. The response of the wall changes, and this leads to the increase in blood pressure. Peter asks about damage to the endothelium. Allan doesn’t understand endothelial dysfunction, but he knows the endothelium is critically important. It functions abnormally and how that fits into the overall pathology, he doesn’t know.",
+  "content_length": 1311,
+  "content_tokens": 275,
+  "embedding": []
+ },
+ {
+  "title": "Hypertension and ApoB in CVD",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Allan bets apoB particles are part of the process inducing endothelial dysfunction, but he doesn’t  know that clearly, experimentally. Does it make sense to compare hypertension to apoB? They both seem to play a causal role in CVD. Allan thinks this is not the right question.",
+  "content_length": 276,
+  "content_tokens": 64,
+  "embedding": []
+ },
+ {
+  "title": "Hypertension and Age",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Blood pressure goes up with age; hypertension involves a large part of the population. It seems that hypertension is becoming part of the aging process. Humans are lasting a lot longer than we were probably designed to. There is this repetitive injury to the proximal aorta, and it gets a little progressively less able to deal with it. So by the time a person is 50, somewhere around 60% have higher blood pressure; the figures are staggering. Does ApoB rise with age? Yes, but not that much. When one looks at people at age 35, one can accurately categorize the group they belong to at age 35.",
+  "content_length": 595,
+  "content_tokens": 128,
+  "embedding": []
+ },
+ {
+  "title": "Gender Differences in Dyslipidemia",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Peter has seen women experience dyslipidemia as they go through menopause; this is something men men wouldn’t experience over that same decade or even five-year transition. Allan notes that apoB goes up with menopause. He would like to see more data on this. The science has been held back because people don’t measure apoB.",
+  "content_length": 324,
+  "content_tokens": 78,
+  "embedding": []
+ },
+ {
+  "title": "Current Trends in CVD",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "The incidence of coronary disease is going up in the last five years. Despite statin therapy. That’s due to obesity and diabetes. There are many reasons that treatment is not succeeding as well as it should. The complexity of the lipid phenotype of the lipid model is part of the answer. Peter notes that there is a greater and greater portion of the population that is being undiagnosed or being underdiagnosed because doctors are treating their LDL-C. And what Allan suggests is that LDL-C is lower than their risk actually is because their apoB is higher. This is because doctors are trying to quantify lipoproteins based just on lipids; this is not adequate; it doesn’t capture all the information it should.",
+  "content_length": 712,
+  "content_tokens": 153,
+  "embedding": []
+ },
+ {
+  "title": "Factors Influencing CVD Preventative Intervention",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Allan believes people with high apoB levels should be treated because they have a longer-term risk of CVD. Smoking gets one up in the category to have their life saved; bad behavior gets one closer to having their life saved. It’s in the risk calculators, see the figure below. The risk goes up for a smoker. It changes the prioritization. Bad behavior increases risk so one gets more medical attention. “I think bad behavior is our responsibility to help people deal with, but I don’t think it should put you to the head of the line for preventive therapy.” – Allan Sniderman. Peter would argue that there is not line; anyone who wants preventative therapy should be getting it. Are these resources limited?",
+  "content_length": 708,
+  "content_tokens": 158,
+  "embedding": []
+ },
+ {
+  "title": "Expected Benefits of Early CVD Prevention",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Allan feels patients are not given the information they deserve. He published a paper in Circulation in 2000. The Expected 30-Year Benefits of Early Versus Delayed Primary Prevention of Cardiovascular Disease by Lipid Lowering. It assessed the costs of delaying intervention starting at age 35, 45,  and 55 for patient’s whose non-HDL is low. The gains of starting lipid-lowering treatment at age 35 are quite small. The gains here are with 35-year-olds who have high non-HDL.",
+  "content_length": 476,
+  "content_tokens": 110,
+  "embedding": []
+ },
+ {
+  "title": "High Risk Population",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Physiological and epidemiological knowledge suggests about 20% of the population are at high risk at age 35 and should consider intervention.",
+  "content_length": 141,
+  "content_tokens": 25,
+  "embedding": []
+ },
+ {
+  "title": "Accelerated Atherosclerosis",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "What fraction of the population has relatively normal apoB, relatively normal triglycerides, and yet has accelerated atherosclerosis through some combination of yet to be identified polygenic risk factors? Atherosclerosis can run in families even when there’s no obvious cause. They don’t have FH (familial hypercholesterolemia). The don’t have Lp(a). Their apoB is around the 50th percentile of the population. Yet, they are disproportionately afflicted at a young age, all having first events before age 60. This question needs more research. Allan would look at factors that affect the trapping apoB particle within the arterial wall. He thinks Kevin John Williams from Philadelphia, they’ve done an amazing job in putting this all together.",
+  "content_length": 744,
+  "content_tokens": 162,
+  "embedding": []
+ },
+ {
+  "title": "Family History and ApoB",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Family history of CVD does factor in Allan’s decision for intervention; but if the apoB is low he would be less inclined to treat. An apoB around the 50% percentile in patients with a family history would make him more antsy; higher they are, the more antsy he gets. A lot of these decisions at the individual level, actually, aren’t that difficult when one is speaking to a particular patient because they have their own objectives and goals. Medications have risks associated with them. Allan doesn’t think we fully understand the relationship of statins and diabetes. Statin therapy is amazing, but it’s not at no cost. When he talks to an individual human being, it’s easier to make clinical decisions individually than to write rules for groups.",
+  "content_length": 750,
+  "content_tokens": 167,
+  "embedding": []
+ },
+ {
+  "title": "Coronary Artery Calcium Score",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Using the coronary artery calcium (CAC) score as a predictive tool. The coronary artery calcium score (CAC). Coronary calcium is an important step forward in cardiovascular imaging. It uses x-ray techniquest to accurately and safely determine whether there’s calcium (bone) in the coronary arteries. Calcification is a feature of advanced atherosclerosis. There’s very strong evidence that people who have coronary calcification are at higher risk of a heart attack or stroke than people who do not have coronary calcification. There are several facts to consider: 1) The frequency of a positive coronary calcium goes up as we age (so does the risk of disease). All American men by age 60 are at high risk according to current guidelines; women are five to 10 years later. At age 60 the CAC test isn’t helpful. In most people arteries become substantially transformed in bad ways by age 60. But in people younger than 60, this can give extra information that is helpful, should the doctor be on the cusp of treatment. This test would be for the patient who wants more information to help them decide about intervention. 2) There is a problem with the corollary, if the coronary calcium is negative concluding that the patient is okay. From Allan’s interpretation of the literature, coronary calcification is associated with advanced disease. If a patient has high apoB, the fact that their coronary calcium is negative doesn’t mean they don’t have a lot of disease and that the disease isn’t developing at a rapid rate; it could be there. There’s an argument saying, if the coronary calcium is negative, nothing’s going to happen to in the next five or 10 years. Maybe this is true; but the disease is developing and doctors can’t make the disease go away. Doctors can modify the effects of the disease, modify the consequences. For a patient who has been treated and their LDL, cholesterol, and apoB levels are brought low, remember that they still have an artery that is destroyed; they’re going to have a substantial number of events.",
+  "content_length": 2037,
+  "content_tokens": 441,
+  "embedding": []
+ },
+ {
+  "title": "Waiting for Coronary Calcium is a Bad Idea",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "In the article 'Novel Lipid-Lowering Therapies to Reduce Cardiovascular Risk' published in 2021, it is stated that waiting for coronary calcium before starting treatment is a bad idea. Allan agrees that he wouldn't use a negative coronary calcium to change his clinical decision for patients who have high apoB or another cause of vascular disease present. He thinks CAC is a good test, but has relatively limited utility for him. On the flip side of things, a young patient who has a positive calcium score is a 4-alarm fire, and treating this patient is a no-brainer. Regardless of apoB, for a patient under 50 who has a speck of calcium in their coronary arteries, that’s utterly unacceptable.",
+  "content_length": 696,
+  "content_tokens": 153,
+  "embedding": []
+ },
+ {
+  "title": "Challenges with Calcium Score and Treatment Decision",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Peter uses a 2 x 2 matrix to explain this to patients; he considers the patient’s age and CAC score. It would be fortunate to have a calcium score of 0 at age 73 with an apoB of 140 mg/dL. Peter notes it says something about the entire system, that might be the one area in the middle of the patient’s left, anterior descending artery where it’s at an advanced stage, and calcium is laid down. When someone is at 7.8% risk, it’s tough to absorb in a meaningful way. If the risk was 30%, 1 in 30, that starts to be truly meaningful. The challenge of motivating individuals to take early interventions is discussed.",
+  "content_length": 613,
+  "content_tokens": 148,
+  "embedding": []
+ },
+ {
+  "title": "Putting Risk in Context",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Peter and Allan discuss how to motivate individuals to take early interventions. Allan says he wouldn’t stop flying, because there is a 95% chance he won’t die. Peter’s point is that 5% is a bigger risk than people realize. The treatment of not flying in an airplane for 10 years is far more of a burden than treatment to lower lipids. Allan asks what the confidence intervals are on that number of 5%. Allan’s point is that confidence intervals for risk are never published. When scientists get any result, they get the range of possible results to let them know how accurate the prediction is.",
+  "content_length": 595,
+  "content_tokens": 129,
+  "embedding": []
+ },
+ {
+  "title": "Medical advancement hindered by lack of critical thinking",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Allan Sniderman and Peter agree that the error or confidence level is not reported in the clinical care industry. Allan remarks that doctors have become less critical. The process of forming opinion in medical care has damped down the essential element of science, which is, challenge different viewpoints. Science is a democratic activity where differing views are legitimate and have a chance to contend. Experiments are a tool to gain understanding, but they are not easy to assess all the time. It’s important that we acknowledge the uncertainty and say, well, maybe there’s another way of looking at this that’s even better.",
+  "content_length": 629,
+  "content_tokens": 127,
+  "embedding": []
+ },
+ {
+  "title": "Consensus conferences and the weakness of decisions",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Tools like statins were developed; and there’s very good evidence they can save lives. This process of consensus came along saying, this is too complicated for regular doctors, and it is; they don’t have the time to analyze all the evidence. There’s a lot of good in that, but there’s potential weakness. Allan thinks a lot of the weakness is happening because one view becomes the conventional view, and it hangs on longer than it should. Any process where the decisions become larger than the individuals who propose them has a weakness. The guidelines are the judgement cast in stone until the next group of guidelines. Depending on which people write them, it can influence what one sees.",
+  "content_length": 692,
+  "content_tokens": 145,
+  "embedding": []
+ },
+ {
+  "title": "The critical steps for the elucidation of knowledge",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Peter adds even more complexity to it, which is if one goes through the critical steps for the elucidation of knowledge: the formation of a hypothesis, designing an experiment to test that hypothesis, conducting that experiment, analyzing the results of that experiment and interpreting it. These are quite discrete steps. Any one of these steps offers infinite ways to do it wrong and a relatively few great ways to do it right.",
+  "content_length": 429,
+  "content_tokens": 81,
+  "embedding": []
+ },
+ {
+  "title": "PSK9 inhibitors and familial hypercholesterolemia",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "PSK9 inhibitors and familial hypercholesterolemia are two complex topics with differing interpretations of the science. Trials of PSK9 inhibitors have shown a reduction in cardiac revascularization but no change in mortality. The ODYSSEY trial showed a potentially greater risk reduction. Patients with familial hypercholesterolemia (FH) who have a genetic abnormality are at much higher risk than people with similar LDL cholesterol, but without the genetic abnormality. Allan Sniderman is currently writing a paper about FH and his interpretation of the study that reports patients with FH carry a risk not present in patients with the wildtype allele.",
+  "content_length": 654,
+  "content_tokens": 129,
+  "embedding": []
+ },
+ {
+  "title": "Defining risk and uncertainty in the guidelines",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Risk is the number of events per standard number of people over a defined period of time. The difference in words means a tremendous difference in action.",
+  "content_length": 154,
+  "content_tokens": 30,
+  "embedding": []
+ },
+ {
+  "title": "Guidelines and the Process",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Allan Sniderman believes that the guidelines need to include a multiplicity of views to avoid bad decisions. He thinks that the process of reviewing knowledge in a group is positive, but it needs to be watched out for. Allan sees nothing wrong with a more heterogeneous group of views and greater diversity of priors. Currently, doctors look to the guidelines which are unanimous, expert run, and revised often enough that it gives one the feeling that they’re keeping up with the science, right? Now it’s going to be this complicated, legal document, that’s like reading the dissents and reading the in-favors. Allan relates that the guidelines now are totally miserable; talk about legal documents. There is a summary and that’s what doctors typically read, the 1-page executive summary. Problems happen when the options have to be boiled down to get a one-liner. A one-liner is not real life.",
+  "content_length": 895,
+  "content_tokens": 195,
+  "embedding": []
+ },
+ {
+  "title": "Dealing with Uncertainty",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Allan Sniderman thinks that doctors are trained to be comfortable with uncertainty. Decision making has to be calibrated around that uncertainty so that one mistake is more likely than the other. Most physicians are very good at doing this.",
+  "content_length": 240,
+  "content_tokens": 45,
+  "embedding": []
+ },
+ {
+  "title": "Problems with consensus when understanding is limited",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Allan discusses the weaknesses of having a unanimous consensus in the medical field, especially when there is limited understanding of a topic. He believes that alternate views should be published when there is doubt and that there needs to be a range of opinions from experts in the field. Allan thinks that things can be written clearly so doctors can make informed choices and that algorithms can help, but doctors should not treat solely based on algorithms. He emphasizes that science requires different views to contend equally and that the truth should be written.",
+  "content_length": 571,
+  "content_tokens": 101,
+  "embedding": []
+ },
+ {
+  "title": "The need for better communication of complex ideas",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Allan emphasizes the need for better communication of complex ideas in the medical field. He believes that things can be written clearly so doctors can make informed choices and that algorithms can help, but doctors should not treat solely based on algorithms. Allan thinks that people were pointing out different aspects of a complex problem, and they might put a little more emphasis here, but the result would be that everyone understands more clearly that there are a series of choices involved, and it’s challenging to go through them.",
+  "content_length": 540,
+  "content_tokens": 100,
+  "embedding": []
+ },
+ {
+  "title": "When dissenting views become harmful",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Allan agrees that fringe views can become harmful and that the first level of discussion should be amongst experts. He believes that views that are so divorced from experimental evidence that they’re not serious views can be called out. Allan is not talking about legitimizing any possible view because it’s a possible view, but he is saying that people were pointing out different aspects of a complex problem, and they might put a little more emphasis here, but the result would be that everyone understands more clearly that there are a series of choices involved, and it’s challenging to go through them.",
+  "content_length": 608,
+  "content_tokens": 120,
+  "embedding": []
+ },
+ {
+  "title": "Factors holding back the advancement of apoB for assessing CVD risk, treatment, and prevention strategies",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "ApoB didn’t make it in the guidelines. He doesn’t think apoB is going to be utilized because there is a group of people who just aren’t interested, and this is sad. The guidelines present it as a cost issue. But apoB bills the insurance company for $4 and the cash pay is $2.50. This is not a cost issue but an awareness issue on the part of physicians. The guidelines must have failed to actually look at the cost.",
+  "content_length": 415,
+  "content_tokens": 105,
+  "embedding": []
+ },
+ {
+  "title": "Criticism of the guidelines",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Allan feels that criticism of the guidelines are not accepted by the community, “because the guidelines are the guidelines”.",
+  "content_length": 124,
+  "content_tokens": 26,
+  "embedding": []
+ },
+ {
+  "title": "ApoB and Healthcare Cost",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Peter suggests a survey of the laboratory cost of apoB and the average Medicare reimbursement rate across the US. Allan did a cost analysis on apoB and thinks it contributed 0.01% of the cost of care. Peter thinks that the concept that at $10 test changes the cost of care is idiotic. The US is spending infinitely more than it should (and more than anyone else) on healthcare. Even if the apoB test cost $100 (which is 20-times the actual cost), so what?",
+  "content_length": 455,
+  "content_tokens": 106,
+  "embedding": []
+ },
+ {
+  "title": "ApoB Accuracy and Guidelines",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "The American College of Clinical Chemistry, the European Clinical Chemists, have a series of reports saying apoB can be measured more accurately than LDL cholesterol or non-HDL cholesterol. Allan’s review of this topic published in 2021, Update on apolipoprotein B. The diagnosis of type III, can’t be done without apoB. So any hypertriglyceridemia patient needs an apoB, not done, not mentioned type III. Allan feels that his work won’t help people and this makes him sad. Peter replies, “For a guy who understands uncertainty, and probability, and risk, you’re using awfully black and white language right now.",
+  "content_length": 612,
+  "content_tokens": 145,
+  "embedding": []
+ },
+ {
+  "title": "Non-linearity of Advancement of Knowledge",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Peter relates a story about a mason who’s hammering away on the stone for 10,000 strikes, and on the 10,001st strike when he hits the stone, it finally fractures. Peter thinks Allan is too close to this issue to see the non-linearity of the advancement of knowledge. Further, at the end of the day, these consensus statements are largely political. They’re more based on: who someone is, and who they know, and how long someone has been on the committee, rather than the strength of the evidence. Peter thinks the truth generally wins in the end, in science.",
+  "content_length": 558,
+  "content_tokens": 128,
+  "embedding": []
+ },
+ {
+  "title": "HDL-C and Manipulating Outcomes",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Peter thinks that in 10 years (or so) everyone will look back on this like HDL-C. It wasn’t long ago that people thought HDL-C was everything. Today, thanks to CTAP trials (clinical trial advisory panel), the MR’s, people know: a) HDL-C is much more complicated than we ever thought b) This is probably not something we should be trying to manipulate in an effort to improve outcomes. Allan hopes Peter is right, he will pick himself up and keep fighting.",
+  "content_length": 455,
+  "content_tokens": 107,
+  "embedding": []
+ },
+ {
+  "title": "Observation and Publication",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Allan feels privileged to look at questions about how blood sugar and lipids combine to hurt us and publish his thoughts in a manuscript; so few people ever have that privilege. Part of this is for yourself just to see, can you understand what looks like chaos? Is there any pattern to what looks like there’s no pattern? Allan thinks quitting when one has a new observation that is different or startling is wrong.",
+  "content_length": 415,
+  "content_tokens": 85,
+  "embedding": []
+ },
+ {
+  "title": "The Enigma of Glucose and Lipid Metabolism",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "This article was published in JAMA Cardiology in 2016 and discusses insulin resistance and lipids.",
+  "content_length": 98,
+  "content_tokens": 19,
+  "embedding": []
+ },
+ {
+  "title": "Advantages of a 30-year risk assessment and early intervention",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Peter's goal is for a person to live as long as possible, disease-free. Allan developed a 30-year risk assessment model that takes into account age, weight, blood pressure, and apoB or non-HDL cholesterol. Patients can make informed decisions based on their risk group and intervention options.",
+  "content_length": 294,
+  "content_tokens": 63,
+  "embedding": []
+ },
+ {
+  "title": "How Allan came to the 30-year model",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Allan used models based on 10-year risk and saw that these were going to miss most premature disease. He developed a 30-year model because it was the longest stretch for which they had reliable data. Patients can be categorized by apoB or non-HDL cholesterol, which can be measured with much less error than the risk can be predicted.",
+  "content_length": 334,
+  "content_tokens": 72,
+  "embedding": []
+ },
+ {
+  "title": "Communicating risk and intervention options to patients",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Allan presents patients with what is known about their risk group, and they can make their decisions. Patients are free agents; they can start and stop therapy. Allan maintains contact with his patients and makes sure they know they can change their mind.",
+  "content_length": 255,
+  "content_tokens": 49,
+  "embedding": []
+ },
+ {
+  "title": "Nonlinearity and risk reduction",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Even if one were just to look at a risk-based model that was short-term, there’s a significant benefit to reducing risk from 4% to 2% over a decade. The amount that amplifies over 2, 3 and 4 decades is amazingly counter-intuitive, just in the way it is, when one thinks about saving for retirement.",
+  "content_length": 298,
+  "content_tokens": 72,
+  "embedding": []
+ },
+ {
+  "title": "The Advantage of Early Intervention",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Allan agrees, starting earlier pays off later. When one begins later this is essentially an effort to modify the disease that’s already present. When on begins early, this actually stops the disease from developing. Stopping a lesion from developing is 100% success.",
+  "content_length": 266,
+  "content_tokens": 55,
+  "embedding": []
+ },
+ {
+  "title": "ApoB is a Causal Driver of Atherosclerosis",
+  "date": "November 29, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "ApoB is a causal driver of atherosclerosis; realize it’s necessary but not sufficient. Necessary, means, there has to be apoB particle traffic a lipid into an artery wall, and without it, atherosclerosis doesn’t develop. Sufficient, means, if this is the only thing to happen then atherosclerosis occurs. ApoB alone is not sufficient for causing atherosclerosis. From a prevention standpoint, it’s easier to go after something that necessary because blocking that is helpful.",
+  "content_length": 475,
+  "content_tokens": 111,
+  "embedding": []
+ }
+]

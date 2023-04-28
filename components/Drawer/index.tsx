@@ -48,8 +48,19 @@ const CustomDrawer: React.FC<CustomDrawerProps> = ({
     const words1 = content.toLowerCase().split(' ');
     const words2 = selectedText.toLowerCase().split(' ');
 
-    const sharedWords = words1.filter((word) => words2.includes(word)).length;
-    return sharedWords / Math.min(words1.length, words2.length);
+    let maxAdjacentCount = 0;
+    let adjacentCount = 0;
+
+    for (let i = 0; i < words1.length; i++) {
+      if (words2.includes(words1[i])) {
+        adjacentCount++;
+        maxAdjacentCount = Math.max(maxAdjacentCount, adjacentCount);
+      } else {
+        adjacentCount = 0;
+      }
+    }
+
+    return maxAdjacentCount;
   };
 
   const highlightSelectedText = (content: string, selectedWords: string[]) => {
@@ -61,6 +72,7 @@ const CustomDrawer: React.FC<CustomDrawerProps> = ({
     return (
       <>
         {parts.map((part, index) => {
+          if (!part) return null;
           const isHighlighted = selectedWords.includes(part.toLowerCase());
           if (isHighlighted) {
             highlightedCount++;

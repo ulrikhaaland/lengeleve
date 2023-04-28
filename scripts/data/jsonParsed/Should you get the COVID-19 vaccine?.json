@@ -1,0 +1,42 @@
+[
+ {
+  "title": "Importance of COVID-19 Vaccine",
+  "date": "February 14, 2021",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "I think the evidence is overwhelmingly in favor of your dad getting the vaccine, rather than relying on hydroxychloroquine as a prophylactic (which is not even in the top 3 choices of drugs one would consider to treat or prevent COVID at this point). No vaccine (or medication of any kind) is free from ALL risk, but on balance, the risk of not taking the vaccine is greater than the risk of taking it, at least for the current crop of COVID vaccines out there.",
+  "content_length": 461,
+  "content_tokens": 103,
+  "embedding": []
+ },
+ {
+  "title": "Personal Experience with COVID-19 Vaccine",
+  "date": "February 14, 2021",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "I want my parents to get vaccinated. I want my patients to get vaccinated. My wife and I volunteer weekly to give the vaccine to people in Austin, something we would not be doing if we did not 100% believe in their importance. We have also both received our first shots of the vaccine and will get our second shots in due time.",
+  "content_length": 327,
+  "content_tokens": 69,
+  "embedding": []
+ },
+ {
+  "title": "COVID Vaccines",
+  "date": "February 14, 2021",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "If you want to hear more about the development of the COVID vaccines, listen to my interview with Dr. Paul Offit from last November. I hope to have him on again this year to provide an update.",
+  "content_length": 192,
+  "content_tokens": 43,
+  "embedding": []
+ },
+ {
+  "title": "The Doctor Who Fooled the World",
+  "date": "February 14, 2021",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "And if you want to do some advanced reading in preparation for a very exciting upcoming podcast, please check out The Doctor Who Fooled the World: Science, Deception, and the War on Vaccines, by my soon-to-be guest, Brian Deer. He’s the investigative journalist who first exposed the lies, misdeeds, and endless chicanery committed by Andrew Wakefield. I don’t expect this podcast will sway anyone firmly in the camp believing vaccines are evil, but it will certainly explain how we got here.",
+  "content_length": 492,
+  "content_tokens": 111,
+  "embedding": []
+ }
+]

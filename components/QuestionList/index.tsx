@@ -55,12 +55,7 @@ const QuestionsList: React.FC<QuestionsListProps> = ({
           } w-full flex flex-col mt-6`}
         >
           <div className='font-bold text-2xl w-full'>Question</div>
-          <div
-            className='mt-2 cursor-pointer'
-            onClick={() => setSelectedIndex(i)}
-          >
-            {q}
-          </div>
+          <div className='mt-2'>{q}</div>
           {i === questions.indexOf(questions[questions.length - 1]) &&
           loading ? (
             loadingAnswerElement

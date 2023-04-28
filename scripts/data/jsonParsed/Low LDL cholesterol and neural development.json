@@ -1,0 +1,102 @@
+[
+ {
+  "title": "Cholesterol and Cholesterol-Lowering Medications",
+  "date": "February 5, 2022",
+  "context": "Cholesterol",
+  "people": "Peter Attia",
+  "content": "Cholesterol, like all lipids, is not soluble in water and can only circulate in plasma (which is basically water) in protein-cased macromolecular particles called lipoproteins. Of the two main classes of lipoproteins, only those enwrapped by a single molecule of the protein apoB – 90-95% of which are low-density lipoproteins (LDLs) – have the ability to enter arteries and initiate atherogenesis. Thus, over the last 50 years or so, pharmaceutical companies have developed many treatments for lowering LDL-C and apoB with the goal of reducing CV events and mortality, but this has led many to question whether low LDL-C might have negative repercussions for areas of the body that rely heavily on cholesterol for normal functioning.",
+  "content_length": 734,
+  "content_tokens": 165,
+  "embedding": []
+ },
+ {
+  "title": "Good for the heart… but what about the rest of the body?",
+  "date": "February 5, 2022",
+  "context": "Cholesterol",
+  "people": "Peter Attia",
+  "content": "The most cholesterol-rich tissue in the human body is the central nervous system (CNS), which, though it accounts for only ~2% of the body’s total mass, contains roughly a quarter of its total unesterified cholesterol. Most is present in myelin – the axon-insulating sheath that increases the speed of signal transmission between neurons – while the rest is found in cell membranes, where it affects neuron shape and plays a vital role in synaptic transmission. The critical importance of cholesterol to brain function is evident from disorders of cholesterol synthesis or transport (for example, Smith-Lemli-Opitz syndrome and Niemann-Pick disease type C, respectively), which are frequently characterized by neurological traits including cognitive impairment, uncoordinated movement, and mood disorders.",
+  "content_length": 805,
+  "content_tokens": 160,
+  "embedding": []
+ },
+ {
+  "title": "PCSK9 inhibition and cognitive function in adults",
+  "date": "February 5, 2022",
+  "context": "Cholesterol",
+  "people": "Peter Attia",
+  "content": "In separate randomized controlled trials for alirocumab and evolocumab, both drugs were found to yield significantly greater reductions in LDL-C and total serum cholesterol than placebo treatment among high CV-risk adult subjects. Treatment vs. placebo groups exhibited no significant differences in neurocognition across any of the CANTAB modules.",
+  "content_length": 348,
+  "content_tokens": 68,
+  "embedding": []
+ },
+ {
+  "title": "PCSK9 inhibition and cognitive function in adolescents",
+  "date": "February 5, 2022",
+  "context": "Cholesterol",
+  "people": "Peter Attia",
+  "content": "Subjects aged 10-17 with familial hypercholesterolemia (FH) were treated with either placebo or the PCSK9i evolocumab for 24 weeks, after which they were tested for cognitive function in four domains: psychomotor function, attention, executive function, and visual learning. As seen in adult trials, evolocumab treatment did not result in cognitive decline relative to either baseline measurements or to the placebo group in any of the domains tested.",
+  "content_length": 451,
+  "content_tokens": 97,
+  "embedding": []
+ },
+ {
+  "title": "Cholesterol and neural development",
+  "date": "February 5, 2022",
+  "context": "Cholesterol",
+  "people": "Peter Attia",
+  "content": "The reason is simple: why import what you can make yourself? Virtually every nucleated cell in the body is capable of synthesizing cholesterol, and the brain is no exception. In the CNS, cholesterol production exceeds demand, and net cholesterol flux is thus outward from the CNS across the blood-brain barrier. Indeed, measurements in experimental animals have found no evidence of plasma LDL particle uptake by the brain, indicating that systemic cholesterol has little, if any, effect on cholesterol supply in the CNS.",
+  "content_length": 521,
+  "content_tokens": 99,
+  "embedding": []
+ },
+ {
+  "title": "Other lipid medications and cognitive function",
+  "date": "February 5, 2022",
+  "context": "Cholesterol",
+  "people": "Peter Attia",
+  "content": "While these recent studies have focused specifically on cognitive effects of the PCSK9i class of LDL-lowering drugs, there is likewise no evidence to suggest that other classes of lipid medications  have any harmful effects on the brain. Existing data indicate that statins, for example, do not increase risk of cognitive impairment.",
+  "content_length": 333,
+  "content_tokens": 65,
+  "embedding": []
+ },
+ {
+  "title": "LDL-lowering interventions in children",
+  "date": "February 5, 2022",
+  "context": "Cholesterol",
+  "people": "Peter Attia",
+  "content": "Pharmacological LDL-lowering interventions are generally not recommended for children under the age of 8 except in very rare, extreme cases such as homozygous FH, when LDL concentrations exceed 500 mg/dL and patients are at risk of childhood myocardial infarction.",
+  "content_length": 264,
+  "content_tokens": 56,
+  "embedding": []
+ },
+ {
+  "title": "Cholesterol medications and lactating mothers",
+  "date": "February 5, 2022",
+  "context": "Cholesterol",
+  "people": "Peter Attia",
+  "content": "Younger children can potentially be exposed indirectly to certain cholesterol medications, however, as some evidence indicates that statins taken by lactating mothers may be transferred to breast milk. Though few studies have investigated this topic, current evidence suggests that this transfer is very limited and that statins have low bioavailability upon ingestion by infants.",
+  "content_length": 380,
+  "content_tokens": 64,
+  "embedding": []
+ },
+ {
+  "title": "LDL-lowering medications and cognitive effects",
+  "date": "February 5, 2022",
+  "context": "Cholesterol",
+  "people": "Peter Attia",
+  "content": "Altogether, these studies provide robust and necessary clinical evidence for putting to rest concerns over potential cognitive effects of LDL-lowering medications in both children and adults.",
+  "content_length": 191,
+  "content_tokens": 32,
+  "embedding": []
+ },
+ {
+  "title": "Low LDL and cholesterol in the CNS",
+  "date": "February 5, 2022",
+  "context": "Cholesterol",
+  "people": "Peter Attia",
+  "content": "Lab assessments measure and report LDL protein (apoB) and cholesterol content in circulation because these parameters are most relevant to CV risk, but they’re poor proxies for cholesterol in the CNS. Neither LDL nor PCSK9i are even capable of crossing into the CNS, which, even by late fetal development, begins to produce and recycle more than enough cholesterol to serve its own needs.",
+  "content_length": 388,
+  "content_tokens": 78,
+  "embedding": []
+ }
+]

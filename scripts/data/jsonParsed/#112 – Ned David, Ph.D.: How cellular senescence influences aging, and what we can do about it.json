@@ -1,0 +1,512 @@
+[
+ {
+  "title": "Cellular Senescence and Aging",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "Ned explains the science of cellular senescence and how it impacts the aging process. Ned discusses how senolytics may delay, prevent, treat, or even reverse age-related diseases, including cancer, cardiovascular disease, and neurodegenerative disease.",
+  "content_length": 252,
+  "content_tokens": 52,
+  "embedding": []
+ },
+ {
+  "title": "Role of cellular senescence in aging and cancer",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "Role of cellular senescence in aging and cancer [27:00];",
+  "content_length": 56,
+  "content_tokens": 15,
+  "embedding": []
+ },
+ {
+  "title": "Developing medicines that target cellular senescence",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "Developing medicines that target cellular senescence [52:15];",
+  "content_length": 61,
+  "content_tokens": 14,
+  "embedding": []
+ },
+ {
+  "title": "Senescent cell elimination example in osteoarthritic knees",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "Senescent cell elimination example in osteoarthritic knees [1:30:30];",
+  "content_length": 69,
+  "content_tokens": 18,
+  "embedding": []
+ },
+ {
+  "title": "Extending lifespan by removing senescent cells",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "Extending lifespan by removing senescent cells [1:45:00];",
+  "content_length": 57,
+  "content_tokens": 15,
+  "embedding": []
+ },
+ {
+  "title": "Senolytic molecule example in macular degeneration reversal",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "Senolytic molecule example in macular degeneration reversal [1:52:30];",
+  "content_length": 70,
+  "content_tokens": 18,
+  "embedding": []
+ },
+ {
+  "title": "The role of cellular senescence and metabolic syndrome",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "The role of cellular senescence and metabolic syndrome [2:01:30];",
+  "content_length": 65,
+  "content_tokens": 17,
+  "embedding": []
+ },
+ {
+  "title": "The role of cellular senescence and brain health",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "The role of cellular senescence and brain health [2:03:30]",
+  "content_length": 58,
+  "content_tokens": 17,
+  "embedding": []
+ },
+ {
+  "title": "The Impact of Stress on Physical and Emotional Health",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "Robert Sapolsky, Ph.D., discusses the widespread impact of stress on our physical and emotional health as well as the mechanisms by which it can precipitate chronic illness, dementia, depression, and more.",
+  "content_length": 205,
+  "content_tokens": 42,
+  "embedding": []
+ },
+ {
+  "title": "Factors Contributing to Chronic Illness",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "Robert Sapolsky, Ph.D., provides insight into the factors that contribute to chronic illness.",
+  "content_length": 93,
+  "content_tokens": 20,
+  "embedding": []
+ },
+ {
+  "title": "Preventing cardiovascular disease: the latest in diagnostic imaging, blood pressure, metabolic health, and more",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "In this episode, Ethan Weiss, M.D. discusses the latest in diagnostic imaging, blood pressure, metabolic health, and more in preventing cardiovascular disease.",
+  "content_length": 159,
+  "content_tokens": 31,
+  "embedding": []
+ },
+ {
+  "title": "The fentanyl crisis and why everyone should be paying attention",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "In this episode, Anthony Hipolito talks about the fentanyl crisis and why everyone should be paying attention.",
+  "content_length": 110,
+  "content_tokens": 21,
+  "embedding": []
+ },
+ {
+  "title": "The Impact of Stress on Chronic Illness, Dementia, Depression, and More",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "Robert Sapolsky, Ph.D., discusses the widespread impact of stress on our physical and emotional health as well as the mechanisms by which it can precipitate chronic illness, dementia, depression, and more.",
+  "content_length": 205,
+  "content_tokens": 42,
+  "embedding": []
+ },
+ {
+  "title": "Physiology of a Stress Response",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "Robert Sapolsky explains the physiology of a stress response and why it’s ingrained in our DNA.",
+  "content_length": 95,
+  "content_tokens": 22,
+  "embedding": []
+ },
+ {
+  "title": "Individual Variation in the Response to Stress",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "Robert Sapolsky talks about individual variation in the response to stress and how everyone has a different optimal level.",
+  "content_length": 122,
+  "content_tokens": 22,
+  "embedding": []
+ },
+ {
+  "title": "The Impact of Stress on Memory and Health",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "Robert Sapolsky discusses the role of stress on memory and the consequences of hypercortisolemia, as well as the impact of subjective socioeconomic status and social media on stress levels and health.",
+  "content_length": 200,
+  "content_tokens": 40,
+  "embedding": []
+ },
+ {
+  "title": "The Impact of Stress on Cancer, Atherosclerosis, Dementia, Addiction, and Depression",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "Robert Sapolsky talks about the impact of stress on cancer, atherosclerosis, dementia, addiction, and depression.",
+  "content_length": 113,
+  "content_tokens": 24,
+  "embedding": []
+ },
+ {
+  "title": "Defining longevity and the principles of aging",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "Longevity for me would be being able to live without the indignities that I’ve witnessed. We all witnessed in our lives all of these features of aging that seemed to be an escapable. Aging is not a rigid thing, it’s flexible and malleable. Nature has “control knobs”. Natures control knobs can be “twisted” by humans (such as with drug development). So nature is clearly gone to town on this and created these marvelous examples of disparate lifespan, but sort of the same creature, the same biochemistry. Very similar creatures have very different lifespans. Cynthia Kenyon’s work in C. elegans (worms).",
+  "content_length": 604,
+  "content_tokens": 146,
+  "embedding": []
+ },
+ {
+  "title": "The control knobs of aging and how we can turn them",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "Calorie restriction, rapamycin, and mTOR. Young blood. Mitochondrial aging. Methylation of DNA. Cellular senescence. Calorie restriction (CR). In the 1930s, Clive McKay at Cornell unexpectedly showed that his rats that were restricted from food lived longer. Rapamycin. A molecule discovered on Easter Island made by soil bacteria has shown to extend life in a variety of organisms. David Sabatini figured out the aging effects of rapamycin were similar to calorie restriction in that they are both turning the same control knob ⇒ mTOR. Lifespan effects of joining the circulatory systems of old mice with young mice were demonstrated in the 1970s. You can take two animals, one’s young and one’s old, and you literally suture them together (parabiosis) and their circulatory systems join. Result was that the young was good for the old animal and it could extend life by as much as 15%. Mitochondrial aging.",
+  "content_length": 908,
+  "content_tokens": 204,
+  "embedding": []
+ },
+ {
+  "title": "Mitochondrial DNA mutations",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "Mitochondria are the descendants of ancient bacteria with their own DNA and genomes. The mutation rate of their DNA is somewhere between a hundred and a thousand fold faster than our nuclear mutation rates. As a consequence, you can look at mitochondria in someone in the 70s, for example, and find that half of them can’t function normally (meaning can’t utilize oxygen to make energy or do all the other things that mitochondria do that are important).",
+  "content_length": 454,
+  "content_tokens": 95,
+  "embedding": []
+ },
+ {
+  "title": "Methylation of DNA",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "This COULD be a knob… The “methylation clock”. When you’re young, everything is lined up perfectly and gene expression is not “noisy”. But as you age, suddenly you’ve got methylations where you’re not supposed to have them and you’re missing them in other places. It looks as though that MIGHT give rise to “noisy” gene expression such that cells don’t read the right genes (the epigenome) at the right times. Interestingly… twice in our lives we press a factory reset of your methylome: once at conception and then once more a few weeks into your life (for making germline cells in the sex organs. So those are the only two times at this factory reset gets pressed.",
+  "content_length": 666,
+  "content_tokens": 167,
+  "embedding": []
+ },
+ {
+  "title": "Cellular senescence",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "Of all of the mechanisms, it struck me as the simplest mechanism to perturb and make medicines that you can use to treat human beings. A cell that stops dividing and is no longer functional. But rather than go through apoptosis, it stays there. Kids don’t have these. But as you age they start to accumulate. What happens when you eliminate senescent cells from these animals? ⇒ Experiment: Clearance of p16Ink4a-positive senescent cells delays ageing-associated disorders.",
+  "content_length": 473,
+  "content_tokens": 104,
+  "embedding": []
+ },
+ {
+  "title": "Eliminating Senescent Cells in Mice",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "Judy Campisi and Jan Van Deursen have both genetically engineered mice where you could eliminate senescent cells. If you take two animals born from the same mother within seconds of each other, then you eliminate the senescent cells from one of the animals around mid-life, this animal lives on average about 30% longer AND when they do die, they die with many of the features of aging either absent or reduced.",
+  "content_length": 411,
+  "content_tokens": 85,
+  "embedding": []
+ },
+ {
+  "title": "Senescence and Cancer",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "The ability to make senescent cells is vitally important to our survival. A genetically engineered mouse that cannot make senescent cell will be full of tumors before it gets to reproductive age. The cellular senescent system is an anticancer system and you do not want to mess with the emergency brake. However, Ned says that they don’t mess with the brake system, they only “show up after” and remove the secencent cells after they are made. It was also demonstrated that if you CAN’T make cells become senescent, you dramatically increase tumors in mice and that’s a powerful lesson about what not to do…which is to not mess with the underlying biology. However, showing up AFTER the cells are allowed to become senescent…and only then eliminating the senescent cells…you can produce a series of youth effects while not increasing cancer risk.",
+  "content_length": 846,
+  "content_tokens": 180,
+  "embedding": []
+ },
+ {
+  "title": "SASP and Senescent Cells",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "Judy Campisi’s work in discovering how senescent cells exert bad biology on the cells around them: 2007 paper and 2009 paper. They secrete into the micro environment around them stuff that distorts tissue function and contribute both to features of natural aging as well as very particular diseases of aging. And this is done via this secretome called SASP. SASP is a paracrine (as opposed to endocrine) feature, says Peter, “this paracrine effect is to secrete it and poison your neighbor right next to you”. However, if you allow senescence to happen, but then you block the SCs from being toxic then you might be onto something…",
+  "content_length": 631,
+  "content_tokens": 143,
+  "embedding": []
+ },
+ {
+  "title": "History of Senescence in Scientific Study",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "In the early 1960s it was widely believed that cells from us from mammals could have infinite capacity to divide. In the early 1960s, a clever guy named Leonard Hayflick came along and coined this term, senescent cells, meaning cells that lose the ability to divide in culture. And he says something very prophetic… “this may contribute to features of aging”. Judy Campisi was the first individual to find a marker that we could look at in vivo, meaning tissue in a living creature, and see senescent cells. And there wasn’t a lot of them so it was hard to understand how so few cells could do so much bad for so many cells. Judy Campisi described for the first time this thing that I mentioned earlier called the SASP which is how these cells exert bad stuff.",
+  "content_length": 760,
+  "content_tokens": 166,
+  "embedding": []
+ },
+ {
+  "title": "The bad things that senescent cells are doing",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "Broadly speaking, it can cause inflammation (and then fibrosis) More granularly, you see things like: TNF alpha targeted by the drug Humira VEGF-A which is the target of things like Lucentis and Eylea, multi multibillion dollar drugs for the treatment of diseases of the eye. CTGF, which if you make an antibody against that, you have efficacy in a rare lung disease",
+  "content_length": 366,
+  "content_tokens": 88,
+  "embedding": []
+ },
+ {
+  "title": "Positive side of SASP",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "Cellular senescence, for example, blocks tumor formation in the young SASP and wound healing",
+  "content_length": 92,
+  "content_tokens": 20,
+  "embedding": []
+ },
+ {
+  "title": "Developing medicines that target cellular senescence",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "It’s that last one, SC, that is the easiest one to drug The question Ned had was: How do we make medicines that target a fundamental mechanism of aging? So what actually happened? They were full of senescent cells And they aged very rapidly and had features of aging that would onset very rapidly and kill them",
+  "content_length": 310,
+  "content_tokens": 66,
+  "embedding": []
+ },
+ {
+  "title": "Addressing question 4: Safety",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "We know that children make SC but the get rid of them afterwards. Adults retain the ability to make SC but they don’t get rid of them, they accumulate. So, in a sense, that is evidence that getting rid of them (but allowing the body to make them) is probably safe.",
+  "content_length": 264,
+  "content_tokens": 62,
+  "embedding": []
+ },
+ {
+  "title": "Addressing question 2: Is there a disease that would improve by eliminating SCs?",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "Ned wanted to find diseases of “being old”. Things that the FDA has regulatory paths for and end points that you can get drugs approved on.",
+  "content_length": 139,
+  "content_tokens": 33,
+  "embedding": []
+ },
+ {
+  "title": "Addressing question 1: Do senescent cells drive features of natural aging?",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "2016 paper: Naturally Occurring p16(Ink4a)-positive Cells Shorten Healthy Lifespan. This paper was answering the question: How did we figure out that senescence was driving features of natural aging?",
+  "content_length": 199,
+  "content_tokens": 46,
+  "embedding": []
+ },
+ {
+  "title": "Ned’s lessons on risk analysis in business",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "From starting companies and project early on, Ned noticed that there was a lot of wasted time due to a lack of risk assessment and strategy. Through this learning experience, Ned developed a new intellectual process before beginning a new project or starting a company.",
+  "content_length": 269,
+  "content_tokens": 49,
+  "embedding": []
+ },
+ {
+  "title": "The search for a molecule that could eliminate senescent cells",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "The quest to answer question #3: Could we find a molecule that could trigger the elimination of senescent cells from a living creature safely?",
+  "content_length": 142,
+  "content_tokens": 28,
+  "embedding": []
+ },
+ {
+  "title": "Eliminating Senescent Cells to Reduce Pain and Repair Cartilage",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "Ned and team moved forward with creating molecules that could eliminate senescent cells (“senolytic” molecules). In a Phase 1 study, Ned was able to show that when you eliminate senescent cells from the painful knee joint of a human being with osteoarthritis, a single administration of a senolytic medicine eliminates pain dramatically in these humans for “as long as we’ve looked”. Ned’s 2017 Nature paper showed clearance of senescent cells in a mouse’s knee with osteoarthritis reduced pain and repaired cartilage. They then eliminated senescent cells which could i) eliminate pain and ii) repair cartilage in the mouse’s knee.",
+  "content_length": 631,
+  "content_tokens": 147,
+  "embedding": []
+ },
+ {
+  "title": "The Theory About Senescent Cells in Osteoarthritis",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "Senescent cells accumulate at sites of osteoarthritis and they may be trying to heal. But unlike in the skin when they literally fall off in the context of healing, these cells remain and essentially continue to sound the alarm over and over and over again. And we think it could be giving a sort of flawed attempt at wound healing that could be driving the pathophysiology of disease. Plus, inside of a joint, it’s a very delicate balance of one cell layer too many and all of a sudden you have a different outcome than you had prior to the insult (as opposed to a scrape on your knee doesn’t have to heal perfectly to still work functionally).",
+  "content_length": 645,
+  "content_tokens": 138,
+  "embedding": []
+ },
+ {
+  "title": "The Search for a Senolytic Molecule",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "They spent the first 2.5 years of this whole effort searching fruitlessly and not finding a senolytic molecule. The first molecule finally identified was a MDM2/p53 interaction inhibitor. Judy Campisi along with Rémi-Martin Laberge discovered that when you did this to senescent cells, senescent cells died preferentially. It doesn’t target p53, it actually binds on the MDM2 side. So p53 goes up in concentration and the senescent cells die selectively. And this turned out to work very well in Ned’s trauma osteoarthritis models in mice.",
+  "content_length": 539,
+  "content_tokens": 127,
+  "embedding": []
+ },
+ {
+  "title": "Experiment with Cells from a Damaged Human Knee",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "Jennifer Elisseeff got knees from patients undergoing total knee arthroplasty (knee replacement). She took the cartilage at the site of the osteoarthritic lesion and she would digest out the extracellular matrix and she’d take the cells that actually make your cartilage, and she would grow them in 3D culture. And she would either expose those little blobs of baby cartilage to either vehicle or Ned’s drug. And she observed that exposure to the drug… i) eliminated senescent cells that were very prevalent from this site of damage.",
+  "content_length": 533,
+  "content_tokens": 123,
+  "embedding": []
+ },
+ {
+  "title": "Senescent cell elimination example in osteoarthritic knees",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "They took biopsies of little bits of their synovial membrane from patients with osteoarthritis in their knees and they counted senescent cells. They saw that the more senescent cells they had, the worse osteoarthritis they had, the more bone deformation they had in the knee, the more pain they had. In human beings, we have eliminated senescent cells from patients’ knees with a single injection of this drug. And we can not only eliminate or dramatically reduce pain, but we can also eliminate factors the senescent cells are making…this molecule is safe enough, selective enough, and potent enough that we can do it. So it doesn’t just work in plastic dish, but it works actually within the knee of a patient suffering from osteoarthritis.",
+  "content_length": 742,
+  "content_tokens": 162,
+  "embedding": []
+ },
+ {
+  "title": "Upcoming phase 2 study of knee injection drug",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "The phase 2 study is in progress. The question: If you eliminate senescent cells from somebody’s knee, how long does the pain stay away? Duration: 6 months. Dose levels will be: Placebo, 0.5 mg 2 mg, 4 mg. Number of patients: 45 per dose level. Patient criteria: Must have painful osteoarthritis of the knee with a pain score between a 4 and 9. How to measure results: Checking pain levels by survey of the patients. Watching structural changes via MRI and x-ray.",
+  "content_length": 463,
+  "content_tokens": 112,
+  "embedding": []
+ },
+ {
+  "title": "Extending lifespan by removing senescent cells",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "It is still unknown if there could possibly be a restoration of disc volume over time. That said, the phase 2 study should help to answer that question.",
+  "content_length": 152,
+  "content_tokens": 31,
+  "embedding": []
+ },
+ {
+  "title": "Atherosclerosis and Senescence",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "Atherosclerosis is another disease in which senescence plays a role, says Ned. The SCs have 3 origins: Senescent endothelium (the barrier), Macrophages (immune cell that came to the rescue), Myofibroblastic type (fibroblast that attempted to repair the damage). And when you eliminate these senescent cells, you can reduce plaque volume and thicken the fibrotic cap that forms on the surface of an atherosclerotic plaque (and therefore make it less clinically dangerous).",
+  "content_length": 471,
+  "content_tokens": 109,
+  "embedding": []
+ },
+ {
+  "title": "Senescent Cells and Cancer",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "In mice from whom they eliminated senescent cells (from midlife until death), they had the SAME cancer prevalence. However, the animals from whom the cells were eliminated get cancer 30% later in their lives. One explanation is that there is something perverse that senescent cells do to the tissue microenvironment. A “two-hit” strategy could be a strategy in which you deliberately are trying to drive tumor cells into senescence and then killing them. Additionally, there are a series of cancers that we think that are age associated that may be essentially the product of a highly senescent environment.",
+  "content_length": 607,
+  "content_tokens": 122,
+  "embedding": []
+ },
+ {
+  "title": "Senolytic Molecule Example in Macular Degeneration Reversal",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "The dry MD is an area in which senolytic medicines may play a role. Soon, Ned and team will be testing their first molecules into the human eye. They will start with a very select population to demonstrate safety and then branching outwards into multiple diseases of the eye. There are two molecules that are advancing toward the clinic. Both of them are inhibitors of the BCL2 protein family. These are molecules that inhibit the inhibitors of apoptosis.",
+  "content_length": 455,
+  "content_tokens": 91,
+  "embedding": []
+ },
+ {
+  "title": "Senescent cells and disease",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "Interestingly, in animals that they don’t cause that to happen in normal healthy eyes…they only target cells that have been damaged by the disease process. There is something about cells and their fate that determines which apoptosis vulnerability you have and they have different Achilles heels. Cancer is incredibly hard because cancer exploits the single best tool biology has, which is variation. Senescent cells on the other hand can’t divide by definition so their ability to access variation is dramatically reduced.",
+  "content_length": 523,
+  "content_tokens": 97,
+  "embedding": []
+ },
+ {
+  "title": "The future of senescent cell targeting",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "I think it’s going to be a small number of things to target, says Ned. I think it’ll be context specific. I think there’ll be super creative ways that we and others come up with to exploit these different vulnerabilities. It’s just interesting to me that you can turn one key and get a benefit. Think about how often that doesn’t work—i.e., the futility of that in chemotherapy where you target this one piece of cell cycle replication and very quickly the cell mutates away around that drug.",
+  "content_length": 492,
+  "content_tokens": 116,
+  "embedding": []
+ },
+ {
+  "title": "The role of cellular senescence and metabolic syndrome",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "There is some data in support of senescence in that cellular niche, but it’s very complicated biology. There was a large meta analysis of a genome wide association studies looking for the genetic correlation between illness of aging and loci. What you saw is that one of the very big peaks for diseases of aging maps into the control system for the establishment of cellular senescence (the p14arf locus). For type 2 diabetes… mutations that give rise to T2D live there. Mutations that give rise to late onset Alzheimer’s live their frailty lives there. Atherosclerosis lives there.",
+  "content_length": 582,
+  "content_tokens": 126,
+  "embedding": []
+ },
+ {
+  "title": "The role of cellular senescence and brain health",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "Your brain has many glial cells ⇒ The cells in your brain that are NOT your neurons but they hold the rest of it together. There’s a dramatic increase in senescent glial cells, specifically astrocytes and microglia. The question that needs to be studied: What would happen if you could eliminate senescent glial cells? Would that enhance cognition? Would it harm cognition? It’s hard to imagine that the pro-inflammatory environment created by this vast number of senescent glial cells is good for you. . . it would just be very hard to imagine that senescence is not playing a role in aspects of cognition loss as we age.",
+  "content_length": 622,
+  "content_tokens": 140,
+  "embedding": []
+ },
+ {
+  "title": "What prepared Ned to start Unity Biotechnology",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "Kythera was a company that Ned and two others founded (including Keith Leonard, who’s a CEO at Unity) about 15 years ago. The idea was to piggyback off all the biology that’s been explored for oncology and inflammatory disease and taking those molecules from that and applying them to the biology of aesthetics.",
+  "content_length": 311,
+  "content_tokens": 70,
+  "embedding": []
+ },
+ {
+  "title": "Kybella: From In Vitro to Commercial Product",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "They took four things into the clinic and one out of the four things worked and it was a molecule that causes fat cells to explode. They went from an in vitro observation all the way to a launched commercial product called Kybella (which is available at your dermatologist).",
+  "content_length": 274,
+  "content_tokens": 55,
+  "embedding": []
+ },
+ {
+  "title": "Advice for Someone Deciding Between Business and Academics",
+  "date": "June 1, 2020",
+  "context": "Science of Aging",
+  "people": "Peter Attia",
+  "content": "1—Don’t create a false choice. You can be an academic and still found a company. There are wonderful things that you can do from the seat of academia in company creation if you are so lucky and so positioned to do so. 2—Animate what you do with a single beautiful idea. Find something that moves you, that literally gives you goosebumps. 3—Learn from people that are better than you. Find people with more experience that will have patience with you.",
+  "content_length": 450,
+  "content_tokens": 100,
+  "embedding": []
+ }
+]

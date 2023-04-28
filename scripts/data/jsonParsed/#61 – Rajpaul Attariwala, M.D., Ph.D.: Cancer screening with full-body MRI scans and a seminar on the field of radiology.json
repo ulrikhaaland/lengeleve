@@ -1,0 +1,682 @@
+[
+ {
+  "title": "Cancer Screening with Full-Body MRI Scans",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Radiologist/engineer, Raj Attariwala, explains how he was able to apply his engineering background to create a unique MRI scanner that is capable of constructing whole-body images with a resolution that is unmatched in the industry. Peter and Raj discuss the implications of such a robust, radiation-free imaging tool on the early detection of cancer. They dive deep into cancer screening and define terms such as sensitivity and specificity that are necessary to really understand this complex space. They then describe the biggest risks involved in this type of screening (false positives) and how Raj’s unique technology and process might drive down this risk substantially.",
+  "content_length": 677,
+  "content_tokens": 128,
+  "embedding": []
+ },
+ {
+  "title": "Computed tomography scans (CT scans)",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "The history of CT, how it works, and why we use contrast",
+  "content_length": 56,
+  "content_tokens": 14,
+  "embedding": []
+ },
+ {
+  "title": "Ultrasound",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Benefits and limitations, and a special use for the heart",
+  "content_length": 57,
+  "content_tokens": 12,
+  "embedding": []
+ },
+ {
+  "title": "Detecting breast cancer with mammography",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "When is works, when you need more testing, and defining ‘sensitivity’ and ‘specificity’",
+  "content_length": 87,
+  "content_tokens": 25,
+  "embedding": []
+ },
+ {
+  "title": "Magnetic resonance imaging (MRI)",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "How it works, defining terms, and looking at the most common types of MRI",
+  "content_length": 73,
+  "content_tokens": 16,
+  "embedding": []
+ },
+ {
+  "title": "Brain aneurysms",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Using MRI to find them and save lives",
+  "content_length": 37,
+  "content_tokens": 8,
+  "embedding": []
+ },
+ {
+  "title": "The risk of false positives in cancer detection",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "and how Raj’s MRI can reduce the number of false positives (i.e., increase specificity)",
+  "content_length": 87,
+  "content_tokens": 22,
+  "embedding": []
+ },
+ {
+  "title": "Comparing the radiation exposure of a whole-body PET-CT to Raj’s equipment (DWIBS-MRI)",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "",
+  "content_length": 0,
+  "content_tokens": 0,
+  "embedding": []
+ },
+ {
+  "title": "How diffusion-weighted magnetic resonance imaging (DW-MRI) has revolutionized cancer screening",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "",
+  "content_length": 0,
+  "content_tokens": 0,
+  "embedding": []
+ },
+ {
+  "title": "Why a DW-MRI is still not a perfect test",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "",
+  "content_length": 0,
+  "content_tokens": 0,
+  "embedding": []
+ },
+ {
+  "title": "The potential for advancing MRI technology",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Where does Raj think it could improve in the next 5-10 years?",
+  "content_length": 61,
+  "content_tokens": 15,
+  "embedding": []
+ },
+ {
+  "title": "Are there any commercially available scanners that can match the resolution of Raj’s images?",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "",
+  "content_length": 0,
+  "content_tokens": 0,
+  "embedding": []
+ },
+ {
+  "title": "Machine learning",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "When and where might machine learning/AI impact the field of radiology?",
+  "content_length": 71,
+  "content_tokens": 15,
+  "embedding": []
+ },
+ {
+  "title": "Cancer Screening and Risks",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Peter and Raj discuss the implications of such a robust, radiation-free imaging tool on the early detection of cancer. They dive deep into cancer screening and define terms such as sensitivity and specificity that are necessary to really understand this complex space. They then describe the biggest risks involved in this type of screening (false positives) and how Raj’s unique technology and process might drive down this risk substantially. If you are interested in cancer screening and/or you’ve ever wondered how any radiology tool works, this episode is for you.",
+  "content_length": 569,
+  "content_tokens": 109,
+  "embedding": []
+ },
+ {
+  "title": "Raj's Road to Radiology",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Raj got a chemical engineering degree. During that period of time, he realized that he actually likes the body and physiology and how that works. Then decided to get a master’s and PhD in biomedical engineering at Northwestern. The desire to be able to speak the language of doctors, Raj decided to go to medical school.",
+  "content_length": 320,
+  "content_tokens": 66,
+  "embedding": []
+ },
+ {
+  "title": "Technology in Medicine",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Raj’s first love was technology so he decided to put those things together. Worked on some of the very first surgical robotic machines ever built. But in that process, Raj realized that the best place to focus on technology in medicine was radiology (imaging technology).",
+  "content_length": 271,
+  "content_tokens": 57,
+  "embedding": []
+ },
+ {
+  "title": "Radiology",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Started in an area called nuclear medicine, which is a small specialty within radiology where you’re actually looking at functional imaging, how things work, how do things change, what happens over time. Really liked nuclear medicine because it was showing you what’s happening when things are normal and then when things become abnormal (Raj particularly loved how the answer was black and white which is rare in medicine).",
+  "content_length": 424,
+  "content_tokens": 84,
+  "embedding": []
+ },
+ {
+  "title": "Radiology and Nuclear Medicine",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Radiology is like anatomy, a blueprint… where you actually see what’s going on, you actually see the changes, and you see the shapes of things, and you use that very much as a blueprint for a building to actually see what it does. Whereas nuclear medicine, instead of the blueprint, you actually know there’s all these people carrying letters, moving in and out of this building (We don’t really know where the building walls are, but we know that there must be something happening there). When you put the blueprint together with the movement inside the area of interest, you start to realize “oh, these are postal workers carrying things, and here’s the geometry of the building. That power really is actually quite useful.”",
+  "content_length": 726,
+  "content_tokens": 159,
+  "embedding": []
+ },
+ {
+  "title": "PET-CT",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "The first device to combine functional imaging with nuclear medicine imaging was the positron-emission tomography-computed tomography (PET-CT). These two separate modalities of functional imaging and anatomic imaging come together to actually make something better than each part individually (i.e., 1+1=3).",
+  "content_length": 307,
+  "content_tokens": 64,
+  "embedding": []
+ },
+ {
+  "title": "Anatomical and Functional Information",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "“Anytime you order a test, in the back of your mind you have to be asking yourself, ‘Do you want anatomical information, or functional information or both?’”",
+  "content_length": 157,
+  "content_tokens": 40,
+  "embedding": []
+ },
+ {
+  "title": "X-ray and Radiation Exposure",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "At the highest level, how do we take an X-ray? How does it produce that image? Effectively, X-ray is taking these high energy wavelength, and it actually penetrates right through the body. Anywhere where there’s something dense, very hard like bone, the X-ray beam can’t make it through. Contrarily, the X-ray penetrates right through it and shines through soft tissue. And that’s what gives us the white pictures of the bone because the film that’s exposed on the other side, the soft tissues, the X-rays have gone through. Therefore, on the film on the other side it stays white. Unfortunately, there were lots of casualties due to radiation. Our understanding of radiation has actually been moved by really traumatic events such as Hiroshima and Nagasaki where we’ve actually been able to watch people over time. DNA of the cells get damaged and there’s a risk of inducing cancers with that. Different types of x-rays and scans have differing amounts of radiation. Peter has a graph for his patients that lists a number of different technologies and their associated radiation amounts. At the top end of that spectrum you’d have a whole body PET-CT. We measure radiation in millisieverts.",
+  "content_length": 1191,
+  "content_tokens": 266,
+  "embedding": []
+ },
+ {
+  "title": "Millisievert",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "A millisievert is the unit of measurement of radiation. It’s set by the standards group Système Internationale in France. It actually sets what a standard dose of radiation is.",
+  "content_length": 176,
+  "content_tokens": 42,
+  "embedding": []
+ },
+ {
+  "title": "Understanding Radiation",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "There’s good radiation, and there’s bad radiation. Anytime you actually have any ion that’s actually releasing a component of its energy, that energy has to get deposited somewhere… It comes off as a photon of energy.",
+  "content_length": 217,
+  "content_tokens": 51,
+  "embedding": []
+ },
+ {
+  "title": "Different types of imaging and radiation exposure",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "There are different types of imaging that use varying amounts of radiation. Mammograms use a very low amount of radiation, about 0.05 millisieverts. PET-CT, on the other hand, couples the radiation from CT and from PET, and a person could easily get 30 or 40 millisieverts in total in that scan if they were doing chest, abdomen and pelvis, for example. Nuclear medicine exposes the whole body to radiation. The recommended upper limit of millisieverts in the US is 50 per year, but not all millisieverts come from imaging. Certain geographies will actually have radon, which is another exposure to the millisieverts.",
+  "content_length": 617,
+  "content_tokens": 139,
+  "embedding": []
+ },
+ {
+  "title": "Implications of radiation exposure on normal physiology",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Our understanding of the implications of radiation exposure on normal physiology comes from Hiroshima and Nagasaki, as well as other people like in Fuji reactor where people actually got exposed. A landmark paper out of Columbia forced radiology as a field to actually look at the potential damaging effect of X-ray radiation. It found that the younger you are, the greater the risk of cancer induction from CT scanners. Also, females are actually more sensitive to radiation than men. This is because the egg is actually produced during embryonic stage. As a result, that DNA is effectively frozen in time. Therefore, the younger you are, the fresher the DNA. Around age 12 is when this DNA comes out of the “frozen” state during the beginning of menstruation and that’s when these eggs start to be released. So age 12 is the worst time for females to be exposed to radiation.",
+  "content_length": 877,
+  "content_tokens": 179,
+  "embedding": []
+ },
+ {
+  "title": "Computed tomography scans (CT scans)",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "CT scans are a type of imaging that use X-rays to create a three-dimensional view of the body. The amount of information in an X-ray is phenomenal but it is a 2D picture. CT scans do the same thing in a three-dimensional spiral. Contrast is often used in CT scans to help highlight certain areas of the body.",
+  "content_length": 308,
+  "content_tokens": 71,
+  "embedding": []
+ },
+ {
+  "title": "CT Scans and 3D Imaging",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "The biggest problem with x-ray is that sometimes you’re actually overlapping different things, and you just can’t see. When CT came around… That’s when it actually really allowed us to look at things in 3D. Surgeons could look at these and actually start to imagine what they’re going to be operating on… that is the power 3D imaging. An X-ray is like a single flash… you get a picture. A CT scan is really like a searchlight in a boat going around an island to actually get all the images the whole way around… it’s triangulation effective by spinning around in multiple different cycles by going around in 360 degrees.",
+  "content_length": 620,
+  "content_tokens": 145,
+  "embedding": []
+ },
+ {
+  "title": "Anatomy of a CT Scanner",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Basically, 180 degrees apart you have the X-ray and the detector, Then it actually starts to spin around in rapid revolution. When you actually look at a machine, there’s the donut hole in the middle, But around it there’s actually the casing.",
+  "content_length": 243,
+  "content_tokens": 60,
+  "embedding": []
+ },
+ {
+  "title": "CT Scanner Bits",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "First scanner was a two-bit (Two bit scanners only have one “flashlight” and one detector). When Peter was in residency, they were using 16 and 32 bit scanners (16 bit means you’ve got eight units spaced out equally and then you’ve got eight detecting surfaces). An eight “slice” means you take  one slice, then you’re measuring immediately below for another “slice”, and immediately below that again. As a result, as you’re circulating around the person or the patient, you’re actually doing 8 slices at a time, or 16 slices at a time, or 32 slices at a time, and so on. The higher the number of slices, the more coverage you get.",
+  "content_length": 631,
+  "content_tokens": 159,
+  "embedding": []
+ },
+ {
+  "title": "Radiologists and CT Scans",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Remembering back to residency, Peter says that having a good radiologist was just as important as having a good surgeon. Many patients with pancreatic cancer technically shouldn’t be operated on. And you’d really like to know that before you enter the patient’s abdomen, which is not always possible. But the better the radiologist, the more information that can tell you prior to surgery.",
+  "content_length": 389,
+  "content_tokens": 83,
+  "embedding": []
+ },
+ {
+  "title": "Contrast in CT Scans",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "For the CT world it’s actually an iodinated material.",
+  "content_length": 53,
+  "content_tokens": 14,
+  "embedding": []
+ },
+ {
+  "title": "CT and Contrast",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Contrast is injected into the vein and the heart pumps it around, allowing us to time when we take the CT image to see the organ. It's a way to light up the blood vessels and capillary net to see the anatomic detail. The scale of Hounsfield units has to do with density, and we can see the difference between the density of bone and air, with water effectively in the middle. The eye can't see the whole range of Hounsfield units, so we narrow down the range on our computers by specifying the width of the window and where it is centered.",
+  "content_length": 539,
+  "content_tokens": 122,
+  "embedding": []
+ },
+ {
+  "title": "CT Speed",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "The real power of CT is the speed. In trauma, you want to put them through the CT scanner as fast as possible to get the information out as fast as possible.",
+  "content_length": 157,
+  "content_tokens": 35,
+  "embedding": []
+ },
+ {
+  "title": "Ultrasound",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Ultrasound is even faster than CT and doesn't come with radiation. It's a high frequency sound wave that penetrates solid tissue and reflects back at every tissue interface like an echo. The time it takes for the sound to reflect back tells you how deep that tissue is. In the air, ultrasound doesn't penetrate very far, but in the water or dense material like organs in the body, it reflects back easier. Animals like bats, whales, and dolphins use this for sight and sonography.",
+  "content_length": 480,
+  "content_tokens": 102,
+  "embedding": []
+ },
+ {
+  "title": "Limitations of Ultrasound",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "The resolution isn’t as high as CT. With ultrasound you’re only looking at one slice in time. Ultrasound really struggles when it encounters air inside the body.",
+  "content_length": 161,
+  "content_tokens": 38,
+  "embedding": []
+ },
+ {
+  "title": "Ultrasound for the Heart",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "There’s a special subset of ultrasound that we do on the heart. We discovered there was a nice window that would actually allow you to miss the air in the lungs and look at the heart quite well. As a result, you can actually see where things were moving, such as the valves of the heart or the walls of the heart. Then as well you actually add something called doppler, which is basically the frequency bouncing off of a blood vessel (If it’s going vs. coming, the frequency is going to be different). Now you can actually now start to see how blood is moving. There’s very thin window, usually underneath the chest and around the lung.",
+  "content_length": 636,
+  "content_tokens": 142,
+  "embedding": []
+ },
+ {
+  "title": "Importance of Ultrasound in Trauma Situations",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "As important as the CT scanner was in trauma, the ultrasound was actually the most important radiographic tool we had in trauma. It was called a fast ultrasound in residency. Penetrating trauma in particular, where you have to know, does this person need to go up to surgery? Is there fluid in the abdominal cavity? Fluid around the pericardium? These are surgical emergencies. If people weren’t 100% confident that there’s a problem, or not a problem, they’d go straight to CT scan, because you just couldn’t make that error.",
+  "content_length": 526,
+  "content_tokens": 121,
+  "embedding": []
+ },
+ {
+  "title": "Personal Experience in Residency",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Peter did ultrasound of his heart, it really looks like there’s something there, but I can’t quite figure it out. So took him to CT scanner. The danger of the CT scanner is it is not nearly as fast as a fast ultrasound. So if there is a major issue, the person could die while waiting for the CT scan. Peter was once told by a junior resident, “Beware of the patient who gets wildly anxious when you lay them down.” Sure enough, the guy freaked out when he laid down for the CT scan. We took him to the OR, opened him up immediately, and sure enough that knife had actually hit his pulmonary vein, and so that pulmonary vein was bleeding into his pericardium. He would have had a cardiac tamponade if we had left him on that table. Amazingly, that patient went home three days later.",
+  "content_length": 783,
+  "content_tokens": 185,
+  "embedding": []
+ },
+ {
+  "title": "Detecting breast cancer with mammography",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Mammography is a lower attenuation x-ray that shines through the breast tissue, which is all soft tissue. Mammograms are good at shining through fat which allows you to see very simple things, like calcification in fat. However, they are not so good at seeing through glandular tissue. For women who still have a lot of glandular tissue, a mammogram might not be enough, and they need another second imagine modality to look through the tissue such as ultrasound and/or MRI. The sensitivity of a mammogram is about 80%, and the specificity is about 90% or 91%. It actually becomes really critical in the fact that depending on the breast density, you’re going to know how helpful a mammogram may or may not be. A single mammogram on a dense woman, its sensitivity is about 55%, whereas on a woman who actually has fatty tissue, it’s very high (up to 95%).",
+  "content_length": 855,
+  "content_tokens": 191,
+  "embedding": []
+ },
+ {
+  "title": "Molecular Breast Imaging (MBI)",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "MBI is a functional test in the realm of nuclear medicine that uses radioactive material to concentrate a radiotracer called sestamibi in tissues that have increased mitochondria, like in breast cancer. It involves a lot of radiation, close to 20 millisieverts, which is about 40% of your annual radiation limit. It is rarely done now, but it can be done in women who have very dense breast tissue and need to see what's going on.",
+  "content_length": 430,
+  "content_tokens": 95,
+  "embedding": []
+ },
+ {
+  "title": "Magnetic Resonance Imaging (MRI)",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "MRI is a complex imaging tool that was initially developed on a bench top to see the effect of electromagnetic waves on anything. It was not initially developed for imaging. The MRI machine is an amazing tool that can determine the composition and material of tissue. The NMR is a two-dimensional version of the MRI, which is three-dimensional. Peter Mansfield is one of the main creators of the MRI machine.",
+  "content_length": 408,
+  "content_tokens": 82,
+  "embedding": []
+ },
+ {
+  "title": "Physics of MRI",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "NMR spectroscopy is used to understand how an MRI works. It involves taking a molecule like alcohol and putting it into an MRI machine to see different peaks. The peaks show that there is a methyl group somewhere and that there is a carbon bound to three hydrogens. The MRI machine cannot tell you what it sees, but it tells you that there is a composition and material of tissue.",
+  "content_length": 380,
+  "content_tokens": 79,
+  "embedding": []
+ },
+ {
+  "title": "MRI and Disease",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "MRI is a hydrogen imager that can detect the magnetic field of hydrogen in the body. It is used to see soft tissue and can detect the frequency difference between hydrogen attached to oxygen or carbon. The higher the Tesla, the more it can orient the hydrogens in one direction. Normally, hydrogen molecules are bouncing around randomly, but in a strong magnetic field, they orient themselves in that direction. MRI machines have different levels, and the higher the Tesla, the more it can pull all of the hydrogens and orient them in one direction. MRI is used to detect diseases and abnormalities in the body.",
+  "content_length": 611,
+  "content_tokens": 120,
+  "embedding": []
+ },
+ {
+  "title": "MRI vs CT scan",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "MRI and CT scans are different mechanisms for acquiring images. An MRI uses a temporary magnetic field to pull all the hydrogens in the opposite direction, and as they reorient, they give off a different frequency that takes a while to gather. A CT scan is like an X-ray that's constantly on, spinning around and circulating around you. A CT scan of the abdomen can take two minutes, while an MRI of the abdomen can take up to 40 minutes.",
+  "content_length": 438,
+  "content_tokens": 93,
+  "embedding": []
+ },
+ {
+  "title": "MRI terms",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "TR is the repetition pulse time, TE is the time it takes to relax back to its original position. T1 weighted images show only fat, while T2 weighted images highlight water more. T2 weighted images take longer to acquire because the TE is long, as you have to wait to get both fat and water.",
+  "content_length": 290,
+  "content_tokens": 64,
+  "embedding": []
+ },
+ {
+  "title": "Three main categories of MRI sequencing",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "The three main categories of MRI sequencing are conventional spin echo, gradient imaging, and echo planar imaging (EPI). Conventional spin echo involves waiting for the hydrogen to completely relax and give off both its water and fat signal. Gradient imaging involves repulsing the hydrogen somewhere in the middle of relaxation. Echo planar imaging (EPI) can repulse in two milliseconds or even faster.",
+  "content_length": 403,
+  "content_tokens": 80,
+  "embedding": []
+ },
+ {
+  "title": "Edema in MRI",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Edema, when there’s something going wrong in the body, almost anywhere, edema happens. That’s kind of a simple concept in MRI that is quite often lost, but it’s very, very important.",
+  "content_length": 182,
+  "content_tokens": 49,
+  "embedding": []
+ },
+ {
+  "title": "ACL Injury MRI Sequences",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "First, you’ll want the anatomy image, so that’s our plain T1 because “fat is beautiful, and it actually allows us to see everything really well, and it looks like what we’re actually accustomed to seeing.” Secondly, we’d do a T2 fat sat sequence (fat saturation). A T2 image looks at fat and water, and then we actually suppress the fat, so really all we’re seeing is water. Why? because of edema.",
+  "content_length": 397,
+  "content_tokens": 107,
+  "embedding": []
+ },
+ {
+  "title": "MRI for Brain Aneurysms",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "One thing that stands out is the exquisite anatomic detail you’re getting (far better than a CT scan). Secondly, it’s the fact that without any contrast, you’re able to see as though you did an angiogram on all the vessels in my brain. MRI is a hydrogen imager, but it’s also a big powerful magnet. What makes our blood red is actually the iron that’s contained within it. So what you can do is take all the blood that’s flowing to a particular organ like the head. And you can actually “excite” anything going up north to the brain (and so therefore that’s arteries). So you get to see all the exquisite arteries in your brain just by exciting that blood. Directionally, it’s so clear, you know which way your magnet is oriented, you know which way blood flow away from the heart, and you’ve got this beautiful iron floating around in water.",
+  "content_length": 842,
+  "content_tokens": 207,
+  "embedding": []
+ },
+ {
+  "title": "Brain Aneurysm",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Brain aneurysm can be treated electively quite easily, however, once they rupture, the mortality’s incredibly high. The mortality of a ruptured aneurysm is 93-95%. When you do find them earlier, there are life-saving treatment options, such as coiling and clipping. Raj scanned about a thousand people and found 8 intercranial brain aneurysms, so 0.8%. The literature is actually a little bit less… likely because when the elderly pass away it’s “natural causes” and we don’t do autopsies. This may be showing the genetic component to it, says Raj. When you find it in one person in the family, next thing you know all of their extended family may need to be checked.",
+  "content_length": 667,
+  "content_tokens": 164,
+  "embedding": []
+ },
+ {
+  "title": "Splenic Artery Aneurysms",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Raj found 2 splenic artery aneurysms. But they actually are particularly deadly.",
+  "content_length": 80,
+  "content_tokens": 19,
+  "embedding": []
+ },
+ {
+  "title": "Popliteal Arteries Aneurysm",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Peter hasn’t seen many of those. Those are actually easier to feel and to see and to look at (You can palpate those on a thin enough individual).",
+  "content_length": 145,
+  "content_tokens": 35,
+  "embedding": []
+ },
+ {
+  "title": "Optimizing the Machine",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Raj optimized the dose or radioactivity to cover everything from head to foot. He customized his hardware to allow him to move people around while they’re on the table while they’re laying there to be able to connect the head with the neck, with the chest, with the abdomen. He thought about the patient’s point of view and what they would want to know.",
+  "content_length": 353,
+  "content_tokens": 80,
+  "embedding": []
+ },
+ {
+  "title": "Merging MRI and Radiology",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Raj merged MRI with the anatomic localization and understanding of tissue types that radiology has. He combined diffusion weighted imaging with background subtraction (DWIBS) to look at water at two points in time. When water isn’t moving, that means that there’s going to be a high density of cells there. Raj calls it the lump detector.",
+  "content_length": 338,
+  "content_tokens": 75,
+  "embedding": []
+ },
+ {
+  "title": "The risk of false positives in cancer detection",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Since there is no radiation with an MRI, the real risk is that of a false positive, says Peter. The harm can manifest in 2 ways: 1) Physical harm, Meaning by something we do subsequently, for example, another biopsy or a biopsy or a subsequent biopsy that was unnecessary. 2) Emotional harm, E.g., The toll it takes on you to see a shadow in a part of your body and have to sit there and have a discussion about what it could be… “it’s probably a cyst, but it might be a tumor, we probably need to do X,Y,Z.”",
+  "content_length": 508,
+  "content_tokens": 133,
+  "embedding": []
+ },
+ {
+  "title": "Raj's false positive cases",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Raj had two cases of a false positive in 1,000 cases. 1 Male with false positive for breast cancer. The DWI showed a difference in density between one breast and the other. He then got an ultrasound which also showed something but weren’t sure what it was. He then got a biopsy and it came back as normal (he had breast glandular tissue). 2 Woman in her late fifties with a false positive for breast cancer. Turned out that she had an unusual scar on her breast from a bad car accident that trapped fluid in it.",
+  "content_length": 511,
+  "content_tokens": 117,
+  "embedding": []
+ },
+ {
+  "title": "The scariest false positive",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Most concerning are the false positives that occur deeper in the body. Peter says the little shadow in the pancreas, where you just don’t know it was this in Adenocarcinoma (fatal) or something that isn’t cancer at all. Famous cautionary tale of a false positive: At Stanford several years ago where a woman who got a CT scan which showed something in the pancreas. Got an ERCP guided biopsy. One complication led to another, led to another and she died of sepsis. And it turned out she didn’t have pancreatic cancer.",
+  "content_length": 517,
+  "content_tokens": 127,
+  "embedding": []
+ },
+ {
+  "title": "MRI with DWIBS vs. whole-body PET-CT",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Comparing the radiation exposure of a whole-body PET-CT to Raj’s equipment (DWIBS-MRI) [1:53:40]. A whole body PET-CT is close to 80% of your annual allotment of radiation. The PET-CT uses radioactive glucose and so it makes the following difficult: Brain imaging, kidney imaging, bladder imaging, and prostate imaging.",
+  "content_length": 319,
+  "content_tokens": 80,
+  "embedding": []
+ },
+ {
+  "title": "DW-MRI and prostate cancer screening",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "DWI of the prostate coupled with the more advanced molecular tests (e.g., the 4K as an example of a blood test) has totally revolutionized the way we think about prostate cancer. Peter has had two patients for whom PSA was high, and 4K was high. This means they now have a 20% chance of having cancer in their prostate… OR having metastatic cancer over the next two decades. In the old days… we would’ve just biopsied them. But nowadays… we run them through MRI and the answer many times is “nope, it’s totally fine.”",
+  "content_length": 517,
+  "content_tokens": 129,
+  "embedding": []
+ },
+ {
+  "title": "MRI can prevent unnecessary biopsies",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "In the past, if PSA was high, you would go immediately to biopsy. Today we can first use an MRI to look and see if something’s growing in the prostate at an accelerated rate (and that’s when you might want to address it). Whereas if it’s actually just there and holding still and not changing much, I’m not going to worry about it because something else may take me first.",
+  "content_length": 372,
+  "content_tokens": 91,
+  "embedding": []
+ },
+ {
+  "title": "DWI MRI and breast cancer",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Is DWI going to have the same effect on breast cancer? “Pretty unlikely”",
+  "content_length": 72,
+  "content_tokens": 19,
+  "embedding": []
+ },
+ {
+  "title": "DWI with MRI as sensitive as contrast injection breast MRI",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Big study out of Memorial Sloan Kettering in New York found that if you actually use DWI with MRI, you actually are as sensitive as giving a contrast injection breast MRI. But that’s diffusion done right, and the problem is in many cases it’s NOT done right.",
+  "content_length": 258,
+  "content_tokens": 59,
+  "embedding": []
+ },
+ {
+  "title": "Standardization issues with MRI",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "The biggest problem with MRI is that it has no standardization whatsoever. There’s actually a movement called Quantitative Imaging Biomarkers Alliance (QIBA) trying to push to standardize the amount of signal to noise coming off of MRI machines with the goal that if you get a scan at one site or another site, the image quality is the same. It actually relies on the vendors coming together. This is fortunately starting to move forward with this organization, QIBA of RSNA and they’re doing it organ by organ (e.g., for standardizing breast MRI screening).",
+  "content_length": 558,
+  "content_tokens": 123,
+  "embedding": []
+ },
+ {
+  "title": "Potential for advancing MRI technology",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "More speed! What I’d actually like to do, and when you see sort of what we’re doing, the speed with which we do and that the detail and resolution that we’re able to acquire and about 55 minutes is really unprecedented anywhere, but I know from a physics point of view that I could speed this up further. GOAL: To have these scans that under half an hour, or even faster. It can be done from a physics point of view. It’s not a technological barrier.",
+  "content_length": 450,
+  "content_tokens": 109,
+  "embedding": []
+ },
+ {
+  "title": "Heat produced during MRI scan",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Part of the reason for speeding up the MRI is because of the heat that is produced making it uncomfortable for the patient. The heat is due to the amount of energy that’s being absorbed. The radio frequency is the same thing as a cell phone called SAR or a Specific Absorption Ratio. The hydrogen ions are basically moving around and that’s basically effectively heating you up. So it’s not quite like a microwave, but you can actually think about it as a microwave. We do the head first and that’s not nearly as much as doing mid and lower body. The thighs, for example, are probably where a ton of that heat gets generated right. When you look at basically the overall blood flow, which is what cools your body, the brain takes 20% of your cardiac output (it’s this big heat sink…it’s a just cools everything away) Whereas when you get down and lower to the legs, which you’re all muscle, it’s going to heat that up, and so that’s why we figured out how to orient these in what organization to make or what plan of sequences to make it not as uncomfortable.",
+  "content_length": 1059,
+  "content_tokens": 248,
+  "embedding": []
+ },
+ {
+  "title": "Isotropic MRI",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Whereas MRI typically can’t be done isotopically just because of time. It’s isotropic in the brain, but in the rest of the body we’re actually doing more conventional clinical images. What isotropic basically means is that we’re slicing you in cubes. So one by one by one millimeter cube, for example. The power of actually doing that one by one by one, is that you can now look at things again in three dimensions in any direction you want. The detail and resolution is perfect.",
+  "content_length": 479,
+  "content_tokens": 113,
+  "embedding": []
+ },
+ {
+  "title": "Cancer Detection Technique",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Raj’s cancer detection technique uses functional imaging with MRI and isotropic imaging to make tumor masses stand out as lumps or hardness. This technique is useful for cancer detection, especially for breast cancer. There is no commercially available scanner that can do this yet.",
+  "content_length": 282,
+  "content_tokens": 55,
+  "embedding": []
+ },
+ {
+  "title": "Machine Learning in Radiology",
+  "date": "July 8, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Machine learning can make radiologists more efficient and help them never miss anything. However, it is difficult to throw a whole body image at a machine and have it solve even the simplest problem such as differentiating between each organ. The goal is to have machines assist radiologists as a second reader, especially for repeat scans and paired t-tests.",
+  "content_length": 359,
+  "content_tokens": 69,
+  "embedding": []
+ }
+]

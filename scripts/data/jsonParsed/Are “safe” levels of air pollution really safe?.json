@@ -1,0 +1,72 @@
+[
+ {
+  "title": "Air Quality and Disease",
+  "date": "March 12, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Air pollutants are associated with numerous morbidities and early mortality. Long-term exposure to airborne fine particles is strongly associated with negative effects on the respiratory system, the central nervous system, and development. Delhi has one of the highest levels of air pollution in the world with a PM2.5 of 121 µg/m3 and is estimated to have the highest premature mortalities associated with airborne particulates. In the U.S., the average mean PM2.5 was 13.06 µg/m3 in 2000, 9.87 µg/m3 in 2010, and 7.96 µg/m3 in 2020. Even at low levels, air pollutants increase the risk of pollution-related disease.",
+  "content_length": 617,
+  "content_tokens": 145,
+  "embedding": []
+ },
+ {
+  "title": "Investigating the Effects of Air Pollution",
+  "date": "March 12, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Trying to understand the effect of low air pollution on human health is a challenge. While it might be possible to determine the acute effects of high levels of pollutants by using short exposures in controlled test environments, assessing the health effects of long-term exposure at low concentrations does not afford such opportunities for controlled study environments. Our primary data on this subject come from epidemiological studies involving an endless list of potential confounds. A recently published epidemiological cohort study provided data collected from seven European countries between 2000-2017 as part of the “Effects of Low-Level Air Pollution: A Study in Europe” (ELAPSE) project. This enormous dataset included over 28 million subjects ages 30+, and investigators analyzed these data to assess the relationship between long-term exposure of low level pollution and deaths from cardiovascular disease, non-malignant respiratory disease, lung cancer, and overall non-accidental causes.",
+  "content_length": 1004,
+  "content_tokens": 182,
+  "embedding": []
+ },
+ {
+  "title": "Studies on the effects of air pollution on health",
+  "date": "March 12, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Despite individual study flaws and the potential for publication biases, the remarkable consistency and apparent dose-dependency of these effects across a large body of literature adds some credence to these conclusions. Additional support for this conclusion comes from mechanistic studies conducted in vitro and using animal models. Mice exposed to PM2.5 at 100 μg/day for 4 weeks exhibited marked lung inflammation and early stages of fibrosis compared with controls. As part of the same study, the investigators also conducted in vitro experiments using a line of lung epithelial cells to demonstrate that PM2.5 treatment induces 2.5-fold increased expression of TGF-β, a potent driver of fibrosis. Other work in mice has demonstrated neural inflammation and cognitive decline following PM2.5 exposure, in addition to pulmonary inflammation. Exposure of pregnant female mice to PM2.5 has been shown to result in lung and brain abnormalities in offspring. Though none of these studies used low PM2.5 exposure levels (i.e., under the limits set by EPA guidelines), they nevertheless provide mechanistic proof of principle for the reported effects of pollution on human health.",
+  "content_length": 1178,
+  "content_tokens": 230,
+  "embedding": []
+ },
+ {
+  "title": "Reducing exposure to particulate air pollution",
+  "date": "March 12, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "What can be done to reduce our own exposure to particulate air pollution? Taking cars off the road or banning burning of fossil fuels aren’t practical solutions, at least in the foreseeable future. While we might have limited power to impact our outdoor air environment, countermeasures can be taken within the home to reduce our individual exposure. Limiting smoke production from wood-burning fireplaces and other sources is one strategy for reducing pollution originating from within the home. Another strategy – which also reduces pollution that enters the home from outdoors – is to use a HEPA filter in everyday life. HEPA (High Efficiency Particulate Air) filters are designed to capture particles in the air that are 0.3 µm or larger. Although dependent upon the PM2.5 levels, filter size, room size, and room ventilation, one may expect a typical portable HEPA filter to reduce PM2.5 by approximately 40%, according to a study that measured PM2.5 inside and outside of homes in Vancouver, Canada. PM2.5 inside homes with HEPA filters was reduced from 7.3 to 4.7 µg/m3 and from 6.5 to 3.4 µg/m3 in areas exposed to traffic-related air pollution or woodsmoke, respectively. In more extreme cases, such as in coal and wood-burning communities in Ulaanbaatar, Mongolia, use of portable HEPA filters in apartments was reported to reduce indoor PM2.5 by 40% (relative to controls with no air filters) during the first week of use and by 15% by the fifth month of use, with the largest reduction of 45 to 29 µg/m3 during the winter months when burning wood and coal for energy is highest. Furthermore, they collected blood data from pregnant female inhabitants using HEPA filters indoors and found a 14% reduction in levels of blood cadmium, a heavy metal linked to fetal disorders, cancers, and kidney disease. These studies demonstrate that portable HEPA filters are effective in reducing both high and low levels of air pollutants, potentially improving health significantly.",
+  "content_length": 1980,
+  "content_tokens": 425,
+  "embedding": []
+ },
+ {
+  "title": "Reducing Outdoor Exposure to Air Pollution",
+  "date": "March 12, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "We can take steps to reduce the outdoor exposure and the impact that ambient pollution has on our health. A variety of websites and free apps are available for monitoring outdoor air quality in various cities or regions. When we must be outdoors in polluted conditions, we can reduce our exposure by wearing a particulate respirator mask or by choosing times of day when air quality is at its best – typically in the evenings.",
+  "content_length": 426,
+  "content_tokens": 81,
+  "embedding": []
+ },
+ {
+  "title": "Air Pollution and Health",
+  "date": "March 12, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "The large body of literature with consistent findings indicate there may be significant benefits to lowering the total amount of air pollutant exposure one receives over a lifetime. In fact, the EPA is currently proposing to revise the annual standard to below the 12 µg/m3 limit based on scientific evidence gathered during their 2020 policy assessments. Since the time of the ELAPSE project, the World Health Organization (WHO) has already lowered its own recommendations for safe PM2.5 limits from 10 µg/m3 in 2005 to 5 µg/m3 in its 2021 guidelines. Even in “green cities” where PM2.5 exposure is comfortably below the current U.S. EPA limit, efforts to further reduce exposure are likely to be beneficial for long-term health.",
+  "content_length": 730,
+  "content_tokens": 157,
+  "embedding": []
+ },
+ {
+  "title": "HEPA Filters",
+  "date": "March 12, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "HEPA filters are a relatively affordable option for reducing air pollutant exposure.",
+  "content_length": 84,
+  "content_tokens": 15,
+  "embedding": []
+ }
+]

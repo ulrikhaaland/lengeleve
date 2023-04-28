@@ -1,0 +1,72 @@
+[
+ {
+  "title": "Vitamin D and COVID-19 Risk",
+  "date": "January 31, 2021",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "This JAMA article consolidates mostly retrospective studies that report on the relationship between vitamin D status and COVID-19 risk of infection or disease severity. It concludes that adequate vitamin D levels are important for bone health and immune function but there is insufficient evidence to claim that vitamin D protects against COVID-19 infection.",
+  "content_length": 358,
+  "content_tokens": 63,
+  "embedding": []
+ },
+ {
+  "title": "Observational Studies and Vitamin D",
+  "date": "January 31, 2021",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Observational studies cannot be used to make causal conclusions about associated risk factors and disease. However, quasi-experimental studies like this one shouldn’t be overlooked completely. The study reported the 14 day mortality of 77 elderly hospitalized patients comparing those that regularly supplemented vitamin D in the preceding 12 months and those that started supplementing after COVID-19 diagnosis. Both groups were compared to a third group that didn’t supplement with vitamin D at all. Long-time supplementers had a 93.1% survival rate compared to 81.7% survival rate in the more recent supplementers, and there was a 68.7% survival rate in the group that didn’t take vitamin D.",
+  "content_length": 694,
+  "content_tokens": 143,
+  "embedding": []
+ },
+ {
+  "title": "Randomized Controlled Trials and Vitamin D",
+  "date": "January 31, 2021",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Randomized controlled trials (RCTs) continue to be the gold standard. There is one pilot RCT that looked at the rate of ICU admission and death for 76 people with and without in-hospital vitamin D supplementation. It reported that 98% of the treatment group did not get admitted to the ICU compared to 50% admission in the untreated group, of which 15% (2 people) later died. After adjusting for confounding variables, patients treated with vitamin D had 0.03 times the risk for ICU admission compared to non-treatment.",
+  "content_length": 519,
+  "content_tokens": 112,
+  "embedding": []
+ },
+ {
+  "title": "Vitamin D Deficiency and Health Implications",
+  "date": "January 31, 2021",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "We know that vitamin D is an important modulator of immune function and that a deficiency can have additional health implications. Deficiency is defined as having a serum vitamin D level less than 20 ng/ml or a vitamin D insufficiency, a milder form, as a level between 20 ng/ml and 30 ng/ml. In youth, deficiency can appear as rickets—the softening or weakening of bones—or osteoporosis and bone disease like osteomalacia in adults.",
+  "content_length": 433,
+  "content_tokens": 100,
+  "embedding": []
+ },
+ {
+  "title": "Vitamin D Supplementation and Safety",
+  "date": "January 31, 2021",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "There is little risk with supplementation. Too much vitamin D results in hypercalcemia, most commonly due to an overproduction of calcium that can result in kidney stones. However, vitamin D toxicity is not easy to come by: a review article noted that all published cases involved an intake of at least 40,000 IU/day. Even though the Food and Nutrition Board established a conservative dose threshold of 2,000 IU/day, some studies suggest that doses of up to 10,000 IU/day is safe for most adults.",
+  "content_length": 497,
+  "content_tokens": 107,
+  "embedding": []
+ },
+ {
+  "title": "Vitamin D and Disease Risk",
+  "date": "January 31, 2021",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "The risk of infection depending on vitamin D levels is hard to determine. It may not prevent you from getting disease.",
+  "content_length": 118,
+  "content_tokens": 23,
+  "embedding": []
+ },
+ {
+  "title": "Vitamin D and COVID-19 Severity",
+  "date": "January 31, 2021",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "The risk of COVID-19 severity and vitamin D levels is also not so clear cut. The published literature suggests that sufficient vitamin D status is either really beneficial, beneficial, or inconsequential. It is likely beneficial for decreased risk of severity, given what we know about immune system health and function. More concretely, there is virtually no risk to supplementing, say, 5,000 IU/day. But I would add, assume and act as if vitamin D doesn’t significantly reduce the incidence or severity of COVID-19 (but cross your fingers and hope it does).",
+  "content_length": 559,
+  "content_tokens": 120,
+  "embedding": []
+ }
+]

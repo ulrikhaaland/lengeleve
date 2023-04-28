@@ -1,0 +1,432 @@
+[
+ {
+  "title": "Comparing COVID-19 to past pandemics",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "In this episode, infectious disease and pandemic preparedness expert, Amesh Adalja, M.D., puts the current pandemic into context against previous coronaviruses as well as past influenza pandemics.",
+  "content_length": 196,
+  "content_tokens": 45,
+  "embedding": []
+ },
+ {
+  "title": "Preparing for the future",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Amesh also provides his interpretation of the evolving metrics which have contributed to big variations in modeling predictions, whether this will be a seasonally recurring virus, and perhaps most importantly—how we can be better prepared for the inevitable future novel virus.",
+  "content_length": 277,
+  "content_tokens": 48,
+  "embedding": []
+ },
+ {
+  "title": "Reasons for optimism",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Finally, Amesh explains where he sees positive trends which give him reasons for optimism.",
+  "content_length": 90,
+  "content_tokens": 17,
+  "embedding": []
+ },
+ {
+  "title": "Comparing and contrasting COVID-19 to previous pandemics",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Comparing and contrasting COVID-19 to previous pandemics like the Asian flu of 1958 and the Spanish flu of 1918 [8:00];",
+  "content_length": 119,
+  "content_tokens": 30,
+  "embedding": []
+ },
+ {
+  "title": "Will COVID-19 be a recurring seasonal virus?",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Will COVID-19 be a recurring seasonal virus every year? [14:00];",
+  "content_length": 64,
+  "content_tokens": 18,
+  "embedding": []
+ },
+ {
+  "title": "What does Amesh think might be the true case fatality rate of SARS-CoV-2?",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "What does Amesh think might be the true case fatality rate of SARS-CoV-2? [16:15];",
+  "content_length": 82,
+  "content_tokens": 27,
+  "embedding": []
+ },
+ {
+  "title": "Why did early models over predict infections and deaths?",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Why did early models over predict infections and deaths by order of millions? [18:30];",
+  "content_length": 86,
+  "content_tokens": 19,
+  "embedding": []
+ },
+ {
+  "title": "Role of government in dealing with a future pandemic",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Role of government—How does Amesh view the role of local versus central government in dealing with a future pandemic? [21:50];",
+  "content_length": 126,
+  "content_tokens": 29,
+  "embedding": []
+ },
+ {
+  "title": "What went wrong with testing and how could we have utilized it more effectively?",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "What went wrong with testing and how could we have utilized it more effectively? [25:15];",
+  "content_length": 89,
+  "content_tokens": 20,
+  "embedding": []
+ },
+ {
+  "title": "Future pandemic preparedness",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Future pandemic preparedness—why Amesh is cautiously optimistic [27:30];",
+  "content_length": 72,
+  "content_tokens": 17,
+  "embedding": []
+ },
+ {
+  "title": "Should there be different policies and restrictions for places like New York City?",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Should there be different policies and restrictions for places like New York City compared to less populated and less affected places across the US? [30:15];",
+  "content_length": 157,
+  "content_tokens": 30,
+  "embedding": []
+ },
+ {
+  "title": "Why mass gatherings might be disproportionately driving the spread of the virus",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Why mass gatherings might be disproportionately driving the spread of the virus [32:30];",
+  "content_length": 88,
+  "content_tokens": 17,
+  "embedding": []
+ },
+ {
+  "title": "Thoughts on Sweden’s herd immunity approach",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Thoughts on Sweden’s herd immunity approach [36:10];",
+  "content_length": 52,
+  "content_tokens": 15,
+  "embedding": []
+ },
+ {
+  "title": "The efficacy of masks being worn in public",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "The efficacy of masks being worn in public and what role they will play as restrictions are slowly lifted [37:20];",
+  "content_length": 114,
+  "content_tokens": 24,
+  "embedding": []
+ },
+ {
+  "title": "What are some positive trends and signs of optimism?",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "What are some positive trends and signs of optimism? [39:15];",
+  "content_length": 61,
+  "content_tokens": 15,
+  "embedding": []
+ },
+ {
+  "title": "The Impact of Stress on Our Physical and Emotional Health",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Robert Sapolsky, Ph.D., discusses the widespread impact of stress on our physical and emotional health as well as the mechanisms by which it can precipitate chronic illness, dementia, depression, and more.",
+  "content_length": 205,
+  "content_tokens": 42,
+  "embedding": []
+ },
+ {
+  "title": "The Impact of Stress on Chronic Illness, Dementia, Depression, and More",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Robert Sapolsky, Ph.D., discusses the widespread impact of stress on our physical and emotional health as well as the mechanisms by which it can precipitate chronic illness, dementia, depression, and more.",
+  "content_length": 205,
+  "content_tokens": 42,
+  "embedding": []
+ },
+ {
+  "title": "Physiology of a Stress Response",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Robert Sapolsky explains the physiology of a stress response and why it’s ingrained in our DNA.",
+  "content_length": 95,
+  "content_tokens": 22,
+  "embedding": []
+ },
+ {
+  "title": "Individual Variation in the Response to Stress",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Robert Sapolsky talks about individual variation in the response to stress and how everyone has a different optimal level.",
+  "content_length": 122,
+  "content_tokens": 22,
+  "embedding": []
+ },
+ {
+  "title": "The Impact of Stress on Memory and Health",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Robert Sapolsky discusses the role of stress on memory and the consequences of hypercortisolemia, as well as the impact of subjective socioeconomic status and social media on stress levels and health.",
+  "content_length": 200,
+  "content_tokens": 40,
+  "embedding": []
+ },
+ {
+  "title": "The Impact of Stress on Cancer, Atherosclerosis, Dementia, Addiction, and Depression",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Robert Sapolsky talks about the impact of stress on cancer, atherosclerosis, dementia, addiction, and depression.",
+  "content_length": 113,
+  "content_tokens": 24,
+  "embedding": []
+ },
+ {
+  "title": "Amesh’s background in infectious disease",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Amesh is an infectious disease emergency medicine and critical care physician. His entire career is focused on the issue of pandemic preparedness, pandemic prediction, infectious disease and national security, and emerging infectious disease. He’s worked on H1N1, Ebola, and agents of bio-terrorism.",
+  "content_length": 299,
+  "content_tokens": 62,
+  "embedding": []
+ },
+ {
+  "title": "When did the virus actually reach the US? And when did Amesh realize it would pose a real threat to the US?",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Back in December… He was trying to take what the Chinese were saying at face value. However, the Chinese were originally reporting this to only be animal to human (and not human to human). Amesh was skeptical. Eventually a Lancet paper came out which showed someone who got ill had no contact with a wet market suggesting human to human transmission was possible. This false reporting by the Chinese gave the virus a “very big headstart” in spreading across the planet.",
+  "content_length": 469,
+  "content_tokens": 95,
+  "embedding": []
+ },
+ {
+  "title": "At what point was Amesh becoming convinced that this was going to enter the US in a manner that was going to pose real difficulty for the country?",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "“I knew it was going to enter the United States almost from the onset.” Once it was clearly possible to transmit human to human (Just like H1N1), it wasn’t going to be containable, says Amesh. What Amesh did NOT realize was… How difficult it would be to contain in the US. And that was because our testing capability wasn’t as good as Amesh assumed. Secondly, many people had mild to no symptoms so it was hard to know who has it much less do contact tracing. “That became completely unmanageable because we basically were allowing this virus to have about two months of unabated spread in the United States, and that’s something that most of us did not think would happen because we thought that we were much more resilient to these types of infections than we really were.”",
+  "content_length": 775,
+  "content_tokens": 178,
+  "embedding": []
+ },
+ {
+  "title": "Comparing and contrasting COVID-19 to previous pandemics like the Asian flu of 1958 and the Spanish flu of 1918",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "In 1958, a novel flu virus spread in the US killing about 100,000 people. The worst flu season since then was 2017-2018 which killed ~80,000 people. Flu has a lot of similarities with coronavirus: They both are transmitted through the respiratory route. They both have symptoms that include coughing and sneezing and sore throat and muscle aches and pains and fever. However… This is in ADDITION to the flu. In the 50s, people were used to the flu so they sort of took it in stride. In 2009 with H1N1, it spread like crazy to 61 million people and started to stress the healthcare system but it has a case fatality rate of less than seasonal flu. An influenza pandemic still remains the biggest pandemic threat that we face… Some avian influenza has a CFR of 65%.",
+  "content_length": 763,
+  "content_tokens": 172,
+  "embedding": []
+ },
+ {
+  "title": "COVID-19 CFR and Pandemic Resiliency",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "We are fortunate that COVID-19 CFR is less than 1% (maybe as low at .3%). But we didn’t do that great of a job within, in terms of diagnostic testing and hospital capacity and personal protective equipment. So that’s magnified this and that’s the human factor that’s magnified what the virus could do. I’m a little more worried about our pandemic resiliency based on how badly we’ve handled a 1% case fatality rate, pandemic virus, where you’ve got cascading decisions by governors in States and countries all around the world that really have magnified the damage that the virus has done. It’s better to think about different cities separately than to just look at the US as a whole… Depending on density of population When they began social distancing, etc.",
+  "content_length": 759,
+  "content_tokens": 181,
+  "embedding": []
+ },
+ {
+  "title": "Recurring Seasonal Virus",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "There are currently 4 types of coronaviruses that recur seasonally. They cause about 25% of the colds we get. They are quite mild. Amesh thinks that SARS-CoV-2/COVID-19 will be a fifth strain of seasonal coronavirus with “intermediate” severity. When you look at their outbreaks, they’re very specialized. They’re happening in healthcare facilities have poor infection control and it doesn’t really sustain itself in the human population. Whereas if you look at the other four coronaviruses, the ones that cause common colds, they are ubiquitous. They transmit very easy. They have a mild spectrum of illness which allows people to go about their daily life and spread, and this new novel coronavirus does appear to be more like them in terms of their transmissibility. So that’s why I think that this will be the fifth seasonal coronavirus until there’s a vaccine.",
+  "content_length": 865,
+  "content_tokens": 205,
+  "embedding": []
+ },
+ {
+  "title": "Future Vaccine",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Probably not the first vaccine we get. But it’s possible that one down the road will cross protect against other types of coronaviruses.",
+  "content_length": 136,
+  "content_tokens": 31,
+  "embedding": []
+ },
+ {
+  "title": "True Case Fatality Rate of SARS-CoV-2",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "It’s been hard to calculate because we have a “severity bias”. South Korea and Germany has done more testing so Amesh looks at their data. Germany just showed it to be 0.37%, for example. Amesh estimates the true CFR to be between 0.3% to 0.66% range. But this is an AVERAGE. Things like age and underlying conditions make the CFR different. Some people will have much, much higher risks and some people have lower risks, and I think that’s sometimes lost in nuance when you try to come up with one number.",
+  "content_length": 506,
+  "content_tokens": 125,
+  "embedding": []
+ },
+ {
+  "title": "Early Models Over Predictions",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Some of the earliest predictions from models suggested 200+ million people would get infected and 2-4 million Americans would die. Those seems to now look like wild over predictions. The models have many assumptions. Each small adjustment in the assumptions can make a huge impact on the end number. One example, hospitalization rate. Hospitalization rate was probably overstated. There clearly is a severity bias in who gets tested… which leads to a number like 15 to 20% getting admitted to the hospital. Amesh says the real hospitalization rate is probably closer to 5%. [They were] using the wrong denominator, I think, to come up with what their case fatality ratios are, what their ICU bed needs would be, and what their mechanical ventilation needs would be.",
+  "content_length": 765,
+  "content_tokens": 155,
+  "embedding": []
+ },
+ {
+  "title": "Role of Government",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "US government is unique in healthcare where power is vested at the local and state level and the federal government is more of a coordinator.",
+  "content_length": 141,
+  "content_tokens": 26,
+  "embedding": []
+ },
+ {
+  "title": "Local Health Departments and Pandemic Response",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Amesh is generally supportive of this set up given that local health departments are the ones running it because they actually know their community, they know their capacities, they know where their gaps are, and they’re able to really be on the ground with the people and able to do great things when it comes to stopping an outbreak. However, often they are under resourced during a pandemic. Amesh says that confusing part for the public is that there were some conflicting recommendation from federal to state to local areas.",
+  "content_length": 529,
+  "content_tokens": 104,
+  "embedding": []
+ },
+ {
+  "title": "Testing During the Pandemic",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "The CDC put out guidance that was too restrictive as to who could get tested. Originally that was… Only people that had traveled to China in the last 14 days, had to have lower respiratory tract symptoms or pneumonia. We weren’t testing mild cases and we weren’t testing people that hadn’t come from China. A better way to do this would have been… This is a respiratory virus and as many overlapping symptoms with common colds and flus, you should think about this in your patients and we are going to allow testing to be done if you have certain risk factors for this. And they shouldn’t just be restricted to you having severe disease or having traveled to China. We also had a scarcity of testing and reagents and nasal swabs. AND it was all compounded by bureaucratic hiccups such as the CDC test having to go through FDA emergency use authorization before it could be distributed to the US.",
+  "content_length": 895,
+  "content_tokens": 190,
+  "embedding": []
+ },
+ {
+  "title": "Future Pandemic Preparedness",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Amesh thinks that since this pandemic has impacted so many people from a health perspective but perhaps even more so an economic perspective… that this one will not be forgotten. Amesh is optimistic that the people will now prioritize pandemic preparedness and demand that their politicians take the proper steps.",
+  "content_length": 313,
+  "content_tokens": 58,
+  "embedding": []
+ },
+ {
+  "title": "Different Strategies Across the Country",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Amesh definitely thinks we should be implementing different strategies across the country. There are places that can start to think about lessening restrictions. Less social distancing, opening up more businesses, opening up schools. Definitely need to start considering opening up medical centers for non-COVID patients. Until we have vaccine… the one place where we need to be the most careful is mass gatherings.",
+  "content_length": 415,
+  "content_tokens": 77,
+  "embedding": []
+ },
+ {
+  "title": "Mass Gatherings and the Spread of the Virus",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "German data recently suggested that mass gatherings that are disproportionately driving the spread. A mass gathering brings people from wide geographic areas.",
+  "content_length": 158,
+  "content_tokens": 24,
+  "embedding": []
+ },
+ {
+  "title": "Mass Gatherings and Infectious Diseases",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Mass gatherings are a particular problem when it comes to communicable infectious diseases. People are close to each other and they are screaming and yelling which results in particles coming from their mouths. The density and the fact that people come from different geographic regions and then just disperse make it challenging to control the spread of diseases. We saw what happened at a choir practice recently. Mass gatherings are going to be a challenge until a vaccine comes out because…",
+  "content_length": 494,
+  "content_tokens": 87,
+  "embedding": []
+ },
+ {
+  "title": "Learning from HKU1, a lesser-known novel coronavirus from 2005",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Hong Kong University found a novel coronavirus (HKU1) in 2005. Coronavirus was on their radar because of the 2003 SARS situation. They found HKU1 in some people who had pneumonia that tested negative for SARS. They then looked in other countries and found it in Cleveland in the proportion of patients that were hospitalized for Coronavirus—HKU1 is disproportionately in patients who died or were on ventilators. While Amesh doesn’t think SARS-CoV-2 was widespread prior to January in the US, he would not be surprised if there were undiagnosed cases that were “hidden” in our cold and flu season as early as December.",
+  "content_length": 618,
+  "content_tokens": 147,
+  "embedding": []
+ },
+ {
+  "title": "Thoughts on Sweden’s herd immunity approach",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Sweden has sort of elected to not shut down to the extent that other European and Scandinavian countries have. They’re trying to pursue a herd immunity strategy. Amesh is a bit worried because their per capita ICU bed numbers are not very high and that’s what we’re really worried about is… Do you put an ICU into crisis? Do you have problems with ventilators? Amesh says it will be instructive to learn how they do but thinks it will be a challenge to sort of cocoon the high-risk people.",
+  "content_length": 489,
+  "content_tokens": 115,
+  "embedding": []
+ },
+ {
+  "title": "The Efficacy of Masks Being Worn in Public",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "This is a controversial topic, says Amesh, but he does NOT believe masks are very helpful to the public. For those with clear symptoms (e.g., coughing/sneezing), they should definitely wear a mask in public. The question is…For people who are asymptomatic (having no symptoms), how transmissible are they if they don’t wear a mask? This is an open question, says Amesh. The CDC made a recommendation to wear homemade masks. However, Amesh is not sure not sure how well those homemade masks prevent you from spreading it even if you ARE someone with symptoms because they don’t even stop the coughs and sneezes very well based on some studies that have been published. Amesh thinks that these masks could be paradoxically negative because people may then refrain from washing their hands as much. They may not social distance as much, they may contaminate other people with their mask if they don’t store it properly or wash it.",
+  "content_length": 927,
+  "content_tokens": 206,
+  "embedding": []
+ },
+ {
+  "title": "Positive Trends and Signs of Optimism",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Plateauing numbers in New York, Seattle, California. California, for example, is taking ventilators and giving them to other states. Washington State is dismantling their field hospital that did not see any patients and returning ventilators. Many field hospitals are closing down. Many ventilators are going back to the national stockpile. It’s important to know that it’s not going to be doom and gloom and every place.",
+  "content_length": 421,
+  "content_tokens": 91,
+  "embedding": []
+ },
+ {
+  "title": "About Dr. Amesh Adalja",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Dr. Adalja is a Senior Scholar at the Johns Hopkins University Center for Health Security. His work is focused on emerging infectious disease, pandemic preparedness, and biosecurity. Dr. Adalja has served on US government panels tasked with developing guidelines for the treatment of plague, botulism, and anthrax in mass casualty settings and the system of care for infectious disease emergencies, and as an external advisor to the New York City Health and Hospital Emergency Management Highly Infectious Disease training program, as well as on a FEMA working group on nuclear disaster recovery. He is currently a member of the Infectious Diseases Society of America’s (IDSA) Precision Medicine working group and is one of their media spokespersons; he previously served on their public health and diagnostics committees. Dr. Adalja is a member of the American College of Emergency Physicians Pennsylvania Chapter’s EMS & Terrorism and Disaster Preparedness Committee as well as the Allegheny County Medical Reserve Corps. He was formerly a member of the National Quality Forum’s Infectious Disease Standing Committee and the US Department of Health and Human Services’ National Disaster Medical System, with which he was deployed to Haiti after the 2010 earthquake; he was also selected for their mobile acute care strike team. Dr. Adalja’s expertise is frequently sought by international and national media. Dr. Adalja is an Associate Editor of the journal Health Security. He was a coeditor of the volume Global Catastrophic Biological Risks, a contributing author for the Handbook of Bioterrorism and Disaster Medicine, the Emergency Medicine CorePendium, Clinical Microbiology Made Ridiculously Simple, UpToDate’s section on biological terrorism, and a NATO volume on bioterrorism. He has also published in such journals as the New England Journal of Medicine, the Journal of Infectious Diseases, Clinical Infectious Diseases, Emerging Infectious Diseases, and the Annals of Emergency Medicine. Dr. Adalja is a Fellow of the Infectious Diseases Society of America, the American College of Physicians, and the American College of Emergency Physicians. He is a member of various medical societies, including the American Medical Association, the HIV Medicine Association, and the Society of Critical Care Medicine. He is a board-certified physician in internal medicine, emergency medicine, infectious diseases, and critical care medicine. Dr. Adalja completed 2 fellowships at the University of Pittsburgh—one in infectious diseases, for which he served as chief fellow, and one in critical care medicine. He completed a combined residency in internal medicine and emergency medicine at Allegheny General Hospital in Pittsburgh, where he served as chief resident and as a member of the infection control committee. He was a Clinical Assistant Professor at the University of Pittsburgh School of Medicine from 2010 through 2017 and is currently an adjunct assistant professor there. He is a graduate of the American University of the Caribbean School of Medicine, and he obtained a bachelor of science degree in industrial management from Carnegie Mellon University.",
+  "content_length": 3170,
+  "content_tokens": 611,
+  "embedding": []
+ },
+ {
+  "title": "Infectious Disease Expertise",
+  "date": "April 13, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Dr. Adalja actively practices infectious disease, critical care, and emergency medicine in the Pittsburgh metropolitan area.",
+  "content_length": 124,
+  "content_tokens": 22,
+  "embedding": []
+ }
+]

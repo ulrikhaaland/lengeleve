@@ -1,0 +1,42 @@
+[
+ {
+  "title": "The Benefit Model for Prevention of Cardiovascular Disease",
+  "date": "April 15, 2022",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Allan, with the help of his colleagues, constructed an alternative to the present risk model. Published in JAMA Cardiology in 2017, The Benefit Model for Prevention of Cardiovascular Disease: An Opportunity to Harmonize Guidelines.",
+  "content_length": 231,
+  "content_tokens": 45,
+  "embedding": []
+ },
+ {
+  "title": "Atherosclerosis and Young People",
+  "date": "April 15, 2022",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "The textbook went through, in great detail, the pathological staging of atherosclerosis; it was also littered with autopsy sections of coronary arteries from people who had died for other reasons. Looking at their coronary arteries, one realizes they already have atherosclerosis; they have oxidized apoB-bearing particles engulfed by macrophages and thickened intima. Notably, many of these people who died from other causes, but their coronary arteries were studied in autopsy, these people were quite young. A 26-year-old male victim of a gunshot wound; or a 27-year-old female who died in a motor vehicle accident, etc.",
+  "content_length": 623,
+  "content_tokens": 130,
+  "embedding": []
+ },
+ {
+  "title": "Experience with Heart Attacks",
+  "date": "April 15, 2022",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Peter remembers from pathology class in med school something the professor said, “No doctor has more experience with what it is to have heart attacks than pathologists because 50% of the people who have a heart attack die on their first heart attack.“ So 50% of people who have a heart attack, their first presentation is death. It’s a very sobering fact. He doesn’t think this is true today, but it was 25 years ago. Maybe now one third of first events are fatal; sobering nonetheless.",
+  "content_length": 486,
+  "content_tokens": 110,
+  "embedding": []
+ },
+ {
+  "title": "Cardiology and Cardiovascular Research",
+  "date": "April 15, 2022",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Allan D. Sniderman, MD, is the Edwards Professor of Cardiology and Professor of Medicine at McGill University. He is Director of the Mike Rosenbloom Laboratory for Cardiovascular Research at Royal Victoria Hospital in Montreal.",
+  "content_length": 227,
+  "content_tokens": 46,
+  "embedding": []
+ }
+]

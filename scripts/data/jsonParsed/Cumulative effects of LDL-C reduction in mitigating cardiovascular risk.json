@@ -1,0 +1,72 @@
+[
+ {
+  "title": "ASCVD and ApoB Particle Number",
+  "date": "July 9, 2022",
+  "context": "Cholesterol",
+  "people": "Peter Attia",
+  "content": "Atherosclerotic cardiovascular disease (ASCVD) is currently the leading cause of death in the United States and globally. Research has shown that one of the strongest factors for reducing risk of ASCVD mortality is reduction of apoB particle number, which is typically estimated – albeit imperfectly – by measuring low-density lipoprotein cholesterol (LDL-C) concentrations.",
+  "content_length": 374,
+  "content_tokens": 76,
+  "embedding": []
+ },
+ {
+  "title": "Lowering LDL-C and Mortality",
+  "date": "July 9, 2022",
+  "context": "Cholesterol",
+  "people": "Peter Attia",
+  "content": "Randomized clinical trials (RCTs) for LDL-C lowering drugs such as statins, ezetimibe, PCSK9 inhibitors, and bile acid sequestrants have shown up to a 24% lower risk of major ASCVD events for every 1 mmol/L (38.7 mg/dL) reduction of LDL-C at one year of follow-up.",
+  "content_length": 264,
+  "content_tokens": 78,
+  "embedding": []
+ },
+ {
+  "title": "Long-Term Benefits of LDL-C Lowering Medications",
+  "date": "July 9, 2022",
+  "context": "Cholesterol",
+  "people": "Peter Attia",
+  "content": "The relative protection afforded by LDL-lowering medications compounded with longer durations of use, such that the difference in CVD risk between treatment and control arms widened with each successive year – at least up to year seven, the longest study duration in the analysis.",
+  "content_length": 280,
+  "content_tokens": 52,
+  "embedding": []
+ },
+ {
+  "title": "LDL-C and ASCVD Risk Reduction",
+  "date": "July 9, 2022",
+  "context": "Cholesterol",
+  "people": "Peter Attia",
+  "content": "Data from Mendelian randomization (MR) studies suggest that the cumulative effect of low LDL-C on ASCVD risk reduction may continue indefinitely throughout life. MR studies examining genetic variants associated with LDL-C have revealed that, among subjects ages 40-80 years (mean 65.2 years), every 1 mmol/L (38.7 mg/dL) reduction in LDL-C was associated with a 54% reduction in risk of major coronary events.",
+  "content_length": 409,
+  "content_tokens": 92,
+  "embedding": []
+ },
+ {
+  "title": "Insight into Future Treatments for Lowering LDL-C",
+  "date": "July 9, 2022",
+  "context": "Cholesterol",
+  "people": "Peter Attia",
+  "content": "Not only do these study results impact how we think about LDL-C and risk of ASCVD today, but this also provides some insight into future treatments for lowering LDL-C. Advances in new LDL-C lowering pharmaceuticals will be able to exploit the compounding benefits of ASCVD risk reduction when lower LDL-C levels can be maintained for longer durations.",
+  "content_length": 351,
+  "content_tokens": 74,
+  "embedding": []
+ },
+ {
+  "title": "The Value of Using Lipid-lowering Drugs Over a Long Duration",
+  "date": "July 9, 2022",
+  "context": "Cholesterol",
+  "people": "Peter Attia",
+  "content": "For now, the value in using lipid-lowering drugs over a long duration is not simply a reduction in absolute LDL-C, but the reduction in accumulated exposure to LDL-C, which has prolonged benefits even as absolute levels of LDL-C increase over time.",
+  "content_length": 248,
+  "content_tokens": 54,
+  "embedding": []
+ },
+ {
+  "title": "The Importance of Time in Preventing ASCVD",
+  "date": "July 9, 2022",
+  "context": "Cholesterol",
+  "people": "Peter Attia",
+  "content": "If the goal in preventing ASCVD is reducing the area under the curve of the LDL-C versus time function, time matters just as much as LDL-C reduction.",
+  "content_length": 149,
+  "content_tokens": 34,
+  "embedding": []
+ }
+]

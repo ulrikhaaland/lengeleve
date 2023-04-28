@@ -1,0 +1,22 @@
+[
+ {
+  "title": "Case study: Elevated uric acid and hypertension",
+  "date": "March 8, 2022",
+  "context": "High Blood Pressure",
+  "people": "Peter Attia",
+  "content": "Patient H was a 46-year-old male with a normal BMI who had been diagnosed with essential hypertension prior to onboarding. His blood pressure ranged from 140/90 to 160/90 mmHg and was treated with lisinopril (ACEi), bringing him into the 130/90 range. He had a family history of hypertension and cardiovascular disease. His uric acid was 6.1, which never went down with a dietary change. After ~18 months on Uloric, his uric acid was fixed, and his hypertension resolved even with a persistently high homocysteine. He no longer required ACE inhibitor for blood pressure. This is a pretty unusual response to just lowering uric acid, but it’s also a great teaching point—do NOT go after blood pressure until you’ve got the uric acid below 5. Only then start playing with the blood pressure medication.",
+  "content_length": 800,
+  "content_tokens": 186,
+  "embedding": []
+ },
+ {
+  "title": "What determines uric acid levels?",
+  "date": "March 8, 2022",
+  "context": "High Blood Pressure",
+  "people": "Peter Attia",
+  "content": "Things that can drive up uric acid levels include eating foods with lots of DNA and RNA (i.e., protein sources), yeast in beer, fructose, and genetics. Despite eating and exercising well, Peter Attia can’t get his uric acid below 5.5 without using allopurinol, and he has a family history of hypertension.",
+  "content_length": 305,
+  "content_tokens": 74,
+  "embedding": []
+ }
+]

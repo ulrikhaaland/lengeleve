@@ -1,0 +1,102 @@
+[
+ {
+  "title": "The Importance of Immunity and Vaccines in Achieving Herd Immunity",
+  "date": "June 21, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "The two most important questions to understanding how we get to herd immunity are: how long does immunity last upon recovery and how efficacious will vaccines against SARS-CoV-2 be? These two questions are intimately linked. If the answer to the first question is '12 months, tops,' then it’s very unlikely a successful vaccine will confer lifetime protection. Conversely, if the answer to the first question is, essentially, 'lifetime immunity once infected,' then we could hope a vaccine would likewise confirm long(er) immunity for most of the population. There are four cases that make up the boundary conditions of this problem, in order for herd immunity to occur along different timescales.",
+  "content_length": 697,
+  "content_tokens": 141,
+  "embedding": []
+ },
+ {
+  "title": "The Four Scenarios to Reach Herd Immunity",
+  "date": "June 21, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "The four cases that make up the boundary conditions of this problem, in order for herd immunity to occur along different timescales are: long-standing immunity to viral infection, but ineffective vaccines; long-standing immunity to viral infection, and very effective vaccines; no long-standing immunity to viral infection, and ineffective vaccines; and no long-standing immunity to viral infection, but very effective vaccines.",
+  "content_length": 428,
+  "content_tokens": 80,
+  "embedding": []
+ },
+ {
+  "title": "The Best Case Scenario for Achieving Herd Immunity",
+  "date": "June 21, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "In the best case scenario, a person acquires long-lasting (ideally lifetime) natural immunity from one-time infection by, and recovery from, SARS-CoV-2, and for those not infected a very effective vaccine emerges that mirrors the protection of natural immunity. The best case would look a lot like the long-lasting immunity to, and very effective vaccine for, the Yellow Fever Virus (17D).",
+  "content_length": 389,
+  "content_tokens": 86,
+  "embedding": []
+ },
+ {
+  "title": "Different Scenarios of Immunity and Vaccines for SARS-CoV-2",
+  "date": "June 21, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "The worst-case scenario is when a person does not acquire long-lasting natural immunity to viral infection, and no effective vaccines are developed. Alternatively, a person may naturally acquire long-lasting immunity after recovery from SARS-CoV-2 while efforts to vaccinate remain ineffective. Lastly, a person may not acquire long-standing immunity to SARS-CoV-2 following infection, but an effective vaccine exists, at least providing short-term immunity.",
+  "content_length": 458,
+  "content_tokens": 93,
+  "embedding": []
+ },
+ {
+  "title": "Factors that Impact Stratifying People for COVID-19 Risk",
+  "date": "June 21, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "There are many factors that might impact how we stratify people, including pre-existing conditions of risk for severity of illness, exposure risk based on occupation, and risk appetite. Age is one of the biggest determinants of risk, but keep in mind a very healthy 60-year-old with zero comorbidities is probably a lower-risk patient than a 40-year-old with type 2 diabetes and high blood pressure.",
+  "content_length": 399,
+  "content_tokens": 87,
+  "embedding": []
+ },
+ {
+  "title": "CDC Estimate of IFR Stratified by Disease Transmission Type and Age Group",
+  "date": "June 21, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "The Table provides the “best guess planning scenario” from the Centers for Disease Control and Prevention (CDC), updated at the end of May. The scenario estimates the infection fatality rate (IFR), stratified by age. We know age is one of the biggest determinants of risk, but keep in mind a very healthy 60-year-old with zero comorbidities is probably a lower-risk patient than a 40-year-old with type 2 diabetes and high blood pressure.",
+  "content_length": 438,
+  "content_tokens": 101,
+  "embedding": []
+ },
+ {
+  "title": "IFR increases in older age groups",
+  "date": "June 21, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "The CDC’s estimate underscores how IFR increases in older age groups. It may be that age is more of an effect than a cause for disease severity, but for now we can use age as a proxy for underlying illness. It is likely that older age groups will have lower infection resilience and will have a higher proportion of symptomatic cases (more than the CDC’s assumed 65% of infections), which I alluded to in a previous email. The increase in IFR illustrates the difference in mortality risk for older age groups and the importance of who, when we consider implications for immunity durability and vaccine effectiveness.",
+  "content_length": 616,
+  "content_tokens": 124,
+  "embedding": []
+ },
+ {
+  "title": "The virus will likely never go away",
+  "date": "June 21, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "The virus will likely never go away and will likely be yet another member of the coronavirus family that causes common colds, except with a much bigger punch. It is still too early to know how long a person is protected from recurrent bouts COVID-19 after they recover from a previous infection. If it is similar to some other coronaviruses, a research study reports that people might not be protected for very long and could get sick each year.",
+  "content_length": 445,
+  "content_tokens": 93,
+  "embedding": []
+ },
+ {
+  "title": "Vaccines would help protect us from getting sick with COVID-19",
+  "date": "June 21, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "If a successful vaccine is developed, it would need to be able to protect us for a long time or we may need to get it every year like you get the flu shot. Either way, a good vaccine would help protect us from getting sick with COVID-19 and allow older people like grandmom and grandpop to see other people without having to stay far away. If I were a betting man, I’d think of this more like the type of vaccine we’ll need to get every year or so, rather than a one-and-done vaccine.",
+  "content_length": 484,
+  "content_tokens": 117,
+  "embedding": []
+ },
+ {
+  "title": "Flying during the pandemic",
+  "date": "June 21, 2020",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "We can fly right now. The question is, however, how much risk does it pose? It is hard to believe there has not been a big contact tracing study that tracks a few thousand travelers to see how many get sick so that we can better understand how the disease spreads on an airplane. Until we have more information, we need to use our common sense. Younger, healthier people can fly before older people like grandmom and grandpop. Older people need to wait until we know more about how long people are protected from getting the virus again and for a good vaccine/other preventative strategies to protect them. When we do fly, we will also continue to be cautious and wear a mask that we put on correctly and don’t play with until we are off the plane and out of the airport. Even though a fancy N95 mask provides better protection than a cloth mask when worn correctly, it might be better to wear a cloth mask and not touch it at all than have you touch or take off a less-comfortable N95 mask.",
+  "content_length": 991,
+  "content_tokens": 212,
+  "embedding": []
+ }
+]

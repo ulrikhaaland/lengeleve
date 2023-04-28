@@ -1,0 +1,112 @@
+[
+ {
+  "title": "COVID-19 was the third leading cause of death",
+  "date": "May 2, 2021",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "COVID-19 was the third leading cause of death, behind heart disease and cancer.",
+  "content_length": 79,
+  "content_tokens": 18,
+  "embedding": []
+ },
+ {
+  "title": "Most leading causes of death increased",
+  "date": "May 2, 2021",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Most (7-in-10) other leading causes of death also increased. In other words, the 18% increase in deaths was not all due to COVID-19.",
+  "content_length": 132,
+  "content_tokens": 36,
+  "embedding": []
+ },
+ {
+  "title": "Heart disease deaths increased",
+  "date": "May 2, 2021",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Heart disease accounted for nearly 32,000 more deaths, a 5% increase, which is actually the largest increase in heart disease deaths since 2012. The authors speculate that increases in other leading causes of death, especially heart disease, Alzheimer’s disease (AD), and diabetes may be due to disruptions in health care that hampered early detection and treatment.",
+  "content_length": 366,
+  "content_tokens": 70,
+  "embedding": []
+ },
+ {
+  "title": "Alzheimer's disease deaths increased",
+  "date": "May 2, 2021",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "AD accounted for nearly 12,000 more deaths, a 10% increase. This is the most surprising finding to me.",
+  "content_length": 102,
+  "content_tokens": 24,
+  "embedding": []
+ },
+ {
+  "title": "Diabetes deaths increased",
+  "date": "May 2, 2021",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Diabetes accounted for more than 13,000 additional deaths, a 15% increase, which was the largest relative increase in deaths out of all the leading causes (outside of COVID-19, of course). Diabetes death is tricky because it’s difficult to distinguish between a death from diabetes that is not related to another disease compared to a “pure” diabetic death.",
+  "content_length": 357,
+  "content_tokens": 77,
+  "embedding": []
+ },
+ {
+  "title": "Unintentional injuries deaths increased",
+  "date": "May 2, 2021",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Unintentional injuries, in which automobile accidents, falls, and drug overdose deaths typically make up the bulk of this number, account for nearly 20,000 more deaths, an 11% increase.",
+  "content_length": 185,
+  "content_tokens": 39,
+  "embedding": []
+ },
+ {
+  "title": "Suicides decreased",
+  "date": "May 2, 2021",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "There were almost 3,000 fewer suicides, a 6% decrease.",
+  "content_length": 54,
+  "content_tokens": 14,
+  "embedding": []
+ },
+ {
+  "title": "Increase in Deaths from Other Leading Causes",
+  "date": "May 2, 2021",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "The relative and absolute increase in the number of deaths from heart disease, unintentional injuries, diabetes, AD, and stroke in 2020 were all the largest since at least 2015. The authors speculated that increases in other leading causes of death, especially heart disease, AD, and diabetes may be due to disruptions in health care that hampered early detection and treatment. They also suggested the increases may indicate an underreporting of COVID-19, especially during the beginning of the pandemic, leading to an underestimation of COVID-19 mortality.",
+  "content_length": 558,
+  "content_tokens": 106,
+  "embedding": []
+ },
+ {
+  "title": "Increase in Unintentional Injuries",
+  "date": "May 2, 2021",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "The increase in unintentional injuries is very surprising when most people drove less frequently due to the pandemic. According to the authors, and the New York Times citing CDC data, increases in unintentional injury deaths were largely driven by drug overdoses. This increase may be due in part to an increase in social isolation and a decline in mental and emotional health during the pandemic. In fact, even before the pandemic, I wrote about the increase in deaths of despair —drug overdoses, suicides, and alcohol-related diseases—-contributing to the three consecutive years of decline in life expectancy in the U.S.",
+  "content_length": 623,
+  "content_tokens": 121,
+  "embedding": []
+ },
+ {
+  "title": "Increase in Automobile Deaths",
+  "date": "May 2, 2021",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "Here’s what’s even more surprising: the National Safety Council estimates that more than 42,000 automobile deaths occurred in 2020, up 8% from 2019, despite estimates that the overall number of vehicle miles traveled decreased by 13%.",
+  "content_length": 234,
+  "content_tokens": 49,
+  "embedding": []
+ },
+ {
+  "title": "Further Exploration Needed",
+  "date": "May 2, 2021",
+  "context": "COVID-19",
+  "people": "Peter Attia",
+  "content": "These data are worthy of further exploration.",
+  "content_length": 45,
+  "content_tokens": 8,
+  "embedding": []
+ }
+]

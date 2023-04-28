@@ -1,0 +1,382 @@
+[
+ {
+  "title": "The importance of cancer screening",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "In this “Ask Me Anything” (AMA) episode, Peter and Bob dive deep into cancer screening, including why it’s important, what you need to know about a test, and Peter’s approach with patients.",
+  "content_length": 189,
+  "content_tokens": 49,
+  "embedding": []
+ },
+ {
+  "title": "Cancer screening terms",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Cancer screening terms: sensitivity, specificity, false positives, and false negatives; Cancer screening terms: positive and negative predictive value",
+  "content_length": 150,
+  "content_tokens": 25,
+  "embedding": []
+ },
+ {
+  "title": "Improving predictive value by layering tests",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Improving predictive value by layering tests, and the predictive values of mammograms",
+  "content_length": 85,
+  "content_tokens": 16,
+  "embedding": []
+ },
+ {
+  "title": "Liquid biopsies for ruling out cancer",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Liquid biopsies for ruling out cancer and the blind spots of common cancer screening tests",
+  "content_length": 90,
+  "content_tokens": 17,
+  "embedding": []
+ },
+ {
+  "title": "Diffusion-weighted MRI is changing cancer screening",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "How diffusion-weighted MRI is changing cancer screening",
+  "content_length": 55,
+  "content_tokens": 10,
+  "embedding": []
+ },
+ {
+  "title": "Summary of Peter’s approach to cancer screening",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Summary of Peter’s approach to cancer screening",
+  "content_length": 47,
+  "content_tokens": 10,
+  "embedding": []
+ },
+ {
+  "title": "The importance of cancer screening",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "The importance of cancer screening [1:15]",
+  "content_length": 41,
+  "content_tokens": 10,
+  "embedding": []
+ },
+ {
+  "title": "How do you think about cancer screening?",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Addressing the first question: How do you think about cancer screening? Longevity has these two components—they’re not independent—but sometimes, it’s helpful to think about them in isolation: Lifespan—How do you live longer? Healthspan—How do you live better? Major diseases that rob a person of lifespan include cancer, atherosclerotic diseases, and the diseases of dementia and neurocognitive decline The latter two go more hand in hand with the reduction in health span By definition, when a person has Alzheimer’s disease, their quality of life  i.e. their cognition) is also deteriorating–So they’re experiencing both the slide in quality of life and eventually length of life Similarly in people that have advanced atherosclerosis, a lot of times the reduction in the ability to carry out activities of daily living kind of moves more hand in hand with that In the case of cancer, health span decline is a little less the case Age is the greatest risk factor for cancer just as it is for the other two diseases But in some ways it’s a little bit easier to think of cancer in isolation from the health span stuff if you’re trying to imagine a world in which you can live longer… that means living in a world where we delay the onset of chronic disease and/or have better tools to live longer with chronic disease Peter much more favors the former option (i.e., delay) because we’ve basically spent most of the history of modern medicine working on the latter option with very, very limited success. Screening One of the pillars of longevity is minimizing mortality from cancer So where does screening fit into this? Screening is one of three pieces First piece would be, how do you prevent cancer? The second thing would be, how do you screen for cancer and detect it early? And the third is, how do you treat it when you have it? Focusing on the prevention piece…",
+  "content_length": 1870,
+  "content_tokens": 404,
+  "embedding": []
+ },
+ {
+  "title": "Why screening is important",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "The simplest explanation for why screening matters is the evidence that suggests that a cancer that is caught earlier is easier to treat than a cancer that is caught later. For instance, if you catch a breast cancer or a colon cancer when there are tens or hundreds of millions of cancer cells, your odds of treating that successfully are better than if you catch the same cancer years later, when there are billions of cells. The evidence for that basically comes from examining how patients respond to the exact same drugs in the adjuvant setting versus in the metastatic setting. One explanation for that may be that the cancers that have been around longer have developed more mutations. It is therefore Peter’s belief that the more we can do to screen for cancer and catch it earlier, the better we will be.",
+  "content_length": 812,
+  "content_tokens": 158,
+  "embedding": []
+ },
+ {
+  "title": "The price of screening",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Screening frequently comes with a price. We pay a financial price for that and we pay potentially an emotional price. We have to now get into false positives and false negatives.",
+  "content_length": 178,
+  "content_tokens": 35,
+  "embedding": []
+ },
+ {
+  "title": "Sensitivity and specificity",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Sensitivity is the probability that the test yields a positive result for someone who has the condition of interest. Specificity is the probability that a bunch of people who do not have the condition will also end up with a negative test.",
+  "content_length": 239,
+  "content_tokens": 46,
+  "embedding": []
+ },
+ {
+  "title": "Specificity and Sensitivity",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Specificity is the number of true negatives over the total number of cases, the true negatives plus the false positive. Conversely, sensitivity is the number of true positives over the total number of cases, the true positives plus the false negatives. As specificity goes up, your ability to discern negatives goes up. As sensitivity goes up, your ability to discern positives goes up.",
+  "content_length": 386,
+  "content_tokens": 73,
+  "embedding": []
+ },
+ {
+  "title": "Metal Detector Analogy",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Using the “metal detector” analogy, let’s say you want it to be very, very sensitive, that means you never want to have a false negative. You never want anyone to walk through that detector with metal and get missed. You are dialing up sensitivity. Your true positives are going to go very high. You’re going to catch everybody. And your false negatives are going to be very low. What’s happening on the flip side of that, you’re going to get a lot of false positives. Which means you’re going to be dinging a lot of people for metal who don’t have metal. In the case of a metal detector in an airport, we probably are willing to make that trade off.",
+  "content_length": 650,
+  "content_tokens": 159,
+  "embedding": []
+ },
+ {
+  "title": "Positive and Negative Predictive Value",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "The positive predictive value is defined as the number of true positives over the true positives + the false positives (the tested positives versus all the positives). So a high positive predictive value means if you get a positive test, here’s how confident you are that your test is truly positive. Similarly, the negative predictive value are the true negatives. So if you had a 50% negative predictive value, it would mean that only half the people for whom a negative test is the outcome are actually negative for the condition.",
+  "content_length": 533,
+  "content_tokens": 103,
+  "embedding": []
+ },
+ {
+  "title": "Prevalence and Disease Probability",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "When inputting prevalence, it's important to consider the individual's background. For example, a 60-year-old who smokes two packs a day for the last 30 years has a higher prevalence of cancer than a 30-year-old who is a healthy nonsmoker. Changing the population does not affect the PPV or NPV.",
+  "content_length": 295,
+  "content_tokens": 69,
+  "embedding": []
+ },
+ {
+  "title": "Example using the Interactive Spreadsheet",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Using the example of a high-risk person doing a mammography test with a prevalence of 5%, a sensitivity of 84%, and a specificity of 91%, the PPV is only about 33%. Conversely, the NPV is very high at 99%. Changing the prevalence to 1% lowers the PPV to 8.6% but increases the NPV to 99.8%. Changing the sensitivity to 50% and specificity to 99% increases the PPV to at least 33%.",
+  "content_length": 380,
+  "content_tokens": 95,
+  "embedding": []
+ },
+ {
+  "title": "Prevalence and Predictive Value",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "In a patient population where the prevalence of cancer is 1% is not that bad. The negative predictive value is basically unchanged. Just to complete this, let’s change the prevalence 10%. Now we’re talking about a very high risk population. Your positive and negative predictive value are very high here. If you have a positive test, you’re more than 90% sure that it’s positive, that you have the condition. And if you have a negative test, you’re 95% sure that that’s correct.",
+  "content_length": 478,
+  "content_tokens": 114,
+  "embedding": []
+ },
+ {
+  "title": "Improving Predictive Value by Layering Tests, and the Predictive Values of Mammograms",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Looking at mammography… If a woman has a mammography in this population and has a positive test…what is the likelihood that she actually has breast cancer? When Bob saw a positive predictive value of about 10%, “it just didn’t compute even though I’m literally computing this”. Well, the prevalence is 1% and the positive predictive value is 10%—That’s actually pretty good as far as a test goes. Today’s mammography is going to have a higher sensitivity and specificity. That’s basically going to increase your positive predictive value to 20%. That means there’s still an 80% chance when you have a positive mammo that you don’t have breast cancer. But if you have a negative mammo, you’re in pretty solid shape.",
+  "content_length": 714,
+  "content_tokens": 173,
+  "embedding": []
+ },
+ {
+  "title": "Importance of Layering Tests",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "If you do one particular test, so for mammography for example, maybe it doesn’t mean right away that you get a biopsy.",
+  "content_length": 118,
+  "content_tokens": 30,
+  "embedding": []
+ },
+ {
+  "title": "Layering Tests for Breast Cancer Screening",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Using breast cancer as an example for the value in layering tests: Best way to do that with today’s technology is mammography plus MRI with diffusion-weighted imaging. However, diffusion-weighted imaging misses something that mammograms pick up— small calcified lesions. If you have dense breast tissue, if you have glandular breast tissue, you’re going to get a lot of false positives. And that’s why ultrasound or MRI as a backup is a great way to avoid the unnecessary biopsies that plagued many women for decades.",
+  "content_length": 517,
+  "content_tokens": 115,
+  "embedding": []
+ },
+ {
+  "title": "Smoking and Cancer Screening",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "If you look at a population of smokers and you’re looking at screening, you’re going to have a higher prevalence. Your positive predictive value is 11.6%. Your negative predictive value is 98.8%. So a women gets that test and comes back negative can confident in the result. But if she’s positive…now what do we do? You take that woman with a positive mammo, and you do the MRI with diffusion-weighted imaging and background signaling—A test which has a 92% sensitivity, a 99.6% specificity. And now, your pre-test probability goes up to that 10.6% based on the positive mammo. This is not a woman with a pretest probability of 1.3%, this is a woman with a pretest probability of 11%. And all of a sudden now if the MRI comes back positive, she has a 97% chance of breast cancer. This is a woman in whom you can justify doing a biopsy. And if it comes back negative, you’re 99% sure it’s negative.",
+  "content_length": 897,
+  "content_tokens": 226,
+  "embedding": []
+ },
+ {
+  "title": "Liquid Biopsies for Cancer Screening",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "A liquid biopsy is a biopsy of the blood (essentially a blood sample). The goal here is to be able to infer through a blood test if a person has a solid organ tumor. A company called GRAIL has basically developed a technology of both sequencing and machine learning that takes blood and looks for something called cell-free DNA fragments. When cancer is present, the methylation profile of cfDNA or cell-free DNA changes.",
+  "content_length": 421,
+  "content_tokens": 90,
+  "embedding": []
+ },
+ {
+  "title": "Epigenetic screening and liquid biopsies",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Methyl groups are those little CH groups that are ubiquitous in all of biochemistry and when they get attached to DNA/get attached to the nucleotides it’s like fingerprints, like knowing that there’s a change in the signature of what’s going on. It’s that CF or cell-free DNA methylation pattern that is what allows people to in the case of these machine learning algorithms infer that a cancer is present AND what the likely tissue of origin is. Originally, there was another hypothesis was that you could look for tumor DNA. But it turns out that this cell-free DNA approach is the more robust approach because it’s simply a numbers game. While there is some DNA from tumors, it’s far less common. The actual amount of it is about 1/1000th the amount of cell-free DNA. In other words, you’ve got about 0.1% the amount of tumor DNA that you have cell-free DNA so you’d be better off looking at the cell-free DNA and looking at the methylation patterns of that than trying to find the tumor DNA. This kind of epigenetic screening is basically what allows you to infer what’s going on at the level of the tissue. You validate using known positive and known negatives. You look at blood banks in which you have a whole bunch of people who have a known type of cancer. And then you have blood from people who are known to not have cancer and not develop cancer in the next period of X months or years. Then the question is, Can you take that information of something that you calibrate on known positives and negatives, and then apply it to what we call real-world performance? The answer is yes. Preliminarily, what we know is that the test increases in sensitivity as cancer stages goes up. The specificity on this test is very high – about 99.5%. But the sensitivity starts low. stage one cancers – about 20%. stage two cancers – about 45%. Stage three cancers – about 81%. Stage four cancers – about 93%. For all local cancers—stage one, two, and three—it’s a 44% sensitivity. For all cancers all told, it’s about a 55% sensitivity, 99.3% specificity. Predictive value: If you apply those data to an all-comer prevalence, you’ll see that the positive predictive value for early stage tumors is about 20%. And it increases to about 45% for all cancers, and 55-60% for advanced cancers. Negative predictive value vacillates between 99.2 and 99.9%. The most remarkable thing about liquid biopsies… It’s testing for more or less 50 cancer types and it’s really good at discerning what they call the tissue of origin—96% of the samples can actually detect which location it’s coming from. So rather than going through the multitude of invasive tests (CT scan, biopsy, colonoscopy) in search of the origin, you can know this from the liquid biopsy. Blind spots of liquid biopsies (and other tests) With mammography, there are huge blind spots when it comes to very dense glandular breast tissue. Huge blind spot to MRI, small calcified lesion. There’s a blind spot to liquid biopsies, tissues that are encapsulated. Prostate, for example—liquid biopsies are not a great test for prostate cancer.",
+  "content_length": 3090,
+  "content_tokens": 718,
+  "embedding": []
+ },
+ {
+  "title": "Prostate Cancer Testing",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "For prostate cancer testing – See podcast with Ted Schaeffer",
+  "content_length": 60,
+  "content_tokens": 12,
+  "embedding": []
+ },
+ {
+  "title": "Blind Spots in Cancer Screening",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "The macro point is knowing where your blind spots are. One other example of blind spots is with MRI in early lesions in the GI tract. If the lesion is big enough, you’re going to see it, but if not, you’re going to need to look inside.",
+  "content_length": 235,
+  "content_tokens": 60,
+  "embedding": []
+ },
+ {
+  "title": "Cancer Originating from Inside versus Outside the Body",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "The difference between cancer originating from inside versus outside the body [41:15]. “In my mind, it’s unacceptable for a person to die from a cancer that starts outside the body that is visible.” —Peter Attia. Everything from the mouth to the anus is outside the body. It is part of the same type of tissue lining. Outside the body would be things like melanoma or even colon cancer.",
+  "content_length": 386,
+  "content_tokens": 88,
+  "embedding": []
+ },
+ {
+  "title": "Colon Cancer Screening",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "There’s another thing that makes colon cancer in particular very amenable to early screening. Unlike other cancers, it has a very predictable path of development. It always goes from polyp to cancer. Not all of those polyps are pedunculated, meaning they’re not all the little polyps that stick out that are easy to see. There are also sessile polyps, which are flat and easy to miss. A great endoscopist and an exceptional bowel prep should be able to identify all polyps, especially if the endoscopist is able to spend enough time looking and get complete visualization of the entire colon. If you were to do a colonoscopy on a person every single day, you would by definition always see the thing that is going to become colon cancer. That means nobody should ever be dying of colon cancer if we’re smart enough to know how often to do that test. A common recommendations today says somewhere between every 5 and 10 years, starting between age 40 and 50 depending on your risk factors. But, at the individual level, those recommendations don’t make any sense. And the reason they don’t make any sense is there are still people dying of colon cancer, despite following those recommendations.",
+  "content_length": 1193,
+  "content_tokens": 258,
+  "embedding": []
+ },
+ {
+  "title": "Cancers Originating Inside the Body",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Inside the body cancer is tougher. Examples: Brain cancers, breast cancers, lung cancers, pancreatic cancers, liver cancer, kidney cancer, prostate cancer, sarcomas, cancers of the connective tissue. Cancers that you can’t look at with the naked eye. And liquid biopsies can hopefully give us a great insight into this coupled with all of these other types of screenings. The MRI is a big part of that. It’s also knowing when you need other things — For example, knowing you also need the mammography. Other examples of outside the body, cervical cancer, head and neck cancer, you can’t look at—it’s too far away. Even though some of them can be outside the body, but they’re just too difficult to see. So we tend to rely on the inside the body looks.",
+  "content_length": 751,
+  "content_tokens": 178,
+  "embedding": []
+ },
+ {
+  "title": "Cancers in the Blood",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "There are cancers of the blood – Leukemias. Unfortunately, those are still things that show up when people are symptomatic — we don’t have routine tests for looking for leukemias. People usually show up with anemia or some abnormal finding on a blood count that usually tips people off to that. So it’s a question of, How do we stack our screening in each of those three categories to go about finding it?",
+  "content_length": 405,
+  "content_tokens": 93,
+  "embedding": []
+ },
+ {
+  "title": "Diffusion-Weighted MRI and Cancer Screening",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "How diffusion-weighted MRI is changing cancer screening [45:15]. ⇒ Previous episode of The Drive dedicated to discussing diffusion-weighted imaging MRI. MRI is it’s all about proton manipulation. Protons or hydrogen atoms are ubiquitous in the body, and if you think about it, we’re 70, 75% water and water is H2O. By the way says nothing of all the hydrocarbons in our body—We are organic matter, we’re made of carbon, hydrogen, nitrogen. Everything that is happening with an MRI is basically manipulating a hydrogen atom with a very, very strong magnet if anybody’s had an MRI, they’re probably very used to seeing the images and they may even notice that sometimes the images look really good (meaning they look anatomically normal).",
+  "content_length": 736,
+  "content_tokens": 171,
+  "embedding": []
+ },
+ {
+  "title": "MRI Sequences: T1 and T2-weighted images",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "The two most common sequences in MRI are called T1 and T2-weighted images. They basically highlight different elements of the anatomy. A T1-weighted image is a very anatomically beautiful image – it tends to highlight fat. A T2-weighted image conversely is not as anatomically nice, but it’s still a very helpful image especially, for example, if you’re looking at the spine.",
+  "content_length": 375,
+  "content_tokens": 92,
+  "embedding": []
+ },
+ {
+  "title": "Diffusion-weighted imaging with background subtraction (DWIBS)",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "DWIBS is looking at water, but it’s doing so across two points of time. It’s doing so at two very small points of time, which is about 60 microseconds. When you consider how ubiquitous water is in our body, even over 60 microseconds, water should be moving. But if it doesn’t, then it tells us that that water is somehow trapped. This is what makes diffusion-weighted imaging a little bit more of a functional test than an imaging test.",
+  "content_length": 436,
+  "content_tokens": 105,
+  "embedding": []
+ },
+ {
+  "title": "CT scan vs PET scan",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "A CT scan is an image that shows anatomic detail. Whereas a PET scan is a functional study—it shows glucose uptake by tissue so it’s not really trying to show you a nice picture where you can infer the minutiae of the vascular system of the liver or the pancreas. Instead, it’s just trying to say, “Look, here’s an area where a lot of cells are taking up glucose.” The DWI is more akin to the latter (the PET scan).",
+  "content_length": 415,
+  "content_tokens": 109,
+  "embedding": []
+ },
+ {
+  "title": "DWI and Cancer Detection",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "The DWI is basically showing you the darker something is on that scan, the firmer that tissue is. And that becomes very relevant in the setting of cancer, because cancer feels different than non-cancer. This is why the DWI, when paired with the other phases of the MRI, is a very powerful tool.",
+  "content_length": 294,
+  "content_tokens": 65,
+  "embedding": []
+ },
+ {
+  "title": "Prenuvo MRI versus conventional MRI",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "In the figure above, you’ll see the upper right and the lower left are axial views of the patient. What we’re basically trying to show you is what’s happening with the pancreas. But in the bottom right, it lights up very dark—which is to say that it is a very firm mass in the pancreas, which in this case turned out to be a very early stage pancreatic cancer that was otherwise missed. In this case, the patient has very dense breast tissue—a woman with very dense breast tissue is going to easily have a mammogram that’s going to make mistakes. Interestingly here, the mammogram did not identify a tumor.",
+  "content_length": 606,
+  "content_tokens": 144,
+  "embedding": []
+ },
+ {
+  "title": "Breast Cancer Detection",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "The DWI can detect aggressive cancers that would have been missed by mammogram and traditional MRI. Peter Attia recommends utilizing the full body MRI with diffusion-weighted imaging for cancer screening.",
+  "content_length": 204,
+  "content_tokens": 38,
+  "embedding": []
+ },
+ {
+  "title": "Recommended Cancer Screenings",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Peter Attia recommends frequent mammography, cervical exam, colonoscopy, endoscopy, dermatologic exam, and ophthalmologic exam for ocular melanoma. In men, PSA with PSA velocity, PSA volume, and a Four-kallikrein test (4k score) if suspicion is high.",
+  "content_length": 250,
+  "content_tokens": 69,
+  "embedding": []
+ },
+ {
+  "title": "Tailored Approach to Cancer Screening",
+  "date": "July 26, 2021",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Peter Attia tailors cancer screening to the individual, with some patients getting a colonoscopy every year and others every five years. This approach comes at a cost, but so far has not led to any unnecessary procedures for his patients.",
+  "content_length": 238,
+  "content_tokens": 48,
+  "embedding": []
+ }
+]

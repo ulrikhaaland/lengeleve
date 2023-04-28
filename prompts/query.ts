@@ -1,4 +1,4 @@
-import endent from "endent";
+import endent from 'endent';
 
 export const currentQueryPrompt = endent`
 First generate your own full, descriptive and adequate idea of an answer to the question, as you would when normally prompted with the question without any additional information provided.
@@ -23,4 +23,52 @@ Do not include information that does not address the question.
 If there is no relevant information from the passages, you may use your own words to address the question.
 Never mention the passages in your answer.
 Never mention people or their names unless explicitly asked for in the question, instead include only the information they speak about.
+Never start your answer with "Answer:".
+If your answer contains a sequence of instructions, rewrite those instructions in the following format:
+- Step 1: ...
+- Step 2: ...
+...
+- Step n: ...
 `;
+
+export const firstExperimentalQueryPrompt = endent`
+Your task is to perform the follow actions:
+1 - Generate your own full, descriptive and adequate idea of an answer to the question, as you would when normally prompted with the question without any additional information provided.
+2 - Pick out the following passages that are most relevant to the question.
+3 - Modify your own answer, while keeping the format the same, using the passages you picked out.
+5 - Never mention any passage dates unless specifically asked for in the question.
+4 - Output a JSON object that contains 3 follow-up questions that a user might ask based on your modified answer.
+
+Use the following format:
+Answer: <modified answer>
+JSON: <3 follow-up questions> in the following format [{"question": <question1>}, {"question": <question2>}, {"question": <question3>}].
+`;
+
+
+
+export const secondExperimentalQueryPrompt = endent`
+Your task is to perform the follow actions:
+1 - Generate your own full, descriptive and adequate idea of an answer to the question, as you would when normally prompted with the question without any additional information provided.
+2 - Pick out the following passages that are most relevant to the question.
+3 - Modify your own answer, while keeping the format the same, using the passages you picked out.
+4 - Try to keep the modified answer short, but expand if necessary.
+5 - Be accurate, helpful, concise, and clear.
+Use the following format:
+Answer: <modified answer>
+`;
+
+export const currentExperimentalQueryPrompt = endent`
+Your task is to perform the follow actions:
+1 - Generate your own full, descriptive and adequate idea of an answer to the question, as you would when normally prompted with the question without any additional information provided.
+2 - Pick out the following passages that are most relevant to the question.
+3 - Think about how to best present the information from the passages in your answer. Making it easy to parse for the user.
+4 - Modify your own answer, while keeping the format the same, using the passages you picked out.
+5 - Try to keep the modified answer short, but expand if necessary.
+6 - Be accurate, helpful, concise, and clear.
+Use the following format:
+Answer: <modified answer>
+`;
+
+// My answer: <your answer>
+// Modified answer: <your modified answer>
+// First find relevant information from the passages below, then answer the question based on that information.

@@ -1,13 +1,13 @@
-import { PromptItem } from "@/utils/getQueryPrompt";
-import { OpenAIModel } from "@/types";
-import { createClient } from "@supabase/supabase-js";
-import endent from "endent";
+import { PromptItem } from '@/utils/getQueryPrompt';
+import { OpenAIModel } from '@/types';
+import { createClient } from '@supabase/supabase-js';
+import endent from 'endent';
 import {
   createParser,
   ParsedEvent,
   ReconnectInterval,
-} from "eventsource-parser";
-import { systemPromptCurrent } from "../prompts/system";
+} from 'eventsource-parser';
+import { systemPromptCurrent } from '../prompts/system';
 
 export const supabaseAdmin = createClient(
   process.env.SUPABASE_URL!,
@@ -23,26 +23,26 @@ export const OpenAIStream = async (prompt: PromptItem[], apiKey: string) => {
   const systemCurrent = systemPromptCurrent;
 
   const contentPrompt = {
-    role: "user",
+    role: 'user',
     content: systemCurrent,
   };
 
   /// insert content prompt at index 0 of prompt array
-  prompt.unshift(contentPrompt);
+  // prompt.unshift(contentPrompt);
 
-  console.log("Running OpenAIStream...");
+  console.log('Running OpenAIStream...');
 
-  const res = await fetch("https://api.openai.com/v1/chat/completions", {
+  const res = await fetch('https://api.openai.com/v1/chat/completions', {
     headers: {
-      "Content-Type": "application/json",
-      Authorization: `Bearer ${apiKey}`,
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${apiKey}`,
     },
-    method: "POST",
+    method: 'POST',
     body: JSON.stringify({
-      model: "gpt-3.5-turbo-0301",
+      model: 'gpt-3.5-turbo',
       messages: prompt,
       max_tokens: 1000,
-      temperature: 0.4,
+      temperature: 0.0,
       stream: true,
     }),
   });
@@ -57,10 +57,10 @@ export const OpenAIStream = async (prompt: PromptItem[], apiKey: string) => {
   const stream = new ReadableStream({
     async start(controller) {
       const onParse = (event: ParsedEvent | ReconnectInterval) => {
-        if (event.type === "event") {
+        if (event.type === 'event') {
           const data = event.data;
 
-          if (data === "[DONE]") {
+          if (data === '[DONE]') {
             controller.close();
             return;
           }

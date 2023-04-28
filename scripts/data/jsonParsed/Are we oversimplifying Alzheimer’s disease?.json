@@ -1,0 +1,52 @@
+[
+ {
+  "title": "4 Subtypes of Alzheimer’s disease",
+  "date": "January 15, 2022",
+  "context": "Cognitive Health & Neurodegenerative Disease",
+  "people": "Peter Attia",
+  "content": "Researchers analyzed a large collection of data (thousands of brain scans) to propose that the varied AD presentations can be organized into 4 distinct subtypes based on a protein called tau. The study identified 4 subtypes, each having a distinctive pattern of tau buildup and resulting AD symptoms. Subtype a: tau aggregates in the inner region of the brain (the limbic subtype), such that memory and emotions are impacted but overall cognition is relatively spared; Subtype b: tau buildup occurs first in the back of the brain and then spreads to the frontal region over time (the posterior subtype). There is a slower cognitive decline relative to the other subtypes when it comes to everyday mental skills such as counting backwards, 3-item list recall, or phrase repetition. However, tau build-up in the visual cortex impacts visuospatial processing abilities such as spatial orientation and distinguishing object shapes, contours, distance, and location relative to other objects; Subtype c: the disease onset is younger and there are more tau aggregates overall but relatively less in the hippocampal region (the medial-temporal lobe, or MTL sparing subtype). The subtype is considered “atypical” because memory impairment is initially absent. On the other hand, tau builds up in the rest of the cerebral cortex so people may have greater difficulties with executive function (i.e., the ability to plan and perform an action or complex task); Subtype d: tau buildup favors the left side (“L” temporal subtype) of the brain, which explains why some people may have preserved memory but impaired language ability (since language is typically processed on the left side of the brain).",
+  "content_length": 1689,
+  "content_tokens": 351,
+  "embedding": []
+ },
+ {
+  "title": "Subtyping for Alzheimer's Disease",
+  "date": "January 15, 2022",
+  "context": "Cognitive Health & Neurodegenerative Disease",
+  "people": "Peter Attia",
+  "content": "My colleague Richard Isaacson, with whom I have spoken a couple of times on the podcast, characterizes AD based on clinical markers and attributes (such as APOE4, blood lipids, cardiovascular health, body composition, biological sex) and then addresses the individual’s risk based on the markers that he sees. If we focus on disease classification the reverse way (typing via clinical presentation), we can also more optimally personalize care based on modifiable risk factors for disease progression.",
+  "content_length": 501,
+  "content_tokens": 100,
+  "embedding": []
+ },
+ {
+  "title": "Why Subtyping is Helpful",
+  "date": "January 15, 2022",
+  "context": "Cognitive Health & Neurodegenerative Disease",
+  "people": "Peter Attia",
+  "content": "Neurodegenerative disease treatment (and precision medicine for that matter) are puzzles that call for a gestalt interpretation; the whole picture is greater than the sum of its parts. Hopefully, in the not-too-distant future, we will have a repository of information that includes brain imaging data (like that in the Nature study), genetic signatures composed of multiple disease-associated genes (i.e., polygenic risk scores), and subtyping molecular signatures of regulatory pathways such as those that control inflammation, cerebral spinal fluid, blood lipids, metabolic panels, and more. And to take it one step further, I would want to understand the various inputs that lead to a given subtype, in the hope that we might prevent or slow the potential disease course.",
+  "content_length": 774,
+  "content_tokens": 156,
+  "embedding": []
+ },
+ {
+  "title": "Preventative Treatment for Alzheimer's Disease",
+  "date": "January 15, 2022",
+  "context": "Cognitive Health & Neurodegenerative Disease",
+  "people": "Peter Attia",
+  "content": "For example, if we can recognize early signs of factors that interact and lead to early AD onset, we can preventatively treat the precursors before disease symptoms manifest.",
+  "content_length": 174,
+  "content_tokens": 34,
+  "embedding": []
+ },
+ {
+  "title": "Subtyping for Improved Clinical Outcomes",
+  "date": "January 15, 2022",
+  "context": "Cognitive Health & Neurodegenerative Disease",
+  "people": "Peter Attia",
+  "content": "Taking into account the variation of a particular disease across individuals affords opportunities to apply nuanced prevention or tailored treatment, and in a paper I co-authored with Dr. Isaacson’s research group, we found that individualized, multidomain interventions based on emerging principles of precision medicine may improve cognition and reduce Alzheimer’s and cardiovascular risk scores in patients at risk for AD dementia. Subtyping, in essence, is a useful shortcut toward individualization, and in that capacity, this Nature study is a beacon. Formal recognition of the heterogeneity of this disease constitutes an important advance toward tailored care.",
+  "content_length": 668,
+  "content_tokens": 124,
+  "embedding": []
+ }
+]

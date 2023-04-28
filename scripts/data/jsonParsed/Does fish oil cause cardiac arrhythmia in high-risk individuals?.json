@@ -1,0 +1,102 @@
+[
+ {
+  "title": "Omega-3 Fatty Acids and Cardiovascular Disease",
+  "date": "November 7, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Excitement related to omega-3 polyunsaturated fatty acids (n3FA), found almost exclusively in seafood, began in 1995 when a Seattle population-based case control study suggested that seafood consumption reduced primary cardiac arrest and cardiovascular (CV) mortality. Fish oil supplements, specifically those containing n3FA eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA), have become part of the preventative treatment repertoire. Current lipid society guidelines recommend EPA for reducing residual risk (that is, the risk that remains after standard procedures for reducing risk have been applied) of cardiovascular disease (CVD) in high-risk, statin-treated patients with triglyceride (TG) elevations, while other organizational guidelines have continuously recommended intake of n3FA through diet. Though not explicitly included in most guidelines, n3FA intake through supplementation has largely been considered a safe alternative to dietary n3FA consumption.",
+  "content_length": 978,
+  "content_tokens": 190,
+  "embedding": []
+ },
+ {
+  "title": "Efficacy of Omega-3 Fatty Acids in Reducing Risk of Cardiovascular Disease",
+  "date": "November 7, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Despite the promise shown by early studies, other reports have called into question the efficacy of n3FA in reducing risk of CVD. Early hypotheses about the cardioprotective effects of fish oil postulated that the reduced risk of CVD events might be related to an anti-arrhythmic effect of n3FA, but such speculation was tempered when, in a placebo-controlled study of participants with implanted defibrillators, n3FA did not demonstrate an arrhythmia-suppressive effect and was reported instead to have a pro-arrhythmic effect in some participants. Further, data from a recent randomized controlled trial (RCT) showed that supplementation with n3FA (2000mg EPA + DHA) compared to placebo did not result in a lower incidence of major CV events (“VITAL” study: VITamin D and OmegA-3 TriaL). This contrasted findings from a 2019 RCT, which demonstrated that among high-risk, statin-treated patients with elevated TG levels, 2000mg of EPA twice daily appeared to reduce the risk of CV events relative to placebo.",
+  "content_length": 1009,
+  "content_tokens": 231,
+  "embedding": []
+ },
+ {
+  "title": "Omega-3 Fatty Acids and Atrial Fibrillation",
+  "date": "November 7, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Much of the debate over the cardiovascular effects of n3FA has focused on its potential association with atrial fibrillation (AFib), a type of arrhythmia originating in the upper chambers of the heart. Entering into this discussion is a recent meta-analysis which investigated the association between AFib and n3FA supplementation in people at high CVD risk with elevated TG. The study pooled 5 RCTs, each of which had either favorable or neutral findings for n3FA reducing CVD risk compared to placebo. Ultimately, the meta-analysis reported a significant 37% increase in AFib rates among participants taking n3FA compared to those on placebo (Table). The absolute rate of AFib across the 5 studies was 2.65% compared to about 1.94% in placebo-assigned participants. (If you’ve followed our Studying Studies series you’re probably quick to put this into the following terms: Relative risk increase = 36.6%; Absolute risk increase = 0.71%.) Of note, the meta-analysis reported that there was no increased risk for stroke, which is a known complication of AFib. This could be because fish oil has been reported to act as an anticoagulant, and anticoagulants are typically given to people with AFib to reduce the risk of stroke or events related to clotting. It is also possible that, had the trial been extended, stroke incidence may have eventually increased in the fish oil group with AFib. Or perhaps participants with AFib had an increased incidence for stroke in the fish oil group, but the trials did not report the incidence of paired events.",
+  "content_length": 1548,
+  "content_tokens": 338,
+  "embedding": []
+ },
+ {
+  "title": "Association between n3FA and AFib risk",
+  "date": "November 7, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "This study is not the first to show an association between n3FA and AFib risk, though results have varied. In one study, higher levels of EPA in men and women were associated with greater incidence of AFib, though, interestingly, DHA was found to have a similar association with AFib only in women and not men. The VITAL study on n3FA cardiovascular effects reported no significant difference in AFib incidence among participants randomized to receive EPA, DHA, vitamin D3, or placebo, while yet another suggested n3FA may even be protective against fibrillation, as higher plasma levels of DHA were associated with decreased AFib incidence.",
+  "content_length": 641,
+  "content_tokens": 134,
+  "embedding": []
+ },
+ {
+  "title": "Molecular mechanisms of n3FA",
+  "date": "November 7, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "The molecular mechanisms through which n3FA exerts various effects on the cardiovascular system are not precisely known, in part because these molecules affect a wide array of molecular pathways, any combination of which might contribute to various downstream physiological effects. Omega-3 fatty acids influence cellular functions in many different types of tissues by modulating (i.e., turning up or down) gene expression and interacting with cellular receptors, ion channels, and enzymes, as well as by incorporating into cell membranes and altering their structural properties. For the heart, the net result of these n3FA cellular actions is potentially alteration of cardiac electrical activity and modulation of processes like vasodilation, vasoconstriction, and platelet aggregation.",
+  "content_length": 790,
+  "content_tokens": 141,
+  "embedding": []
+ },
+ {
+  "title": "Variation in CV outcomes of n3FA therapy",
+  "date": "November 7, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "An additional source of individual variation in CV outcomes of n3FA therapy comes from variability in vagal tone. As noted earlier, the cardiovascular effects of n3FA are consistent with a heightening of vagal activity, characterized by a decrease in heart rate and increase in HRV. Though these effects are desirable in most cases, they are associated with an increased risk of AFib among individuals with high vagal tone at baseline, such as certain highly-trained athletes. In other words, n3FA may – through the same mechanism of increasing vagal tone – result in reduced AFib risk in some and increased AFib risk in others.",
+  "content_length": 628,
+  "content_tokens": 129,
+  "embedding": []
+ },
+ {
+  "title": "Association between n3FA and increased risk of AFib",
+  "date": "November 7, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "An association between supplemental n3FA and increased risk of AFib seems likely to exist, but perhaps only for those already at significant risk for cardiovascular events.",
+  "content_length": 172,
+  "content_tokens": 31,
+  "embedding": []
+ },
+ {
+  "title": "Current research on n3FA supplementation and AFib risk",
+  "date": "November 7, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Current research using existing data is further interrogating the question of n3FA supplementation and associated risk of AFib and may help shed light on how such an association might depend on prior CVD risk factors. The Global Organization for EPA and DHA is currently conducting its own meta-analysis covering a large number of studies, and the Fatty Acids and Outcomes Research Consortium, which has collected massive volumes of lipid data from study populations over many years, is looking now at AFib endpoints among its datasets.",
+  "content_length": 536,
+  "content_tokens": 103,
+  "embedding": []
+ },
+ {
+  "title": "Caution for patients with predisposition to AFib",
+  "date": "November 7, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Pending further insight, all patients who are advised to take supplemental or prescription n3FA products should also be advised of the potential risks, and caution is warranted particularly for those with a predisposition to AFib.",
+  "content_length": 230,
+  "content_tokens": 43,
+  "embedding": []
+ },
+ {
+  "title": "Assessing benefits and risks of n3FA supplementation",
+  "date": "November 7, 2021",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Given the existing evidence that n3FA supplementation may alternatively reduce CVD-associated risk, I weigh the benefits with the risk for each patient, and individual characteristics like heart rate, HRV, TG, and CVD history are important considerations to assess whether n3FA supplementation provides more harm or benefit.",
+  "content_length": 324,
+  "content_tokens": 61,
+  "embedding": []
+ }
+]
