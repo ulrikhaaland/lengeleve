@@ -1,7 +1,7 @@
-import { User } from "@/stores/general.store";
-import endent from "endent";
+import { User } from '@/stores/general.store';
+import endent from 'endent';
 
-export const currentQueryPrompt = endent`
+const firstQueryPrompt = endent`
 First generate your own full, descriptive and adequate idea of an answer to the question, as you would when normally prompted with the question without any additional information provided.
 It is very important that you ensure your answer template is complete and accurate, before you use the passages below.
 It is more important that your answer is complete and accurate than it is to use the passages below.
@@ -32,7 +32,7 @@ If your answer contains a sequence of instructions, rewrite those instructions i
 - Step n: ...
 `;
 
-export const firstExperimentalQueryPrompt = endent`
+const secondQueryPrompt = endent`
 Your task is to perform the follow actions:
 1 - Generate your own full, descriptive and adequate idea of an answer to the question, as you would when normally prompted with the question without any additional information provided.
 2 - Pick out the following passages that are most relevant to the question.
@@ -45,7 +45,7 @@ Answer: <modified answer>
 JSON: <3 follow-up questions> in the following format [{"question": <question1>}, {"question": <question2>}, {"question": <question3>}].
 `;
 
-export const secondExperimentalQueryPrompt = endent`
+const thirdQueryPrompt = endent`
 Your task is to perform the follow actions:
 1 - Generate your own full, descriptive and adequate idea of an answer to the question, as you would when normally prompted with the question without any additional information provided.
 2 - Pick out the following passages that are most relevant to the question.
@@ -56,7 +56,7 @@ Use the following format:
 Answer: <modified answer>
 `;
 
-export const currentExperimentalQueryPrompt = endent`
+const fourthQueryPrompt = endent`
 Your task is to perform the follow actions:
 1 - Generate your own full, descriptive and adequate idea of an answer to the question, as you would when normally prompted with the question without any additional information provided.
 2 - Pick out the following passages that are most relevant to the question.
@@ -78,9 +78,10 @@ export const getCurrentQuery = (user?: User): string => {
     2 - Address the user directly when you see fit.
     3 - Generate your own full, descriptive and adequate idea of an answer to the question, as you would when normally prompted with the question without any additional information provided.
     4 - Pick out the following passages that are most relevant to the question.
-    5 - Modify your own answer, while keeping the format the same, using the passages you picked out.
-    6 - Try to keep the modified answer short, but expand if necessary.
-    7 - Be accurate, helpful, concise, and clear.
+    5 - Modify your own answer, while keeping the format the same, using the passages you picked out. If there is no relevant passages, answer on your own.
+    6 - Make sure you never list any passages in your answer.
+    7 - Try to keep the modified answer short, but expand if necessary.
+    8 - Be accurate, helpful, concise, and clear.
     9 - Think about how to best present the information from the passages in your answer. Making it easy to parse for the user.
     ${
       user?.ageGroup

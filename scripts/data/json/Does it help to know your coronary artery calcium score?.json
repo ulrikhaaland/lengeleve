@@ -1,0 +1,12 @@
+[
+  {
+    "content": "I read an interesting paper on fitness, cardiovascular disease (CVD), and coronary artery calcium (CAC) scores from the Cooper Center Longitudinal Study. This paper looked at “generally healthy middle-aged men” and associations between their level of aerobic fitness (Ken Cooper, of which the study is named after, is recognized as the person who introduced the concept of aerobics), CAC scores, and risk for CVD. So why was this interesting to me (and by extension, should you care)?\nI’ve heard a number of people quoting the 10-year risk of an event for someone with a CAC score of zero is about 0.4%, or 4 cases per 1,000 individuals. Basically, the thinking goes, if you see no calcium on the CAC, there is little to no risk of CVD over the next decade, so there is no need to treat, even if the biomarkers are, well, for shit. I have always rejected this logic for reasons too long for a Sunday morning casual email, but I do want to point out a few things.\n First, I think the 10-year event rate is actually 4%. (Trying not to subject you to the mathematical rabbit hole, but to try to clarify: rates of events like CVD are expressed in person-years. For example, in the MESA study, the observed 10-year ASCVD [AS is for atherosclerotic] event rate was 4.2 per 1000 person-years. That’s 4.2 events per 1,000 people, per year. Over 10 years, that’s 42 events per 1,000 people, which is 4.2%.)\nSecond, if you look at the paper I allude to at the top (CAC and fitness), the rates seem even higher. Consider table 2: People with a CAC of 0 (i.e., ZERO) had a 0.9% (CI: 0.6% to 1.3%) “hard event” (i.e., heart attack, stroke, death) rate. This was calculated from the following raw data: 3,729 people had a score of 0, and over the follow-up period of 8.2 years, 27 hard events occurred. This is much higher than people like to quote in the camp of “if your CAC is zero you can ignore your lipids.”  Caveat emptor.\nIn closing, there’s an article from February that went over some of the pros and cons for knowing your CAC score. I think it’s an important debate. To tip my hand, I wouldn’t say I was immune to CVD if I have a CAC score of zero, nor would I say that registering a score of > 100 punches my ticket to CVD, but to get into that story, we’ll need another day. (And maybe an additional day to unpack the associations with fitness and CVD.)",
+    "contentLength": 2352,
+    "encodedLength": 626
+  },
+  {
+    "content": "\n– Peter",
+    "contentLength": 8,
+    "encodedLength": 3
+  }
+]

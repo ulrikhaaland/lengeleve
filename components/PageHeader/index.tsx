@@ -5,18 +5,23 @@ import {
   Dialog,
   DialogTitle,
   DialogContent,
-  DialogContentText,
   DialogActions,
   Button,
+  Tooltip,
 } from '@mui/material';
 import { User } from '@/stores/general.store';
 import { useStore } from '../../stores/RootStoreProvider';
+import { observer } from 'mobx-react';
 
 const PageHeader = () => {
   const { generalStore } = useStore();
 
+  const { hasAskedQuestion } = generalStore;
+
   const [open, setOpen] = useState(false);
   const [user, setUser] = useState<User>(generalStore.user);
+  const [addInformationPopUp, setAddInformationPopUp] =
+    useState<boolean>(false);
 
   const handleClickOpen = () => {
     setOpen(true);
@@ -42,14 +47,23 @@ const PageHeader = () => {
 
   useEffect(() => {
     generalStore.setUser(user);
+    setAddInformationPopUp(false);
   }, [generalStore, user]);
 
   useEffect(() => {
     const storedUser = localStorage.getItem('user');
     if (storedUser) {
       setUser(JSON.parse(storedUser));
+    } else {
+      setAddInformationPopUp(true);
     }
   }, []);
+
+  useEffect(() => {
+    if (hasAskedQuestion) {
+      setAddInformationPopUp(false);
+    }
+  }, [hasAskedQuestion]);
 
   return (
     <div className='border-b w-full'>
@@ -60,9 +74,15 @@ const PageHeader = () => {
           <h2 className='text-m mb-2 text-gray-600'>Model: Chattia01</h2>
         </div>
         <div className='text-right mr-4'>
-          <IconButton color='inherit' onClick={handleClickOpen}>
-            <AccountCircleIcon />
-          </IconButton>
+          <Tooltip
+            open={addInformationPopUp}
+            title='Add information about yourself'
+            arrow
+          >
+            <IconButton color='inherit' onClick={handleClickOpen}>
+              <AccountCircleIcon />
+            </IconButton>
+          </Tooltip>
         </div>
       </div>
       <Dialog
@@ -260,4 +280,4 @@ const PageHeader = () => {
   );
 };
 
-export default PageHeader;
+export default observer(PageHeader);

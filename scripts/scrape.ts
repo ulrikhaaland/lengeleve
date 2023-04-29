@@ -446,8 +446,7 @@ function splitString(input: string, maxLength: number = 1000): EncodedString[] {
   return result;
 }
 async function startScrape(results: any[]) {
-  /// Chronic2 started at index 70 and ended at
-  for (let i = 66; i < results.length; i++) {
+  for (let i = 0; i < results.length; i++) {
     const row = results[i];
     await runScrape(row);
     // console.log(i);
@@ -458,7 +457,7 @@ async function startScrape(results: any[]) {
 async function main() {
   const results: any[] = [];
 
-  fs.createReadStream('scripts/data/csv/chronic2_unique.csv')
+  fs.createReadStream('scripts/data/csv/heart_disease_unique.csv')
     .pipe(csv())
     .on('data', (data: any) => results.push(data))
     .on('end', () => {

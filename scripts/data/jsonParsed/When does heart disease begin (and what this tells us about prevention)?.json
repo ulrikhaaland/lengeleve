@@ -1,0 +1,202 @@
+[
+ {
+  "title": "Heart disease is caused by an inflammatory response to sterols in artery walls",
+  "date": "June 27, 2016",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Atherosclerosis is caused by an inflammatory response to sterols in artery walls. Sterol delivery is lipoprotein-mediated, and therefore much better predicted by the number of lipoprotein particles (LDL-P) than by the cholesterol they carry (LDL-C) [Bonus point: always measure Lp(a)-P in your patients—but we’ll have to save Lp(a) for another day; it certainly owns its own blog post].",
+  "content_length": 386,
+  "content_tokens": 99,
+  "embedding": []
+ },
+ {
+  "title": "LDL-C is not the only target of therapy",
+  "date": "June 27, 2016",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Ditto point #1. And don’t ever bring up LDL-C again.",
+  "content_length": 52,
+  "content_tokens": 19,
+  "embedding": []
+ },
+ {
+  "title": "Calcium scores and CT angiograms are not always necessary",
+  "date": "June 27, 2016",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Calcium scores and CT angiograms of exceptional quality (the operative word being exceptional—most are not) are helpful in a few settings, but this assertion is patently false, and I will leave this discussion for another blog post as the topic is too rich in nuance for a few lines.",
+  "content_length": 283,
+  "content_tokens": 60,
+  "embedding": []
+ },
+ {
+  "title": "Atherosclerosis is not just a 'pipe narrowing' disease",
+  "date": "June 27, 2016",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "We’ll discuss this today.",
+  "content_length": 25,
+  "content_tokens": 8,
+  "embedding": []
+ },
+ {
+  "title": "Preventative treatment for young people is necessary in some cases",
+  "date": "June 27, 2016",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "By necessity, we’ll be forced to confront this today, also.",
+  "content_length": 59,
+  "content_tokens": 16,
+  "embedding": []
+ },
+ {
+  "title": "Atherosclerosis Development",
+  "date": "June 27, 2016",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Atherosclerosis development begins with plaque accumulation in the vessel wall, which is accompanied by expansion of the outer vessel wall without a change in the size of the lumen. Only in advanced disease, and after significant plaque accumulation, does the lumen narrow.",
+  "content_length": 273,
+  "content_tokens": 52,
+  "embedding": []
+ },
+ {
+  "title": "Misconception of the 'Clogged Pipe' Model",
+  "date": "June 27, 2016",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Most people, doctors included, think atherosclerosis is a luminal-narrowing condition—a so-called “pipe narrowing” condition. It’s true that eventually the lumen of a diseased vessel does narrow, but this is sort of like saying the defining feature of a subprime collateralized debt obligation (CDO) is the inevitable default on its underlying assets. By the time that happens, eleven other pathologic things have already happened and you’ve missed the opportunity for the most impactful intervention to prevent the cascade of events from occurring at all.",
+  "content_length": 556,
+  "content_tokens": 120,
+  "embedding": []
+ },
+ {
+  "title": "Stable disease and angioplasty",
+  "date": "June 27, 2016",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "For patients with stable disease, local interventions can only relieve symptoms; they do not prevent future myocardial infarctions. At least 12 randomized trials conducted between 1987 and 2007, involving more than 5,000 patients, have found no reduction in myocardial infarction attributable to angioplasty in any of its forms.",
+  "content_length": 328,
+  "content_tokens": 67,
+  "embedding": []
+ },
+ {
+  "title": "Atherosclerosis",
+  "date": "June 27, 2016",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Atherosclerosis is the pathology that kills more Americans than any other disease. The following figures show the transition from a completely normal endothelium through myocardial infarction. The endothelium is a protective one cell layer lining the surface of the artery lumen. Low density lipoprotein (LDL) is a lipid transport particle. When LDL particles are present in physiologic concentrations, they effectively deliver cholesterol to those tissues that require it. When LDL particle concentration is elevated, the lipoprotein penetrates into the subendothelial space. Once retained in the subendothelial space, the LDL particle may be modified, or oxidized.",
+  "content_length": 666,
+  "content_tokens": 134,
+  "embedding": []
+ },
+ {
+  "title": "Oxidized LDL and Foam Cells",
+  "date": "June 27, 2016",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Oxidized LDL particles are toxic to the endothelium, which express selectins and vascular cell adhesion molecules (VCAMS) that increase monocyte adherence to the endothelium. Monocytes penetrate the subendothelial space and differentiate into macrophages, which phagocytize the modified or oxidized LDL particles. The phagocytosis of oxidized LDL particles (oxLDL) and accumulation of lipid in the macrophage creates something called a foam cell. Multiple foam cells coalesce to form the characteristic fatty streak, the hallmark of an early atherosclerotic plaque.",
+  "content_length": 565,
+  "content_tokens": 123,
+  "embedding": []
+ },
+ {
+  "title": "HDL and Cholesterol Efflux",
+  "date": "June 27, 2016",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Nascent Apo A-I containing particles accumulate free or unesterified cholesterol from the macrophages using ATP Binding Cassette Transporters A1. As the HDL particle lipidates itself by delipidating the macrophage, the HDL particle, utilizing an enzyme called LCAT, esterifies the free cholesterol forming cholesteryl ester (CE). HDL delipidation occurs through multiple mechanisms using Cholesteryl Ester Transfer Protein (CETP), aqueous free diffusion, SRB1 receptors in endocrine glands or gonads, adipocytes, or the liver. HDLs can also be internalized as entire particles by surface liver receptors.",
+  "content_length": 604,
+  "content_tokens": 137,
+  "embedding": []
+ },
+ {
+  "title": "Foam Cells and Arterial Wall Damage",
+  "date": "June 27, 2016",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Macrophages that become engorged with oxLDL remain full-fledged foam cells. Foam cells produce Angiotensin II, metalloproteinases, collagenases, elastases, and other proteins, which undermine the integrity of the arterial wall, causing more endothelial dysfunction. This is where the process goes to hell. Now you’ve got a damaged barrier and the looting begins. Oh, by the way, the process to date goes unnoticed by the calcium scan and CTA.",
+  "content_length": 442,
+  "content_tokens": 105,
+  "embedding": []
+ },
+ {
+  "title": "Atherosclerosis as a Systemic Condition",
+  "date": "June 27, 2016",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Atherosclerosis should be viewed as a systemic condition of the arterial system. The plaque can become obstructive—i.e., it can obstruct the lumen—over time. Lipid rich plaques are unstable, and can rupture. Platelets adhere to the ruptured surface of the plaque through electrostatic factors and through binding to specific ligands.",
+  "content_length": 333,
+  "content_tokens": 73,
+  "embedding": []
+ },
+ {
+  "title": "The Myth of the Vulnerable Plaque",
+  "date": "June 27, 2016",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Metalloproteinases and collagenases are upregulated and they start to dissolve or weaken the plaque cap, typically at the shoulder regions where the diseased endothelial cells meet healthy endothelial cells. Some have used the term “vulnerable” to describe such plaques, which may be a correct term, but it also gives a false sense of confidence that we can treat atherosclerosis on a lesion-by-lesion basis. Until proven otherwise, atherosclerosis should be viewed as a systemic condition of the arterial system.",
+  "content_length": 513,
+  "content_tokens": 111,
+  "embedding": []
+ },
+ {
+  "title": "Cardiac Events in Younger Populations",
+  "date": "June 27, 2016",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "A little over half of all events in men (24% + 28%) and a little less than a third of events in women (13% + 19%) take place below the age of 65. The population base (the “denominator”) is shrinking while the incidence (the “numerator”) is rising. In a situation like this, the only way to really see what’s happening is to do what Sniderman et al. did—calculate the absolute event rate.",
+  "content_length": 387,
+  "content_tokens": 108,
+  "embedding": []
+ },
+ {
+  "title": "Insight #1: Atherosclerosis Takes Time to Develop",
+  "date": "June 27, 2016",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Atherosclerosis takes a long time to evolve, and involves many steps. The only way Insight #1 and Insight #2 can be correct is if atherosclerosis takes a long time to develop. Age = persistent exposure to LDL-P/apoB. Perhaps the greatest insights into the pathogenesis of atherosclerosis, especially as they pertain to age, comes via autopsies of two variants: those of people known to die of some cause other than heart disease and those known or suspected of cardiac death.",
+  "content_length": 475,
+  "content_tokens": 105,
+  "embedding": []
+ },
+ {
+  "title": "Insight #2: Cardiovascular Events Occur in Young People",
+  "date": "June 27, 2016",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Many cardiovascular events—half in men and one-third in women—take place in young people (i.e., those 64 or younger). The figures below, both taken from the paper, show the frequency distribution and prevalence of intimal thickening for each age cohort of donors. Namely, atherosclerosis is starting much sooner than previously recognized. In this series of 262 heart donors, one out of six hearts donated by a teenager was found to have clinically measurable atherosclerosis. The authors conclude: “These findings suggest the need for intensive efforts at coronary disease prevention in young adults.”",
+  "content_length": 602,
+  "content_tokens": 122,
+  "embedding": []
+ },
+ {
+  "title": "Cardiovascular Disease",
+  "date": "June 27, 2016",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "I first confronted my own inevitable demise which, based on my family history, was likely to be a cardiovascular one. Today, I manage all modifiable risk factors to the level of my risk appetite and interpretation of the most nuanced scientific literature on cardiovascular disease. Does this mean I won’t succumb to heart disease? Of course not. But this is a stochastic game and the objective of the game is to increase the odds in your favor while delaying the onset of bad outcomes.",
+  "content_length": 486,
+  "content_tokens": 98,
+  "embedding": []
+ },
+ {
+  "title": "Atherosclerosis",
+  "date": "June 27, 2016",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Clearly there are factors here we (at least I) do not understand. Why do some people just stop with fatty streaks and stay that way for decades, while others progress to clinically significant heart disease? I’m sure if one normalizes for LDL-P, Lp(a)-P, and even particle size, the answer will still elude us (me). I think what people are missing here is that there is a difference between what we can infer from population-based (i.e., heterogeneous) statistics–clinical trials with drugs, epidemiology, ecology, hundreds of autopsies–and what happens at the individual level. Furthermore, the only probabilities that matter when it comes to an individual are “0” and “1”–in other words we go from the most heterogeneous to the most homogeneous.",
+  "content_length": 747,
+  "content_tokens": 176,
+  "embedding": []
+ },
+ {
+  "title": "LDL-P and Lp(a)-P",
+  "date": "June 27, 2016",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "LDL-P and Lp(a)-P are the causative agents, and while other forces matter (e.g., inflammatory response), there is no getting around the fact that high LDL-P and Lp(a)-P are stacking the odds against you. While I do not doubt that some people with high LDL-P and Lp(a)-P may be immune to the typical “rules” of atherosclerosis, we don’t have good enough tools to predict this, especially non-invasively. Ergo, the risk of doing something to lower these modifiable risks, even if that means taking drugs, must be weighed against the risk of doing nothing.",
+  "content_length": 553,
+  "content_tokens": 144,
+  "embedding": []
+ }
+]

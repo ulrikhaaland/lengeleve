@@ -1,0 +1,192 @@
+[
+ {
+  "title": "Study Design",
+  "date": "February 27, 2013",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The objective of this study was to study the impact of a Mediterranean Diet on the primary prevention of CVD. This study, a primary prevention trial, enrolled about 7,500 patients who were at high risk for CVD, but who had not suffered any MACE, and randomized them to one of three diets – two variants of a Mediterranean Diet, and a low fat diet.",
+  "content_length": 347,
+  "content_tokens": 76,
+  "embedding": []
+ },
+ {
+  "title": "Baseline Characteristics",
+  "date": "February 27, 2013",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Less than 10% of the subjects were of normal weight. Less than 20% did not have high blood pressure. 50% had type 2 diabetes. Less than 30% had normal lipid profiles (presumably defined by LDL-C and HDL-C cutoffs). Over 40% were taking statins. Virtually everyone enrolled in this study had metabolic syndrome.",
+  "content_length": 310,
+  "content_tokens": 72,
+  "embedding": []
+ },
+ {
+  "title": "Disease Population",
+  "date": "February 27, 2013",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "This patient population is in desperate need of dietary intervention.",
+  "content_length": 69,
+  "content_tokens": 11,
+  "embedding": []
+ },
+ {
+  "title": "Primary Prevention Trial",
+  "date": "February 27, 2013",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "It would be more accurate to call it a primary prevention trial of patients with diagnosed metabolic syndrome.",
+  "content_length": 110,
+  "content_tokens": 19,
+  "embedding": []
+ },
+ {
+  "title": "Performance Bias",
+  "date": "February 27, 2013",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "One thing I always look for in dietary trials is something called performance bias, which is very common in dietary intervention trials.",
+  "content_length": 136,
+  "content_tokens": 24,
+  "embedding": []
+ },
+ {
+  "title": "Control Arm",
+  "date": "February 27, 2013",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "This study would have been better if the “control” arm (in this study, the low fat arm), was actually a true control relative to the “standard” patient diet.",
+  "content_length": 157,
+  "content_tokens": 40,
+  "embedding": []
+ },
+ {
+  "title": "Types of Studies",
+  "date": "February 27, 2013",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Broadly speaking, there are two (and an emerging third) types of studies in human nutrition: efficacy studies and effectiveness studies.",
+  "content_length": 136,
+  "content_tokens": 26,
+  "embedding": []
+ },
+ {
+  "title": "Study Outcome",
+  "date": "February 27, 2013",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Table 3 shows the outcome of the study and commensurate hazard ratios.",
+  "content_length": 70,
+  "content_tokens": 15,
+  "embedding": []
+ },
+ {
+  "title": "Statistical Significance",
+  "date": "February 27, 2013",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The number shown, called a p-value, is defined as the probability the difference you’re seeing is due to chance. The smaller the better, and generally a number below 0.05 is considered to earn the moniker “statistically significant.”",
+  "content_length": 233,
+  "content_tokens": 54,
+  "embedding": []
+ },
+ {
+  "title": "Hazard Ratio",
+  "date": "February 27, 2013",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "A hazard ratio is essentially the probability of an event in the treatment group divided by the probability the same event occurs in the control group. So, the hazard ratio of 0.70 means there was relative risk reduction of 30% for the Med Diet relative to the control diet. This should not be confused with absolute risk reduction, which I’ll get to shortly.",
+  "content_length": 359,
+  "content_tokens": 74,
+  "embedding": []
+ },
+ {
+  "title": "MI or Death",
+  "date": "February 27, 2013",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "There was no statistically significant difference in death (CVD or otherwise) or MI across the three groups. This study was powered (at 80%) to detect a difference in the primary outcome, which it showed. In fact, the intention-to-treat was greater than 7,500 because the authors expected no more than a 20% relative risk reduction. But they saw a 30% difference, and the study was halted early.",
+  "content_length": 395,
+  "content_tokens": 87,
+  "embedding": []
+ },
+ {
+  "title": "Absolute versus Relative Risk",
+  "date": "February 27, 2013",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The fact that the zoom view is necessary tells you something about the absolute risk reduction. It’s small. Here’s a quick calculator to determine the absolute risk reduction (ARR). When you plug the numbers in from this study (I’ll just do it for the low-fat vs. EVOO group), you’ll see the ARR is 0.3065%. The reciprocal of this number is 1/0.003065 = 326. This is called the number needed to treat (NNT).",
+  "content_length": 407,
+  "content_tokens": 109,
+  "embedding": []
+ },
+ {
+  "title": "Clinical Significance",
+  "date": "February 27, 2013",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "If this study were testing a drug with a 1% major toxicity rate, the answer would be emphatically, no. Conversely, if this study were testing a drug with a 1% minor toxicity rate (e.g., headache) and a 0.001% major toxicity rate (e.g., kidney failure), the answer is not so clear.",
+  "content_length": 280,
+  "content_tokens": 70,
+  "embedding": []
+ },
+ {
+  "title": "Defining Patient Susceptibility and Outcomes in Clinical Trials",
+  "date": "February 27, 2013",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "The key to sorting through this grey zone is better defining patient susceptibility and outcomes in large clinical trials.",
+  "content_length": 122,
+  "content_tokens": 20,
+  "embedding": []
+ },
+ {
+  "title": "Statins and Treatment Targets",
+  "date": "February 27, 2013",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "I would argue that the data on statins could be much better if the treatment target was LDL-P or apoB instead of LDL-C, especially in high risk patients with metabolic syndrome, at least half of whom have discordant LDL-P and LDL-C.",
+  "content_length": 232,
+  "content_tokens": 56,
+  "embedding": []
+ },
+ {
+  "title": "Toxicity and QALY Impact of a Mediterranean Diet",
+  "date": "February 27, 2013",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Question 1 should be: what is the toxicity of a Mediterranean Diet?  Question 2 should be: what is the QALY impact of a Mediterranean Diet? I can’t really answer either of these questions.",
+  "content_length": 188,
+  "content_tokens": 45,
+  "embedding": []
+ },
+ {
+  "title": "Conclusions on the Study",
+  "date": "February 27, 2013",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Overall, I think this is a good study, and a better study than the study prompting it, the famous Lyon Heart Study.  That said, I would have much preferred to see only one Mediterranean arm (in retrospect this is obvious, of course, given the lack of difference between them), in favor of a true control or another arm such as Very Low Carb.",
+  "content_length": 341,
+  "content_tokens": 75,
+  "embedding": []
+ },
+ {
+  "title": "Speculation on ARR",
+  "date": "February 27, 2013",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "It’s impossible to guess what the ARR would have been for the Med Diet if the control was a standard fare diet (complete with 138 gm per day of sugar!), rather than a much improved low fat diet. If I had to guess, I’d ballpark the ARR at 1-5%, for a NNT of 20 to 100 people, but this is nothing more than speculation.",
+  "content_length": 317,
+  "content_tokens": 84,
+  "embedding": []
+ },
+ {
+  "title": "Benefit of Low Fat Arm",
+  "date": "February 27, 2013",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Remember, I think the Low Fat arm in this study experienced an enormous benefit over their baseline.",
+  "content_length": 100,
+  "content_tokens": 19,
+  "embedding": []
+ }
+]

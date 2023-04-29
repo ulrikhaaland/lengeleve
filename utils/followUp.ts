@@ -23,6 +23,7 @@ export const getFollowUpQuestions = async (
     Make sure the two first questions are not equal to the most recent question.
     Make sure the questions are not equal to each other.
     Make sure the questions are not equal to the question above.
+    Make sure the questions are no longer than 10 words.
     Then return the questions as a JSON-list.
     Return only the questions, not answers.
     Return each answer as a JSON object in a list: [{"question": "Question 1"}, {"question": "Question 2"}, {"question": "Question 3"}]
