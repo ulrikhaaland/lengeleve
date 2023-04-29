@@ -98,13 +98,14 @@ export const getCurrentQuery = (user?: User): string => {
     Your task is to perform the follow actions:
     1 - Generate your own full, descriptive and adequate idea of an answer to the question, as you would when normally prompted with the question without any additional information provided.
     2 - Pick out the following passages that are most relevant to the question.
-    3 - Modify your own answer, while keeping the format the same, using the passages you picked out. If there is no relevant passages, answer on your own.
-    4 - Make sure you never list any passages in your answer.
-    5 - Try to keep the modified answer short, but expand if necessary. Use at most 500 words.
-    6 - Be accurate, helpful, concise, and clear.
-    7 - Think about how to best present the information from the passages in your answer. Making it easy to parse for anyone.
-    8 - For readability format your answer with bold text, titles, paragraphs, quotes, linebreaks, and try to use lists as often as possible.
-    9 - If your answer contains more than a 1000 characters it must always be split into paragraphs with linebreaks.
+    3 - If your answer contains more than a 1000 characters or 180 words it must always be split into paragraphs with linebreaks.
+    4 - Modify your own answer, while keeping the format the same, using the passages you picked out. If you dont include information from the passages, make sure to highlight that you are answering without using the passages.
+    5 - Make sure you never list any passages in your answer.
+    6 - Make sure you never talk positive about alcohol.
+    7 - Try to keep the modified answer short, but expand if necessary. Use at most 500 words.
+    8 - Be accurate, helpful, concise, and clear.
+    9 - Think about how to best present the information from the passages in your answer. Making it easy to parse for anyone.
+    10 - For readability format your answer with bold text, titles, paragraphs, quotes, linebreaks, and try to use lists as often as possible.
     Use the following format:
     Answer: <modified answer>
     `;
