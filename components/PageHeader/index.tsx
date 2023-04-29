@@ -9,7 +9,7 @@ import {
   Button,
   Tooltip,
 } from '@mui/material';
-import { User } from '@/stores/general.store';
+import { ChatMode, User } from '@/stores/general.store';
 import { useStore } from '../../stores/RootStoreProvider';
 import { observer } from 'mobx-react';
 
@@ -22,6 +22,16 @@ const PageHeader = () => {
   const [user, setUser] = useState<User>(generalStore.user);
   const [addInformationPopUp, setAddInformationPopUp] =
     useState<boolean>(false);
+  const [mode, setMode] = useState<ChatMode>(ChatMode.general);
+
+  const handleClick = (mode: ChatMode) => {
+    setMode(mode);
+
+    if (mode === ChatMode.general) {
+      localStorage.removeItem('user');
+      setUser(generalStore.user);
+    }
+  };
 
   const handleClickOpen = () => {
     setOpen(true);
@@ -52,7 +62,7 @@ const PageHeader = () => {
 
   useEffect(() => {
     const storedUser = localStorage.getItem('user');
-    if (storedUser) {
+    if (storedUser && mode === ChatMode.specific) {
       setUser(JSON.parse(storedUser));
     } else {
       setAddInformationPopUp(true);
@@ -67,11 +77,38 @@ const PageHeader = () => {
 
   return (
     <div className='border-b w-full'>
-      <div className='grid grid-cols-3 items-center'>
-        <div></div>
+      <div className='grid grid-cols-1 items-center'>
         <div className='text-center'>
           <h2 className='text-2xl font-bold mt-4 mb-2'>ChatLongevity</h2>
           <h2 className='text-m mb-2 text-gray-600'>Model: Chattia01</h2>
+        </div>
+          {/* <h3 className='text-lg font-semibold mb-2'>Mode</h3>
+          <div className='flex justify-center'>
+            <div className='-mr-1'>
+              <button
+                onClick={() => handleClick(ChatMode.general)}
+                className={`px-2 py-1 rounded-l border ${
+                  mode === ChatMode.general
+                    ? 'bg-blue-500 text-white'
+                    : 'bg-white text-gray-700 border-gray-300'
+                }`}
+              >
+                General
+              </button>
+            </div>
+            <div>
+              <button
+                onClick={() => handleClick(ChatMode.specific)}
+                className={`px-2 py-1 rounded-r border ${
+                  mode === ChatMode.specific
+                    ? 'bg-blue-500 text-white'
+                    : 'bg-white text-gray-700 border-gray-300'
+                }`}
+              >
+                User specific
+              </button>
+            </div>
+          </div>
         </div>
         <div className='text-right mr-4'>
           <Tooltip
@@ -83,7 +120,7 @@ const PageHeader = () => {
               <AccountCircleIcon />
             </IconButton>
           </Tooltip>
-        </div>
+        </div> */}
       </div>
       <Dialog
         open={open}
@@ -200,22 +237,6 @@ const PageHeader = () => {
             </div>
             <div className='flex flex-col'>
               <label
-                htmlFor='allergies'
-                className='text-sm font-medium text-gray-700'
-              >
-                Allergies or Intolerances (optional)
-              </label>
-              <input
-                onChange={handleChange}
-                type='text'
-                id='allergies'
-                placeholder='e.g. lactose, peanuts'
-                className='rounded border border-gray-300 focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500 text-base outline-none text-gray-700 py-1 px-3'
-                value={user.allergies || ''}
-              />
-            </div>
-            <div className='flex flex-col'>
-              <label
                 htmlFor='sleepHabits'
                 className='text-sm font-medium text-gray-700'
               >
@@ -229,25 +250,6 @@ const PageHeader = () => {
                 className='rounded border border-gray-300 focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500 text-base outline-none text-gray-700 py-1 px-3'
                 value={user.sleepHabits || ''}
               />
-            </div>
-            <div className='flex flex-col'>
-              <label
-                htmlFor='stress-levels'
-                className='text-sm font-medium text-gray-700'
-              >
-                Stress Levels
-              </label>
-              <select
-                onChange={handleChange}
-                id='stressLevels'
-                className='rounded border border-gray-300 focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500 text-base outline-none text-gray-700 py-1 px-3'
-                value={user.stressLevels || ''}
-              >
-                <option>Select stress level</option>
-                <option>Low</option>
-                <option>Moderate</option>
-                <option>High</option>
-              </select>
             </div>
             <div className='flex flex-col'>
               <label

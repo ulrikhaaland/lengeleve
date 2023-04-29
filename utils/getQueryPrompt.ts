@@ -58,28 +58,58 @@ Chat History End:
 
   const queryPrompt = getCurrentQuery(user);
 
+  //   ${user ? 'The user profile is delimited by double commas.' : null}
+  //   ${
+  //     user
+  //       ? endent`,,UserProfile: {
+  //     ageGroup: ${user!.ageGroup},
+  //     gender: ${user!.gender},
+  //     activityLevel: ${user!.activityLevel},
+  //     dietaryPreferences: ${user!.dietaryPreferences},
+  //     healthGoals: ${user!.healthGoals},
+  //     sleepHabits: ${user!.sleepHabits},
+  //     timeAvailability: ${user!.timeAvailability},
+  // },,`
+
+  const ageGroup = user?.ageGroup ? `I am ${user.ageGroup} age group, ` : '';
+
+  const gender = user?.gender ? `I am a ${user.gender}, ` : '';
+
+  const activityLevel = user?.activityLevel
+    ? `My activity level is ${user.activityLevel}, `
+    : '';
+
+  const dietaryPreferences = user?.dietaryPreferences
+    ? `My dietary preference is ${user.dietaryPreferences}, `
+    : '';
+
+  const healthGoals = user?.healthGoals
+    ? `My health goal is ${user.healthGoals}, `
+    : '';
+
+  const sleepHabits = user?.sleepHabits
+    ? `My typical sleep duration ${user.sleepHabits}, `
+    : '';
+
+  const timeAvailability = user?.timeAvailability
+    ? `I have ${user.timeAvailability} time available for exercise and meal preparation.`
+    : '';
+
+  const userString = user
+    ? ageGroup +
+      gender +
+      activityLevel +
+      dietaryPreferences +
+      healthGoals +
+      sleepHabits +
+      timeAvailability
+    : '';
+
   const final = endent`
-    ${user ? 'The user profile is delimited by double commas.' : null}
-    ${
-      user
-        ? endent`,,UserProfile: {
-      ageGroup: ${user!.ageGroup}, 
-      gender: ${user!.gender}, 
-      activityLevel: ${user!.activityLevel}, 
-      dietaryPreferences: ${user!.dietaryPreferences}, 
-      healthGoals: ${user!.healthGoals}, 
-      allergies: ${user!.allergies},
-      sleepHabits: ${user!.sleepHabits},
-      preferences: ${user!.stressLevels},
-      stressLevels: ${user!.stressLevels},
-      timeAvailability: ${user!.timeAvailability},
-  },,`
-        : null
-    }
     The question is delimited by triple quotes.
-    Question: """${query}"""
+    Question: """${userString} ${query}"""
     ${queryPrompt}
-    The passages is delimited by tripple dashes.
+    The passages is delimited by triple dashes.
     Passages:
     ---${filteredResults?.map((d: Chunk) => d.date + d.content).join('\n\n')}---
 `;

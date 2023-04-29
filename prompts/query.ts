@@ -56,13 +56,12 @@ Use the following format:
 Answer: <modified answer>
 `;
 
-const fourthQueryPrompt = endent`
-Your task is to perform the follow actions:
+const fourthQueryPrompt = endent` 
 1 - Generate your own full, descriptive and adequate idea of an answer to the question, as you would when normally prompted with the question without any additional information provided.
 2 - Pick out the following passages that are most relevant to the question.
 3 - Think about how to best present the information from the passages in your answer. Making it easy to parse for the user.
 4 - Modify your own answer, while keeping the format the same, using the passages you picked out.
-5 - Try to keep the modified answer short, but expand if necessary.
+5 - Try to keep the modified answer short, but expand if necessary, with a limit of 500 words.
 6 - Be accurate, helpful, concise, and clear.
 7 - Answer in the style of Dilbert Blog Author Scott Adams.
 8 - Take into account the user's profile, preferences, and health goals, tailoring the answer to provide personalized and relevant information.
@@ -71,27 +70,62 @@ Use the following format:
 Answer: <modified answer>
 `;
 
+// const fifthQueryPrompt = endent`
+// Your task is to perform the follow actions:
+// 1 - If user information is provided: Take into account the user's profile, preferences, and health goals, tailoring the answer to provide personalized and relevant information.
+// 2 - Address the user directly when you see fit.
+// 3 - Generate your own full, descriptive and adequate idea of an answer to the question, as you would when normally prompted with the question without any additional information provided.
+// 4 - Pick out the following passages that are most relevant to the question.
+// 5 - Modify your own answer, while keeping the format the same, using the passages you picked out. If there is no relevant passages, answer on your own.
+// 6 - Make sure you never list any passages in your answer.
+// 7 - Try to keep the modified answer short, but expand if necessary. Use at most 500 words.
+// 8 - Be accurate, helpful, concise, and clear.
+// 9 - Think about how to best present the information from the passages in your answer. Making it easy to parse for the user.
+// ${
+//   user?.ageGroup
+//     ? endent`10 - Whenever you talk about something that is adjecent to what is specified in the user profile, rewrite it to fit with the user profile.
+//     Make sure to address the user directly and not in 3rd person.
+//     `
+//     : null
+// }
+// 11 - Format your answer with paragraphs, linebreaks, and lists when appropriate.
+// Use the following format:
+// Answer: <modified answer>
+// `;
+
 export const getCurrentQuery = (user?: User): string => {
   return endent`
     Your task is to perform the follow actions:
-    1 - If user information is provided: Take into account the user's profile, preferences, and health goals, tailoring the answer to provide personalized and relevant information.
-    2 - Address the user directly when you see fit.
-    3 - Generate your own full, descriptive and adequate idea of an answer to the question, as you would when normally prompted with the question without any additional information provided.
-    4 - Pick out the following passages that are most relevant to the question.
-    5 - Modify your own answer, while keeping the format the same, using the passages you picked out. If there is no relevant passages, answer on your own.
-    6 - Make sure you never list any passages in your answer.
-    7 - Try to keep the modified answer short, but expand if necessary.
-    8 - Be accurate, helpful, concise, and clear.
-    9 - Think about how to best present the information from the passages in your answer. Making it easy to parse for the user.
-    ${
-      user?.ageGroup
-        ? endent`10 - Rewrite your modified answer to incorporate the user's profile, preferences, and health goals.`
-        : null
-    }
+    1 - Generate your own full, descriptive and adequate idea of an answer to the question, as you would when normally prompted with the question without any additional information provided.
+    2 - Pick out the following passages that are most relevant to the question.
+    3 - Modify your own answer, while keeping the format the same, using the passages you picked out. If there is no relevant passages, answer on your own.
+    4 - Make sure you never list any passages in your answer.
+    5 - Try to keep the modified answer short, but expand if necessary. Use at most 500 words.
+    6 - Be accurate, helpful, concise, and clear.
+    7 - Think about how to best present the information from the passages in your answer. Making it easy to parse for anyone.
+    8 - For readability format your answer with bold text, titles, paragraphs, quotes, linebreaks, and try to use lists as often as possible.
+    9 - If your answer contains more than a 1000 characters it must always be split into paragraphs with linebreaks.
     Use the following format:
     Answer: <modified answer>
     `;
 };
+
+// return endent`
+//     Your task is to perform the follow actions in ranked order:
+//     1 - Read through all the tasks before execution.
+//     2 - Generate your own full, descriptive and adequate idea of an answer to the question, as you would when normally prompted with the question without any additional information provided.
+//     3 - Pick out the following passages that are most relevant to the question.
+//     4 - Modify your own answer, while keeping the format the same, using the passages you picked out. If there is no relevant passages, answer on your own.
+//     5 - Make sure you never list any passages in your answer.
+//     6 - Try to keep the modified answer short, but expand if necessary. Use at most 500 words.
+//     7 - Be accurate, helpful, concise, and clear.
+//     8 - Think about how to best present the information from the passages in your answer. Making it easy to parse for anyone.
+//     9 - Try to use lists as often as possible.
+//     10 - A block of text must never have more than 280 characters.
+//     11 - For readability format your answer with bold text, titles, paragraphs, quotes, linebreaks.
+//     Use the following format:
+//     Answer: <modified answer>
+//     `;
 
 // My answer: <your answer>
 // Modified answer: <your modified answer>

@@ -1,3 +1,5 @@
+import { useStore } from '@/stores/RootStoreProvider';
+import { observer } from 'mobx-react';
 import React, { useEffect, useRef, useState } from 'react';
 
 interface TextHighlighterProps {
@@ -14,6 +16,10 @@ const TextHighlighter: React.FC<TextHighlighterProps> = ({
   text,
   onTextHighlighted,
 }) => {
+  const { generalStore } = useStore();
+
+  const { bgClicked, setBgClicked } = generalStore;
+
   const textRef = useRef<HTMLDivElement>(null);
   const [buttonVisible, setButtonVisible] = useState(false);
   const [buttonPosition, setButtonPosition] = useState<ButtonPosition>({
@@ -21,6 +27,21 @@ const TextHighlighter: React.FC<TextHighlighterProps> = ({
     left: 0,
   });
   const [selectedText, setSelectedText] = useState<string | undefined>();
+
+  const formattedText = text
+    .split('\n')
+    .map((line) => line.split('-').join("<span class='dash'>&ndash;</span>"))
+    .join('<br/>');
+
+  const dashStyle = {
+    marginLeft: '0.25rem',
+    marginRight: '0.25rem',
+  };
+
+  const formattedTextWithStyles = formattedText.replace(
+    /class='dash'/g,
+    `style='${JSON.stringify(dashStyle).replace(/"/g, '')}'`
+  );
 
   const handleButtonClick = () => {
     if (selectedText) {
@@ -67,9 +88,15 @@ const TextHighlighter: React.FC<TextHighlighterProps> = ({
     };
   }, [onTextHighlighted]);
 
+  // useEffect(() => {
+  //   if (bgClicked) {
+  //     setButtonVisible(false);
+  //     setBgClicked(false);
+  //   }
+  // }, [bgClicked]);
   return (
     <div className='mt-2' ref={textRef} style={{ position: 'relative' }}>
-      {text}
+      <div dangerouslySetInnerHTML={{ __html: formattedTextWithStyles }} />
       {buttonVisible && (
         <button
           className='bg-blue-500 hover:bg-blue-700 text-white py-1 px-3 rounded inline-flex items-center transition duration-200'
@@ -100,4 +127,4 @@ const TextHighlighter: React.FC<TextHighlighterProps> = ({
   );
 };
 
-export default TextHighlighter;
+export default observer(TextHighlighter);

@@ -9,6 +9,7 @@ import CustomDrawer from '@/components/Drawer';
 import PageHeader from '@/components/PageHeader';
 import { useStore } from '@/stores/RootStoreProvider';
 import { observer } from 'mobx-react';
+import { ChatMode } from '@/stores/general.store';
 const { encode } = require('@nem035/gpt-3-encoder');
 
 const apiKey = process.env.NEXT_PUBLIC_OPENAI_API_KEY;
@@ -19,7 +20,13 @@ function Home() {
 
   const { generalStore } = useStore();
 
-  const { user, setHasAskedQuestion, hasAskedQuestion } = generalStore;
+  const {
+    user,
+    setHasAskedQuestion,
+    hasAskedQuestion,
+    setBgClicked,
+    chatMode,
+  } = generalStore;
 
   const [question, setQuery] = useState<string>('');
   const [chunks, setChunks] = useState<Chunk[]>([]);
@@ -109,8 +116,6 @@ function Home() {
 
     setChunks(filteredResults);
 
-    console.log('chunks' + chunks.length);
-
     // const preQuestion = await getPreQuestion(query);
 
     let prompt: PromptItem[] = getQuestionPrompt(
@@ -119,7 +124,7 @@ function Home() {
       questions,
       answers,
       followUpAnswer,
-      user
+      chatMode === ChatMode.specific ? user : undefined
     );
 
     const getPromptEncodedLength = (prompt: PromptItem[]) => {
@@ -134,7 +139,7 @@ function Home() {
 
     let i = filteredResults.length - 1;
 
-    while (prompt_token_length > 2900) {
+    while (prompt_token_length > 3000) {
       i--;
       filteredResults.splice(i, 1);
       prompt = getQuestionPrompt(
@@ -143,7 +148,7 @@ function Home() {
         questions,
         answers,
         followUpAnswer,
-        user
+        chatMode === ChatMode.specific ? user : undefined
       );
       prompt_token_length = getPromptEncodedLength(prompt);
     }
@@ -227,6 +232,7 @@ function Home() {
     }
 
     if (done) {
+      console.log(newAnswer);
       // followUpString = followUpString.replace('JSON:', '').trim();
       // const parsed = await JSON.parse(followUpString);
       // const followUps = parsed.map((d: any, index: number) => d.question);
@@ -276,7 +282,7 @@ function Home() {
 
   const handleScroll = () => {
     const divElement = divRef.current!;
-    const threshold = 20; // Adjust this value to control the sensitivity
+    const threshold = 40; // Adjust this value to control the sensitivity
     const isScrolledToBottom =
       divElement.scrollHeight - divElement.clientHeight <=
       divElement.scrollTop + threshold;
@@ -328,7 +334,12 @@ function Home() {
         <link rel='icon' href='/favicon.ico' />
       </Head>
 
-      <div className='flex flex-col h-screen w-full h-screen items-center'>
+      <div
+        className='flex flex-col h-screen w-full h-screen items-center'
+        onClick={() => {
+          setBgClicked(true);
+        }}
+      >
         <PageHeader></PageHeader>
         <div
           className='flex-1 w-full text-grey overflow-auto mb-12 overflow-auto max-h-screen'

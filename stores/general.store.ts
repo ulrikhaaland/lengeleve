@@ -6,22 +6,27 @@ export interface User {
   activityLevel?: string;
   dietaryPreferences?: string;
   healthGoals?: string;
-  allergies?: string;
   sleepHabits?: string;
-  stressLevels?: string;
   timeAvailability?: string;
+}
+
+export enum ChatMode {
+  general = 'General',
+  specific = 'Specific',
 }
 
 export default class GeneralStore {
   bgClicked: boolean = false;
   user: User = {};
   hasAskedQuestion: boolean = false;
+  chatMode: ChatMode = ChatMode.general;
 
   constructor() {
     makeObservable(this, {
       bgClicked: observable,
       user: observable,
       hasAskedQuestion: observable,
+      chatMode: observable,
       setUser: action,
       setBgClicked: action,
       setHasAskedQuestion: action,
