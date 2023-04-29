@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import AccountCircleIcon from '@mui/icons-material/AccountCircle';
 import {
   IconButton,
@@ -9,22 +9,14 @@ import {
   DialogActions,
   Button,
 } from '@mui/material';
-
-interface User {
-  ageGroup?: string;
-  gender?: string;
-  activityLevel?: string;
-  dietaryPreferences?: string;
-  healthGoals?: string;
-  allergies?: string;
-  sleepHabits?: string;
-  stressLevels?: string;
-  timeAvailability?: string;
-}
+import { User } from '@/stores/general.store';
+import { useStore } from '../../stores/RootStoreProvider';
 
 const PageHeader = () => {
+  const { generalStore } = useStore();
+
   const [open, setOpen] = useState(false);
-  const [user, setUser] = useState<User>({});
+  const [user, setUser] = useState<User>(generalStore.user);
 
   const handleClickOpen = () => {
     setOpen(true);
@@ -45,7 +37,19 @@ const PageHeader = () => {
     e.preventDefault();
     console.log(user);
     setOpen(false);
+    localStorage.setItem('user', JSON.stringify(user));
   };
+
+  useEffect(() => {
+    generalStore.setUser(user);
+  }, [generalStore, user]);
+
+  useEffect(() => {
+    const storedUser = localStorage.getItem('user');
+    if (storedUser) {
+      setUser(JSON.parse(storedUser));
+    }
+  }, []);
 
   return (
     <div className='border-b w-full'>
@@ -68,7 +72,7 @@ const PageHeader = () => {
       >
         <DialogTitle id='form-dialog-title'>User Information</DialogTitle>
         <DialogContent>
-          <form className='space-y-4' onSubmit={handleSubmit}>
+          <form className='space-y-4'>
             <div className='flex flex-col'>
               <label
                 htmlFor='age-group'
@@ -78,8 +82,9 @@ const PageHeader = () => {
               </label>
               <select
                 onChange={handleChange}
-                id='age-group'
+                id='ageGroup'
                 className='rounded border border-gray-300 focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500 text-base outline-none text-gray-700 py-1 px-3'
+                value={user.ageGroup || ''}
               >
                 <option>Select age group</option>
                 <option>18-24</option>
@@ -101,6 +106,7 @@ const PageHeader = () => {
                 onChange={handleChange}
                 id='gender'
                 className='rounded border border-gray-300 focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500 text-base outline-none text-gray-700 py-1 px-3'
+                value={user.gender || ''}
               >
                 <option>Select gender</option>
                 <option>Male</option>
@@ -111,15 +117,16 @@ const PageHeader = () => {
             </div>
             <div className='flex flex-col'>
               <label
-                htmlFor='activity-level'
+                htmlFor='activityLevel'
                 className='text-sm font-medium text-gray-700'
               >
                 Activity Level
               </label>
               <select
                 onChange={handleChange}
-                id='activity-level'
+                id='activityLevel'
                 className='rounded border border-gray-300 focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500 text-base outline-none text-gray-700 py-1 px-3'
+                value={user.activityLevel || ''}
               >
                 <option>Select activity level</option>
                 <option>Sedentary</option>
@@ -137,8 +144,9 @@ const PageHeader = () => {
               </label>
               <select
                 onChange={handleChange}
-                id='dietary-preferences'
+                id='dietaryPreferences'
                 className='rounded border border-gray-300 focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500 text-base outline-none text-gray-700 py-1 px-3'
+                value={user.dietaryPreferences || ''}
               >
                 <option>Select dietary preference</option>
                 <option>Standard</option>
@@ -158,8 +166,9 @@ const PageHeader = () => {
               </label>
               <select
                 onChange={handleChange}
-                id='health-goals'
+                id='healthGoals'
                 className='rounded border border-gray-300 focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500 text-base outline-none text-gray-700 py-1 px-3'
+                value={user.healthGoals || ''}
               >
                 <option>Select health goal</option>
                 <option>Weight loss</option>
@@ -182,11 +191,12 @@ const PageHeader = () => {
                 id='allergies'
                 placeholder='e.g. lactose, peanuts'
                 className='rounded border border-gray-300 focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500 text-base outline-none text-gray-700 py-1 px-3'
+                value={user.allergies || ''}
               />
             </div>
             <div className='flex flex-col'>
               <label
-                htmlFor='sleep-habits'
+                htmlFor='sleepHabits'
                 className='text-sm font-medium text-gray-700'
               >
                 Typical Sleep Duration
@@ -194,9 +204,10 @@ const PageHeader = () => {
               <input
                 onChange={handleChange}
                 type='text'
-                id='sleep-habits'
+                id='sleepHabits'
                 placeholder='e.g. 7 hours'
                 className='rounded border border-gray-300 focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500 text-base outline-none text-gray-700 py-1 px-3'
+                value={user.sleepHabits || ''}
               />
             </div>
             <div className='flex flex-col'>
@@ -208,8 +219,9 @@ const PageHeader = () => {
               </label>
               <select
                 onChange={handleChange}
-                id='stress-levels'
+                id='stressLevels'
                 className='rounded border border-gray-300 focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500 text-base outline-none text-gray-700 py-1 px-3'
+                value={user.stressLevels || ''}
               >
                 <option>Select stress level</option>
                 <option>Low</option>
@@ -227,9 +239,10 @@ const PageHeader = () => {
               <input
                 onChange={handleChange}
                 type='text'
-                id='time-availability'
+                id='timeAvailability'
                 placeholder='e.g. 1 hour per day'
                 className='rounded border border-gray-300 focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500 text-base outline-none text-gray-700 py-1 px-3'
+                value={user.timeAvailability || ''}
               />
             </div>
           </form>{' '}

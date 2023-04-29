@@ -15,7 +15,7 @@ export const getFollowUpQuestions = async (
     ${previousQuestions.join("\n\n")}
     end of previous questions
     The chatbot primarily answer questions about health, nutrition and exercise, specifically about how one can live a long and healthy life.
-    The chatbot is aimed at people who wants to go deep into esoteric health and nutrition topics, therefore you should create specific and advanced questions.
+    The chatbot is aimed at people who wants to go deep into esoteric health, nutrition topics, and alcohol therefore you should create specific and advanced questions.
     Based on the most recent question create 3 follow-up questions that the user might be likely to ask. But do not use any of the same words as the most recent question.
     It is very important that your follow-up questions does not use any of the words contained in the most recent question.
     Make sure these 3 new follow-up questions does not resemble the previous questions.

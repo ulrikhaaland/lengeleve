@@ -1,4 +1,4 @@
-import endent from 'endent';
+import endent from "endent";
 
 export const systemPrompt1 = endent`
 You are a helpful assistant that accurately answers queries using Peter Attia's knowledge of training.

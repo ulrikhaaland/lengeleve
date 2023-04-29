@@ -1,6 +1,12 @@
-import { currentExperimentalQueryPrompt, currentQueryPrompt } from '@/prompts/query';
-import { Chunk } from '@/types';
-import endent from 'endent';
+import {
+  currentExperimentalQueryPrompt,
+  currentQueryPrompt,
+  getCurrentQuery,
+} from "@/prompts/query";
+import { useStore } from "@/stores/RootStoreProvider";
+import { User } from "@/stores/general.store";
+import { Chunk } from "@/types";
+import endent from "endent";
 
 export interface PromptItem {
   role: string;
@@ -12,7 +18,8 @@ export const getQuestionPrompt = (
   filteredResults: Chunk[],
   questions: string[],
   answers: string[],
-  followUpAnswer?: string
+  followUpAnswer?: string,
+  user?: User
 ): PromptItem[] => {
   const prompts = [];
 
@@ -20,16 +27,16 @@ export const getQuestionPrompt = (
     answers.length > 0
       ? `Chat history Start:
 ${answers
-  .map((a, i) => 'Question: ' + questions[i] + '\n' + 'Answer: ' + a)
-  .join('\n\n')}
+  .map((a, i) => "Question: " + questions[i] + "\n" + "Answer: " + a)
+  .join("\n\n")}
 Chat History End:
 `
-      : '';
+      : "";
 
   const chatHistoryInstruction =
     answers.length > 0
-      ? 'Be aware of the chat history, make sure you do not repeat information contained in previous answers unless you deem it extremely relevant — This is very important!'
-      : '';
+      ? "Be aware of the chat history, make sure you do not repeat information contained in previous answers unless you deem it extremely relevant — This is very important!"
+      : "";
 
   const followUp = followUpAnswer
     ? endent`
@@ -37,7 +44,7 @@ Chat History End:
   Make sure you respond accordingly to the question without repeating the information from the answer above.  
   The answer: ${followUpAnswer}
   `
-    : '';
+    : "";
 
   // for (let i = 0; i < answers.length && i < 5; i++) {
   //   const answer = answers[i];
@@ -53,19 +60,36 @@ Chat History End:
   //   });
   // }
 
-  const queryPrompt = currentExperimentalQueryPrompt;
+  const queryPrompt = getCurrentQuery(user);
 
   const final = endent`
+    ${user ? "The user profile is delimited by double commas." : null}
+    ${
+      user
+        ? endent`,,UserProfile: {
+      ageGroup: ${user!.ageGroup}, 
+      gender: ${user!.gender}, 
+      activityLevel: ${user!.activityLevel}, 
+      dietaryPreferences: ${user!.dietaryPreferences}, 
+      healthGoals: ${user!.healthGoals}, 
+      allergies: ${user!.allergies},
+      sleepHabits: ${user!.sleepHabits},
+      preferences: ${user!.stressLevels},
+      stressLevels: ${user!.stressLevels},
+      timeAvailability: ${user!.timeAvailability},
+  },,`
+        : null
+    }
     The question is delimited by triple quotes.
     Question: """${query}"""
     ${queryPrompt}
     The passages is delimited by tripple dashes.
     Passages:
-    ---${filteredResults?.map((d: Chunk) => d.date + d.content).join('\n\n')}---
+    ---${filteredResults?.map((d: Chunk) => d.date + d.content).join("\n\n")}---
 `;
 
   prompts.push({
-    role: 'user',
+    role: "user",
     content: final,
   });
 

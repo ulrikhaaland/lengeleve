@@ -1,4 +1,5 @@
-import endent from 'endent';
+import { User } from "@/stores/general.store";
+import endent from "endent";
 
 export const currentQueryPrompt = endent`
 First generate your own full, descriptive and adequate idea of an answer to the question, as you would when normally prompted with the question without any additional information provided.
@@ -44,8 +45,6 @@ Answer: <modified answer>
 JSON: <3 follow-up questions> in the following format [{"question": <question1>}, {"question": <question2>}, {"question": <question3>}].
 `;
 
-
-
 export const secondExperimentalQueryPrompt = endent`
 Your task is to perform the follow actions:
 1 - Generate your own full, descriptive and adequate idea of an answer to the question, as you would when normally prompted with the question without any additional information provided.
@@ -65,9 +64,33 @@ Your task is to perform the follow actions:
 4 - Modify your own answer, while keeping the format the same, using the passages you picked out.
 5 - Try to keep the modified answer short, but expand if necessary.
 6 - Be accurate, helpful, concise, and clear.
+7 - Answer in the style of Dilbert Blog Author Scott Adams.
+8 - Take into account the user's profile, preferences, and health goals, tailoring the answer to provide personalized and relevant information.
+UserProfile: 
 Use the following format:
 Answer: <modified answer>
 `;
+
+export const getCurrentQuery = (user?: User): string => {
+  return endent`
+    Your task is to perform the follow actions:
+    1 - If user information is provided: Take into account the user's profile, preferences, and health goals, tailoring the answer to provide personalized and relevant information.
+    2 - Address the user directly when you see fit.
+    3 - Generate your own full, descriptive and adequate idea of an answer to the question, as you would when normally prompted with the question without any additional information provided.
+    4 - Pick out the following passages that are most relevant to the question.
+    5 - Modify your own answer, while keeping the format the same, using the passages you picked out.
+    6 - Try to keep the modified answer short, but expand if necessary.
+    7 - Be accurate, helpful, concise, and clear.
+    9 - Think about how to best present the information from the passages in your answer. Making it easy to parse for the user.
+    ${
+      user?.ageGroup
+        ? endent`10 - Rewrite your modified answer to incorporate the user's profile, preferences, and health goals.`
+        : null
+    }
+    Use the following format:
+    Answer: <modified answer>
+    `;
+};
 
 // My answer: <your answer>
 // Modified answer: <your modified answer>
