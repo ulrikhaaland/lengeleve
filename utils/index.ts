@@ -7,7 +7,7 @@ import {
   ParsedEvent,
   ReconnectInterval,
 } from 'eventsource-parser';
-import { systemPromptCurrent } from '../prompts/system';
+import { currentSystemPrompt } from '../prompts/system';
 
 export const supabaseAdmin = createClient(
   process.env.SUPABASE_URL!,
@@ -20,15 +20,15 @@ export const OpenAIStream = async (prompt: PromptItem[], apiKey: string) => {
 
   // Else if the question indicates a need for a long answer, expand your answer.,
 
-  const systemCurrent = systemPromptCurrent;
+  const systemCurrent = currentSystemPrompt;
 
   const contentPrompt = {
-    role: 'user',
+    role: 'system',
     content: systemCurrent,
   };
 
   /// insert content prompt at index 0 of prompt array
-  // prompt.unshift(contentPrompt);
+  prompt.unshift(contentPrompt);
 
   console.log('Running OpenAIStream...');
 

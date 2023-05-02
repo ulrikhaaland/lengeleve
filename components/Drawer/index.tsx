@@ -1,6 +1,9 @@
 // CustomDrawer.tsx
 import React from 'react';
 import Drawer from '@mui/material/Drawer';
+import { IconButton } from '@mui/material';
+// import closeicon from mui
+import { IconX } from '@tabler/icons-react';
 
 interface CustomDrawerProps {
   selectedIndex: number | undefined;
@@ -109,8 +112,21 @@ const CustomDrawer: React.FC<CustomDrawerProps> = ({
     >
       {selectedIndex !== undefined && (
         <div className=''>
-          <div className='font-bold text-2xl mb-4'>
+          <div className='font-bold text-2xl mb-4 relative'>
             {questions[selectedIndex]}
+            <IconButton
+              edge='end'
+              color='inherit'
+              onClick={handleClose}
+              aria-label='close'
+              sx={{
+                position: 'absolute',
+                right: '0.5rem',
+                top: '0.5rem',
+              }}
+            >
+              <IconX />
+            </IconButton>
           </div>
           {selectedText && (
             <>
@@ -139,7 +155,7 @@ const CustomDrawer: React.FC<CustomDrawerProps> = ({
                   </div>
                   <div className='mt-2'>
                     {highlightSelectedText(chunk.content, selectedWords)}
-                  </div>{' '}
+                  </div>
                 </div>
               </div>
             );

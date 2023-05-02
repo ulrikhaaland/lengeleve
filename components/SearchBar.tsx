@@ -1,9 +1,5 @@
 import { KeyboardEvent, useEffect, useRef, useState } from 'react';
-import {
-  IconArrowRight,
-  IconExternalLink,
-  IconSearch,
-} from '@tabler/icons-react';
+import { IconArrowRight, IconSearch } from '@tabler/icons-react';
 import { getPreQuestion } from '@/utils/preQuestion';
 
 interface SearchBarProps {
@@ -33,6 +29,7 @@ export default function SearchBar({
   };
 
   const onSearch = () => {
+    if (disabled) return;
     if (query.length === 0) {
       query = placeholder!;
       setQuery(placeholder!);

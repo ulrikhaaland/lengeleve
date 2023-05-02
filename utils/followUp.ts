@@ -24,6 +24,7 @@ export const getFollowUpQuestions = async (
     Make sure the questions are not equal to each other.
     Make sure the questions are not equal to the question above.
     Make sure the questions are no longer than 10 words.
+    The question is to be answered by a quadruple PhD in exercise physiology, nutrition, longevity, and medicine, it can be very specific.
     Then return the questions as a JSON-list.
     Return only the questions, not answers.
     Return each answer as a JSON object in a list: [{"question": "Question 1"}, {"question": "Question 2"}, {"question": "Question 3"}]
