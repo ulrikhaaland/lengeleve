@@ -54,8 +54,8 @@ const QuestionsList: React.FC<QuestionsListProps> = ({
             i === questions.length - 1 ? '' : 'mt-6'
           } w-full flex flex-col mt-6`}
         >
-          <div className='font-bold text-2xl w-full'>Question</div>
-          <div className='mt-2'>{q}</div>
+          <div className='font-bold text-2xl w-full text-white'>Question</div>
+          <div className='mt-2 text-white'>{q}</div>
           {i === questions.indexOf(questions[questions.length - 1]) &&
           loading ? (
             loadingAnswerElement
@@ -63,9 +63,9 @@ const QuestionsList: React.FC<QuestionsListProps> = ({
             answering ? (
             <>
               <div className='mt-6 items-center flex-row flex w-full justify-between pb-2'>
-                <h2 className='font-bold text-2xl '>Answer</h2>{' '}
+                <h2 className='font-bold text-2xl text-white'>Answer</h2>{' '}
                 <button
-                  className='bg-gray-400 text-sm hover:bg-gray-700 text-white py-1 px-2 rounded inline-flex items-center transition duration-200'
+                  className='bg-indigo-500 text-sm hover:bg-gray-700 text-white py-1 px-2 rounded inline-flex items-center transition duration-200'
                   onClick={() => setSelectedIndex(i)}
                 >
                   Go to passages ({passages[i].length})
@@ -77,9 +77,9 @@ const QuestionsList: React.FC<QuestionsListProps> = ({
             answers[i] && (
               <>
                 <div className='mt-6 items-center flex-row flex w-full justify-between'>
-                  <h2 className='font-bold text-2xl '>Answer</h2>{' '}
+                  <h2 className='font-bold text-2xl text-white'>Answer</h2>{' '}
                   <button
-                    className='bg-gray-400 text-sm hover:bg-gray-700 text-white py-1 px-2 rounded inline-flex items-center transition duration-200'
+                    className='bg-indigo-500 text-sm hover:bg-gray-700 text-white py-1 px-2 rounded inline-flex items-center transition duration-200'
                     onClick={() => setSelectedIndex(i)}
                   >
                     Go to passages ({passages[i].length})

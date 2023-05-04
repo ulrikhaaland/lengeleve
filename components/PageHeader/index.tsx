@@ -76,13 +76,15 @@ const PageHeader = () => {
   }, [hasAskedQuestion]);
 
   return (
-    <div className='border-b w-full'>
-      <div className='grid grid-cols-1 items-center'>
+    <div className='w-full flex z items-center'>
+      <div className='w-3/12'></div>
+      <div className='grid grid-cols-1 items-center w-9/12'>
         <div className='text-center'>
-          <h2 className='text-2xl font-bold mt-4 mb-2'>ChatLongevity</h2>
-          <h2 className='text-m mb-2 text-gray-600'>Model: Chattia01</h2>
+          <h2 className='text-white text-2xl font-bold mt-4 mb-0'>
+            ChatLongevity
+          </h2>
         </div>
-          {/* <h3 className='text-lg font-semibold mb-2'>Mode</h3>
+        {/* <h3 className='text-lg font-semibold mb-2'>Mode</h3>
           <div className='flex justify-center'>
             <div className='-mr-1'>
               <button

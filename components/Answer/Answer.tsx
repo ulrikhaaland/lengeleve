@@ -35,7 +35,7 @@ export const Answer: React.FC<AnswerProps> = ({ text }) => {
 
   return (
     <div
-      className='answer'
+      className='answer text-white' 
       style={fadeInStyle}
       dangerouslySetInnerHTML={{ __html: processedTextWithStyles }}
     ></div>

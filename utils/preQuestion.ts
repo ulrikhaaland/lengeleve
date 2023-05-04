@@ -19,7 +19,7 @@ export const getPreQuestion = async (previousQuestion: string[]) => {
             The previous questions are delimited by triple quotes.
             """${previousQuestion.join('\n')}"""
             The question should be something that a person who is interested in health, nutrition and exercise would ask.
-            The question must be maximally 5 words long. This is very important!
+            The question must be maximally 6 words long. This is very important!
             `,
         },
       ],

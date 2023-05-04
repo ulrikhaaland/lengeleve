@@ -95,11 +95,15 @@ const TextHighlighter: React.FC<TextHighlighterProps> = ({
   //   }
   // }, [bgClicked]);
   return (
-    <div className='mt-2' ref={textRef} style={{ position: 'relative' }}>
+    <div
+      className='mt-2 text-white'
+      ref={textRef}
+      style={{ position: 'relative' }}
+    >
       <div dangerouslySetInnerHTML={{ __html: formattedTextWithStyles }} />
       {buttonVisible && (
         <button
-          className='bg-blue-500 hover:bg-blue-700 text-white py-1 px-3 rounded inline-flex items-center transition duration-200'
+          className='bg-indigo-500 hover:bg-blue-700 text-white py-1 px-3 rounded inline-flex items-center transition duration-200'
           style={{
             position: 'absolute',
             top: buttonPosition.top,

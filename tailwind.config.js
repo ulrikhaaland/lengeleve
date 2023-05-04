@@ -17,6 +17,15 @@ module.exports = {
       desktop: '1280px',
       // => @media (min-width: 1280px) { ... }
     },
+    extend: {
+      colors: {
+        bg: '#17161b',
+        bg2: '#242329',
+        3: '#ff49db',
+        4: '#ff7849',
+        5: '#13ce66',
+      },
+    },
   },
   plugins: [],
 };
