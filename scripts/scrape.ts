@@ -1,17 +1,17 @@
-import puppeteer from 'puppeteer';
-import * as fs from 'fs';
-import csv from 'csv-parser';
-import { encode } from 'gpt-3-encoder';
-import { createClient } from '@supabase/supabase-js';
-import { Configuration, OpenAIApi } from 'openai';
-import { loadEnvConfig } from '@next/env';
-import { JSDOM } from 'jsdom';
-import { Restaurant } from '@/types';
+import puppeteer from "puppeteer";
+import * as fs from "fs";
+import csv from "csv-parser";
+import { encode } from "gpt-3-encoder";
+import { createClient } from "@supabase/supabase-js";
+import { Configuration, OpenAIApi } from "openai";
+import { loadEnvConfig } from "@next/env";
+import { JSDOM } from "jsdom";
+import { Restaurant } from "@/types";
 
-const loginUrl = 'https://peterattiamd.com/login/';
-const targetUrl = 'https://peterattiamd.com/ama39/';
-const username = 'ulrikhaaland2@gmail.com';
-const password = 'Ulrik1994';
+const loginUrl = "https://peterattiamd.com/login/";
+const targetUrl = "https://peterattiamd.com/ama39/";
+const username = "ulrikhaaland2@gmail.com";
+const password = "Ulrik1994";
 
 export type Scraped = {
   position: number;
@@ -29,7 +29,7 @@ export type EncodedString = {
   encodedLength: number;
 };
 
-loadEnvConfig('');
+loadEnvConfig("");
 
 const configuration = new Configuration({
   apiKey: process.env.OPENAI_API_KEY,
@@ -88,7 +88,7 @@ const generateEmbeddings = async (chunks: Restaurant[]): Promise<void> => {
 };
 
 const extractText = (firstH4: Element, secondH4: Element): string => {
-  let extractedText = '';
+  let extractedText = "";
   let currentElement = firstH4.nextSibling;
 
   while (currentElement && currentElement !== secondH4) {
@@ -108,27 +108,36 @@ const scrape = async (
   title: string,
   url: string
 ): Promise<Scraped | undefined> => {
-  const browser = await puppeteer.launch();
+  const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
   await page.goto(url);
 
+  // await page.waitForTimeout(250);
+
+  // await page.waitForSelector(".sc-eda0895a-2.kcvQDI");
+
+  // accept privacy policy
+  await page.click(".sc-eda0895a-2.kcvQDI");
+
+  await page.waitForSelector(".sc-31447687-0.kWYCdN");
+
   // Click the button with the specified classname to open the dialog
-  await page.click('.sc-31447687-0.kWYCdN');
+  await page.click(".sc-31447687-0.kWYCdN");
 
   // Wait for the dialog elements to appear
-  await page.waitForSelector('.sc-28740013-0.gRpRjN');
-  await page.waitForSelector('.sc-9ee401a5-2.bTmyip');
-  await page.waitForSelector('.sc-1fe0cb69-0.gDRdqW');
+  await page.waitForSelector(".sc-28740013-0.gRpRjN");
+  await page.waitForSelector(".sc-9ee401a5-2.bTmyip");
+  await page.waitForSelector(".sc-1fe0cb69-0.gDRdqW");
 
   // Fetch the text content of the <div> element with the specified classname
-  const divText = await page.$eval('.sc-28740013-0.gRpRjN', (div: Element) => {
+  const divText = await page.$eval(".sc-28740013-0.gRpRjN", (div: Element) => {
     const divElement = div as HTMLDivElement;
     return divElement.textContent;
   });
 
   // Fetch the text content of the <table> element with the specified classname
   const tableText = await page.$eval(
-    '.sc-9ee401a5-2.bTmyip',
+    ".sc-9ee401a5-2.bTmyip",
     (table: Element) => {
       const tableElement = table as HTMLTableElement;
       return tableElement.textContent;
@@ -137,7 +146,7 @@ const scrape = async (
 
   // Fetch the text content of all the <a> elements with the specified classname
   const aTexts = await page.$$eval(
-    '.sc-1fe0cb69-0.gDRdqW',
+    ".sc-1fe0cb69-0.gDRdqW",
     (aElements: Element[]) =>
       aElements.map((a: Element) => {
         const aElement = a as HTMLAnchorElement;
@@ -145,16 +154,16 @@ const scrape = async (
       })
   );
 
-  console.log('divText:', divText);
-  console.log('tableText:', tableText);
-  console.log('aTexts:', aTexts);
+  console.log("divText:", divText);
+  console.log("tableText:", tableText);
+  console.log("aTexts:", aTexts);
 
   // Close the dialog
-  await page.click('sc-b8df2b91-0.ljUssp');
+  await page.click(".sc-b8df2b91-0.ljUssp");
 
   // Fetch the text content of all the <a> elements with the specified classname in the results function
   const aTextsResults = await page.$$eval(
-    '.sc-1fe0cb69-0.gMWbKL.sc-4421a4fa-6.jNmnLj',
+    ".sc-1fe0cb69-0.gMWbKL.sc-4421a4fa-6.jNmnLj",
     (aElements: Element[]) =>
       aElements.map((a: Element) => {
         const aElement = a as HTMLAnchorElement;
@@ -163,20 +172,49 @@ const scrape = async (
   );
 
   // Find all button elements with the specified classname
+  const results = await page.$$eval(
+    "button.sc-31d77e20-1.lnDhFy",
+    (buttons: HTMLButtonElement[]) => {
+      return buttons.map((button) => {
+        // Extract the text from the <h3> element with the specified classname
+        const h3Element = button.querySelector("h3.sc-979c4fba-2.kFXweV");
+        const h3Text = h3Element ? h3Element.textContent : "";
+
+        // Extract the text from the first <p> element with the specified classname
+        const pElement1 = button.querySelector("p.sc-979c4fba-0.deohUF");
+        const pText1 = pElement1 ? pElement1.textContent : "";
+
+        // Extract the text from the second <p> element with the specified classname
+        const pElement2 = button.querySelector("p.sc-91d4e765-1.cURerU");
+        const pText2 = pElement2 ? pElement2.textContent : "";
+
+        // Extract the image link from the <img> element with the specified classname
+        const imgElement = button.querySelector(
+          "img.sc-36a7e468-1.flwxdV"
+        ) as HTMLImageElement;
+        const imgSrc = imgElement ? imgElement.src : "";
+
+        const popular = !!button.querySelector("span.sc-22183055-1.kNEbpF");
+
+        return { h3Text, pText1, pText2, imgSrc, popular };
+      });
+    }
+  );
+
   const scrapedData = await page.$$eval(
-    'button.sc-8c9b94e6-0.gXfAhD',
+    "button.sc-8c9b94e6-0.gXfAhD",
     (buttons: Element[]) => {
       return buttons.map((button: Element) => {
         const h3Text = button.querySelector(
-          '.sc-5ba2664-2.gskVzg'
+          ".sc-5ba2664-2.gskVzg"
         )?.textContent;
-        const pText1 = button.querySelector('.sc-5ba2664-0.ljehg')?.textContent;
+        const pText1 = button.querySelector(".sc-5ba2664-0.ljehg")?.textContent;
         const pText2 = button.querySelector(
-          '.sc-91d4e765-1.cURerU'
+          ".sc-91d4e765-1.cURerU"
         )?.textContent;
-        const imgElement = button.querySelector('img.sc-36a7e468-1.flwxdV');
+        const imgElement = button.querySelector("img.sc-36a7e468-1.flwxdV");
         const imgSrc = imgElement ? (imgElement as HTMLImageElement).src : null;
-        const popular = !!button.querySelector('span.sc-22183055-1.kNEbpF');
+        const popular = !!button.querySelector("span.sc-22183055-1.kNEbpF");
 
         return {
           h3Text,
@@ -191,8 +229,8 @@ const scrape = async (
 
   await browser.close();
 
-  for (let i = 0; i < scrapedData.length; i++) {
-    const { h3Text, pText1, pText2 } = scrapedData[i];
+  for (let i = 0; i < results.length; i++) {
+    const { h3Text, pText1, pText2 } = results[i];
     console.log(h3Text, pText1, pText2);
   }
 
@@ -204,19 +242,19 @@ export const onParseFailure = async (failedContent: string) => {
 
   try {
     response = await openai.createChatCompletion({
-      model: 'gpt-3.5-turbo-0301',
+      model: "gpt-3.5-turbo-0301",
       messages: [
         {
-          role: 'system',
-          content: 'You help with formatting JSON.',
+          role: "system",
+          content: "You help with formatting JSON.",
         },
         {
-          role: 'user',
+          role: "user",
           content:
-            'This content was parsed incorrectly. Can you turn it into JSON list containg each chunk as JSON format: {title: title, content: content}. It is crucial to respond in the JSON Format as requested.',
+            "This content was parsed incorrectly. Can you turn it into JSON list containg each chunk as JSON format: {title: title, content: content}. It is crucial to respond in the JSON Format as requested.",
         },
         {
-          role: 'user',
+          role: "user",
           content: failedContent,
         },
       ],
@@ -229,7 +267,7 @@ export const onParseFailure = async (failedContent: string) => {
   }
 
   if (response!.status !== 200) {
-    throw new Error('OpenAI API returned an error');
+    throw new Error("OpenAI API returned an error");
   } else {
     return response!.data.choices[0].message?.content;
   }
@@ -240,20 +278,20 @@ const chatCompletetion = async (content: string) => {
 
   try {
     response = await openai.createChatCompletion({
-      model: 'gpt-3.5-turbo-0301',
+      model: "gpt-3.5-turbo-0301",
       messages: [
         {
-          role: 'system',
+          role: "system",
           content:
             "You are a helpful assistant that accurately answers queries using Peter Attia's knowledge of training. Use the text provided to form your answer, but avoid copying word-for-word from the essays. Try to use your own words when possible. Keep your answer under 5 sentences. Be accurate, helpful, concise, and clear.",
         },
         {
-          role: 'user',
+          role: "user",
           content:
-            'I will give you a chunk of text. You will extract the parts that is relevant to disease. You will not use any personal names. You will leave out parts where they talk about peoples backgrounds. Then you will combine the relevant text into a chunks, give each chunk a title, and only return a JSON list containg each chunk as JSON format: {title: title, content: content}. It is crucial to respond in the JSON Format as requested.',
+            "I will give you a chunk of text. You will extract the parts that is relevant to disease. You will not use any personal names. You will leave out parts where they talk about peoples backgrounds. Then you will combine the relevant text into a chunks, give each chunk a title, and only return a JSON list containg each chunk as JSON format: {title: title, content: content}. It is crucial to respond in the JSON Format as requested.",
         },
         {
-          role: 'user',
+          role: "user",
           content: content,
         },
       ],
@@ -266,7 +304,7 @@ const chatCompletetion = async (content: string) => {
   }
 
   if (response!.status !== 200) {
-    throw new Error('OpenAI API returned an error');
+    throw new Error("OpenAI API returned an error");
   } else {
     return response!.data.choices[0].message?.content;
   }
@@ -342,7 +380,7 @@ const parse = async (scraped: Scraped): Promise<Restaurant[]> => {
 
   const jsonContent = JSON.stringify(chunks, null, 1);
 
-  fs.writeFile(filePath, jsonContent, 'utf8', (err) => {
+  fs.writeFile(filePath, jsonContent, "utf8", (err) => {
     if (err) {
       console.error(`Error writing to file ${filePath}:`, err);
     } else {
@@ -354,13 +392,15 @@ const parse = async (scraped: Scraped): Promise<Restaurant[]> => {
 };
 
 async function runScrape(row: any) {
-  const number = row['position'];
-  const title = row['title'];
-  const url = row['link'];
+  const number = row["position"];
+  const title = row["title"];
+  const url = row["link"];
 
   const scrapeItem = await scrape(number, title, url);
 
-  console.log('scraping: ' + title);
+  return;
+
+  console.log("scraping: " + title);
 
   const content = splitString(scrapeItem!.content);
   scrapeItem!.contentEncoded = content;
@@ -376,9 +416,9 @@ function removeHtmlElementsAndLinks(input: string): string {
   const dom = new JSDOM(input);
 
   // Return the text content without any HTML tags
-  const textContent = dom.window.document.body.textContent || '';
+  const textContent = dom.window.document.body.textContent || "";
 
-  const startSearchString = 'Show Notes*';
+  const startSearchString = "Show Notes*";
   const startSearchIndex = textContent.indexOf(startSearchString);
 
   // If the start specified string is found, remove all text before it
@@ -387,7 +427,7 @@ function removeHtmlElementsAndLinks(input: string): string {
       ? textContent.substring(startSearchIndex)
       : textContent;
 
-  const endSearchString = '§Selected Links';
+  const endSearchString = "§Selected Links";
   const endSearchIndex = updatedTextContent.indexOf(endSearchString);
 
   // If the end specified string is found, remove all text after it
@@ -402,21 +442,21 @@ function splitString(input: string, maxLength: number = 1000): EncodedString[] {
   input = removeHtmlElementsAndLinks(input);
 
   const result: EncodedString[] = [];
-  let currentSubstring = '';
+  let currentSubstring = "";
 
   for (let i = 0; i < input.length; i++) {
     currentSubstring += input[i];
     const encoded = encode(currentSubstring);
 
     if (encoded.length >= maxLength - 1 || i === input.length - 1) {
-      let lastIndex = currentSubstring.lastIndexOf('\n');
+      let lastIndex = currentSubstring.lastIndexOf("\n");
 
       // Ensure that we don't split on a number
       while (
         lastIndex > 0 &&
         !isNaN(parseInt(currentSubstring[lastIndex + 1], 10))
       ) {
-        lastIndex = currentSubstring.lastIndexOf('\n', lastIndex - 1);
+        lastIndex = currentSubstring.lastIndexOf("\n", lastIndex - 1);
       }
 
       if (lastIndex === -1 || lastIndex === currentSubstring.length - 1) {
@@ -425,7 +465,7 @@ function splitString(input: string, maxLength: number = 1000): EncodedString[] {
           contentLength: currentSubstring.length,
           encodedLength: encode(currentSubstring).length,
         });
-        currentSubstring = '';
+        currentSubstring = "";
       } else {
         const resultString = currentSubstring.substring(0, lastIndex);
         result.push({
@@ -452,22 +492,22 @@ async function startScrape(results: any[]) {
   for (let i = 0; i < results.length; i++) {
     const row = results[i];
     await runScrape(row);
-    // console.log(i);
-    console.log('generated embeddings for: ' + row['title']);
+    // console.log(i)
+    console.log("generated embeddings for: " + row["title"]);
   }
 }
 
 async function main() {
   const results: any[] = [];
 
-  fs.createReadStream('scripts/data/wolt.csv')
+  fs.createReadStream("scripts/data/wolt.csv")
     .pipe(csv())
-    .on('data', (data: any) => results.push(data))
-    .on('end', () => {
+    .on("data", (data: any) => results.push(data))
+    .on("end", () => {
       startScrape(results);
     });
 }
 
 main().catch((error) => {
-  console.error('Error:', error);
+  console.error("Error:", error);
 });
