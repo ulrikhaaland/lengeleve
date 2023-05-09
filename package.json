@@ -13,11 +13,13 @@
     "parse": "tsx scripts/parse.ts"
   },
   "dependencies": {
-    "@emotion/react": "^11.10.6",
-    "@emotion/styled": "^11.10.6",
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
     "@material/theme": "^14.0.0",
     "@mui/icons-material": "^5.11.16",
-    "@mui/material": "^5.12.1",
+    "@mui/lab": "^5.0.0-alpha.129",
+    "@mui/material": "^5.12.3",
+    "@mui/system": "^5.12.3",
     "@nem035/gpt-3-encoder": "^1.1.7",
     "@next/font": "^13.2.3",
     "@tabler/icons-react": "^2.4.0",
@@ -40,6 +42,8 @@
     "puppeteer": "^19.10.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-dropzone": "^14.2.3",
+    "react-dropzone-uploader": "^2.11.0",
     "typescript": "4.9.5",
     "valid-url": "^1.0.9",
     "validatorjs": "^3.22.1"

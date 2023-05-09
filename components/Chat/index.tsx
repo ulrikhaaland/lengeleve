@@ -20,6 +20,7 @@ function Chat() {
   const divRef = useRef<HTMLInputElement>(null);
 
   const { generalStore } = useStore();
+  const { settingsStore } = useStore();
 
   const {
     user,
@@ -52,6 +53,8 @@ function Chat() {
     setFollowUpQuestions([]);
     const query = q ?? question;
 
+    const usePassages = false;
+
     const followUpAnswer: string | undefined =
       followUpQuestion === true ? answers[answers.length - 1] : undefined;
 
@@ -62,10 +65,10 @@ function Chat() {
       return;
     }
 
-    if (!query) {
-      alert('Please enter a query.');
-      return;
-    }
+    // if (!query) {
+    //   alert('Please enter a query.');
+    //   return;
+    // }
 
     setAnswer('');
     setChunks([]);
@@ -74,87 +77,74 @@ function Chat() {
 
     setQuestions((prev) => [...prev, query]);
 
-    const searchResponse = await fetch('/api/search', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({ query, apiKey, matches: matchCount }),
-    });
-
-    if (!searchResponse.ok) {
-      setLoading(false);
-      throw new Error(searchResponse.statusText);
-    }
-
-    const results: Chunk[] = await searchResponse.json();
-
-    const filteredResults: Chunk[] = [];
-
-    let tokens = 0;
-
-    for (let i = 0; i < results.length; i++) {
-      const chunk = results[i];
-      tokens += chunk.content_tokens;
-      if (tokens > 2048) {
-        tokens = tokens - chunk.content_tokens;
-        continue;
-      } else {
-        filteredResults.push(chunk);
-      }
-    }
-
-    setPassages((prev) => [...prev, filteredResults]);
-
-    if (tokens > 2048) {
-      console.log(
-        'The total number of tokens in the passages exceeds the limit of 2048. Please try a different query.'
-      );
-      console.log('Total number of tokens: ' + tokens);
-      // setLoading(false);
-      // return;
-    }
-
-    setChunks(filteredResults);
-
     // const preQuestion = await getPreQuestion(query);
 
-    let prompt: PromptItem[] = getQuestionPrompt(
-      query,
-      filteredResults,
-      questions,
-      answers,
-      followUpAnswer,
-      chatMode === ChatMode.specific ? user : undefined
-    );
+    let passages;
 
-    const getPromptEncodedLength = (prompt: PromptItem[]) => {
-      let prompt_token_length = 0;
-      prompt.forEach((p) => {
-        prompt_token_length += encode(p.content).length;
-      });
-      return prompt_token_length;
-    };
-
-    let prompt_token_length = getPromptEncodedLength(prompt);
-
-    let i = filteredResults.length - 1;
-
-    while (prompt_token_length > 3000) {
-      i--;
-      filteredResults.splice(i, 1);
-      prompt = getQuestionPrompt(
-        query,
-        filteredResults,
-        questions,
-        answers,
-        followUpAnswer,
-        chatMode === ChatMode.specific ? user : undefined
-      );
-      prompt_token_length = getPromptEncodedLength(prompt);
+    if (usePassages) {
+      passages = await getPassages(query);
     }
 
+    // let prompt: PromptItem[] = getQuestionPrompt(
+    //   query,
+    //   filteredResults,
+    //   questions,
+    //   answers,
+    //   followUpAnswer,
+    //   chatMode === ChatMode.specific ? user : undefined
+    // );
+
+    // const getPromptEncodedLength = (prompt: PromptItem[]) => {
+    //   let prompt_token_length = 0;
+    //   prompt.forEach((p) => {
+    //     prompt_token_length += encode(p.content).length;
+    //   });
+    //   return prompt_token_length;
+    // };
+
+    // let prompt_token_length = getPromptEncodedLength(prompt);
+
+    // let i = filteredResults.length - 1;
+
+    // while (prompt_token_length > 3000) {
+    //   i--;
+    //   filteredResults.splice(i, 1);
+    //   prompt = getQuestionPrompt(
+    //     query,
+    //     filteredResults,
+    //     questions,
+    //     answers,
+    //     followUpAnswer,
+    //     chatMode === ChatMode.specific ? user : undefined
+    //   );
+    //   prompt_token_length = getPromptEncodedLength(prompt);
+    // }
+
     let answerResponse;
+
+    const settings = settingsStore.settings;
+
+    const promptItem: PromptItem[] = [];
+
+    for (let i = 0; i < answers.length; i++) {
+      if (i !== 0) {
+        promptItem.push({
+          role: 'user',
+          content: questions[i],
+        });
+      }
+
+      promptItem.push({
+        role: 'assistant',
+        content: answers[i],
+      });
+    }
+
+    if (query)
+      promptItem.push({
+        role: 'user',
+        content: query,
+      });
 
     try {
       answerResponse = await fetch('/api/answer', {
@@ -162,7 +152,7 @@ function Chat() {
         headers: {
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify({ prompt, apiKey }),
+        body: JSON.stringify({ promptItem, apiKey, settings }),
       });
     } catch (error) {
       setLoading(false);
@@ -251,6 +241,51 @@ function Chat() {
     }
 
     inputRef.current?.focus();
+  };
+
+  const getPassages = async (query: string) => {
+    const searchResponse = await fetch('/api/search', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({ query, apiKey, matches: matchCount }),
+    });
+
+    if (!searchResponse.ok) {
+      setLoading(false);
+      throw new Error(searchResponse.statusText);
+    }
+
+    const results: Chunk[] = await searchResponse.json();
+
+    const filteredResults: Chunk[] = [];
+
+    let tokens = 0;
+
+    for (let i = 0; i < results.length; i++) {
+      const chunk = results[i];
+      tokens += chunk.content_tokens;
+      if (tokens > 2048) {
+        tokens = tokens - chunk.content_tokens;
+        continue;
+      } else {
+        filteredResults.push(chunk);
+      }
+    }
+
+    setPassages((prev) => [...prev, filteredResults]);
+
+    if (tokens > 2048) {
+      console.log(
+        'The total number of tokens in the passages exceeds the limit of 2048. Please try a different query.'
+      );
+      console.log('Total number of tokens: ' + tokens);
+      // setLoading(false);
+      // return;
+    }
+
+    setChunks(filteredResults);
   };
 
   const onFollowUpQuestions = async (

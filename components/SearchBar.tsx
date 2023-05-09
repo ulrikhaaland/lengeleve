@@ -37,22 +37,23 @@ export default function SearchBar({
     }
     setPreviousQuestions((prev) => [...prev, query]);
     handleSearch(query);
-    genPreQuestion();
+    resizeTextArea();
+    // genPreQuestion();
   };
 
-  const genPreQuestion = async () => {
-    const preQuestion = await getPreQuestion(previousQ);
-    setPlaceholder(preQuestion?.replaceAll('"', '') ?? 'What is longevity?');
-  };
+  // const genPreQuestion = async () => {
+  //   const preQuestion = await getPreQuestion(previousQ);
+  //   setPlaceholder(preQuestion?.replaceAll('"', '') ?? 'What is longevity?');
+  // };
 
   useEffect(() => {
-    genPreQuestion();
+    // genPreQuestion();
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   useEffect(() => {
     console.log(query);
-    if (previousQuestions) setPreviousQuestions(previousQuestions);
+    // if (previousQuestions) setPreviousQuestions(previousQuestions);
   }, [previousQuestions]);
 
   const handleChange = (e: any) => {

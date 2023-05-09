@@ -1,22 +1,27 @@
-export type Dish = {
-  id: number;
-  name: string;
-  price: number;
-  description: string;
-  imgUrl: string;
+export enum OpenAIModel {
+  DAVINCI_TURBO = 'gpt-3.5-turbo',
+}
+
+export type Chapter = {
+  title: string;
+  date: string;
+  topics: Topic[];
 };
 
-export type Restaurant = {
-  id: number;
-  name: string;
-  address: string;
-  rating: number;
-  priceLevel: number;
-  coverImg: string;
-  categories: string;
-  dishes: Dish[];
-  openingHours: string;
-  homepage: string;
-  phone: string;
-  popular: boolean;
+export type Topic = {
+  title: string;
+  date: string;
+  chunks: Chunk[];
+};
+
+export type Chunk = {
+  id?: number;
+  title: string;
+  date: string;
+  context: string;
+  people: string;
+  content: string;
+  content_length: number;
+  content_tokens: number;
+  embedding: number[];
 };

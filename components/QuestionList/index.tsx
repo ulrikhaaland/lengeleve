@@ -68,7 +68,7 @@ const QuestionsList: React.FC<QuestionsListProps> = ({
                   className='bg-indigo-500 text-sm hover:bg-gray-700 text-white py-1 px-2 rounded inline-flex items-center transition duration-200'
                   onClick={() => setSelectedIndex(i)}
                 >
-                  Go to passages ({passages[i].length})
+                  Go to passages
                 </button>
               </div>
               <Answer text={answer} />
@@ -82,7 +82,7 @@ const QuestionsList: React.FC<QuestionsListProps> = ({
                     className='bg-indigo-500 text-sm hover:bg-gray-700 text-white py-1 px-2 rounded inline-flex items-center transition duration-200'
                     onClick={() => setSelectedIndex(i)}
                   >
-                    Go to passages ({passages[i].length})
+                    Go to passages
                   </button>
                 </div>
                 <TextHighlighter

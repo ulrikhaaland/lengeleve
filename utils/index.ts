@@ -1,5 +1,4 @@
 import { PromptItem } from '@/utils/getQueryPrompt';
-import { OpenAIModel } from '@/types';
 import { createClient } from '@supabase/supabase-js';
 import endent from 'endent';
 import {
@@ -7,20 +6,28 @@ import {
   ParsedEvent,
   ReconnectInterval,
 } from 'eventsource-parser';
-import { currentSystemPrompt } from '../prompts/system';
+import { getCurrentSystemPrompt } from '../prompts/system';
+import { Settings } from '@/stores/settings.store';
+import { sys } from 'typescript';
 
 export const supabaseAdmin = createClient(
   process.env.SUPABASE_URL!,
   process.env.SUPABASE_SERVICE_ROLE_KEY!
 );
 
-export const OpenAIStream = async (prompt: PromptItem[], apiKey: string) => {
+export const OpenAIStream = async (
+  prompt: PromptItem[],
+  apiKey: string,
+  settings: Settings
+) => {
   const encoder = new TextEncoder();
   const decoder = new TextDecoder();
 
   // Else if the question indicates a need for a long answer, expand your answer.,
 
-  const systemCurrent = currentSystemPrompt;
+  const systemCurrent = getCurrentSystemPrompt(settings);
+
+  console.log(systemCurrent);
 
   const contentPrompt = {
     role: 'system',
