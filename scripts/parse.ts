@@ -206,7 +206,7 @@ function extractData(text: string): ExtractedData | null {
     /(\t|\\t)([A-Za-zæøåÆØÅ\s]+)(Felles for Netpower|Faktadokument)/;
   const authorRegex = /Dokumentansvarlig:\s*([A-Za-zæøåÆØÅ\s]+)\t/;
   const contentRegex =
-    /(Generell informasjon|Informasjon gjeldende for Netpower)(.*?)(?=Vær oppmerksom på at dokumentet kan være endret etter utskrift|orgkart)/s;
+    /(\d{2}\.\d{2}\.\d{4})(.*?)(?=Vær oppmerksom på at dokumentet kan være endret etter utskrift|orgkart)/s;
   const endContentRegex =
     /Vær oppmerksom på at dokumentet kan være endret etter utskrift./;
 
@@ -246,7 +246,7 @@ function extractData(text: string): ExtractedData | null {
   const sections = handbookString.split("logo");
   sections.forEach((section) => {
     const extractedData = extractData(section);
-    console.log(extractedData);
+    console.log(extractedData?.content);
   });
 
   // fs.writeFile(filePath, jsonContent, 'utf8', (err) => {
