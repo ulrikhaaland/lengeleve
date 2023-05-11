@@ -77,12 +77,21 @@ const PageHeader = () => {
 
   return (
     <div className='border-b w-full'>
-      <div className='grid grid-cols-1 items-center'>
-        <div className='text-center'>
-          <h2 className='text-2xl font-bold mt-4 mb-2'>ChatLongevity</h2>
-          <h2 className='text-m mb-2 text-gray-600'>Model: Chattia01</h2>
+      <div className='grid grid-cols-3 items-center'>
+        <div className='pl-8'>
+          <img
+            src='https://www.netpower.no/wp-content/uploads/2022/03/Netpower-logo-mobile.png'
+            alt='Netpower Logo'
+            className='hidden sm:block'
+          />
         </div>
-          {/* <h3 className='text-lg font-semibold mb-2'>Mode</h3>
+        <div className='text-center'>
+          <h2 className='text-2xl font-bold mt-4 mb-2'>ChatHåndbok</h2>
+          <h2 className='text-m mb-2 text-gray-600'>
+            Chat med Netpowers håndbok
+          </h2>
+        </div>
+        {/* <h3 className='text-lg font-semibold mb-2'>Mode</h3>
           <div className='flex justify-center'>
             <div className='-mr-1'>
               <button

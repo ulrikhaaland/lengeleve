@@ -25,7 +25,7 @@ const FadeInButton: React.FC<FadeInButtonProps> = ({
 
   return (
     <button
-      className={`mt-2 mr-3 bg-blue-500 text-sm hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline transition-opacity duration-300 ease-in`}
+      className={`mt-2 mr-3 bg-sky-600 text-sm hover:bg-sky-900 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline transition-opacity duration-300 ease-in`}
       style={{ opacity: opacity, transitionDelay: `${index * 100}ms` }}
       onClick={onClick}
     >

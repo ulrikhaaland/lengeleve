@@ -5,6 +5,7 @@ import {
   IconSearch,
 } from '@tabler/icons-react';
 import { getPreQuestion } from '@/utils/preQuestion';
+import { set } from 'mobx';
 
 interface SearchBarProps {
   query: string;
@@ -25,6 +26,7 @@ export default function SearchBar({
 }: SearchBarProps) {
   const [placeholder, setPlaceholder] = useState<string | undefined>();
   const [previousQ, setPreviousQuestions] = useState<string[]>([]);
+  const [searchingQuestion, setSearchingQuestion] = useState<boolean>(false);
 
   const handleKeyDown = (e: KeyboardEvent<HTMLInputElement>) => {
     if (e.key === 'Enter' && (query.length > 0 || placeholder) && !disabled) {
@@ -33,9 +35,12 @@ export default function SearchBar({
   };
 
   const onSearch = () => {
+    if (disabled) return;
+
     if (query.length === 0) {
       query = placeholder!;
       setQuery(placeholder!);
+      setPlaceholder(undefined);
     }
     setPreviousQuestions((prev) => [...prev, query]);
     handleSearch(query);
@@ -44,10 +49,15 @@ export default function SearchBar({
 
   const genPreQuestion = async () => {
     const preQuestion = await getPreQuestion(previousQ);
-    setPlaceholder(preQuestion?.replaceAll('"', '') ?? 'What is longevity?');
+    setSearchingQuestion(false);
+    setPlaceholder(
+      preQuestion?.replaceAll('"', '') ?? 'Hvordan søker jeg ferie?'
+    );
   };
 
   useEffect(() => {
+    if (searchingQuestion) return;
+    setSearchingQuestion(true);
     genPreQuestion();
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
@@ -66,7 +76,7 @@ export default function SearchBar({
         className='h-12 w-full rounded-full border border-zinc-600 pr-12 pl-11 focus:border-zinc-800 focus:outline-none focus:ring-1 focus:ring-zinc-800 sm:h-16 sm:py-2 sm:pr-16 sm:pl-16 sm:text-lg'
         type='text'
         placeholder={placeholder}
-        value={disabled ? '' : query}
+        value={query}
         onChange={(e) => setQuery(e.target.value)}
         onKeyDown={handleKeyDown}
       />
@@ -74,7 +84,10 @@ export default function SearchBar({
       <button disabled={disabled}>
         <IconArrowRight
           onClick={onSearch}
-          className='absolute right-2 top-2.5 h-7 w-7 rounded-full bg-blue-500 p-1 hover:cursor-pointer hover:bg-blue-600 sm:right-3 sm:top-3 sm:h-10 sm:w-10 text-white'
+          style={{
+            backgroundColor: disabled ? '#ccc' : '#3299cd',
+          }}
+          className='absolute right-2 top-2.5 h-7 w-7 rounded-full p-1 hover:cursor-pointer hover:bg-blue-600 sm:right-3 sm:top-3 sm:h-10 sm:w-10 text-white'
         />
       </button>
     </div>

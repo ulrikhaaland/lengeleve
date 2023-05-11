@@ -79,7 +79,7 @@ function Home() {
       headers: {
         'Content-Type': 'application/json',
       },
-      body: JSON.stringify({ query, apiKey, matches: matchCount }),
+      body: JSON.stringify({ query, apiKey, matches: 10 }),
     });
 
     if (!searchResponse.ok) {
@@ -209,6 +209,11 @@ function Home() {
       done = doneReading;
       let chunkValue = decoder.decode(value);
 
+      /// remove linebreak from chunkValue if it is the first character
+      if (chunkValue.charAt(0) === '\n') {
+        chunkValue = chunkValue.substring(1);
+      }
+
       /// if the chunk contains the value "JSON", then it is the follow up questions, and we need to cut the chunkValue and parse it and set to done
       // if (chunkValue.includes('JSON')) {
       //   chunkValue.replace('JSON:', '');
@@ -233,7 +238,7 @@ function Home() {
     }
 
     if (done) {
-      console.log(newAnswer);
+      // console.log(newAnswer);
       // followUpString = followUpString.replace('JSON:', '').trim();
       // const parsed = await JSON.parse(followUpString);
       // const followUps = parsed.map((d: any, index: number) => d.question);
@@ -326,13 +331,16 @@ function Home() {
         selectedText={highlightedText}
       />
       <Head>
-        <title>ChatAttia</title>
+        <title>ChatHåndbok</title>
         <meta
           name='description'
           content={`AI-powered search and chat for Paul Graham's essays.`}
         />
         <meta name='viewport' content='width=device-width, initial-scale=1' />
-        <link rel='icon' href='/favicon.ico' />
+        <link
+          rel='icon'
+          href='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdM8WoC2dabGcZ-9X2f5t0l2agevLwW5VFUBW7kQ6tzQ&s'
+        />
       </Head>
 
       <div

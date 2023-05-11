@@ -36,7 +36,7 @@ const QuestionsList: React.FC<QuestionsListProps> = ({
   // eslint-disable-next-line react-hooks/exhaustive-deps
   const loadingAnswerElement = (
     <>
-      <div className='font-bold text-2xl mt-6 w-full'>Answer</div>
+      <div className='font-bold text-2xl mt-6 w-full'>Svar</div>
       <div className='animate-pulse mt-2 pb-2 w-full'>
         <div className='h-4 bg-gray-300 rounded'></div>
         <div className='h-4 bg-gray-300 rounded mt-2'></div>
@@ -55,7 +55,7 @@ const QuestionsList: React.FC<QuestionsListProps> = ({
             i === questions.length - 1 ? '' : 'mt-6'
           } w-full flex flex-col mt-6`}
         >
-          <div className='font-bold text-2xl w-full'>Question</div>
+          <div className='font-bold text-2xl w-full'>Spørsmål</div>
           <div className='mt-2'>{q}</div>
           {i === questions.indexOf(questions[questions.length - 1]) &&
           loading ? (
@@ -63,13 +63,16 @@ const QuestionsList: React.FC<QuestionsListProps> = ({
           ) : i === questions.indexOf(questions[questions.length - 1]) &&
             answering ? (
             <>
-              <div className='mt-6 items-center flex-row flex w-full justify-between pb-2'>
-                <h2 className='font-bold text-2xl '>Answer</h2>{' '}
+              <div className='mt-2 items-center flex-row flex w-full justify-between pb-2'>
+                <h2 className='font-bold text-2xl '>Svar</h2>{' '}
                 <button
-                  className='bg-gray-400 text-sm hover:bg-gray-700 text-white py-1 px-2 rounded inline-flex items-center transition duration-200'
+                  style={{
+                    backgroundColor: '#3299cd',
+                  }}
+                  className='text-sm hover:bg-gray-700 text-white py-1 px-2 rounded inline-flex items-center transition duration-200'
                   onClick={() => setSelectedIndex(i)}
                 >
-                  Go to passages ({passages[i].length})
+                  Gå til dokumenter ({passages[i].length})
                 </button>
               </div>
               <Answer text={answer} />
@@ -78,12 +81,15 @@ const QuestionsList: React.FC<QuestionsListProps> = ({
             answers[i] && (
               <>
                 <div className='mt-6 items-center flex-row flex w-full justify-between'>
-                  <h2 className='font-bold text-2xl '>Answer</h2>{' '}
+                  <h2 className='font-bold text-2xl '>Svar</h2>{' '}
                   <button
-                    className='bg-gray-400 text-sm hover:bg-gray-700 text-white py-1 px-2 rounded inline-flex items-center transition duration-200'
+                    style={{
+                      backgroundColor: '#3299cd',
+                    }}
+                    className='text-sm hover:bg-gray-700 text-white py-1 px-2 rounded inline-flex items-center transition duration-200'
                     onClick={() => setSelectedIndex(i)}
                   >
-                    Go to passages ({passages[i].length})
+                    Gå til dokumenter ({passages[i].length})
                   </button>
                 </div>
                 <TextHighlighter

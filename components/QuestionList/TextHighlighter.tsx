@@ -120,7 +120,7 @@ const TextHighlighter: React.FC<TextHighlighterProps> = ({
               clipRule='evenodd'
             />
           </svg>
-          Go to passage
+          Gå til dokument
         </button>
       )}
     </div>

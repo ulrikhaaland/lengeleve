@@ -1,6 +1,8 @@
 // CustomDrawer.tsx
 import React from 'react';
 import Drawer from '@mui/material/Drawer';
+import IconButton from '@mui/material/IconButton';
+import CloseIcon from '@mui/icons-material/Close';
 
 interface CustomDrawerProps {
   selectedIndex: number | undefined;
@@ -111,6 +113,18 @@ const CustomDrawer: React.FC<CustomDrawerProps> = ({
     >
       {selectedIndex !== undefined && (
         <div className=''>
+          <IconButton
+            edge='end'
+            color='inherit'
+            onClick={handleClose}
+            sx={{
+              position: 'absolute',
+              right: 10,
+              top: 10,
+            }}
+          >
+            <CloseIcon />
+          </IconButton>
           <div className='font-bold text-2xl mb-4'>
             {questions[selectedIndex]}
           </div>
