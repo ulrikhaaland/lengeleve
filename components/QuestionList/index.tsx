@@ -4,6 +4,7 @@ import TextHighlighter from './TextHighlighter';
 import FadeInButton from './FadeInButton';
 import { Chunk } from '@/types';
 import { IconArrowRight } from '@tabler/icons-react';
+import { ExtractedData } from '@/scripts/parse';
 
 interface QuestionsListProps {
   questions: string[];
@@ -16,7 +17,7 @@ interface QuestionsListProps {
   setQuery: (query: string) => void;
   handleAnswer: (query: string, followUp: boolean) => void;
   onTextHighlighted: (selectedText: string) => void;
-  passages: Chunk[][];
+  passages: ExtractedData[][];
 }
 
 const QuestionsList: React.FC<QuestionsListProps> = ({

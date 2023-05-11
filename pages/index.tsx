@@ -10,6 +10,7 @@ import PageHeader from '@/components/PageHeader';
 import { useStore } from '@/stores/RootStoreProvider';
 import { observer } from 'mobx-react';
 import { ChatMode } from '@/stores/general.store';
+import { ExtractedData } from '@/scripts/parse';
 const { encode } = require('@nem035/gpt-3-encoder');
 
 const apiKey = process.env.NEXT_PUBLIC_OPENAI_API_KEY;
@@ -29,7 +30,7 @@ function Home() {
   } = generalStore;
 
   const [question, setQuery] = useState<string>('');
-  const [chunks, setChunks] = useState<Chunk[]>([]);
+  const [chunks, setChunks] = useState<ExtractedData[]>([]);
   const [answer, setAnswer] = useState<string>('');
   const [loading, setLoading] = useState<boolean>(false);
   const [answering, setAnswering] = useState<boolean>(false);
@@ -39,7 +40,7 @@ function Home() {
   const [followUpQuestions, setFollowUpQuestions] = useState<string[]>([]);
   const [questions, setQuestions] = useState<string[]>([]);
   const [answers, setAnswers] = useState<string[]>([]);
-  const [passages, setPassages] = useState<Chunk[][]>([]);
+  const [passages, setPassages] = useState<ExtractedData[][]>([]);
   const [showPassages, setShowPassages] = useState<boolean>(false);
   const [selectedIndex, setSelectedIndex] = useState<number | undefined>();
   const [highlightedText, setHighlightedText] = useState<string | undefined>();
@@ -86,17 +87,17 @@ function Home() {
       throw new Error(searchResponse.statusText);
     }
 
-    const results: Chunk[] = await searchResponse.json();
+    const results: ExtractedData[] = await searchResponse.json();
 
-    const filteredResults: Chunk[] = [];
+    const filteredResults: ExtractedData[] = [];
 
     let tokens = 0;
 
     for (let i = 0; i < results.length; i++) {
       const chunk = results[i];
-      tokens += chunk.content_tokens;
+      tokens += chunk.content_tokens!;
       if (tokens > 2048) {
-        tokens = tokens - chunk.content_tokens;
+        tokens = tokens - chunk.content_tokens!;
         continue;
       } else {
         filteredResults.push(chunk);

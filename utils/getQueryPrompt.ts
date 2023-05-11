@@ -1,7 +1,7 @@
 import { getCurrentQuery } from '@/prompts/query';
+import { ExtractedData } from '@/scripts/parse';
 import { useStore } from '@/stores/RootStoreProvider';
 import { User } from '@/stores/general.store';
-import { Chunk } from '@/types';
 import endent from 'endent';
 
 export interface PromptItem {
@@ -11,7 +11,7 @@ export interface PromptItem {
 
 export const getQuestionPrompt = (
   query: string,
-  filteredResults: Chunk[],
+  filteredResults: ExtractedData[],
   questions: string[],
   answers: string[],
   followUpAnswer?: string,
@@ -111,7 +111,9 @@ Chat History End:
     ${queryPrompt}
     The passages is delimited by triple dashes.
     Passages:
-    ---${filteredResults?.map((d: Chunk) => d.date + d.content).join('\n\n')}---
+    ---${filteredResults
+      ?.map((d: ExtractedData) => d.date + d.content)
+      .join('\n\n')}---
 `;
 
   prompts.push({
@@ -142,7 +144,7 @@ Chat History End:
 // Be accurate, helpful, concise, and clear.
 // Do not include information that does not address the question.
 // Passages:
-// ${filteredResults?.map((d: Chunk) => d.date + d.content).join('\n\n')}
+// ${filteredResults?.map((d: ExtractedData) => d.date + d.content).join('\n\n')}
 // `;
 
 /// CHAT HISTORY
@@ -168,5 +170,5 @@ Chat History End:
 // \n\n Before each passage text is the passage date, try to use the most up to date information.
 // \n\n Passages:
 
-// ${filteredResults?.map((d: Chunk) => d.date + d.content).join('\n\n')}
+// ${filteredResults?.map((d: ExtractedData) => d.date + d.content).join('\n\n')}
 // `;

@@ -7,11 +7,13 @@ interface CustomDrawerProps {
   handleClose: () => void;
   questions: string[];
   passages: {
-    title: string;
-    people: string;
-    context: string;
-    date: string;
+    id?: number;
+    title?: string;
+    author?: string;
+    date?: string;
     content: string;
+    content_length?: number;
+    content_tokens?: number;
   }[][];
   selectedText: string | undefined;
 }
@@ -129,10 +131,10 @@ const CustomDrawer: React.FC<CustomDrawerProps> = ({
                     <div>
                       <div className='font-bold text-xl'>{chunk.title}</div>
                       <div className='mt-1 font-bold text-sm'>
-                        {chunk.people}
+                        {chunk.author}
                       </div>
                       <div className='mt-1 font-bold text-sm'>
-                        {chunk.context}
+                        {chunk.title}
                       </div>
                       <div className='mt-1 font-bold text-sm'>{chunk.date}</div>
                     </div>

@@ -1,15 +1,16 @@
-import fs from "fs";
-import { Chapter, Chunk } from "@/types";
-import { encode } from "gpt-3-encoder";
-import { OpenAIModel } from "@/types";
-import { Configuration, OpenAIApi } from "openai";
-import { loadEnvConfig } from "@next/env";
-import { AMA44RAW } from "./data/AMA44/AMA44RAW";
-import { JSDOM } from "jsdom";
-import { handbookString } from "./data/handbook";
+import fs from 'fs';
+import { Chapter, Chunk } from '@/types';
+import { encode } from 'gpt-3-encoder';
+import { OpenAIModel } from '@/types';
+import { Configuration, OpenAIApi } from 'openai';
+import { loadEnvConfig } from '@next/env';
+import { AMA44RAW } from './data/AMA44/AMA44RAW';
+import { JSDOM } from 'jsdom';
+import { createClient } from '@supabase/supabase-js';
+import { handbookString } from './data/handbook';
 
 const CHUNK_SIZE = 1000;
-loadEnvConfig("");
+loadEnvConfig('');
 
 const configuration = new Configuration({
   apiKey: process.env.OPENAI_API_KEY,
@@ -27,9 +28,9 @@ function removeHtmlElementsAndLinks(input: string): string {
   const dom = new JSDOM(input);
 
   // Return the text content without any HTML tags
-  const textContent = dom.window.document.body.textContent || "";
+  const textContent = dom.window.document.body.textContent || '';
 
-  const startSearchString = "§Show Notes";
+  const startSearchString = '§Show Notes';
   const startSearchIndex = textContent.indexOf(startSearchString);
 
   // If the start specified string is found, remove all text before it
@@ -38,7 +39,7 @@ function removeHtmlElementsAndLinks(input: string): string {
       ? textContent.substring(startSearchIndex)
       : textContent;
 
-  const endSearchString = "§Selected Links";
+  const endSearchString = '§Selected Links';
   const endSearchIndex = updatedTextContent.indexOf(endSearchString);
 
   // If the end specified string is found, remove all text after it
@@ -54,21 +55,21 @@ function splitString(input: string, maxLength: number = 1000): EncodedString[] {
   input = removeHtmlElementsAndLinks(input);
 
   const result: EncodedString[] = [];
-  let currentSubstring = "";
+  let currentSubstring = '';
 
   for (let i = 0; i < input.length; i++) {
     currentSubstring += input[i];
     const encoded = encode(currentSubstring);
 
     if (encoded.length >= maxLength - 1 || i === input.length - 1) {
-      let lastIndex = currentSubstring.lastIndexOf("\n");
+      let lastIndex = currentSubstring.lastIndexOf('\n');
 
       // Ensure that we don't split on a number
       while (
         lastIndex > 0 &&
         !isNaN(parseInt(currentSubstring[lastIndex + 1], 10))
       ) {
-        lastIndex = currentSubstring.lastIndexOf("\n", lastIndex - 1);
+        lastIndex = currentSubstring.lastIndexOf('\n', lastIndex - 1);
       }
 
       if (lastIndex === -1 || lastIndex === currentSubstring.length - 1) {
@@ -77,7 +78,7 @@ function splitString(input: string, maxLength: number = 1000): EncodedString[] {
           contentLength: currentSubstring.length,
           encodedLength: encode(currentSubstring).length,
         });
-        currentSubstring = "";
+        currentSubstring = '';
       } else {
         const resultString = currentSubstring.substring(0, lastIndex);
         result.push({
@@ -112,7 +113,7 @@ function writeStringsToJsonFile(
 ): void {
   const jsonContent = JSON.stringify(strings, null, 2);
 
-  fs.writeFile(filePath, jsonContent, "utf8", (err) => {
+  fs.writeFile(filePath, jsonContent, 'utf8', (err) => {
     if (err) {
       console.error(`Error writing to file ${filePath}:`, err);
     } else {
@@ -126,19 +127,19 @@ const onParseFailure = async (failedContent: string) => {
 
   try {
     response = await openai.createChatCompletion({
-      model: "gpt-3.5-turbo-0301",
+      model: 'gpt-3.5-turbo-0301',
       messages: [
         {
-          role: "system",
-          content: "You help with formatting JSON.",
+          role: 'system',
+          content: 'You help with formatting JSON.',
         },
         {
-          role: "user",
+          role: 'user',
           content:
-            "This content was parsed incorrectly. Can you turn it into JSON list containg each chunk as JSON format: {title: title, content: content}. It is crucial to respond in the JSON Format as requested.",
+            'This content was parsed incorrectly. Can you turn it into JSON list containg each chunk as JSON format: {title: title, content: content}. It is crucial to respond in the JSON Format as requested.',
         },
         {
-          role: "user",
+          role: 'user',
           content: failedContent,
         },
       ],
@@ -151,7 +152,7 @@ const onParseFailure = async (failedContent: string) => {
   }
 
   if (response!.status !== 200) {
-    throw new Error("OpenAI API returned an error");
+    throw new Error('OpenAI API returned an error');
   } else {
     return response!.data.choices[0].message?.content;
   }
@@ -161,20 +162,20 @@ const chatCompletetion = async (content: string) => {
 
   try {
     response = await openai.createChatCompletion({
-      model: "gpt-3.5-turbo-0301",
+      model: 'gpt-3.5-turbo-0301',
       messages: [
         {
-          role: "system",
+          role: 'system',
           content:
             "You are a helpful assistant that accurately answers queries using Peter Attia's knowledge of training. Use the text provided to form your answer, but avoid copying word-for-word from the essays. Try to use your own words when possible. Keep your answer under 5 sentences. Be accurate, helpful, concise, and clear.",
         },
         {
-          role: "user",
+          role: 'user',
           content:
-            "I will give you a chunk of text. You will extract the parts that is relevant to exercise. You will not use any personal names. You will leave out parts where they talk about peoples backgrounds. Then you will combine the relevant text into a chunks, give each chunk a title, and only return a JSON list containg each chunk as JSON format: {title: title, content: content}. It is crucial to respond in the JSON Format as requested.",
+            'I will give you a chunk of text. You will extract the parts that is relevant to exercise. You will not use any personal names. You will leave out parts where they talk about peoples backgrounds. Then you will combine the relevant text into a chunks, give each chunk a title, and only return a JSON list containg each chunk as JSON format: {title: title, content: content}. It is crucial to respond in the JSON Format as requested.',
         },
         {
-          role: "user",
+          role: 'user',
           content: content,
         },
       ],
@@ -187,17 +188,20 @@ const chatCompletetion = async (content: string) => {
   }
 
   if (response!.status !== 200) {
-    throw new Error("OpenAI API returned an error");
+    throw new Error('OpenAI API returned an error');
   } else {
     return response!.data.choices[0].message?.content;
   }
 };
 
-interface ExtractedData {
-  id: number;
-  title: string;
-  author: string;
+export interface ExtractedData {
+  id?: number;
+  title?: string;
+  author?: string;
+  date?: string;
   content: string;
+  content_length?: number;
+  content_tokens?: number;
 }
 
 function extractData(text: string): ExtractedData | null {
@@ -206,48 +210,114 @@ function extractData(text: string): ExtractedData | null {
     /(\t|\\t)([A-Za-zæøåÆØÅ\s]+)(Felles for Netpower|Faktadokument)/;
   const authorRegex = /Dokumentansvarlig:\s*([A-Za-zæøåÆØÅ\s]+)\t/;
   const contentRegex =
-    /(\d{2}\.\d{2}\.\d{4})(.*?)(?=Vær oppmerksom på at dokumentet kan være endret etter utskrift|orgkart)/s;
-  const endContentRegex =
-    /Vær oppmerksom på at dokumentet kan være endret etter utskrift./;
+    /Godkjent Dato:([\s\S]*?)(Vær oppmerksom på at dokumentet kan være endret etter utskrift\.|Intern instruks|Intern håndbok)(.*?)(?=Dokumentansvarlig|Dok Id|$)/;
 
   const idMatch = text.match(idRegex);
   const titleMatch = text.match(titleRegex);
   const authorMatch = text.match(authorRegex);
   const contentMatch = text.match(contentRegex);
-  const endContentMatch = text.match(endContentRegex);
 
-  if (
-    !idMatch ||
-    !titleMatch ||
-    !authorMatch ||
-    !contentMatch ||
-    !endContentMatch
-  ) {
+  if (!contentMatch || !titleMatch) {
     return null;
   }
 
-  const contentStart = contentMatch.index
-    ? contentMatch.index + contentMatch[1].length
-    : 0;
-  const contentEnd = endContentMatch.index ? endContentMatch.index : 0;
-  const content = text.slice(contentStart, contentEnd).trim();
+  const content = contentMatch[1].trim().split('Generell informasjon')[1];
+
+  const date = contentMatch[1].trim().substring(0, 10);
 
   return {
-    id: parseInt(idMatch[1], 10),
-    title: titleMatch[2].trim(),
-    author: authorMatch[1].trim(),
+    id: idMatch !== null ? parseInt(idMatch[1], 10) : undefined,
+    title:
+      titleMatch !== null
+        ? titleMatch[2].trim().replace('Intern håndbok', '')
+        : undefined,
+    author: authorMatch !== null ? authorMatch[1].trim() : undefined,
+    date: date,
     content: content,
   };
 }
 
+const generateEmbeddings = async (extractedDatas: ExtractedData[]) => {
+  const configuration = new Configuration({
+    apiKey: process.env.OPENAI_API_KEY,
+  });
+  const openai = new OpenAIApi(configuration);
+
+  const supabase = createClient(
+    process.env.NEXT_PUBLIC_SUPABASE_URL!,
+    process.env.SUPABASE_SERVICE_ROLE_KEY!
+  );
+
+  for (let i = 0; i < extractedDatas.length; i++) {
+    const extractedData = extractedDatas[i];
+
+    const { id, title, author, date, content, content_length, content_tokens } =
+      extractedData;
+
+    const inputString = `${content}`; // Adjust this format as needed.
+
+    const embeddingResponse = await openai.createEmbedding({
+      model: 'text-embedding-ada-002',
+      input: inputString,
+    });
+
+    const [{ embedding }] = embeddingResponse.data.data;
+
+    const { data, error } = await supabase
+      .from('handbook') // I assume you're using a different table here.
+      .insert({
+        id,
+        title,
+        author,
+        date,
+        content,
+        content_length,
+        content_tokens,
+        embedding,
+      })
+      .select('*');
+
+    if (error) {
+      console.log('error', error);
+    } else {
+      console.log('saved', i, data);
+    }
+
+    await new Promise((resolve) => setTimeout(resolve, 200));
+  }
+};
+
 (async () => {
   const handbook = handbookString;
 
-  const sections = handbookString.split("logo");
+  const sections = handbookString.split('logo');
+
+  const objects: ExtractedData[] = [];
+
+  let undefinedTexts = 0;
+  let definedTexts = 0;
+
   sections.forEach((section) => {
     const extractedData = extractData(section);
-    console.log(extractedData?.content);
+
+    if (extractedData) {
+      if (!extractedData.title || !extractedData.content) {
+        console.log('stop');
+      } else {
+        extractedData.content_length = extractedData?.content.length;
+        extractedData.content_tokens = encode(extractedData?.content).length;
+        objects.push(extractedData);
+      }
+
+      definedTexts++;
+    } else {
+      undefinedTexts++;
+    }
   });
+
+  await generateEmbeddings(objects);
+
+  console.log(undefined);
 
   // fs.writeFile(filePath, jsonContent, 'utf8', (err) => {
   //   if (err) {

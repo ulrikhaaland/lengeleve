@@ -1,12 +1,13 @@
-import { Chapter, Chunk, Topic } from "@/types";
-import { loadEnvConfig } from "@next/env";
-import { createClient } from "@supabase/supabase-js";
-import fs from "fs";
-import { Configuration, OpenAIApi } from "openai";
+import { Chapter, Chunk, Topic } from '@/types';
+import { loadEnvConfig } from '@next/env';
+import { createClient } from '@supabase/supabase-js';
+import fs from 'fs';
+import { Configuration, OpenAIApi } from 'openai';
+import { ExtractedData } from './parse';
 
-loadEnvConfig("");
+loadEnvConfig('');
 
-const generateEmbeddings = async (chunks: Chunk[]) => {
+const generateEmbeddings = async (extractedDatas: ExtractedData[]) => {
   const configuration = new Configuration({
     apiKey: process.env.OPENAI_API_KEY,
   });
@@ -17,44 +18,39 @@ const generateEmbeddings = async (chunks: Chunk[]) => {
     process.env.SUPABASE_SERVICE_ROLE_KEY!
   );
 
-  for (let i = 0; i < chunks.length; i++) {
-    const chunk = chunks[i];
+  for (let i = 0; i < extractedDatas.length; i++) {
+    const extractedData = extractedDatas[i];
 
-    const {
-      title,
-      date,
-      content,
-      context,
-      people,
-      content_length,
-      content_tokens,
-    } = chunk;
+    const { id, title, author, date, content, content_length, content_tokens } =
+      extractedData;
+
+    const inputString = `${content}`; // Adjust this format as needed.
 
     const embeddingResponse = await openai.createEmbedding({
-      model: "text-embedding-ada-002",
-      input: content,
+      model: 'text-embedding-ada-002',
+      input: inputString,
     });
 
     const [{ embedding }] = embeddingResponse.data.data;
 
     const { data, error } = await supabase
-      .from("training")
+      .from('handbook') // I assume you're using a different table here.
       .insert({
+        id,
         title,
+        author,
         date,
-        context,
-        people,
         content,
         content_length,
         content_tokens,
         embedding,
       })
-      .select("*");
+      .select('*');
 
     if (error) {
-      console.log("error", error);
+      console.log('error', error);
     } else {
-      console.log("saved", i, i);
+      console.log('saved', i, data);
     }
 
     await new Promise((resolve) => setTimeout(resolve, 200));
@@ -63,7 +59,7 @@ const generateEmbeddings = async (chunks: Chunk[]) => {
 
 (async () => {
   const training: Chunk[] = JSON.parse(
-    fs.readFileSync("scripts/data/layne3/parsedLayne3.json", "utf8")
+    fs.readFileSync('scripts/data/layne3/parsedLayne3.json', 'utf8')
   );
 
   await generateEmbeddings(training);

@@ -28,7 +28,7 @@ export const OpenAIStream = async (prompt: PromptItem[], apiKey: string) => {
   };
 
   /// insert content prompt at index 0 of prompt array
-  // prompt.unshift(contentPrompt);
+  prompt.unshift(contentPrompt);
 
   console.log('Running OpenAIStream...');
 
