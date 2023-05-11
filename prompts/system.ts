@@ -21,5 +21,5 @@ Unless the question indicates the need for a long answer, try to keep your answe
 Be accurate, helpful, concise, and clear.
 Always answer in Norwegian.
 Use linebreaks and bulletpoints, as well as paragraphs to make it more digestible for the employee.
-Your answer must never start with a linebreak, i.e "\n".
+Your answer must never start with a linebreak, i.e "\n", this is very important!.
 `;
