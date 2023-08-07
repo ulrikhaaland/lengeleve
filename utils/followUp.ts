@@ -36,7 +36,7 @@ export const getFollowUpQuestions = async (
 
   try {
     response = await openai.createChatCompletion({
-      model: "gpt-3.5-turbo-0301",
+      model: "gpt-4",
       messages: [
         {
           role: "user",
