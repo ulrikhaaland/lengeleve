@@ -1,32 +1,12 @@
 [
  {
-  "title": "Zone 5 Training on Stairmaster",
+  "title": "Zone 5 Training Protocol",
   "date": "February 7, 2022",
   "context": "High Intensity & Zone 5 Training",
   "people": "Peter Attia",
-  "content": "Peter's approach to zone 5 training involves using a stairmaster once per week. He follows a 4-minute pattern of 3 minutes of zone 2 and 1 minute at his VO2 max, which he repeats for 20-30 minutes. He usually does this on the tail end of a zone two workout.",
-  "content_length": 257,
-  "content_tokens": 61,
-  "embedding": []
- },
- {
-  "title": "Zone 5 Training on Bike",
-  "date": "February 7, 2022",
-  "context": "High Intensity & Zone 5 Training",
-  "people": "Peter Attia",
-  "content": "Peter also does zone 5 training on his bike, which involves four minutes at 125% of FTP followed by four minutes of recovery. He follows a one to one work/rest at a lower intensity than the 3 to 1 one rest to work that described on the stairmaster.",
-  "content_length": 248,
-  "content_tokens": 55,
-  "embedding": []
- },
- {
-  "title": "Peter's View on Zone 5 Training",
-  "date": "February 7, 2022",
-  "context": "High Intensity & Zone 5 Training",
-  "people": "Peter Attia",
-  "content": "Peter believes that most people spend too much time in zone 5 and not enough time in zone 2.",
-  "content_length": 92,
-  "content_tokens": 20,
+  "content": "The approach to zone 5 training, and other anaerobic training protocols includes one time per week using a stairmaster with a 4 minute pattern: 3 minutes of zone 2 and 1 minute at VO2 max. This is repeated for 20-30 minutes usually on the tail end of a zone two workout (longer aerobic day). It's important to know your VO2 max and also the conversion to METS which the stairmaster can track. Zone 5 can also be done on a bike: Four minutes at 125% of FTP (functional threshold power) followed by four minutes recovery. A one to one work/rest at a lower intensity than the 3 to 1 one rest to work that described on the stairmaster. The view is most people spend too much time there and not enough time in zone 2.",
+  "content_length": 712,
+  "content_tokens": 162,
   "embedding": []
  }
 ]

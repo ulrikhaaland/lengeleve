@@ -1,42 +1,42 @@
 [
  {
-  "title": "Metrics for finding Zone 2 threshold",
+  "title": "Metrics for Zone 2 Training",
   "date": "March 30, 2022",
   "context": "Aerobic & Zone 2 Training",
   "people": "Peter Attia",
-  "content": "Metrics for finding Zone 2 threshold—lactate, heart rate, and more [1:25:00]",
-  "content_length": 76,
-  "content_tokens": 24,
+  "content": "Metrics for finding Zone 2 threshold include lactate, heart rate, and more. In a patient or a world class athlete, indirect calorimetry and lactate testing can be used to determine Zone 2 training. The lactate measured in the blood is heavily influenced by production and clearance. The gold standard would be to measure fat oxidation, but this can be confounded in people on a ketogenic diet.",
+  "content_length": 393,
+  "content_tokens": 83,
   "embedding": []
  },
  {
-  "title": "Metrics for characterizing Zone 2 training",
+  "title": "Zone 2 Test Based on Fat Oxidation",
   "date": "March 30, 2022",
   "context": "Aerobic & Zone 2 Training",
   "people": "Peter Attia",
-  "content": "In a patient or a world class athlete you have the ability to do indirect calorimetry and lactate testing to determine Zone 2 training. But training normal people is different. The lactate measured in the blood is heavily influenced by production and clearance. The gold standard would be to measure fat oxidation. But even this can be confounded in people on a ketogenic diet. With patients, Peter will do a Zone 2 test based on their fat oxidation during an escalated VO2 max test. For example, their maximum fat oxidation may be 0.3 g/min, and this occurs at a wattage of 1.5 watts/kg",
-  "content_length": 587,
-  "content_tokens": 129,
+  "content": "With patients, a Zone 2 test can be conducted based on their fat oxidation during an escalated VO2 max test. For example, their maximum fat oxidation may be 0.3 g/min, and this occurs at a wattage of 1.5 watts/kg.",
+  "content_length": 213,
+  "content_tokens": 54,
   "embedding": []
  },
  {
-  "title": "How should patients train to achieve Zone 2?",
+  "title": "Training to Achieve Zone 2",
   "date": "March 30, 2022",
   "context": "Aerobic & Zone 2 Training",
   "people": "Peter Attia",
-  "content": "They won’t be able to train with indirect calorimetry. Some people will have lactate meters and some people won’t. What is a good surrogate for determining your training zone? In this example, the patient oxidizes the most fat at a workload of 1.5 watts/kg Peter wants them to increase this to 2.5",
-  "content_length": 297,
-  "content_tokens": 74,
+  "content": "Patients may not be able to train with indirect calorimetry. Some people will have lactate meters and some people won’t. In this example, the patient oxidizes the most fat at a workload of 1.5 watts/kg. The goal is to increase this to 2.5.",
+  "content_length": 239,
+  "content_tokens": 63,
   "embedding": []
  },
  {
-  "title": "How would Iñigo recommend they train?",
+  "title": "Recommendations for Zone 2 Training",
   "date": "March 30, 2022",
   "context": "Aerobic & Zone 2 Training",
   "people": "Peter Attia",
-  "content": "He would start with a metabolic test; this information can provide watts, or speed, or heart rate (many people don’t have a power meter). Peter brings up another metric he uses with patients, RPE. From his experience, he is in Zone 2 when his lactate levels are between 1.7-1.9 mmol. He can carry on a conversation but it’s not as comfortable. Iñigo agrees, exercising at a level where you can carry on a conversation and it feels a bit strained is a good surrogate for knowing you’re in Zone 2. You will be just at that threshold of not being able to carry on a conversation. The person you’re talking to will know you are exercising",
-  "content_length": 634,
-  "content_tokens": 151,
+  "content": "Training can start with a metabolic test; this information can provide watts, or speed, or heart rate. Another metric used is RPE, or rating of perceived exertion. From experience, being in Zone 2 is when lactate levels are between 1.7-1.9 mmol. Exercising at a level where you can carry on a conversation and it feels a bit strained is a good surrogate for knowing you’re in Zone 2.",
+  "content_length": 383,
+  "content_tokens": 91,
   "embedding": []
  }
 ]

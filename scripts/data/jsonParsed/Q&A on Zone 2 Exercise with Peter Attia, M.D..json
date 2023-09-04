@@ -1,32 +1,82 @@
 [
  {
-  "title": "Introduction",
+  "title": "Zone 2 Exercise and Training",
   "date": "December 28, 2021",
   "context": "Aerobic & Zone 2 Training",
   "people": "Peter Attia",
-  "content": "In this Q&A, Peter answers all your questions around Zone 2 exercise and training. This was originally recorded as an Instagram Live in March 2021.",
-  "content_length": 147,
-  "content_tokens": 30,
+  "content": "Zone 2 exercise and training was discussed. This type of training is beneficial for health.",
+  "content_length": 91,
+  "content_tokens": 17,
   "embedding": []
  },
  {
-  "title": "Zone 2 Training",
+  "title": "Magnesium Supplementation",
   "date": "December 28, 2021",
   "context": "Aerobic & Zone 2 Training",
   "people": "Peter Attia",
-  "content": "Peter discusses the benefits of Zone 2 training, which involves exercising at a low intensity to improve your body's ability to burn fat and increase endurance. He emphasizes the importance of individualizing your training based on your goals and fitness level, and recommends working with a coach or trainer to develop a personalized plan.",
-  "content_length": 340,
-  "content_tokens": 60,
+  "content": "The importance of magnesium supplementation was highlighted. This is a crucial aspect of maintaining good health.",
+  "content_length": 113,
+  "content_tokens": 18,
   "embedding": []
  },
  {
-  "title": "Resources",
+  "title": "Engaging with Your Doctor",
   "date": "December 28, 2021",
   "context": "Aerobic & Zone 2 Training",
   "people": "Peter Attia",
-  "content": "Peter recommends listening to the episode with Iñigo San Millán, Ph.D. to learn more about Zone 2 training, as well as checking out AMA #19 for information on magnesium supplementation and how to engage with your doctor.",
-  "content_length": 220,
+  "content": "The importance of engaging with your doctor was emphasized. This is a key part of managing and improving health.",
+  "content_length": 112,
+  "content_tokens": 21,
+  "embedding": []
+ },
+ {
+  "title": "Understanding Zone 2 Exercise",
+  "date": "December 28, 2021",
+  "context": "Aerobic & Zone 2 Training",
+  "people": "Peter Attia",
+  "content": "Zone 2 exercise is a type of workout that focuses on maintaining a specific heart rate zone. The benefits of Zone 2 exercise include improved cardiovascular health and endurance. It is beneficial at any age, young or old. It is important to measure if you're in Zone 2 during your workout, which can be done using a lactate meter or other wearable devices. Your Zone 2 range can change over time as you change your fitness level.",
+  "content_length": 429,
+  "content_tokens": 86,
+  "embedding": []
+ },
+ {
+  "title": "Zone 2 Exercise and Diet",
+  "date": "December 28, 2021",
+  "context": "Aerobic & Zone 2 Training",
+  "people": "Peter Attia",
+  "content": "The timing of meals in relation to Zone 2 exercise can impact the effectiveness of the workout. It is recommended to do Zone 2 exercise before or after eating. Certain supplements, such as UCAN, can be taken before Zone 2 exercise.",
+  "content_length": 231,
   "content_tokens": 47,
+  "embedding": []
+ },
+ {
+  "title": "Zone 2 Exercise and Other Health Factors",
+  "date": "December 28, 2021",
+  "context": "Aerobic & Zone 2 Training",
+  "people": "Peter Attia",
+  "content": "Zone 2 exercise can be done on different devices such as a bike, treadmill, or rower. Swimming can also be used for Zone 2 exercise. Zone 2 exercise can increase Heart Rate Variability (HRV). It can also help the Central Nervous System (CNS).",
+  "content_length": 242,
+  "content_tokens": 58,
+  "embedding": []
+ },
+ {
+  "title": "Understanding Lactate Levels and Zone 2 Exercise",
+  "date": "December 28, 2021",
+  "context": "Aerobic & Zone 2 Training",
+  "people": "Peter Attia",
+  "content": "Lactate levels can be measured to determine if you're in Zone 2 during your workout. A lactate meter can be used to test your lactate levels. It is important to check your lactate post-workout. The highest lactate levels are usually observed at the end of a ride.",
+  "content_length": 263,
+  "content_tokens": 61,
+  "embedding": []
+ },
+ {
+  "title": "Zone 2 Exercise and Glucose Disposal",
+  "date": "December 28, 2021",
+  "context": "Aerobic & Zone 2 Training",
+  "people": "Peter Attia",
+  "content": "Zone 2 exercise can increase glucose disposal, which is beneficial for longevity.",
+  "content_length": 81,
+  "content_tokens": 14,
   "embedding": []
  }
 ]
