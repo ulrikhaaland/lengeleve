@@ -4,9 +4,29 @@
   "date": "February 7, 2022",
   "context": "High Intensity & Zone 5 Training",
   "people": "Peter Attia",
-  "content": "The approach to zone 5 training, and other anaerobic training protocols includes one time per week using a stairmaster with a 4 minute pattern: 3 minutes of zone 2 and 1 minute at VO2 max. This is repeated for 20-30 minutes usually on the tail end of a zone two workout (longer aerobic day). It's important to know your VO2 max and also the conversion to METS which the stairmaster can track. Zone 5 can also be done on a bike: Four minutes at 125% of FTP (functional threshold power) followed by four minutes recovery. A one to one work/rest at a lower intensity than the 3 to 1 one rest to work that described on the stairmaster. The view is most people spend too much time there and not enough time in zone 2.",
-  "content_length": 712,
-  "content_tokens": 162,
+  "content": "Peter’s approach to zone 5 training, and other anaerobic training protocols includes one time per week using a stairmaster with a 4 minute pattern: 3 minutes of zone 2 and 1 minute at his VO2 max. This is repeated for 20-30 minutes usually on the tail end of a zone two workout. He also does zone 5 on his bike: Four minutes at 125% of FTP (functional threshold power) followed by four minutes recovery. A one to one work/rest at a lower intensity than the 3 to 1 one rest to work that described on the stairmaster.",
+  "content_length": 515,
+  "content_tokens": 119,
+  "embedding": []
+ },
+ {
+  "title": "VO2 Max and METS Conversion",
+  "date": "February 7, 2022",
+  "context": "High Intensity & Zone 5 Training",
+  "people": "Peter Attia",
+  "content": "Peter knows his VO2 max and also knows the conversion to METS which the stairmaster can track.",
+  "content_length": 94,
+  "content_tokens": 21,
+  "embedding": []
+ },
+ {
+  "title": "Time Spent in Different Training Zones",
+  "date": "February 7, 2022",
+  "context": "High Intensity & Zone 5 Training",
+  "people": "Peter Attia",
+  "content": "Most people spend too much time in zone 5 and not enough time in zone 2.",
+  "content_length": 72,
+  "content_tokens": 17,
   "embedding": []
  }
 ]

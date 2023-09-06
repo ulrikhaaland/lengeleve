@@ -1,12 +1,22 @@
 [
  {
-  "title": "Nutrition",
+  "title": "Importance of Sleep",
   "date": "January 4, 2022",
   "context": "Behavior Change, Habits, & Productivity",
   "people": "Peter Attia",
-  "content": "The “glib” answer is to: Don’t eat for a long period. When you do eat, don’t eat crap.",
-  "content_length": 86,
-  "content_tokens": 33,
+  "content": "Sleep well. Sleep is the one we are going to be most sensitive to. Lack of good sleep is the one you will suffer from the quickest.",
+  "content_length": 131,
+  "content_tokens": 30,
+  "embedding": []
+ },
+ {
+  "title": "Healthy Lifestyle Tips",
+  "date": "January 4, 2022",
+  "context": "Behavior Change, Habits, & Productivity",
+  "people": "Peter Attia",
+  "content": "Do something physical. Don't eat for a long period. When you do eat, don't eat crap. Meditate.",
+  "content_length": 94,
+  "content_tokens": 25,
   "embedding": []
  }
 ]

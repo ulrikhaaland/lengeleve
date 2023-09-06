@@ -14,8 +14,8 @@
   "date": "March 30, 2022",
   "context": "Aerobic & Zone 2 Training",
   "people": "Peter Attia",
-  "content": "With patients, a Zone 2 test can be conducted based on their fat oxidation during an escalated VO2 max test. For example, their maximum fat oxidation may be 0.3 g/min, and this occurs at a wattage of 1.5 watts/kg.",
-  "content_length": 213,
+  "content": "With patients, a Zone 2 test can be done based on their fat oxidation during an escalated VO2 max test. For example, their maximum fat oxidation may be 0.3 g/min, and this occurs at a wattage of 1.5 watts/kg.",
+  "content_length": 208,
   "content_tokens": 54,
   "embedding": []
  },
@@ -24,9 +24,9 @@
   "date": "March 30, 2022",
   "context": "Aerobic & Zone 2 Training",
   "people": "Peter Attia",
-  "content": "Patients may not be able to train with indirect calorimetry. Some people will have lactate meters and some people won’t. In this example, the patient oxidizes the most fat at a workload of 1.5 watts/kg. The goal is to increase this to 2.5.",
-  "content_length": 239,
-  "content_tokens": 63,
+  "content": "Patients won’t be able to train with indirect calorimetry. Some people will have lactate meters and some people won’t. In this example, the patient oxidizes the most fat at a workload of 1.5 watts/kg. The goal is to increase this to 2.5.",
+  "content_length": 237,
+  "content_tokens": 65,
   "embedding": []
  },
  {

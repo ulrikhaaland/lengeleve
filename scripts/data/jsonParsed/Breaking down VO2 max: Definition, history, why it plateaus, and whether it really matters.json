@@ -4,9 +4,19 @@
   "date": "May 16, 2022",
   "context": "VO2 Max",
   "people": "Peter Attia",
-  "content": "VO2 max is a measure of how quickly you can take oxygen from the air into your lungs, get it into your blood, pump it to your muscles, and then have your muscles use it in the metabolic processes that provide energy to move you. It is a rate of how much oxygen per unit time can you process going max effort. VO2 max was first measured in the 1920s. It represents the size of your 'engine' and tells you what sort of aerobic engine you have to play with.",
-  "content_length": 454,
-  "content_tokens": 102,
+  "content": "VO2 max is a measure of how quickly you can take oxygen from the air into your lungs, get it into your blood, pump it to your muscles, and then have your muscles use it in the metabolic processes that will provide energy to move you. It is a rate of how much oxygen per unit time can you process going max effort. VO2 max was first discussed/measured in the 1920s. There’s a plateau—a point at which, even though you’re working harder, you’re not using any more oxygen. This indicates the limits of your aerobic system. VO2 max does NOT tell you exactly how fast you can run, but it tells you what sort of aerobic engine you have to play with.",
+  "content_length": 643,
+  "content_tokens": 152,
+  "embedding": []
+ },
+ {
+  "title": "Body Size and VO2 Max",
+  "date": "May 16, 2022",
+  "context": "VO2 Max",
+  "people": "Peter Attia",
+  "content": "Body size affects your VO2 max. A larger person with more muscle may have a higher liters per minute, but this doesn’t necessarily mean that they are better at using oxygen. The amount of oxygen reaching any given muscle cell may actually be lower. A better comparison between athletes is to divide by weight. VO2 max numbers are typically reported in milliliters of oxygen per minute, per kilogram of body weight.",
+  "content_length": 414,
+  "content_tokens": 87,
   "embedding": []
  },
  {
@@ -14,59 +24,19 @@
   "date": "May 16, 2022",
   "context": "VO2 Max",
   "people": "Peter Attia",
-  "content": "There’s a plateau in VO2 max—a point at which, even though you’re working harder, you’re not using any more oxygen. This means you’ve reached a point where no matter how hard you push yourself, you can’t get more oxygen. You can still go faster, because you’re starting to use other forms of energy, but this is the limits of your aerobic system.",
-  "content_length": 346,
-  "content_tokens": 91,
+  "content": "Researchers love the VO2 max test because it is separated from motivation. The nice thing about VO2 max is that, in theory, it’s independent of motivation. So if you see a plateau, you know that’s a property of their body and not a product of whether they were excited about the study. The plateau could be caused by limitations in the lungs, heart, circulation, or the muscle’s ability to extract oxygen. It’s still a controversial topic.",
+  "content_length": 439,
+  "content_tokens": 101,
   "embedding": []
  },
  {
-  "title": "VO2 Max and Body Size",
+  "title": "Limitations in VO2 Max",
   "date": "May 16, 2022",
   "context": "VO2 Max",
   "people": "Peter Attia",
-  "content": "Body size affects your VO2 max. A larger person may consume more liters of oxygen per minute, but this doesn’t necessarily mean that they are better at using oxygen, because they have more muscle. The amount of oxygen reaching any given muscle cell may actually be lower. A better comparison between athletes is to divide by weight. VO2 max numbers are typically reported in milliliters of oxygen per minute, per kilogram of body weight.",
-  "content_length": 437,
-  "content_tokens": 91,
-  "embedding": []
- },
- {
-  "title": "VO2 Max and Performance",
-  "date": "May 16, 2022",
-  "context": "VO2 Max",
-  "people": "Peter Attia",
-  "content": "VO2 max does not tell you exactly how fast you can run. At a certain point, it doesn’t matter that much anyway because you can’t just measure someone’s VO2 max and know how fast they’re going to race. It’s not that useful for comparing between people. However, comparing within yourself and how you improve, does tell you something.",
-  "content_length": 332,
-  "content_tokens": 82,
-  "embedding": []
- },
- {
-  "title": "Causes of VO2 Max Plateau",
-  "date": "May 16, 2022",
-  "context": "VO2 Max",
-  "people": "Peter Attia",
-  "content": "The cause of VO2 max plateau could be in the lungs, heart, circulation, or the muscle’s ability to extract oxygen. Researchers love the VO2 max test because it is separated from motivation. The nice thing about VO2 max is that, in theory, it’s independent of motivation. So if you see a plateau, you know that’s a property of their body and not a product of whether they were excited about the study.",
-  "content_length": 400,
-  "content_tokens": 94,
-  "embedding": []
- },
- {
-  "title": "Lung Capacity and Endurance Training",
-  "date": "May 16, 2022",
-  "context": "VO2 Max",
-  "people": "Peter Attia",
-  "content": "The conventional wisdom is that your lungs are not a limitation, that you can always breathe enough in. For decades, it’s been conventional wisdom that the lungs don’t respond to training because they’re overbuilt. However, a big review paper published recently argued that in some cases the lungs aren’t overbuilt and one of the situations is highly trained endurance athletes. They can be limited by their ability to get enough oxygen in. An athlete can be so fit, their heart is so strong, it pumps blood past your lungs so quickly that it doesn’t have time to fully stock up on oxygen, leading to exercise induced arterial hypoxemia.",
-  "content_length": 637,
-  "content_tokens": 139,
-  "embedding": []
- },
- {
-  "title": "Oxygen Consumption and Athletic Performance",
-  "date": "May 16, 2022",
-  "context": "VO2 Max",
-  "people": "Peter Attia",
-  "content": "At every stage of the way, there can be limitations if anything is knocked off kilter. This includes the ability of the muscles to first extract the oxygen from the bloodstream and then to make use of it metabolically in the mitochondria. The way they’re calculating how much oxygen is being consumed is they’re measuring the concentration of oxygen on the way out and calculating the delta.",
-  "content_length": 391,
-  "content_tokens": 80,
+  "content": "Almost every part along this cascade is engineered more or less to what it needs to be. And so if you perturb any of those elements, you can get limitations. For example, the conventional wisdom is that your lungs are not a limitation, that you can always breathe enough in. However, in some cases the lungs aren’t overbuilt and one of the situations is highly trained endurance athletes. They can be limited by their ability to get enough oxygen in. You can also run into situations where an athlete is so fit, their heart is so strong, it pumps blood past your lungs so quickly that it doesn’t have time to fully stock up on oxygen.",
+  "content_length": 634,
+  "content_tokens": 136,
   "embedding": []
  },
  {
@@ -74,9 +44,9 @@
   "date": "May 16, 2022",
   "context": "VO2 Max",
   "people": "Peter Attia",
-  "content": "When you go to higher altitude and you reduce the amount of oxygen, you would think what would happen is you can’t get enough oxygen, so you’re going to be go anaerobic sooner, you’re going to produce more lactate. Yet, the opposite happens — something called the lactate paradox. If you try and exercise to exhaustion at lower levels of altitude, you actually give up when your lactate levels are lower than you would at sea level.",
-  "content_length": 432,
-  "content_tokens": 99,
+  "content": "It’s interesting when you go to higher altitude and you reduce the amount of oxygen, “funny things happen”. First, you would think what would happen is you can’t get enough oxygen, so you’re going to be go anaerobic sooner, you’re going to produce more lactate. And yet, the opposite happens — something called the lactate paradox. Also, if you try and exercise to exhaustion at lower levels of altitude, you actually give up when your lactate levels are lower than you would at sea level.",
+  "content_length": 489,
+  "content_tokens": 118,
   "embedding": []
  }
 ]

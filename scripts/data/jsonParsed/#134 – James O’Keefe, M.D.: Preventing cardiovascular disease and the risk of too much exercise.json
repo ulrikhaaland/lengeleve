@@ -1,22 +1,22 @@
 [
  {
-  "title": "Preventing Cardiovascular Disease",
+  "title": "Cardiac Physiology and Disease Susceptibility",
   "date": "October 26, 2020",
   "context": "Preventing Chronic Disease",
   "people": "Peter Attia",
-  "content": "James O’Keefe discusses cardiac physiology and what makes the human heart susceptible to disease. He provides evidence for what supports his approach to exercise–elucidating both positive and negative kinds of exercise for heart health. He also discusses the role of nutrition, specific nutrients, and pharmacological interventions to support heart and brain longevity.",
-  "content_length": 369,
-  "content_tokens": 66,
+  "content": "Discusses cardiac physiology and what makes the human heart susceptible to disease. Provides evidence for what supports his approach to exercise–elucidating both positive and negative kinds of exercise for heart health.",
+  "content_length": 219,
+  "content_tokens": 39,
   "embedding": []
  },
  {
-  "title": "The Risk of Too Much Exercise",
+  "title": "Role of Nutrition in Heart Health",
   "date": "October 26, 2020",
   "context": "Preventing Chronic Disease",
   "people": "Peter Attia",
-  "content": "James O’Keefe discusses the risks associated with excessive exercise and how it can lead to cardiovascular disease. He provides evidence for what supports his approach to exercise–elucidating both positive and negative kinds of exercise for heart health. He also discusses the role of nutrition, specific nutrients, and pharmacological interventions to support heart and brain longevity.",
-  "content_length": 387,
-  "content_tokens": 69,
+  "content": "Discusses the role of nutrition, specific nutrients, and pharmacological interventions to support heart and brain longevity.",
+  "content_length": 124,
+  "content_tokens": 21,
   "embedding": []
  },
  {
@@ -24,9 +24,9 @@
   "date": "October 26, 2020",
   "context": "Preventing Chronic Disease",
   "people": "Peter Attia",
-  "content": "Understanding atherosclerosis and the misconception that it’s a “plumbing problem” [10:15];",
-  "content_length": 91,
-  "content_tokens": 25,
+  "content": "Understanding atherosclerosis and the misconception that it’s a “plumbing problem”.",
+  "content_length": 83,
+  "content_tokens": 21,
   "embedding": []
  },
  {
@@ -34,9 +34,259 @@
   "date": "October 26, 2020",
   "context": "Preventing Chronic Disease",
   "people": "Peter Attia",
-  "content": "The danger in excessive exercise—a reverse J-shaped mortality curve [21:15]; The story of Micah True—a case study of excessive exercise [49:15];",
-  "content_length": 144,
-  "content_tokens": 36,
+  "content": "The danger in excessive exercise—a reverse J-shaped mortality curve.",
+  "content_length": 68,
+  "content_tokens": 14,
+  "embedding": []
+ },
+ {
+  "title": "Exercise for Longevity",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "The best kinds of exercise for longevity—The Copenhagen City Heart Study. Being a more balanced athlete and finding the right exercise intensity.",
+  "content_length": 145,
+  "content_tokens": 26,
+  "embedding": []
+ },
+ {
+  "title": "Heart Rate Metrics",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Heart rate during exercise, resting heart rate, and other important metrics.",
+  "content_length": 76,
+  "content_tokens": 14,
+  "embedding": []
+ },
+ {
+  "title": "Nutrition for Cardiovascular Health",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Nutrition for cardiovascular health. Important nutrients: Magnesium, potassium, calcium, sodium, and collagen.",
+  "content_length": 110,
+  "content_tokens": 21,
+  "embedding": []
+ },
+ {
+  "title": "Pharmacological Interventions for Heart Health",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "SGLT2 inhibition for diabetes, cardio-protection, and general longevity. GLP-1 agonists for weight loss and reducing cardiovascular risk. Statins—mechanism of action, safety, and useful alternatives.",
+  "content_length": 199,
+  "content_tokens": 45,
+  "embedding": []
+ },
+ {
+  "title": "Cardiovascular Risk and Arterial Calcification",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "A 40-year view on cardiovascular risk, and the possibility of reversing arterial calcification.",
+  "content_length": 95,
+  "content_tokens": 19,
+  "embedding": []
+ },
+ {
+  "title": "Nutrients for Cardiovascular Disease Risk Reduction",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Evidence for high dose EPA and DHA for the reduction of cardiovascular disease risk.",
+  "content_length": 84,
+  "content_tokens": 16,
+  "embedding": []
+ },
+ {
+  "title": "Impact of Nutrients on Mental Health",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "The impact of omega-3, curcumin, and other compounds on mental health and dementia.",
+  "content_length": 83,
+  "content_tokens": 20,
+  "embedding": []
+ },
+ {
+  "title": "Training Principles for Longevity",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Training principles for longevity",
+  "content_length": 33,
+  "content_tokens": 4,
+  "embedding": []
+ },
+ {
+  "title": "Preventing Cardiovascular Disease",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "The latest in diagnostic imaging, blood pressure, metabolic health, and more",
+  "content_length": 76,
+  "content_tokens": 14,
+  "embedding": []
+ },
+ {
+  "title": "Pros and Cons of GLP-1 Weight Loss Drugs and Metformin",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Pros and cons of GLP-1 weight loss drugs and metformin as a geroprotective agent",
+  "content_length": 80,
+  "content_tokens": 22,
+  "embedding": []
+ },
+ {
+  "title": "Overcoming Trauma and Living a Meaningful Life",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Overcoming trauma, finding inner peace, and living a meaningful and fulfilling life",
+  "content_length": 83,
+  "content_tokens": 15,
+  "embedding": []
+ },
+ {
+  "title": "Cell Therapy and Gene Therapy",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "The history of the cell, cell therapy, gene therapy, and more",
+  "content_length": 61,
+  "content_tokens": 14,
+  "embedding": []
+ },
+ {
+  "title": "Alzheimer's Disease and Lifestyle Factors",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Alzheimer's disease including the possibility of a vascular hypothesis as well as the factors that can impact disease risk such as type 2 diabetes, blood pressure, omega supplementation, exercise, sauna, and more",
+  "content_length": 212,
+  "content_tokens": 41,
+  "embedding": []
+ },
+ {
+  "title": "Cancer Risk and Lifestyle Factors",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Cancer risk including the relationship between cancer and exercise as well as the link between alcohol consumption and cancer",
+  "content_length": 125,
+  "content_tokens": 20,
+  "embedding": []
+ },
+ {
+  "title": "Exercise and Protein Consumption",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "New focus on exercise and protein consumption as well as how perspective has shifted as it pertains to fasting and time-restricted feeding",
+  "content_length": 138,
+  "content_tokens": 25,
+  "embedding": []
+ },
+ {
+  "title": "Understanding Atherosclerosis",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Understanding atherosclerosis and the misconception that it’s a 'plumbing problem'",
+  "content_length": 82,
+  "content_tokens": 18,
+  "embedding": []
+ },
+ {
+  "title": "Coronary Arterial Calcification",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Assessment of coronary arterial calcification using an inexpensive and low-radiation CT scan called CardioScan to measure coronary arterial calcification",
+  "content_length": 153,
+  "content_tokens": 29,
+  "embedding": []
+ },
+ {
+  "title": "Acne Scars and Prevention",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "We can’t make the acne scars go away. They’re there forever once you have those calcium deposits. But we can pretty much make the risk go away. That’s why prevention is just so effective and so instrumental.",
+  "content_length": 207,
+  "content_tokens": 50,
+  "embedding": []
+ },
+ {
+  "title": "Exercise and Health",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "If exercise were a drug, it would be the best drug we have for preventing heart disease, dementia, osteoporosis, depression, diabetes, and obesity. But like any drug, the dose must be appropriate. For decrease of serious cardiovascular disease, benefit of exercise starts at just 15 minutes of brisk walking per day and increases with an increasing amount of exercise. At the most extreme doses of exercise, however, some of the benefit is lost.",
+  "content_length": 445,
+  "content_tokens": 90,
+  "embedding": []
+ },
+ {
+  "title": "Heart Function and Exercise",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "The heart is only about the size of a fist, but continuously pumps about 5 liters of blood throughout the body per minute, amounting to three to four billion beats throughout a lifetime. During intense activity, the hearts of some athletes pump as much as 30-35 liters of blood per minute. Professional cyclists and cross country skiers get as high as 40 liters per minute. In a well trained athlete, intense exercise will increase heart rate by about three-fold, say 45 to 170 bpm for example. The volume of blood being pumped, however, increases by about six-fold (5 to 30+ liters per minute). Increased cardiac output, or the volume of blood pumped per beat, explains this discrepancy. For cardiac output to increase, the internal volume of the heart must also increase. With extreme amounts of exercise, this stretching of the heart can be problematic.",
+  "content_length": 856,
+  "content_tokens": 178,
+  "embedding": []
+ },
+ {
+  "title": "Oxidative Stress of Exercise",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "In addition, exercise creates oxidative stress. After about 45 to 50 minutes of high-intensity exercise, the body’s antioxidant capacity to resolve the oxidative stress is exhausted and endothelial function is negatively affected at this point. This coincides with increased blood levels of troponins and the N-terminal prohormone of brain natriuretic peptide (NT pro-BNP), which are both markers of heart damage.",
+  "content_length": 413,
+  "content_tokens": 88,
+  "embedding": []
+ },
+ {
+  "title": "Exercise and Aging",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Especially after age 40 or 45, really protracted exercise will cause those small little micro damage, like overstretching and tearing. This happens because the high levels of catecholamines and free radicals that are now unbuffered.",
+  "content_length": 232,
+  "content_tokens": 47,
+  "embedding": []
+ },
+ {
+  "title": "Longevity versus Performance",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "In short, longevity and performance are different goals. In regard to health, if you want to run a marathon or do something similar for the sake of accomplishment, that is fine, but it should not become a regular habit.",
+  "content_length": 219,
+  "content_tokens": 45,
+  "embedding": []
+ },
+ {
+  "title": "Exercise and Heart Rhythm",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Premature ventricular contractions can be caused by the high levels of catecholamines and oxidative stress produced during prolonged intense exercise, resulting in fibrosis and scar tissue that can disrupt heart rhythm and facilitate development of atrial fibrillation.",
+  "content_length": 269,
+  "content_tokens": 49,
+  "embedding": []
+ },
+ {
+  "title": "Excessive Exercise and Longevity",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "A Harvard study showed that the people who exercised the most lost 38% of the longevity benefit compared to those who exercised more moderately. Further demonstrating the concerns of excessive exercise, professional cyclists have been shown to be more likely to develop atrial fibrillation.",
+  "content_length": 290,
+  "content_tokens": 51,
   "embedding": []
  },
  {
@@ -44,179 +294,19 @@
   "date": "October 26, 2020",
   "context": "Preventing Chronic Disease",
   "people": "Peter Attia",
-  "content": "The best kinds of exercise for longevity—The Copenhagen City Heart Study [53:00]; Being a more balanced athlete and finding the right exercise intensity [58:45]; Heart rate during exercise, resting heart rate, and other important metrics [1:04:00];",
-  "content_length": 248,
-  "content_tokens": 54,
+  "content": "Nearly 10,000 Danes were followed for more than 20 years. Participants were grouped based on type of physical activity, including running, cycling, swimming, “health club activities” (i.e., exercising at a gym), tennis, badminton, and soccer. Tennis, badminton, and soccer were associated with the greatest longevity benefit, followed by running, cycling, calisthenics, and swimming.",
+  "content_length": 383,
+  "content_tokens": 87,
   "embedding": []
  },
  {
-  "title": "Nutrition for Cardiovascular Health",
+  "title": "Balanced Exercise and Intensity",
   "date": "October 26, 2020",
   "context": "Preventing Chronic Disease",
   "people": "Peter Attia",
-  "content": "Nutrition for cardiovascular health [1:09:45]; Important nutrients: Magnesium, potassium, calcium, sodium, and collagen [1:19:30]; SGLT2 inhibition for diabetes, cardio-protection, and general longevity [1:24:15]; GLP-1 agonists for weight loss and reducing cardiovascular risk [1:34:15]; Statins—mechanism of action, safety, and useful alternatives [1:37:25]; A 40-year view on cardiovascular risk, and the possibility of reversing arterial calcification [1:45:45]; Evidence for high dose EPA and DHA for the reduction of cardiovascular disease risk [1:53:30]; The impact of omega-3, curcumin, and other compounds on mental health and dementia [1:59:00];",
-  "content_length": 655,
-  "content_tokens": 169,
-  "embedding": []
- },
- {
-  "title": "Physiology of a stress response",
-  "date": "October 26, 2020",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "Robert Sapolsky, Ph.D., discusses the widespread impact of stress on our physical and emotional health as well as the mechanisms by which it can precipitate chronic illness, dementia, depression, and more. He also provides insight into the factors that contribute to the stress response (and our ability to handle it) such as social rank, personality, environment, and genetics.",
-  "content_length": 378,
-  "content_tokens": 75,
-  "embedding": []
- },
- {
-  "title": "Individual variation in the response to stress",
-  "date": "October 26, 2020",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "Robert Sapolsky, Ph.D., discusses how everyone has a different optimal level of stress and how social rank and personality differences affect our stress response.",
-  "content_length": 162,
-  "content_tokens": 31,
-  "embedding": []
- },
- {
-  "title": "Tips for managing stress in the modern world",
-  "date": "October 26, 2020",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "Robert Sapolsky, Ph.D., provides tips for managing stress in the modern world.",
-  "content_length": 78,
-  "content_tokens": 19,
-  "embedding": []
- },
- {
-  "title": "The impact of stress on cancer, atherosclerosis, dementia, addiction, and depression",
-  "date": "October 26, 2020",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "Robert Sapolsky, Ph.D., discusses the impact of stress on cancer, atherosclerosis, dementia, addiction, and depression.",
-  "content_length": 119,
-  "content_tokens": 28,
-  "embedding": []
- },
- {
-  "title": "James' Background and Preventative Approach to Cardiology",
-  "date": "October 26, 2020",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "James knew he wanted to become a cardiologist since he was young. He started out as an interventional cardiologist but realized that angioplasty was not the ideal way to treat cardiovascular disease, which led to his interest in a more preventative approach. He believes that coronary disease should be an entirely preventable, medically-managed disease.",
-  "content_length": 354,
-  "content_tokens": 69,
-  "embedding": []
- },
- {
-  "title": "Understanding Atherosclerosis and the Misconception of a 'Plumbing Problem'",
-  "date": "October 26, 2020",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "During angioplasty, a catheter with a deflated balloon is inserted into the narrowing artery and the balloon is inflated with saline to restore flow. In some cases, a stent is left behind to preserve the opening. In cases of asymptomatic blockage, there is no evidence of benefit for stents. The flawed paradigm is that blocked arteries are simply a plumbing issue. Atherosclerosis starts with accumulation of oxidized triglycerides and LDL cholesterol that attracts monocytes and macrophages. James believes a preventative approach (i.e., lifestyle change) is more appropriate for asymptomatic cases.",
-  "content_length": 601,
-  "content_tokens": 126,
-  "embedding": []
- },
- {
-  "title": "Calcification and Calcium Score",
-  "date": "October 26, 2020",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "Calcification and blockage in the arteries is like bars on a window, indicating a bad neighborhood and the need to act to prevent myocardial death. James uses an inexpensive and low-radiation CT scan called CardioScan to measure coronary arterial calcification, which is the equivalent of a mammogram for the heart. Predisposition to arterial calcification is partly genetic, but it is a highly modifiable process. Prevention is effective in reducing the risk of calcification and heart disease.",
-  "content_length": 495,
-  "content_tokens": 102,
-  "embedding": []
- },
- {
-  "title": "Excessive Exercise and Mortality",
-  "date": "October 26, 2020",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "Exercise is the best drug for preventing heart disease, dementia, osteoporosis, depression, diabetes, and obesity, but the dose must be appropriate. The benefit of exercise starts at just 15 minutes of brisk walking per day and increases with an increasing amount of exercise. However, at the most extreme doses of exercise, some of the benefit is lost, and there is a reverse J-shaped mortality curve. Extreme amounts of exercise can cause stretching of the heart, which can be problematic. After about 45 to 50 minutes of high-intensity exercise, the body's antioxidant capacity to resolve the oxidative stress is exhausted, and endothelial function is negatively affected. Especially after age 40 or 45, really protracted exercise will cause small micro-damage, like overstretching and tearing.",
-  "content_length": 797,
-  "content_tokens": 157,
-  "embedding": []
- },
- {
-  "title": "The Amazing Pumping Capacity of the Heart",
-  "date": "October 26, 2020",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "The heart continuously pumps about 5 liters of blood throughout the body per minute, amounting to three to four billion beats throughout a lifetime. During intense activity, the hearts of some athletes pump as much as 30-35 liters of blood per minute. The volume of blood being pumped increases by about six-fold with extreme amounts of exercise. Increased cardiac output, or the volume of blood pumped per beat, explains this discrepancy. For cardiac output to increase, the internal volume of the heart must also increase.",
-  "content_length": 524,
-  "content_tokens": 102,
-  "embedding": []
- },
- {
-  "title": "Longevity vs Performance",
-  "date": "October 26, 2020",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "In contrast, a car that can last 500,000 miles is going to be more like a Honda Accord that has been well maintained and never driven faster than 70 mph. In short, longevity and performance are different goals.",
-  "content_length": 210,
-  "content_tokens": 44,
-  "embedding": []
- },
- {
-  "title": "Concerns with Extreme Exercise",
-  "date": "October 26, 2020",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "James experienced this tradeoff himself—He competed in triathlons up until his mid forties, when he started noticing concerns with his heart rhythm, including premature ventricular and atrial contractions and supraventricular tachycardia. Premature ventricular contractions can be caused by the high levels of catecholamines and oxidative stress produced during prolonged intense exercise, resulting in fibrosis and scar tissue that can disrupt heart rhythm and facilitate development of atrial fibrillation. Further demonstrating the concerns of excessive exercise, professional cyclists have been shown to be more likely to develop atrial fibrillation.",
-  "content_length": 654,
-  "content_tokens": 123,
-  "embedding": []
- },
- {
-  "title": "The Reverse J-Shaped Curve",
-  "date": "October 26, 2020",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "Experimental studies have been done in dogs and mice, and they have shown excessive exercise to result in dilated heart chambers. James recently published a review paper describing 10 large epidemiological studies, and all but two showed a very distinct reverse J-shaped curve for exercise dose and mortality.",
-  "content_length": 309,
-  "content_tokens": 57,
-  "embedding": []
- },
- {
-  "title": "The Best Kinds of Exercise for Longevity",
-  "date": "October 26, 2020",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "Nearly 10,000 Danes were followed for more than 20 years in the Copenhagen City Heart Study. Participants were grouped based on type of physical activity, including running, cycling, swimming, “health club activities” (i.e., exercising at a gym), tennis, badminton, and soccer. James was shocked by the results – tennis, badminton, and soccer were associated with the greatest longevity benefit, followed by running, cycling, calisthenics, and swimming. As demonstrated in a meta-analysis, research has shown that social relationships are as important for predicting longevity as other well-established factors such as smoking and exercise.",
-  "content_length": 640,
-  "content_tokens": 132,
-  "embedding": []
- },
- {
-  "title": "Finding the Right Exercise Intensity",
-  "date": "October 26, 2020",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "Peter uses lost time as an argument against excessive exercise. Being a more balanced athlete and finding the right exercise intensity is important. James believes that the benefits of activities like tennis, badminton, and soccer are that they “combine two medicines instead of one” by combining exercise with social interaction.",
-  "content_length": 330,
-  "content_tokens": 62,
-  "embedding": []
- },
- {
-  "title": "Balancing Cardio and Strength Training",
-  "date": "October 26, 2020",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "Running 50 miles per week requires so much time that does not leave adequate times for other important types of exercise such as strength training. It also leaves less time to spend with family. Peter notes that “life is a pretty complicated sport and it requires strength, stability, aerobic fitness, and anaerobic fitness.” James recommends things that will keep resting heart rate low, but also some high-intensity interval training to maintain maximal capacity, “high volumes are really high intensity exercise is just not the ideal approach to fitness”. After 30 or 45 minutes of aerobic exercise, if you want to do more circle back home and do some yoga, do some weights, these things that don’t necessarily tax your heart the same way that the other high intensity sports do.",
-  "content_length": 782,
-  "content_tokens": 158,
-  "embedding": []
- },
- {
-  "title": "Zone 2 Aerobic Exercise",
-  "date": "October 26, 2020",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "Peter describes the importance of zone 2 aerobic exercise, which is done at a relatively low intensity, but approximately the highest intensity prior to mitochondrial capacity being exceeded and lactate accumulation increasing. Zone 2 exercise was discussed in great depth in podcast episode 85 with Iñigo San Millán. Peter also notes that most people do not spend not enough time at this intensity and spend too much time at intensities between zone 2 and maximal intensity. A rough ratio should be 80% zone 2 and 20% zone 5 (i.e., max capacity). He believes this middle area of intensity (zones 3-4) is the least important zone to be training within.",
-  "content_length": 652,
-  "content_tokens": 132,
+  "content": "High volumes of really high intensity exercise is just not the ideal approach to fitness. After 30 or 45 minutes of aerobic exercise, if you want to do more circle back home and do some yoga, do some weights, these things that don’t necessarily tax your heart the same way that the other high intensity sports do.",
+  "content_length": 313,
+  "content_tokens": 65,
   "embedding": []
  },
  {
@@ -224,19 +314,19 @@
   "date": "October 26, 2020",
   "context": "Preventing Chronic Disease",
   "people": "Peter Attia",
-  "content": "James actually recommends that people not pay much attention to heart rate during exercise. Instead, the most important parameters about pulse are: Resting HR—We want to get that nice and low. Heart rate variability—we want that to be more variable when you take slow deep breaths. This is why meditation or yoga is a really good thing to add to somebody’s fitness regimen.",
-  "content_length": 373,
-  "content_tokens": 77,
+  "content": "The most important parameters about pulse are: Resting HR—We want to get that nice and low. Heart rate variability—we want that to be more variable when you take slow deep breaths. This is why meditation or yoga is a really good thing to add to somebody’s fitness regimen.",
+  "content_length": 272,
+  "content_tokens": 60,
   "embedding": []
  },
  {
-  "title": "Resting Heart Rate",
+  "title": "Resting Heart Rate and Health",
   "date": "October 26, 2020",
   "context": "Preventing Chronic Disease",
   "people": "Peter Attia",
-  "content": "Peter has noticed variation in the resting heart rate of his patients and wonders to what extent genetics is a contributing factor. At equivalent fitness levels, women tend to have higher fasting heart rates than men. A lower resting heart rate is associated with increased longevity. Later in life, sick sinus syndrome can lower heart rate. Alcohol consumption, stress, and inadequate sleep can all increase resting heart rate. James notices that lifestyle factors like overtraining, poor sleep, a lot of travel, stress, and illness will typically increase his resting heart rate by 5 or more beats per minute. In James’ practice, it is common for his patients to lower their resting heart rate by 5-10 beats per minute through lifestyle intervention. Greater decreases require serious commitment to losing weight, exercising, and getting fit. Drops in resting heart rate are often accompanied by decreases in abdominal fat, blood pressure, triglycerides, and hemoglobin A1c.",
-  "content_length": 976,
-  "content_tokens": 185,
+  "content": "A lower resting heart rate is associated with increased longevity. Later in life, sick sinus syndrome can lower heart rate. Alcohol consumption, stress, and inadequate sleep can all increase resting heart rate.",
+  "content_length": 210,
+  "content_tokens": 39,
   "embedding": []
  },
  {
@@ -244,159 +334,129 @@
   "date": "October 26, 2020",
   "context": "Preventing Chronic Disease",
   "people": "Peter Attia",
-  "content": "James believes that a Meditteranean diet emphasizing fish and minimization of refined carbohydrates, combined with intermittent fasting, is the best dietary approach for cardiovascular health. He also believes that this dietary approach is also beneficial for preventing diabetes, dementia, obesity, and other common chronic diseases. Peter and James agree that PREDIMED is a landmark nutrition study.",
-  "content_length": 401,
+  "content": "A Meditteranean diet emphasizing fish and minimization of refined carbohydrates, combined with intermittent fasting, is the best dietary approach for cardiovascular health. This dietary approach is also beneficial for preventing diabetes, dementia, obesity, and other common chronic diseases.",
+  "content_length": 292,
+  "content_tokens": 49,
+  "embedding": []
+ },
+ {
+  "title": "Olive Oil and Health",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "The benefits of olive oil depend on it being extra virgin and having high polyphenol content. This type of olive oil should give a sensation at the back of the throat similar to black pepper.",
+  "content_length": 191,
+  "content_tokens": 39,
+  "embedding": []
+ },
+ {
+  "title": "Olive Oil and Saturated Fat",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Consumers need to be aware – sometimes even products labeled as extra virgin olive oil are really nothing more than canola oil with some olive oil mixed in. The epidemiology is confounded by people who consume more saturated fat typically also consuming unhealthy ingredients like refined carbohydrates. A moderate amount of saturated fat is part of our evolutionary history, but that an excessive amount is not a good idea. Sugar and other refined carbohydrates are a much greater concern.",
+  "content_length": 490,
+  "content_tokens": 88,
+  "embedding": []
+ },
+ {
+  "title": "Important Nutrients: Magnesium, Potassium, Calcium, Sodium, and Collagen",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Magnesium and Potassium are important cofactors for many reactions in the body. Nuts are a good source of magnesium. Eating “nose to tail” includes cooking bone, which provides calcium hydroxyapatite. Standard calcium supplements are in the form of calcium carbonate and calcium gluconate. Collagen is beneficial for hair, skin, nails, and bones; and it is even beneficial for building and maintaining muscle mass. Sodium intake needs to be careful for people with heart failure and kidney disease.",
+  "content_length": 498,
+  "content_tokens": 107,
+  "embedding": []
+ },
+ {
+  "title": "SGLT2 Inhibition for Diabetes, Cardio-protection, and General Longevity",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "SGLT2 inhibitors are a class of drugs that blocks sodium glucose co-transporter 2 in the tubule of kidney cells. This basically blocks reabsorption of glucose, resulting in increased excretion of glucose through the urine. For this reason, SGLT2 inhibitors are used to treat diabetes. EMPA-REG, the first large clinical trial on an SGLT2 inhibitor, showed a decrease in heart failure hospitalizations and cardiovascular deaths in type 2 diabetics.",
+  "content_length": 447,
+  "content_tokens": 98,
+  "embedding": []
+ },
+ {
+  "title": "GLP-1 Agonists for Weight Loss and Reducing Cardiovascular Risk",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "GLP-1 (glucagon-like peptide-1) is a hormone that promotes insulin secretion and tends to decline in type 2 diabetics. GLP-1 agonists lower fasting insulin and increase postprandial insulin. GLP-1 agonists are great for weight loss.",
+  "content_length": 232,
+  "content_tokens": 62,
+  "embedding": []
+ },
+ {
+  "title": "Statins—Mechanism of Action, Safety, and Useful Alternatives",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Statins inhibit cholesterol synthesis, their benefit is more likely a result of increasing the LCL receptor in the liver. Despite the large amount of evidence on efficacy of statins, there are concerns about their use. Loss of coenzyme Q10 and associated muscle pain are legitimate concerns, they can be easily resolved through supplementation.",
+  "content_length": 344,
+  "content_tokens": 65,
+  "embedding": []
+ },
+ {
+  "title": "A 40-year View on Cardiovascular Risk, and the Possibility of Reversing Arterial Calcification",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "If someone has a low 10-year risk calculation but has high ApoB, current recommendations are to do nothing beyond lifestyle modifications. Based on the work of Allan Sniderman, it is more important to look at 30- or 40- year risk.",
+  "content_length": 230,
+  "content_tokens": 52,
+  "embedding": []
+ },
+ {
+  "title": "Evidence for High Dose EPA and DHA for the Reduction of Cardiovascular Disease Risk",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "The REDUCE-IT trial showed 4 g/d of a purified form of eicosapentaenoic acid (EPA) to decrease cardiovascular deaths and events in people with cardiovascular disease, diabetes, or risk factors including high triglycerides by 20%. Another recent trial, the EVAPORATE study, showed 4 g/d of the same purified form of EPA to decrease coronary plaque by 17%.",
+  "content_length": 354,
+  "content_tokens": 82,
+  "embedding": []
+ },
+ {
+  "title": "The Impact of Omega-3, Curcumin, and Other Compounds on Mental Health and Dementia",
+  "date": "October 26, 2020",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Omega-3 supplementation is cheap and safe, with profound benefits that can help keep people off of antidepressant medications. Highly-absorbable curcumin (Theracurmin) for preventing Alzheimer’s disease. There is observational data on millions of people suggesting that TNF-α inhibition decreases Alzheimer’s risk by 60-70%.",
+  "content_length": 324,
   "content_tokens": 71,
   "embedding": []
  },
  {
-  "title": "Mediterranean diet and the benefits of added fat",
+  "title": "Omega-3 Deficiency and Mental Health",
   "date": "October 26, 2020",
   "context": "Preventing Chronic Disease",
   "people": "Peter Attia",
-  "content": "This study found a Mediterranean diet to decrease risk of major cardiovascular events by about 30%, and showed decreased risk of diabetes, cognitive decline, and obesity in followup studies. Interestingly, it was the added fat from olive oil and nuts that correlated best with the observed benefits. James believes that a ketogenic diet should be structured more like a Mediterranean diet – it should emphasize fat from nuts, seeds, extra virgin olive oil, avocados, and oily fish over foods like cream cheese, butter, and red meat.",
-  "content_length": 532,
-  "content_tokens": 103,
+  "content": "Upwards of like 90% of Americans aren’t getting enough omega-3 in their diet and it correlates with depression, ADHD, suicide, cognition, dementia, all those things … this is like a super easy way to markedly improve mental health.",
+  "content_length": 231,
+  "content_tokens": 51,
   "embedding": []
  },
  {
-  "title": "Nuances of olive oil",
+  "title": "Preventive Medicine and Lifestyle",
   "date": "October 26, 2020",
   "context": "Preventing Chronic Disease",
   "people": "Peter Attia",
-  "content": "As suggested by Emilio Ros, the primary investigator for the PREDIMED study, the benefits of olive oil depend on it being extra virgin and having high polyphenol content. This type of olive oil should give a sensation at the back of the throat similar to black pepper. One study found olive oil to have a negative effect on endothelial function, and according to James, this is because a high-polyphenol olive oil was not used. Peter points out how consumers need to be aware – sometimes even products labeled as extra virgin olive oil are really nothing more than canola oil with some olive oil mixed in.",
-  "content_length": 605,
-  "content_tokens": 126,
+  "content": "For people aspiring to be medical professionals who focus on prevention, it does not have to be all or nothing – you can be involved in the more standard and reactive aspects of medicine, such as angioplasty and lipid lowering, but you can limit this to just a portion of your focus. Prevention will become a more important part of medicine as more people realize the payoff in regard to getting more out of life.",
+  "content_length": 413,
+  "content_tokens": 83,
   "embedding": []
  },
  {
-  "title": "Saturated fat and sugar",
+  "title": "Lifestyle and Health",
   "date": "October 26, 2020",
   "context": "Preventing Chronic Disease",
   "people": "Peter Attia",
-  "content": "Peter notes that the epidemiology is confounded by people who consume more saturated fat typically also consuming unhealthy ingredients like refined carbohydrates. James believes that a moderate amount of saturated fat is part of our evolutionary history, but that an excessive amount is not a good idea. That said, he believes that sugar and other refined carbohydrates are a much greater concern.",
-  "content_length": 398,
-  "content_tokens": 69,
-  "embedding": []
- },
- {
-  "title": "Important nutrients: Magnesium, potassium, calcium, sodium, and collagen",
-  "date": "October 26, 2020",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "Peter is a strong proponent of magnesium. James points out that our evolutionary ancestors were getting about five times more magnesium and potassium (and fiber). Magnesium is an important cofactor for many reactions in the body. Nuts are a good source of magnesium. James also agrees with 2 g/d of magnesium as the right amount. Eating “nose to tail” includes cooking bone, which provides calcium hydroxyapatite, which James says is a more appropriate form to eat. James believes that 1 g/d of calcium is a good target. Our ancestors consumed more collagen based on cooking bone and eating animal skin. Since this is no longer common practice, James believes that collagen supplementation is valuable. James points out that collagen is beneficial for hair, skin, nails, and bones; and it is even beneficial for building and maintaining muscle mass b/c of the glycine and other amino acids. James notes the need to be careful with sodium intake for people with heart failure and kidney disease. Despite this, he rarely recommends that people limit sodium to less than 1,500 mg/d and believes that 2,000 – 3,000 mg/d is a better target. When following a diet based on whole foods, James recommends salting to taste since these foods are low in sodium.",
-  "content_length": 1250,
-  "content_tokens": 262,
-  "embedding": []
- },
- {
-  "title": "SGLT2 inhibition for diabetes, cardio-protection, and general longevity",
-  "date": "October 26, 2020",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "SGLT2 inhibitors are a class of drugs that blocks sodium glucose co-transporter 2 in the tubule of kidney cells.",
-  "content_length": 112,
-  "content_tokens": 27,
-  "embedding": []
- },
- {
-  "title": "SGLT2 inhibitors for diabetes, heart failure, kidney failure, and longevity",
-  "date": "October 26, 2020",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "SGLT2 inhibitors are used to treat diabetes by blocking reabsorption of glucose, resulting in increased excretion of glucose through the urine. Trials have shown decreased risk of heart failure hospitalizations, cardiovascular deaths, and kidney failure, even in non-diabetics. Peter is interested in the potential of SGLT2 inhibition as an alternative to metformin for promoting longevity, as there is evidence of metformin impairing benefit from exercise, which does not appear to happen with SGLT2 inhibition.",
-  "content_length": 512,
-  "content_tokens": 105,
-  "embedding": []
- },
- {
-  "title": "GLP-1 agonists for weight loss and reducing cardiovascular risk",
-  "date": "October 26, 2020",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "GLP-1 agonists promote insulin secretion and decrease glucagon production in the liver, thereby decreasing glucose production. They lower fasting insulin and increase postprandial insulin, making them great for weight loss. Constipation and/or nausea may occur initially, but are likely to disappear over time. In his patients, high-dose semaglutide results in weight loss of up to 10% of body weight. Liraglutide is currently approved by the FDA for weight loss and semaglutide is expected to be approved in the next year. James notes that semaglutide is even an alternative to bariatric surgery. In non-diabetics, he combines GLP-1 agonists with SGLT2 inhibitors.",
-  "content_length": 665,
-  "content_tokens": 155,
-  "embedding": []
- },
- {
-  "title": "Statins—mechanism of action, safety, and useful alternatives",
-  "date": "October 26, 2020",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "Although statins inhibit cholesterol synthesis, their benefit is more likely a result of increasing the LCL receptor in the liver. Statin use has been associated with less severe COVID-19 infection, possibly due to their anti-inflammatory effect. James notes that there are useful alternatives to statins.",
-  "content_length": 305,
-  "content_tokens": 59,
-  "embedding": []
- },
- {
-  "title": "Concerns about statins",
-  "date": "October 26, 2020",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "Despite the large amount of evidence on efficacy of statins, Peter and James share their experience in having to defend against patients’ concerns about their use. This is likely driven by misinformation on the internet. While loss of coenzyme Q10 and associated muscle pain are legitimate concerns, they can be easily resolved through supplementation. James mentions ezetimibe and PCSK9 inhibitors as alternatives to statins that do not interfere with cholesterol synthesis (as discussed in the latest Drive episode with Tom Dayspring). The association with decreased brain cholesterol with dementia is a good reason to considering alternatives to statin therapy (including a diet high in omega-3 fatty acids). For this reason, Peter measures desmosterol and lathosterol as markers of cholesterol synthesis in his patients, and is particularly cautious with patients who have one or two copies of APOE-4.",
-  "content_length": 905,
-  "content_tokens": 175,
-  "embedding": []
- },
- {
-  "title": "Cardiovascular risk and arterial calcification",
-  "date": "October 26, 2020",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "A 40-year view on cardiovascular risk, and the possibility of reversing arterial calcification. If someone has a low 10-year risk calculation but has high ApoB, current recommendations are to do nothing beyond lifestyle modifications. Based on the work of Allan Sniderman, Peter thinks it is more important to look at 30- or 40- year risk. James notes that ezetimibe and PCSK9 inhibitors are actually preferable to statins in this context because statins can accelerate coronary artery calcification. Peter personally takes a low dose pravastatin plus PCSK9 inhibitor, but is considering doing the experiment of switching to from pravastatin over to Zetia to see what changes. Peter notes his calcium score of 6 at age 36. James thinks that the high volume of high intensity exercise also played a role. Peter has since decreased his calcium score to 0. James says you virtually never see scores go down—he has read about 150,000 calcium scores and considers this rare – calcium score usually increases by 25-30% or more per year. In one of James’ patients, however, he saw a calcium score over 1,000 drop by 200-300 after switching from statins to ezetimibe plus a PCSK9 inhibitor. A recent study showed that using a PCSK9 inhibitor with a statin results in less coronary artery calcification than a statin alone. Peter and James agree that re-testing calcium score is generally not necessary. Although it may serve as motivation for patients who are not following recommendations, it can be discouraging for patients who are doing everything right. “…we can prevent cardiovascular events with all these strategies we’re talking about, despite the coronary calcium.”",
-  "content_length": 1667,
-  "content_tokens": 356,
-  "embedding": []
- },
- {
-  "title": "High dose EPA and DHA for the reduction of cardiovascular disease risk",
-  "date": "October 26, 2020",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "Evidence for high dose EPA and DHA for the reduction of cardiovascular disease risk. Similar to other nutrients, James notes that we’re eating less omega-3 fatty acids than our evolutionary ancestors, maybe by an order of magnitude. Some people believe that access to shellfish and seafood corresponded with human brain expansion 300,000-400,000 years ago. About twenty percent of the brain’s dry weight is made of omega-3 fatty acids, particularly docosahexaenoic acid (DHA) from neuron membranes. The REDUCE-IT trial showed 4 g/d of a purified form of eicosapentaenoic acid (EPA) to decrease cardiovascular deaths and events in people with cardiovascular disease, diabetes, or risk factors including high triglycerides by 20%. Another recent trial, the EVAPORATE study, showed 4 g/d of the same purified form of EPA to decrease coronary plaque by 17%. The STRENGTH trial, however, looked at the effects of 4 g/d of a fish oil derivative including EPA+DHA on cardiovascular outcomes and was terminated early due to expected lack of effect. A recent meta-analysis of 40 studies found EPA+DHA to decrease cardiovascular death and events. Risk of fatal myocardial infarction was decreased by 35%. Overall risk decreased by 5.8% for each additional gram per day of EPA+DHA (max dose evaluated was less than 6 g). James believes that dosage is important – 2 to 4 g/d produces impressive results while most studies that fail to find benefit have used lower doses. Although it is not clearly known if EPA is better alone or in combination with DHA, James believes it is logical to include DHA based on its role in the brain and that we consumed EPA and DHA together throughout our evolutionary history.",
-  "content_length": 1696,
-  "content_tokens": 371,
-  "embedding": []
- },
- {
-  "title": "Sources of Omega-3s",
-  "date": "October 26, 2020",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "Peter and James agree that diet, particularly oily fish, is the best source of omega-3s. Peter recommends Carlson as a supplemental source of omega-3 based on a third party lab analysis he had done. James is Chief Medical Officer for a company named CardioTabs that produces high-quality omega-3 supplements sourced from Scandinavia.",
-  "content_length": 333,
-  "content_tokens": 70,
-  "embedding": []
- },
- {
-  "title": "Omega-3 and Curcumin for Mental Health and Dementia",
-  "date": "October 26, 2020",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "James believes that omega-3 supplementation is cheap and safe, with profound benefits that can help keep people off of antidepressant medications. James recently published a review with Richard Isaacson describing the TNF-α-lowering benefit of highly-absorbable curcumin (Theracurmin) for preventing Alzheimer’s disease. He points out that there is observational data on millions of people suggesting that TNF-α inhibition decreases Alzheimer’s risk by 60-70% (this data is reviewed in the publication above). Consistent with James’ paper above, Peter includes Theracurmin in his approach for Alzheimer’s prevention.",
-  "content_length": 616,
-  "content_tokens": 132,
-  "embedding": []
- },
- {
-  "title": "Alzheimer's Risk Factors",
-  "date": "October 26, 2020",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "The Alzheimer’s risk factors Peter has identified with Richard Isaacson (as discussed in Drive episode 18): Age above 60 years, Family history of Alzheimer’s disease, Presence of the APOE-4 gene, Consideration of additional genes associated with Alzheimer’s, including anti-TNF genes and TOMM40.",
-  "content_length": 295,
-  "content_tokens": 68,
-  "embedding": []
- },
- {
-  "title": "James' Focus Beyond Cardiology",
-  "date": "October 26, 2020",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "James simply “followed his heart” and says that he loves what he does to the extent that he would still do it without pay. For people aspiring to be medical professionals who focus on prevention, James advises that it does not have to be all or nothing – you can be involved in the more standard and reactive aspects of medicine, such as angioplasty and lipid lowering, but you can limit this to just a portion of your focus. James also points out that working in a large medical group makes it easier for him to carve out his own niche. James believes that prevention will become a more important part of medicine as more people realize the payoff in regard to getting more out of life.",
-  "content_length": 687,
-  "content_tokens": 142,
+  "content": "… this whole world is set up to minimize activity and maximize calorie consumption, but there’s also people who are paying close attention and we have all of these powerful tools and use this information to help each other and to live not only longer, but more sort of active and fulfilling and enjoyable lives.",
+  "content_length": 311,
+  "content_tokens": 61,
   "embedding": []
  }
 ]

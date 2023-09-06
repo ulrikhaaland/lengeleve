@@ -1,32 +1,32 @@
 [
  {
-  "title": "The Relationship Between NREM Sleep and Memory Solidification",
+  "title": "Importance of Sleep for Memory",
   "date": "May 26, 2019",
   "context": "Sleep",
   "people": "Peter Attia",
-  "content": "Matthew Walker’s book Why We Sleep notes that at every stage of human life, the relationship between NREM sleep and memory solidification is observed. Studies in chimpanzees, bonobos, and orangutans have also demonstrated this. The memory-maintaining benefit of NREM sleep remains on powerful display even in cats, rats, and insects.",
-  "content_length": 333,
-  "content_tokens": 72,
+  "content": "At every stage of human life, the relationship between NREM sleep and memory solidification is observed. Studies in chimpanzees, bonobos, and orangutans have demonstrated that all three groups are better able to remember where food items have been placed in their environments by experimenters after they sleep. Descend down the phylogenetic chain to cats, rats, and even insects, and the memory-maintaining benefit of NREM sleep remains on powerful display.",
+  "content_length": 458,
+  "content_tokens": 92,
   "embedding": []
  },
  {
-  "title": "The Process of Memory Solidification in 'The Sound of Silence'",
+  "title": "Sleep and Memory Solidification",
   "date": "May 26, 2019",
   "context": "Sleep",
   "people": "Peter Attia",
-  "content": "Simon and Garfunkel's 'The Sound of Silence' encapsulates the process of memory solidification during sleep. The lyrics describe how the brain relays the day's waking events to the sleeping brain at night in the form of a vision, softly creeping. The fragile seeds of waking experience sown during the day are embedded in the brain during sleep, future-proofing memories. Recent evidence shows that sleep not only maintains memories learned before bed but also salvages those that appeared to have been lost soon after learning.",
-  "content_length": 528,
-  "content_tokens": 104,
+  "content": "Simon and Garfunkel describe greeting their old friend, darkness (sleep). They speak of relaying the day’s waking events to the sleeping brain at night in the form of a vision, softly creeping—a gentle information upload, if you will. Insightfully, they illustrate how those fragile seeds of waking experience, sown during the day, have now been embedded ('planted') in the brain during sleep. As a result of that process, those experiences now remain upon awakening the next morning. Sleep’s future-proofing of memories, all packaged for us in perfect song lyrics.",
+  "content_length": 565,
+  "content_tokens": 122,
   "embedding": []
  },
  {
-  "title": "Sleep's Recovery Service",
+  "title": "Sleep as a Memory Recovery Service",
   "date": "May 26, 2019",
   "context": "Sleep",
   "people": "Peter Attia",
-  "content": "Following a night of sleep, you regain access to memories that you could not retrieve before sleep. Sleep offers a recovery service at night, repairing memory items and rescuing them from the clutches of forgetting. You awake the next morning able to locate and retrieve those once unavailable memory files with ease and precision.",
-  "content_length": 331,
-  "content_tokens": 60,
+  "content": "Not only does sleep maintain those memories you have successfully learned before bed ('the vision that was planted in my brain / Still remains'), but it will even salvage those that appeared to have been lost soon after learning. Following a night of sleep you regain access to memories that you could not retrieve before sleep. Like a computer hard drive where some files have become corrupted and inaccessible, sleep offers a recovery service at night. Having repaired those memory items, rescuing them from the clutches of forgetting, you awake the next morning able to locate and retrieve those once unavailable memory files with ease and precision.",
+  "content_length": 653,
+  "content_tokens": 117,
   "embedding": []
  }
 ]

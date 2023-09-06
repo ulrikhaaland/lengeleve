@@ -1,12 +1,12 @@
 [
  {
-  "title": "How sleep deprivation affects appetite",
+  "title": "Sleep Deprivation and Appetite",
   "date": "May 31, 2022",
   "context": "Diet & Sleep",
   "people": "Peter Attia",
-  "content": "When you are sleep deprived, the brain receives a signal that is not dissimilar to starvation, releasing a cascade of hormones that change your appetite profile. This leads to increased hunger levels and less satisfaction after eating. The hormone ghrelin, which makes you want to eat more, increases, while leptin, which gives you a feeling of fullness, is suppressed. This creates a 'fake starvation signal' that makes you want to eat more and exercise less, leading to weight gain.",
-  "content_length": 484,
-  "content_tokens": 97,
+  "content": "When you are sleep deprived, the brain receives a signal that is not dissimilar to starvation. It releases a cascade of hormones that change your appetite profile, making you want to eat more and feel less satisfied after you eat food. This is because when the body undergoes sleep deprivation, the brain thinks it must be under conditions of starvation and needs to stay awake and forage for food. This 'fake starvation signal' increases a hormone called ghrelin, which makes you want to eat more, and it suppresses a hormone called leptin, which gives you a feeling of fullness. Overall, hunger levels go up, you start to eat more, and you want to exercise less. You’re burning fewer calories. This is why we’re starting to understand part of the sleep-dependent obesogenic equation.",
+  "content_length": 785,
+  "content_tokens": 167,
   "embedding": []
  }
 ]

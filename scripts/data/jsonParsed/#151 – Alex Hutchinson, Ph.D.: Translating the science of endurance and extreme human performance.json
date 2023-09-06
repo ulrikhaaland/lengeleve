@@ -1,56 +1,26 @@
 [
  {
-  "title": "Understanding Endurance and Human Performance",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "The science of endurance and the real limits of human performance are explored. The power of the mind in sports performance is discussed. The science behind VO2 max, the difference between maximum aerobic capacity and efficiency, and insights from examples of extreme human performance, such as the recent attempts to break the 2-hour mark in the marathon are explained.",
-  "content_length": 370,
-  "content_tokens": 68,
-  "embedding": []
- },
- {
-  "title": "Optimal Exercise for Health",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Optimal exercise volume for maintaining health, how to avoid acute and chronic injuries, how to diversify your exercise portfolio, and High Intensity Interval Training (HIIT) protocols are discussed.",
-  "content_length": 199,
-  "content_tokens": 39,
-  "embedding": []
- },
- {
-  "title": "The Power of the Mind in Running",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "The power of the mind: Alex’s “aha moment” that catapulted his running career.",
-  "content_length": 78,
-  "content_tokens": 23,
-  "embedding": []
- },
- {
   "title": "Understanding VO2 Max",
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Breaking down VO2 max: Definition, history, why it plateaus, and whether it really matters. The case study of Oskar Svensson: Why a higher VO2 Max isn’t always better, and the difference between maximum aerobic capacity and efficiency.",
-  "content_length": 235,
-  "content_tokens": 54,
+  "content": "The science behind VO2 max, the difference between maximum aerobic capacity and efficiency, and insights from examples of extreme human performance, such as the recent attempts to break the 2-hour mark in the marathon.",
+  "content_length": 218,
+  "content_tokens": 41,
   "embedding": []
  },
  {
-  "title": "The Sub 2-Hour Marathon",
+  "title": "Optimal Exercise Volume for Health",
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "The sub 2-hour marathon: The amazing feat by Kipchoge, and what will it take to “officially” run a 2-hour marathon.",
-  "content_length": 115,
-  "content_tokens": 35,
+  "content": "Optimal exercise volume for maintaining health, how to avoid acute and chronic injuries, how to diversify your exercise portfolio, HIIT protocols, and much more.",
+  "content_length": 161,
+  "content_tokens": 32,
   "embedding": []
  },
  {
-  "title": "The Brain and Endurance",
+  "title": "Influence of Brain on Endurance",
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
@@ -90,7 +60,7 @@
   "embedding": []
  },
  {
-  "title": "Avoiding Exercise Injuries",
+  "title": "Avoiding Injuries from Exercise",
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
@@ -110,7 +80,7 @@
   "embedding": []
  },
  {
-  "title": "Understanding Exercise Motivation",
+  "title": "Understanding Purpose of Exercise",
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
@@ -120,123 +90,33 @@
   "embedding": []
  },
  {
-  "title": "Expertise in Aging, Cancer, and Nutrition",
+  "title": "Alzheimer's Disease and Lifestyle Factors",
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Scientist with expertise in the areas of aging, cancer, and nutrition translates complex scientific topics into actionable insights.",
-  "content_length": 132,
-  "content_tokens": 23,
+  "content": "Alzheimer's disease is a neurodegenerative disease that may be impacted by factors such as type 2 diabetes, blood pressure, and omega supplementation. The breakdown of the blood-brain barrier is a significant factor in neurodegenerative diseases. Type 2 diabetes increases the risk of Alzheimer's disease. Omega-3 fatty acids (EPA and DHA) play a crucial role in brain health and prevention of neurodegeneration. Blood pressure is an important modifiable lifestyle factor that can affect Alzheimer's disease risk.",
+  "content_length": 513,
+  "content_tokens": 104,
   "embedding": []
  },
  {
-  "title": "Insights on Alzheimer's Disease",
+  "title": "Exercise and Alzheimer's Disease",
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Provides latest thinking as it relates to Alzheimer's.",
-  "content_length": 54,
-  "content_tokens": 11,
+  "content": "Exercise may reduce the risk of Alzheimer's disease through various mechanisms. Building aerobic capacity has neurobiological effects and benefits of lactate peaks. Maximizing mitochondrial biogenesis through alternative training approaches and strategies can also be beneficial. The relationship between cardiorespiratory fitness and dementia risk is significant.",
+  "content_length": 364,
+  "content_tokens": 60,
   "embedding": []
  },
  {
-  "title": "Insights on Cancer, Exercise, Nutrition, and Fasting",
+  "title": "Sauna and Brain Health",
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Latest insights on Alzheimer’s disease, cancer, exercise, nutrition, and fasting.",
-  "content_length": 81,
-  "content_tokens": 18,
-  "embedding": []
- },
- {
-  "title": "Impact of Stress on Health",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "The impact of stress on our physical and emotional health.",
-  "content_length": 58,
-  "content_tokens": 11,
-  "embedding": []
- },
- {
-  "title": "Optimizing Brain Health",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Optimizing brain health: Alzheimer's disease risk factors, APOE, prevention strategies, and more.",
-  "content_length": 97,
-  "content_tokens": 21,
-  "embedding": []
- },
- {
-  "title": "Training Principles for Longevity",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Training principles for longevity.",
-  "content_length": 34,
-  "content_tokens": 5,
-  "embedding": []
- },
- {
-  "title": "Preventing Cardiovascular Disease",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Preventing cardiovascular disease: the latest in diagnostic imaging, blood pressure, metabolic health, and more.",
-  "content_length": 112,
-  "content_tokens": 21,
-  "embedding": []
- },
- {
-  "title": "Pros and Cons of GLP-1 Weight Loss Drugs and Metformin",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Pros and cons of GLP-1 weight loss drugs and metformin as a geroprotective agent.",
-  "content_length": 81,
-  "content_tokens": 23,
-  "embedding": []
- },
- {
-  "title": "Overcoming Trauma and Finding Inner Peace",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Overcoming trauma, finding inner peace, and living a meaningful and fulfilling life.",
-  "content_length": 84,
-  "content_tokens": 16,
-  "embedding": []
- },
- {
-  "title": "Cell and Gene Therapy",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "The history of the cell, cell therapy, gene therapy, and more.",
-  "content_length": 62,
-  "content_tokens": 15,
-  "embedding": []
- },
- {
-  "title": "Alzheimer's Disease and Related Factors",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Alzheimer's disease including the possibility of a vascular hypothesis as well as the factors that can impact disease risk such as type 2 diabetes, blood pressure, omega supplementation, exercise, sauna, and more. The breakdown of the blood-brain barrier in neurodegenerative disease. An explanation for the observation that type 2 diabetes increases risk of Alzheimer's disease. The role of omega-3 fatty acids (EPA and DHA) in brain health and prevention of neurodegeneration. Blood pressure: an important modifiable lifestyle factor that can affect Alzheimer's disease risk.",
-  "content_length": 577,
-  "content_tokens": 115,
-  "embedding": []
- },
- {
-  "title": "Exercise and Brain Health",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Possible mechanisms by which exercise reduces the risk of Alzheimer's disease. Building your aerobic pyramid: neurobiological effects of exercise, benefits of lactate peaks, and more. Maximizing mitochondrial biogenesis: alternative training approaches and strategies. Possible brain benefits of sauna, and personal protocol. The relationship between cardiorespiratory fitness and dementia risk.",
-  "content_length": 395,
-  "content_tokens": 71,
+  "content": "Sauna use may have potential brain benefits. However, more research is needed to confirm these benefits and establish a personal protocol.",
+  "content_length": 138,
+  "content_tokens": 25,
   "embedding": []
  },
  {
@@ -244,9 +124,9 @@
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "How exercise may reduce the risk of cancer. The overarching impact of exercise on health, and the importance of focusing the factors that matter most.",
-  "content_length": 150,
-  "content_tokens": 28,
+  "content": "Exercise may reduce the risk of cancer. The overarching impact of exercise on health is significant, and it is important to focus on the factors that matter most.",
+  "content_length": 162,
+  "content_tokens": 32,
   "embedding": []
  },
  {
@@ -254,9 +134,9 @@
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Impact of alcohol consumption on breast cancer risk and overall health.",
-  "content_length": 71,
-  "content_tokens": 13,
+  "content": "Alcohol consumption can impact breast cancer risk and overall health.",
+  "content_length": 69,
+  "content_tokens": 12,
   "embedding": []
  },
  {
@@ -264,9 +144,9 @@
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Exercise as an intervention for poor sleep habits.",
-  "content_length": 50,
-  "content_tokens": 10,
+  "content": "Exercise can be used as an intervention for poor sleep habits.",
+  "content_length": 62,
+  "content_tokens": 13,
   "embedding": []
  },
  {
@@ -274,9 +154,9 @@
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "The longevity benefits of consuming adequate protein and strength training to preserve muscle mass and strength. How to get enough of the right kind of protein in your diet.",
-  "content_length": 173,
-  "content_tokens": 31,
+  "content": "Consuming adequate protein and strength training to preserve muscle mass and strength can have longevity benefits. It is important to get enough of the right kind of protein in your diet.",
+  "content_length": 187,
+  "content_tokens": 34,
   "embedding": []
  },
  {
@@ -284,129 +164,9 @@
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Fasting: weighing the risk vs. reward.",
-  "content_length": 38,
-  "content_tokens": 10,
-  "embedding": []
- },
- {
-  "title": "Running Passion and Early Career",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Running was the most important thing in life until the age of 28. After 28, continued training seriously into early 30s. Still runs six days a week. Joined a track club at the age of 15 at the University of Toronto Track Club and was hooked.",
-  "content_length": 241,
-  "content_tokens": 52,
-  "embedding": []
- },
- {
-  "title": "Time at McGill",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "At McGill, was a 1,500 meter runner with the assumption of moving up to 5,000 meter. Didn't have a lot of sprint speed. The 800 meter run is the most painful race. In the context of workouts specifically at McGill, they were more sprint-oriented workouts: hard two-minute effort and a longer rest. A two minute all out effort is the single way to get the highest possible lactate levels and that’s synonymous with extreme suffering. Would rather run a marathon than an 800 meter race.",
-  "content_length": 484,
-  "content_tokens": 107,
-  "embedding": []
- },
- {
-  "title": "The Power of the Mind: Alex’s Aha Moment",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Turning point in running career started movement away from just, ‘we can calculate everything from physiology, that endurance is a little more complicated than the equations that you might start with.’ Had an aha moment about to compete at a totally meaningless meet. For almost 3.5 years, had been running between 4:01 and 4:03 for the 1,500 meters. A career goal was to break 4 minutes.",
-  "content_length": 388,
-  "content_tokens": 87,
-  "embedding": []
- },
- {
-  "title": "Race Performance",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "27 seconds is extremely fast and it’s a terrible way to start a 1,500 meters race if you are trying to run sub four minutes. He finished with a time of 3:52, — nine seconds faster than his personal best at the time. For context, a one second personal best would have been a huge victory. In his next 1,500 meter race, he ran 3:49. The next race after that, he ran 3:44 which qualified him for the Olympic trials.",
-  "content_length": 412,
-  "content_tokens": 102,
-  "embedding": []
- },
- {
-  "title": "Post Race Analysis",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "One of his teammates had been privately keeping his splits and told him that he actually did NOT go out at 27 seconds, in fact he was closer to 30 seconds. In other words, the timekeeper calling out his splits was actually wrong at the time. Alex was basically “fooled” into thinking he was having an amazing day, and then did.",
-  "content_length": 327,
-  "content_tokens": 74,
-  "embedding": []
- },
- {
-  "title": "Reflections on Performance",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "He realized something has changed within him. In hindsight, it also changed his understanding of what this whole endeavor was about and what we were trying to optimize. So, in a way, the first breakthrough might’ve been in some ways just catching up to the ways he was holding himself back — overthinking, stressing out, etc. all these things that people do in competitive scenarios. Then, however, that gave him so much confidence that it slingshotted him right past where he “should” have been able to run.",
-  "content_length": 508,
-  "content_tokens": 110,
-  "embedding": []
- },
- {
-  "title": "Olympic Trials",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Alex’s first Olympic trials for the 1,500 was in 1996. It did not go as well as he’d hoped. He came close to dead last in the final. A year later, he returned to the Olympic trial and ran well — he came in fourth place.",
-  "content_length": 219,
-  "content_tokens": 59,
-  "embedding": []
- },
- {
-  "title": "Physical Activity and Health",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Only a few thousand people have ever broken 4 min mile. Pursuing a Ph.D. in physics while prioritizing his running career. Continuing his education was also a way of allowing him to continue his running career. Huge culture difference in collegiate sports. The athletic scene at Cambridge, for example, is student run (i.e., there’s no coach). But the flip side is you have a lot of autonomy and you take responsibility for your training and your success. After completing his PhD in 2000, running was still his priority. He was on the right trajectory in terms of his running training in 1998, but injuries set him back for a few years. He wanted to give himself one year to see if could get back to form and have a shot of making the Olympics. He spent a year running, qualified for some national teams, but hadn’t progressed as much as he’d hoped. The one thing about academic life is if you choose, you can make other things like running your priority. Trained for 2.5 years with a very good training group.",
-  "content_length": 1011,
-  "content_tokens": 221,
-  "embedding": []
- },
- {
-  "title": "Injury and Recovery",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "At that point, he was coming back from this three-year injury process. He was on the right trajectory in terms of his running training in 1998, but injuries set him back for a few years.",
-  "content_length": 186,
-  "content_tokens": 41,
-  "embedding": []
- },
- {
-  "title": "Stress Fracture and End of Running Career",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "A stress fracture in the lower back occurred three months before the Olympic trials. Despite this, participation in the Olympic trials was still pursued as a farewell to running. The Olympic dreams were officially over.",
-  "content_length": 219,
-  "content_tokens": 39,
-  "embedding": []
- },
- {
-  "title": "Influence of Running Books",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Books on running were read during high school. One of the first books read was Lore of Running by Tim Noakes. Another book read was Better Training for Distance Runners co-written by a physiologist named David Martin. These books provided a superficial acquaintance with concepts such as VO2 max and lactate threshold.",
-  "content_length": 318,
-  "content_tokens": 63,
-  "embedding": []
- },
- {
-  "title": "The Parallel of Talent in Athletes and Writers",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "The talent of great athletes can be compared to that of great writers. However, it's a mistake to assume that because one will never be able to swim like Michael Phelps, for example, that they are doomed not to get better at swimming than they are right now. Most people don't come anywhere close to fulfilling their genetic potential.",
-  "content_length": 335,
-  "content_tokens": 67,
+  "content": "Fasting can have health benefits, but it is important to weigh the risk vs. reward.",
+  "content_length": 83,
+  "content_tokens": 19,
   "embedding": []
  },
  {
@@ -414,209 +174,59 @@
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "VO2 max is a measure of how quickly you can take oxygen from the air into your lungs, get it into your blood, pump it to your muscles, and then have your muscles use it in the metabolic processes that provide energy to move you. It was first measured in the 1920s by A.V. Hill. There’s a plateau—a point at which, even though you’re working harder, you’re not using any more oxygen. This is the limit of your aerobic system. VO2 max does not tell you exactly how fast you can run, but it tells you what sort of aerobic engine you have to play with.",
-  "content_length": 548,
-  "content_tokens": 134,
+  "content": "VO2 max is a measure of how quickly you can take oxygen from the air into your lungs, get it into your blood, pump it to your muscles, and then have your muscles use it in the metabolic processes that will provide energy to move you. It was first discussed/measured in the 1920s by a guy named A.V. Hill. VO2 max does NOT tell you exactly how fast you can run, but it tells you what sort of aerobic engine you have to play with. The amount of oxygen reaching any given muscle cell may actually be lower. VO2 max numbers are typically reported in milliliters of oxygen per minute, per kilogram of body weight. At every stage of the way, there can be limitations if anything is knocked off kilter.",
+  "content_length": 695,
+  "content_tokens": 157,
   "embedding": []
  },
  {
-  "title": "VO2 Max and Body Size",
+  "title": "The Case Study of Oskar Svensson",
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Body size affects your VO2 max. A larger person may use more liters of oxygen per minute, but this doesn’t necessarily mean that they are better at using oxygen, because they have more muscle. A better comparison between athletes is to divide by weight. VO2 max numbers are typically reported in milliliters of oxygen per minute, per kilogram of body weight.",
-  "content_length": 358,
-  "content_tokens": 77,
+  "content": "Oskar Svensson was a former downhill skier who had taken a talent screening to see whether he’d be suitable for something like cycling. At age 17, completely untrained, he scored something like 74 milliliters per kilogram per minute in VO2 max. He started training as a cyclist as a teenager and pretty quickly scored 83, then 85, then 92. Then, a scientific journal was eventually published saying his score was 96.7 when he was 18 years old. This is not only the highest recorded score in human history, but it’s also higher than all the rumors. However, he wasn't successful in his cycling career. The more he trained, the less efficient he got, meaning he could deliver more aerobic energy, but he used more aerobic energy in order to maintain a given pace.",
+  "content_length": 761,
+  "content_tokens": 168,
   "embedding": []
  },
  {
-  "title": "VO2 Max Plateau",
+  "title": "The Relationship Between VO2 Max and Efficiency",
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "When you reach a VO2 max plateau, you’ve reached a point where no matter how hard you push yourself, you can’t get more oxygen. You can still go faster, because you’re starting to use other forms of energy, but this is the limits of your aerobic system.",
-  "content_length": 253,
-  "content_tokens": 63,
+  "content": "There is a long-standing debate about whether there is an inverse relationship between VO2 max and efficiency. If you just take a bunch of elite athletes and you measure their VO2 max, you tend to see an inverse relationship — The people who have the highest VO2 max tend to have slightly lower, slightly worse economies. People that have the best economy, tend to have slightly worse VO2 max. There are two possible explanations for this phenomenon: You don’t tend to hit the lottery twice, meaning if you happen to have a VO2 max that’s 92, then you’re not going to have the best possible economy. The other possibility is that there’s actually a trade off—if you’re optimizing one physiological parameter it may come at the cost of the other physiological parameter.",
+  "content_length": 769,
+  "content_tokens": 167,
   "embedding": []
  },
  {
-  "title": "Relevance of VO2 Max",
+  "title": "Cell Level Explanation of Enzymes and Training",
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "At a certain point, VO2 max doesn’t matter that much anyway because you can’t just measure someone’s VO2 max and know how fast they’re going to race. It’s not that useful for comparing between people. However, comparing within yourself and how you improve, does tell you something.",
-  "content_length": 281,
-  "content_tokens": 70,
+  "content": "If you’re doing a lot of training that requires very high VO2 max level outputs, your metabolism and your cells need to make choices to produce high output, instead of to be as efficient as possible. Over time, you’ll get better at high output and lose efficiency. You’ll pay a slight penalty for optimizing your training for VO2 max.",
+  "content_length": 334,
+  "content_tokens": 76,
   "embedding": []
  },
  {
-  "title": "Causes of Plateau in Physical Performance",
+  "title": "Training Volume and Efficiency",
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "A plateau in physical performance could be due to factors in the lungs, heart, circulation, or the muscle’s ability to extract oxygen. For example, the lungs, which are conventionally thought to be overbuilt and not a limitation, can in some cases be a limiting factor, especially in highly trained endurance athletes. These athletes can be limited by their ability to get enough oxygen in. Additionally, an athlete can be so fit that their heart pumps blood past the lungs so quickly that it doesn’t have time to fully stock up on oxygen, leading to exercise induced arterial hypoxemia. This is usually an issue at altitude, but in elite endurance athletes, about half of them exhibit it even at sea level. At every stage of the way, there can be limitations if anything is knocked off kilter, right down to the ability of the muscles to first extract the oxygen from the bloodstream and then to make use of it metabolically in the mitochondria.",
-  "content_length": 946,
-  "content_tokens": 196,
+  "content": "Spending a lot of time in the 300 to 400 watt range could be optimized to the 300 watt range where you’re still just under two millimole of lactate, but you’re dramatically increasing mitochondrial efficiency. If that zone 2 work represented two thirds of your training volume, you’d likely have a lower VO2 max, but you might have been a better cyclist.",
+  "content_length": 354,
+  "content_tokens": 81,
   "embedding": []
  },
  {
-  "title": "Testing for Limitations in Physical Performance",
+  "title": "Marathon Running and Optimized Courses",
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "One way to test where the limitation in physical performance is coming from is to take a group of athletes and run them all to max, then reduce the FiO2 of the incoming oxygen. The way they’re calculating how much oxygen is being consumed is by measuring the concentration of oxygen on the way out and calculating the delta. It would be interesting to start selectively dropping FiO2 21%, 20%, 19%, 18%, etc. Presumably if the lungs aren’t the limitation, you should still see the same absolute delta. This experiment would at least start to eliminate one of those variables, which would be FiO2 and capillary exchange, and then you start pointing to some of these other variables.",
-  "content_length": 681,
-  "content_tokens": 144,
-  "embedding": []
- },
- {
-  "title": "The Lactate Paradox",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "When you go to higher altitude and you reduce the amount of oxygen, you would think that you can’t get enough oxygen, so you’re going to go anaerobic sooner, you’re going to produce more lactate. However, the opposite happens — something called the lactate paradox. Also, if you try and exercise to exhaustion at lower levels of altitude, you actually give up when your lactate levels are lower than you would at sea level. These things are not just about how much oxygen is making it to the muscle, but also about brain oxygen level and other factors that are saying, ‘Whoa, wait a second. Oxygen is getting a little low, we’re going to actually cut off the supply to the muscles or reduce it in order to make sure that we don’t get stupid.’",
-  "content_length": 742,
-  "content_tokens": 176,
-  "embedding": []
- },
- {
-  "title": "Recorded VO2 Max Scores",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "A scientific journal published a score of 96.7 for an 18-year-old, the highest recorded score in human history. Reports exist of people in the 90s, but high VO2 max numbers sprout very easily because it’s hard to do these tests right. The garden variety machinery used to do these tests is not designed to handle seven liters of oxygen per minute. The previous VO2 max record holder was a cross country skier who in the late 90s reputedly tested 96. Other reported measurements include 90.2 and 89.5. A lot of people have high numbers, but virtually none of them are published in the scientific literature.",
-  "content_length": 606,
-  "content_tokens": 136,
-  "embedding": []
- },
- {
-  "title": "Oskar's VO2 Max",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Oskar’s score of 96.7 is higher than the rumors, but it’s way higher than the verified numbers. The machine used for the test was disassembled and sent back to the manufacturer for calibration. It came back showing that it was indeed working properly. After his retirement, the data was published and shared. He was tested again several months later, he has put on 2.5 kilos of body weight. His VO2 max number came down into the 80s, but his absolute level of maximal oxygen consumption had barely come down.",
-  "content_length": 508,
-  "content_tokens": 115,
-  "embedding": []
- },
- {
-  "title": "VO2 Max and Efficiency",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "There is a long-standing debate about whether there is an inverse relationship between VO2 max and efficiency. If you build your engine bigger, do you necessarily end up with a less efficient engine? There is still no consensus on this. If you just take a bunch of elite athletes and you measure their VO2 max, you tend to see an inverse relationship. The people who have the highest VO2 max tend to have slightly lower, slightly worse economies. People that have the best economy, tend to have slightly worse VO2 max.",
-  "content_length": 518,
-  "content_tokens": 107,
-  "embedding": []
- },
- {
-  "title": "Possible Explanations for VO2 Max and Efficiency Phenomenon",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "One possibility is that you don’t tend to hit the lottery twice. If you happen to have a VO2 max that’s 92, then you’re not going to have the best possible economy. And when you’re only looking at elite athletes, that means that everyone else there’s going to have something special. So if they don’t have the best VO2 max, by definition they have to have a great economy, because they have to have something that’s exceptional. Another possibility is that there’s actually a trade off—if you’re optimizing one physiological parameter it may come at the cost of the other physiological parameter.",
-  "content_length": 596,
-  "content_tokens": 142,
-  "embedding": []
- },
- {
-  "title": "VO2 Max Training and Metabolic Efficiency",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "The training done for increasing VO2 max may have been bad for economy at a metabolic level. If you’re doing a lot of training that requires very high VO2 max level outputs, your metabolism and your cells need to make choices to produce high output, instead of to be as efficient as possible. Over time, you’ll get better at high output and lose efficiency. You’ll pay a slight penalty for optimizing your training for VO2 max.",
-  "content_length": 427,
-  "content_tokens": 95,
-  "embedding": []
- },
- {
-  "title": "Training in Zone 2",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Spending a lot of time in the 300 to 400 watt range could have been reduced to the 300 watt range where lactate is still just under two millimole, but mitochondrial efficiency is dramatically increased. If zone 2 work represented two thirds of training volume, VO2 max might be lower, but performance might be better. This agrees with the prevailing wisdom among endurance athletes that about 80% of your training should be easy, conversational pace (i.e., zone 2).",
-  "content_length": 465,
-  "content_tokens": 96,
-  "embedding": []
- },
- {
-  "title": "Sub 2-hour Marathon",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "In 2014, it was predicted that it was possible to run a sub two-hour marathon, but that it wouldn’t happen until around 2075. This prediction was based on how marathons are currently run. However, it was suggested that if it’s going to happen, it’s going to happen on an optimized course — one that optimizes for temperature, terrain, curvature, etc.",
-  "content_length": 350,
-  "content_tokens": 86,
-  "embedding": []
- },
- {
-  "title": "Breaking2 Project",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "In 2016, a top secret project called Breaking2 was launched with the aim to engineer a sub two-hour marathon. They brought 20+ of the best runners to labs to measure their VO2 max and their economy and various other things. The track they chose was Monza, the Formula One race track in Northern Italy. They optimized the nutrition, the aerodynamics by sticking adhesive bumps onto the legs of the runners to try and reduce the drag when they’re swinging their legs back and forth.",
-  "content_length": 480,
-  "content_tokens": 101,
-  "embedding": []
- },
- {
-  "title": "Pacemakers in Marathons",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Having ~7 pacemakers basically blocking the wind for the chosen runners for the whole way. They had to have runners dropping out every couple of laps and new runners swapping in (not allowed according to the official rules of marathoning making this race “unofficial”).",
-  "content_length": 269,
-  "content_tokens": 57,
-  "embedding": []
- },
- {
-  "title": "New Type of Shoe Improves Running Economy",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "They used a whole new type of shoe that had a curved carbon fiber plate embedded in the sole that improves running economy by about 4% on average.",
-  "content_length": 146,
-  "content_tokens": 30,
-  "embedding": []
- },
- {
-  "title": "Results of the First Breaking2 Race",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Kipchoge ended up running 2:00:25 (two and a half minutes faster than the world record). While he didn’t run sub-two, it was considered a victory because nobody thought that all optimizations would actually add up to a human running that fast.",
-  "content_length": 243,
-  "content_tokens": 57,
-  "embedding": []
- },
- {
-  "title": "Ineos 1:59 Challenge",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "In 2019 in Vienna, funded by the petrochemical company, INEOS, instead of Nike, they basically replicated most of what Breaking2 had done. In this Ineos 1:59 Challenge, he ran 1:59:40 and “it has galvanized and polarized the running world”.",
-  "content_length": 240,
-  "content_tokens": 64,
-  "embedding": []
- },
- {
-  "title": "Controversy Over Shoes",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "The shoes became very controversial because it’s not clear whether shoes that make you 4% more efficient are within the spirit of the sport or within the rules of the sport.",
-  "content_length": 173,
-  "content_tokens": 36,
-  "embedding": []
- },
- {
-  "title": "Role of Advancing Equipment in Record Books",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "What role should advancing equipment play in record books? The tech suits from basically 2000 to 2008 had gotten so quick that by 2009 FINA said it would no longer allow the suits beyond 2009. There are still some world records that stand nearly 12 years later, from those 2009.",
-  "content_length": 278,
-  "content_tokens": 55,
+  "content": "Marathons are run in a very uncontrolled environment which differs from race to race. Yet, if it’s going to happen, it’s going to happen on an optimized course — one that optimizes for temperature, terrain, curvature, etc.",
+  "content_length": 222,
+  "content_tokens": 54,
   "embedding": []
  },
  {
@@ -624,59 +234,9 @@
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "The key that I would say is… anyone who thinks that the progress of the sport over the last 10 years, much less 50 years, much less 100 years is all about, “Well, we’ve learned more and we’re digging deeper,” is kidding themselves. Technology is baked into the improvement curve, changes in circumstances, environment and technology are baked into those curves right from the get go. The world records have been absolutely knocked silly in the last two years, since these shoes have become common.",
-  "content_length": 497,
-  "content_tokens": 107,
-  "embedding": []
- },
- {
-  "title": "Pacemaking in Marathons",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "The key thing that needs to change for it to be official in pacemaking: You can’t have people jumping in halfway, that’s the number one thing they have to change for it to be a legit sub two-hour marathon.",
-  "content_length": 205,
-  "content_tokens": 52,
-  "embedding": []
- },
- {
-  "title": "Comparing Mile Runners from the 1950s to Today",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Bannister’s fastest mile was 3:58 which he ran in 1954. Today’s record is 3:43 set by Hicham El Guerrouj set in 1999. The biggest change from Bannister to now is training. Bannister trained with four or five miles a day, five, six days a week — he was training at a very, very light level. Nutrition for a mile run is just not that big of a deal.",
-  "content_length": 346,
-  "content_tokens": 96,
-  "embedding": []
- },
- {
-  "title": "Training Evolution in the 1960s",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "People like Jim Ryun—who ran 3:51 for the mile as a teenager in 1967—he’s training like a beast with 40 by 400 meters. His pace was probably 65 seconds per 400 with a couple minutes of light jogging between each 400. At that volume, in the context of high mileage, he was doing them at a pace that was extremely challenging.",
-  "content_length": 324,
-  "content_tokens": 77,
-  "embedding": []
- },
- {
-  "title": "Training from the 1960s to Today",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "You can’t make much distinction between the training of the 1960s and the training of today. If you take Jim Ryun’s mile time of 3:51, it’s only 4 seconds off the current world record. By the 60s, training was mature. All the other stuff that we worry about—nutritional aids, nomadic compression devices, ice baths, etc.— “I’m not saying it doesn’t help on an individual basis, but you can’t see it in the record curves or anything like that.”",
-  "content_length": 443,
-  "content_tokens": 120,
-  "embedding": []
- },
- {
-  "title": "Horse Racing and Training",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Horse racing time records have stagnated since the 1950s. Secretariat is hands down the fastest horse that’s ever run. If there were physiological advances that allowed us to run faster, they would be using those on horses.",
-  "content_length": 223,
-  "content_tokens": 48,
+  "content": "Technology is baked into the improvement curve, changes in circumstances, environment and technology are baked into those curves right from the get go. The world records have been absolutely knocked silly in the last two years, since these shoes have become common.",
+  "content_length": 265,
+  "content_tokens": 47,
   "embedding": []
  },
  {
@@ -684,39 +244,9 @@
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Insights into the limits of endurance. Alex eventually was able to focus his journalistic work to researching and writing about running. Initially, he was doing so in a very conventional way—what heart rate should you do, your running tempo, etc. Then he starting taking a closer look at the literature. He came across a paper around 2007/2008 in the journal of physiology debating whether or not dehydration impaired endurance performance.",
-  "content_length": 440,
-  "content_tokens": 83,
-  "embedding": []
- },
- {
-  "title": "Dehydration and Performance",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Dehydration itself does not impair performance, rather it’s thirst that impairs performance. If you drink enough that you’re not thirsty—even if you’re dehydrated—it doesn’t impair performance.",
-  "content_length": 193,
-  "content_tokens": 49,
-  "embedding": []
- },
- {
-  "title": "Central Governor Model",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "The central governor model proposes that when you exercise as hard as you can, the reason you stop or slow down is not because your legs aren’t capable of going faster, it’s because your brain is protecting you.",
-  "content_length": 211,
-  "content_tokens": 47,
-  "embedding": []
- },
- {
-  "title": "Role of Brain in Human Performance",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "The brain plays a significant role in determining the limits of endurance and human performance.",
-  "content_length": 96,
-  "content_tokens": 16,
+  "content": "When you exercise as hard as you can, the reason you stop or slow down is not because your legs aren’t capable of going faster, it’s because your brain is protecting you. This got him interested in role of the brain in the limits of human performance.",
+  "content_length": 251,
+  "content_tokens": 57,
   "embedding": []
  },
  {
@@ -724,19 +254,9 @@
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Endurance based exercise is an important pillar of health. However, one of the barriers to being physically active is when people interpret the distress signals when you start exercising as signs that your body is reaching its limit. Understanding that these feelings of discomfort are not signs that something is going wrong with your body, but they are just information, can help overcome this barrier.",
-  "content_length": 404,
-  "content_tokens": 72,
-  "embedding": []
- },
- {
-  "title": "Volume of Exercise and Mortality",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "There are two opposing points of view with respect to exercise and mortality. One point of view is that the exercise longevity curve is J shaped, with mortality improving as you increase exercise until you reach your best all-cause mortality. Beyond a certain volume, you see a little uptick in mortality. The other point of view is that the exercise longevity curve is more or less a monotonically improving.",
-  "content_length": 409,
-  "content_tokens": 79,
+  "content": "Endurance based exercise is still an important pillar of health. Many people misinterpret their body’s distress signals. Get to a place where you understand that the feelings of discomfort are not signs that something is going wrong with your body, but they are just information.",
+  "content_length": 279,
+  "content_tokens": 53,
   "embedding": []
  },
  {
@@ -744,53 +264,33 @@
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "A few studies showed that the dose you need to get most of the health benefits is very small. For someone who is 40 years old, with a waist five inches too big, and metabolic syndrome, the minimum effective dose of exercise is 5 to 10 minutes a day (an hour a week). However, this lacks any high intensity cardio or strength training.",
-  "content_length": 334,
-  "content_tokens": 71,
+  "content": "A few studies came out and showed that the dose you need to get most of the health benefits is very small — I.e., you do not need to train for a marathons in order to be optimally healthy.",
+  "content_length": 188,
+  "content_tokens": 46,
   "embedding": []
  },
  {
-  "title": "Optimal Dose of Exercise",
+  "title": "Optimal Exercise Routine",
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "An optimal exercise routine includes running about 20 miles a week, six days a week, half an hour with a couple of hard days. It is believed that more running and adding more strength training to the routine would result in better health and longevity.",
-  "content_length": 252,
-  "content_tokens": 49,
+  "content": "The Cooper Clinic study looked at 50,000 people or so and their number was 5 to 10 minutes a day (an hour a week). However, this lacks any high intensity cardio or strength training. For optimal health, it is suggested to run about 20 miles a week, six days a week, half an hour with a couple of hard days. It is also suggested to add more strength training to the routine.",
+  "content_length": 373,
+  "content_tokens": 83,
   "embedding": []
  },
  {
-  "title": "Exercise Tips and Injury Prevention",
+  "title": "Exercise and Injury Prevention",
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "For beginners, 5 to 10 minutes a day is a good place to start. If you’re doing 60 minutes a week, it is recommended to do at least 20 min at a time. It is important to progress slowly as metabolically unfit individuals are likely to gain metabolic fitness more quickly than they improve/strengthen ligaments, tendons, and muscle strength.",
-  "content_length": 338,
-  "content_tokens": 76,
+  "content": "5 to 10 minutes a day is a good place to start if you’re the 45 year old sedentary getting back into it. If you’re doing 60 minutes a week, it is suggested not to do 10 minute chunks, but rather at least 20 min at a time. Metabolically unfit individuals are likely to gain metabolic fitness more quickly than they improve/strengthen ligaments, tendons, and muscle strength. This is important to keep in mind so that you progress slowly to allow those aspects to catch up to aerobic fitness.",
+  "content_length": 490,
+  "content_tokens": 112,
   "embedding": []
  },
  {
-  "title": "Casting Doubt on the Reverse J Curve Idea",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Two main studies on which the J curve hypothesis was founded were the Copenhagen study and Cooper Clinic data. The Copenhagen study concluded that running too much or too fast was bad. However, there were issues with the data from both studies. When you have a big study of 50,000 people who were just randomly selected, they’re not all the same. They all have different characteristics, so you have to find some way of adjusting for various characteristics. But there’s a problem that if you equalize it you’re essentially saying, “Well, what are the health benefits of exercise if you don’t do any exercise?” Because the health benefits of exercise are precisely in helping you regulate things like blood pressure and blood sugar and weight.",
-  "content_length": 743,
-  "content_tokens": 156,
-  "embedding": []
- },
- {
-  "title": "Diversifying Your Exercise Portfolio",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "First of all, 99% of people are not exercising too much and don’t even possess the fortitude to exercise too much. We’re really just discussing hyper exercisers. It’s less relevant whether or not they’re spending too many hours cycling, swimming, running, etc.",
-  "content_length": 260,
-  "content_tokens": 64,
-  "embedding": []
- },
- {
-  "title": "Exercise Portfolio and Longevity",
+  "title": "Exercise and Longevity",
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
@@ -800,7 +300,7 @@
   "embedding": []
  },
  {
-  "title": "Social Exercise and Longevity",
+  "title": "Social Exercise",
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
@@ -814,19 +314,9 @@
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Age-associated decline in aerobic capacity and muscle mass, and the quick decline with extreme inactivity. If you could reverse engineer where you want your VO2 max to be when you’re 90, what should it be? When I’m 90, the real risk is that I won’t be able to get up out of a chair more than that I won’t have the VO2 max. Far before his VO2 max is too low, he’s going to be the guy who falls on the floor and can’t get up. If he could wave a wand, he would put on some muscle mass. For people who have the opposite problem (plenty of muscle mass), they need to really work on their aerobic fitness.",
-  "content_length": 599,
-  "content_tokens": 157,
-  "embedding": []
- },
- {
-  "title": "Inevitable Decline with Aging",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "With muscle, there’s an inevitability of decline. If you do nothing, you’re going to lose X pounds of muscle per decade if you’re lucky with a tailwind. If you train really hard, you might be able to reduce it to X amount of loss. If you really go hard, you might even be able to keep it flat.",
-  "content_length": 293,
-  "content_tokens": 77,
+  "content": "With muscle, there’s an inevitability of decline. If you do nothing, you’re going to lose X pounds of muscle per decade if you’re lucky with a tailwind. If you train really hard, you might be able to reduce it to X amount of loss. If you really go hard, you might even be able to keep it flat. With aerobic capacity, there are tables that predict decline, but the problem with the tables is that they draw a nice smooth line. According to the table, you lose something like 9% per decade until you get into your seventies when it gets even steeper.",
+  "content_length": 548,
+  "content_tokens": 130,
   "embedding": []
  },
  {
@@ -834,69 +324,29 @@
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Huge difference between being bedridden versus going on vacation to Europe, but you’re still walking everyday. Bed rest is terrifying. A professor named Luc van Loon in the Netherlands is focusing his research on muscular strength, and he’s done studies showing the negative effect of bed rest. It’s really, really hard to get old people to put on muscle, but it can be done with many months of training.",
-  "content_length": 404,
-  "content_tokens": 89,
+  "content": "If you stop training for one full month, you may lose up to 10-20% of your exercise capacity. But it really depends where you’re starting. If you’re well-trained for a short period of time, you’ll lose it quickly. If you haven’t been training, then resting doesn’t make any difference. And if you’re well-trained over a long period of time, then you have structural adaptations that are going to take a lot longer to disappear.",
+  "content_length": 427,
+  "content_tokens": 108,
   "embedding": []
  },
  {
-  "title": "Effects of Training and Rest on Muscle Mass and Strength",
+  "title": "Strength or Muscle Mass",
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "A study showed that just one week of bedrest can result in the loss of muscle gained from strength training. If you stop training for one full month, you may lose up to 10-20% of your exercise capacity. However, this depends on your starting point. If you’re well-trained for a short period of time, you’ll lose it quickly. If you haven’t been training, then resting doesn’t make any difference. And if you’re well-trained over a long period of time, then you have structural adaptations that are going to take a lot longer to disappear.",
-  "content_length": 537,
-  "content_tokens": 128,
+  "content": "Strength was actually a better predictor than muscle mass for all-cause mortality. In other words, it’s better to have the functionality than it is to have a bunch of muscle if you’re not good at using it.",
+  "content_length": 205,
+  "content_tokens": 48,
   "embedding": []
  },
  {
-  "title": "Importance of Strength Over Muscle Mass",
+  "title": "Avoiding Acute and Chronic Injuries from Exercise",
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "A study involving six different cohorts with a total of about 50,000 people found that strength was actually a better predictor than muscle mass for all-cause mortality. It’s better to have the functionality than it is to have a bunch of muscle if you’re not good at using it. For a lot of people, they have enough muscle mass, but they’re untrained and the neuromuscular connections are not optimized.",
-  "content_length": 402,
-  "content_tokens": 91,
-  "embedding": []
- },
- {
-  "title": "Role of Strength and Muscle Mass in Health",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Both strength and muscle mass are important for different reasons. Strength is important for functional things like grip strength, getting up out of the chair, getting up off the floor. Muscle mass is important for storing glycogen and for physiologic things like glycogen stores and glucose disposal and glucose homeostasis and insulin sensitivity.",
-  "content_length": 349,
-  "content_tokens": 63,
-  "embedding": []
- },
- {
-  "title": "Avoiding Injuries from Exercise",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "80% of running injuries are a result of what is called “training errors”, mostly doing too much too soon. For people who are starting out or ramping up an exercise program, patience is important. You can gain metabolic fitness more quickly than you can alter the structure of your joints and ligaments. It’s not about the magical gadget or the new way of running or the measuring device. Just be patient, be smart, and err on the side of safe until you start getting a better handle on which aches and pains are normal and which ones aren’t.",
-  "content_length": 541,
-  "content_tokens": 121,
-  "embedding": []
- },
- {
-  "title": "Acute to Chronic Workload Ratio",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Runners used to be taught the 10% rule which said never increase your mileage more than 10% to avoid the too much too soon problem. Acute to chronic workload ratio is a more sophisticated version of that rule. It considers how much you are doing now versus how much your body is used to. It can also be a quick way of seeing if there’s any deviations. For example, in one week if you do 50% more than your four-week average, then that is a bad sign.",
-  "content_length": 449,
-  "content_tokens": 104,
-  "embedding": []
- },
- {
-  "title": "Monitoring Exercise Intensity",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "It’s good to have an understanding of your exercise intensity as one input into your larger matrix of things you’re considering. This includes considering any aches and pains, your absolute load, and whether this is more than you’ve ever done before. Keeping track of how hard you’re going now versus how hard you’ve been going in the previous month, is useful. If you’re 20% higher, then that’s a time to start making sure you know what you’re doing. So, unless you have some compelling reason to think that you can handle that, be cautious and ideally back off.",
-  "content_length": 563,
-  "content_tokens": 135,
+  "content": "80% of running injuries are a result of what would be called “training errors”. Most of what we need to worry about is doing too much too soon. You can gain metabolic fitness more quickly than you can alter the structure of your joints and ligaments.",
+  "content_length": 250,
+  "content_tokens": 55,
   "embedding": []
  },
  {
@@ -904,39 +354,19 @@
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "High intensity interval training (HIIT) can be beneficial for someone who is trying to be healthy. Using the Tabata interval as an example, you’re going all out for 20 seconds, resting for 10, and repeating it eight times. Intervals are super important in a healthy exercise routine. However, it's important to balance interval training with sustained sessions. Studies have shown that you can get the same improvement in insulin sensitivity, but the mechanisms may be different if you’re doing a sprint interval session versus sustained training. Therefore, it may be beneficial to include both types of training in your routine.",
-  "content_length": 630,
-  "content_tokens": 124,
+  "content": "For someone who is not a specific athlete who’s training to run the mile or the marathon, but the person who’s trying to be healthy, intervals can help in terms of efficiency. Using the Tabata interval as an example, you’re going all out for 20 seconds, resting for 10, and repeating it eight times. Intervals are super important for a healthy exercise routine.",
+  "content_length": 361,
+  "content_tokens": 82,
   "embedding": []
  },
  {
-  "title": "Short HIIT Protocols",
+  "title": "High Intensity Interval Training (HIIT) Discussion",
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "A recent study out of UT Austin by physiologist Ed Coyle looked at 4 seconds all-out sprints with 56 seconds of rest for 15 minutes. Then they progressed to basically four seconds all-out twice a minute for 20 minutes. The study showed improvements with this protocol. However, these types of studies are usually comparing the intervals to doing nothing. While this is better than sitting on the couch, the question is could a more efficient way to get a benefit be found if you have 40 minutes a day.",
-  "content_length": 501,
-  "content_tokens": 103,
-  "embedding": []
- },
- {
-  "title": "Exercise Preferences and Efficacy",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "People enjoy exercise so much that they tend to focus on efficacy — i.e., what would produce the best results. But many people don’t enjoy exercise and therefore the real-world applicability of a problem becomes its effectiveness. There is concern that people may jump into HIIT workouts without any of the foundational strength they require for it. It’s not about what does better in this lab context. It’s what will people do?",
-  "content_length": 428,
-  "content_tokens": 93,
-  "embedding": []
- },
- {
-  "title": "High Intensity Interval Training (HIIT) Debate",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Skepticism exists that four seconds at the intensity that you have to do those intervals is more acceptable to the average person than, say, one full minute. The very first HIIT protocol was the Wingate test—which is 30 seconds all out and makes people puke. Protocols like 60 seconds on, 60 second off came from the thought that it’s easier for people to accept 60 seconds pretty hard than it is to expect them to “imagine the homicidal drill sergeant yelling at them to get all of that out of themselves in 30 seconds”. There’s a ton of debate understandably about what it is that people will actually do—Would they rather do 20 minutes at medium, or 40 minutes easy, or four seconds hard?",
-  "content_length": 691,
-  "content_tokens": 155,
+  "content": "Skepticism exists that four seconds at the intensity required for those intervals is more acceptable to the average person than, say, one full minute. The very first HIIT protocol was the Wingate test, which is 30 seconds all out and can make people feel sick. Protocols like 60 seconds on, 60 seconds off came from the thought that it’s easier for people to accept 60 seconds of hard work than it is to expect them to exert themselves fully in 30 seconds. Because, in reality, you have to be 100% on to get the most out of this “four-second” or “ten-second” interval stuff. There’s a lot of debate understandably about what it is that people will actually do—Would they rather do 20 minutes at medium, or 40 minutes easy, or four seconds hard?",
+  "content_length": 744,
+  "content_tokens": 172,
   "embedding": []
  },
  {
@@ -944,49 +374,19 @@
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "A lot of people aren’t clear on the why they are engaging in exercise. If you’re thinking about the 90-year-old version of you in a chair—He needs to be able to get up—that gives you the motivation to do strength training. Once you stop competing in something, all this exercise stuff becomes abstract. The practice of medicine doesn’t do a great job communicating the why. Your body’s natural ability to fight off cancer when you’re fit is a much easier task than fighting cancer when you’re unfit simply based on the energetics of your immune system.",
-  "content_length": 552,
-  "content_tokens": 130,
+  "content": "A lot of people aren’t clear on why they are engaging in exercise. If you’re thinking about the 90-year-old version of you in a chair—He needs to be able to get up—that gives you the motivation to do strength training. Once you stop competing in something, all this exercise stuff becomes abstract. Your body’s natural ability to fight off cancer when you’re fit is a much easier task than fighting cancer when you’re unfit simply based on the energetics of your immune system.",
+  "content_length": 477,
+  "content_tokens": 113,
   "embedding": []
  },
  {
-  "title": "Critique of Science Journalism in Health",
+  "title": "Critique of Science Journalism",
   "date": "March 1, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "There has been criticism of most science journalists. Most of the articles are just sensationalized headlines and lack detail. A news story should be written with the understanding that very few people are going to go back to the primary source and read it … and this places an enormous responsibility on scientific journalism. The problem is perceived to be that journalism now follows the audience. It’s unhealthy for the news organizations to find out what people click on.",
-  "content_length": 476,
-  "content_tokens": 88,
-  "embedding": []
- },
- {
-  "title": "Importance of Good Science Journalism",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "“To encourage good science journalism, you need people to read good science journalism.” But newspapers are realizing that following the audience has turned out to be a bad move because they’ve ended up losing the trust in audience. By giving people what they thought they wanted, you ended up basically giving them crap. And then having people recognize that they were being fed crap and then rebel against it.",
-  "content_length": 411,
-  "content_tokens": 82,
-  "embedding": []
- },
- {
-  "title": "Approach to Science Journalism",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "When he first started his sports science journalism career around 2008, he started a blog for people who were interested in the details of what the study says. His articles started to get taken on by Runner’s World in 2012 and then moved over to Outside in 2017. So, it turned out there was an audience for that.",
-  "content_length": 312,
-  "content_tokens": 66,
-  "embedding": []
- },
- {
-  "title": "Improving Scientific Journalism",
-  "date": "March 1, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "News organizations aren’t going to insist on scientifically qualified journalists unless there’s repercussions or feedback when there’s bad journalism. The initial signals were the opposite—i.e., the less complicated it was and the more sensational it was, the more clicks they got. One possible solution: We need to move away from advertising and towards subscription-based models.",
-  "content_length": 382,
-  "content_tokens": 76,
+  "content": "Most of the articles are just sensationalized headlines and lack detail. A news story should be written with the understanding that very few people are going to go back to the primary source and read it … and this places an enormous responsibility on scientific journalism. Journalism now follows the audience. This was one of the great catastrophes of journalism in some ways because it’s unhealthy for the news organizations to find out what people click on. To encourage good science journalism, you need people to read good science journalism. News organizations aren’t going to insist on scientifically qualified journalists unless there’s repercussions or feedback when there’s bad journalism. The initial signals were the opposite—i.e., the less complicated it was and the more sensational it was, the more clicks they got. One possible solution: We need to move away from advertising and towards subscription-based models.",
+  "content_length": 930,
+  "content_tokens": 178,
   "embedding": []
  }
 ]

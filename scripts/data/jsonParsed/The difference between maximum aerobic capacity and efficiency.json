@@ -1,52 +1,42 @@
 [
  {
-  "title": "Understanding VO2 Max",
+  "title": "VO2 Max and Efficiency",
   "date": "May 16, 2022",
   "context": "VO2 Max",
   "people": "Peter Attia",
-  "content": "The case study of an individual with a high VO2 Max score is discussed. VO2 Max is a measure of the maximum volume of oxygen that an athlete can use. It is measured in milliliters per kilogram per minute. The individual in the case study had a VO2 Max score of 96.7 at the age of 18, the highest recorded score in human history. However, despite his high VO2 Max, his performance as a cyclist did not correlate perfectly with his score. This raises questions about the relationship between VO2 Max and athletic performance.",
-  "content_length": 523,
-  "content_tokens": 113,
+  "content": "A higher VO2 Max isn’t always better, and there is a difference between maximum aerobic capacity and efficiency. A case study of a former downhill skier who transitioned to cycling showed that despite having the highest recorded VO2 Max in human history, his performance did not correlate perfectly with this high score. His VO2 Max was 96.7 when he was 18 years old, but his performance did not match this high score. The more he trained, the less efficient he got, meaning he could deliver more aerobic energy, but he used more aerobic energy in order to maintain a given pace.",
+  "content_length": 579,
+  "content_tokens": 120,
   "embedding": []
  },
  {
-  "title": "Efficiency in Athletic Performance",
+  "title": "Inverse Relationship between VO2 Max and Efficiency",
   "date": "May 16, 2022",
   "context": "VO2 Max",
   "people": "Peter Attia",
-  "content": "The efficiency of an athlete is discussed. Efficiency in this context refers to how much input (oxygen) is needed to maintain a given pace. The case study individual was most efficient when he was untrained, and his efficiency decreased as he trained more. This suggests that there may be an inverse relationship between VO2 Max and efficiency, meaning that as an athlete's VO2 Max increases, their efficiency may decrease. However, there is still no consensus on this.",
-  "content_length": 469,
-  "content_tokens": 93,
-  "embedding": []
- },
- {
-  "title": "VO2 Max and Economy in Elite Athletes",
-  "date": "May 16, 2022",
-  "context": "VO2 Max",
-  "people": "Peter Attia",
-  "content": "If you measure the VO2 max of a group of elite athletes, you tend to see an inverse relationship. The athletes with the highest VO2 max tend to have slightly lower, slightly worse economies. Those with the best economy, tend to have slightly worse VO2 max. There are two possible explanations for this phenomenon. The first is that if you happen to have a very high VO2 max, you're not likely to also have the best possible economy. The second possibility is that there's a trade-off. If you're optimizing one physiological parameter it may come at the cost of the other physiological parameter.",
-  "content_length": 595,
-  "content_tokens": 123,
-  "embedding": []
- },
- {
-  "title": "Training Impact on VO2 Max and Economy",
-  "date": "May 16, 2022",
-  "context": "VO2 Max",
-  "people": "Peter Attia",
-  "content": "The training done by athletes can have a significant impact on their VO2 max and economy. Training that requires very high VO2 max level outputs can cause your metabolism and cells to prioritize high output over efficiency. Over time, this can lead to a loss of efficiency and a slight penalty for optimizing your training for VO2 max. This is supported by a study of athlete Oskar Svensson, whose training increased his VO2 max but may have been detrimental to his economy at a metabolic level.",
-  "content_length": 495,
+  "content": "There is a long-standing debate about whether there is an inverse relationship between VO2 Max and efficiency. If you build your engine bigger, do you necessarily end up with a less efficient engine? If you just take a bunch of elite athletes and you measure their VO2 Max, you tend to see an inverse relationship — The people who have the highest VO2 Max tend to have slightly lower, slightly worse economies. People that have the best economy, tend to have slightly worse VO2 Max.",
+  "content_length": 482,
   "content_tokens": 99,
   "embedding": []
  },
  {
-  "title": "Training Strategy and Efficiency",
+  "title": "Possible Explanations for Inverse Relationship",
   "date": "May 16, 2022",
   "context": "VO2 Max",
   "people": "Peter Attia",
-  "content": "The question worth considering is what would have happened if you took an athlete's genetic gift of an engine and instead of maximizing on VO2 max, you train him in a way that puts more effort into zone 2 (right at lactate of 2.0). This could potentially lead to a lower VO2 max, but a better overall performance. This observation agrees with the prevailing wisdom among endurance athletes that about 80% of your training should be easy, conversational pace (i.e., zone 2).",
-  "content_length": 473,
-  "content_tokens": 101,
+  "content": "There are two possible explanations for this phenomenon. The first is that you don’t tend to hit the lottery twice. If you happen to have a VO2 Max that’s 92, then you’re not going to have the best possible economy. The second possibility is that there’s actually a trade off—if you’re optimizing one physiological parameter it may come at the cost of the other physiological parameter. The training you do must have been pretty good for increasing VO2 Max, but it may have actually been bad for your economy at a metabolic level.",
+  "content_length": 530,
+  "content_tokens": 119,
+  "embedding": []
+ },
+ {
+  "title": "Training for VO2 Max vs Efficiency",
+  "date": "May 16, 2022",
+  "context": "VO2 Max",
+  "people": "Peter Attia",
+  "content": "The question worth considering is what would have happened if you took an athlete's genetic gift of an engine and instead of maximizing on VO2 Max, you train him and he’d get up to 85 or 90 maybe, but you put much more effort into sort of zone 2 (right at lactate of 2.0). If that zone 2 work represented two thirds of his training volume, he’d likely have a lower VO2 Max, but he might have been a better cyclist. This observation agrees with the prevailing wisdom among endurance athletes that about 80% of your training should be easy, conversational pace (i.e., zone 2).",
+  "content_length": 574,
+  "content_tokens": 132,
   "embedding": []
  }
 ]

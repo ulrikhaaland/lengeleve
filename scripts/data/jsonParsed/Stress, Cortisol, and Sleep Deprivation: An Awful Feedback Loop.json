@@ -1,22 +1,32 @@
 [
  {
-  "title": "Cortisol and weight gain",
+  "title": "Impact of Sleep Deprivation on Stress Levels",
   "date": "March 14, 2022",
   "context": "Stress & Cortisol",
   "people": "Peter Attia",
-  "content": "Peter says cortisol also plays a role in weight gain. It is a very anabolic hormone to adipose tissue and a very catabolic hormone to muscle tissue. It also affects the liver and glycogen stores via hepatic glucose output ⇒ It’s raising glucose, which in turn is raising insulin, which is now acting alongside cortisol.",
-  "content_length": 319,
-  "content_tokens": 69,
+  "content": "Sleep deprivation can have a significant impact on stress levels. Chronic undersleeping, which is common among most Americans, leads to hypercortisolemia. This causes a cascade of nonoptimal biological reactions. For example, more cortisol means more anxiety. More anxiety means less sleep, and less sleep means more cortisol and more anxiety, creating an awful feedback loop.",
+  "content_length": 376,
+  "content_tokens": 74,
   "embedding": []
  },
  {
-  "title": "Chronic undersleeping",
+  "title": "Cortisol and Weight Gain",
   "date": "March 14, 2022",
   "context": "Stress & Cortisol",
   "people": "Peter Attia",
-  "content": "Chronic undersleeping (most Americans) leads to hypercortisolemia. That is then causing a cascade of biology that is nonoptimal. ⇒ Example, more cortisol means more anxiety. More anxiety means less sleep. Less sleep means more cortisol (and more anxiety). An awful feedback loop.",
-  "content_length": 279,
+  "content": "Cortisol also plays a role in weight gain. It is a very anabolic hormone to adipose tissue and a very catabolic hormone to muscle tissue. It also affects the liver and glycogen stores via hepatic glucose output. This raises glucose, which in turn raises insulin, which then acts alongside cortisol.",
+  "content_length": 298,
   "content_tokens": 63,
+  "embedding": []
+ },
+ {
+  "title": "Evolutionary Reason for Sleep Deprivation",
+  "date": "March 14, 2022",
+  "context": "Stress & Cortisol",
+  "people": "Peter Attia",
+  "content": "If an animal is sleep deprived, it triggers an evolutionary response that there’s a reason for the sleep deprivation, therefore more cortisol is needed. This is often referred to as the mental Saber-Tooth Tiger, which is society-triggered anxiety.",
+  "content_length": 247,
+  "content_tokens": 53,
   "embedding": []
  }
 ]

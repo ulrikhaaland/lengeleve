@@ -4,9 +4,9 @@
   "date": "May 16, 2022",
   "context": "High Intensity & Zone 5 Training",
   "people": "Peter Attia",
-  "content": "From a lens of health, the data are unambiguous— VO2 max is highly correlated with longevity. There are not many variables that are more strongly correlated. But the levels don’t have to be that high. Longevity is also highly related with mitochondrial function and metabolic health. High intensity training is important to improve glycolytic capacity. We lose glycolytic capacity as we age and it’s important to stimulate it. For VO2 max, high intensity training, a 4×4 protocol is recommended: 4 minutes of the highest intensity, sustained exercise followed by 4 minutes of recovery. Repeat this 4-6x. Add a warm up and cool down on either end and this will be a little over an hour.",
-  "content_length": 685,
-  "content_tokens": 151,
+  "content": "From a lens of health, the data are unambiguous— VO2 max is highly correlated with longevity. There are not many variables that are more strongly correlated. But the levels don’t have to be that high. The VO2 max required here is 52-53 mL/min/kg. Longevity is also highly related with mitochondrial function and metabolic health. There’s an aging process where we lose mitochondrial function, and there’s a sedentary component where we lose mitochondrial function. High intensity training is important to improve glycolytic capacity. We lose glycolytic capacity as we age and it’s important to stimulate it.",
+  "content_length": 607,
+  "content_tokens": 135,
   "embedding": []
  },
  {
@@ -14,29 +14,19 @@
   "date": "May 16, 2022",
   "context": "High Intensity & Zone 5 Training",
   "people": "Peter Attia",
-  "content": "There’s an aging process where we lose mitochondrial function, and there’s a sedentary component where we lose mitochondrial function. Increasing mitochondrial function takes months or years. If you stimulate the glycolytic system 2-3 days you’ll see progress. Add a high intensity interval 2-3 days a week at the end of that Zone 2 training, and you’ll target both energy systems: the oxidative mitochondrial system and the glycolytic energy system.",
-  "content_length": 450,
-  "content_tokens": 99,
+  "content": "Increasing mitochondrial function takes months or years. Increasing the glycolytic system takes much less time, weeks or months. If you stimulate the glycolytic system 2-3 days you’ll see progress. Add a high intensity interval 2-3 days a week at the end of that Zone 2 training, and you’ll target both energy systems: the oxidative mitochondrial system and the glycolytic energy system.",
+  "content_length": 387,
+  "content_tokens": 88,
   "embedding": []
  },
  {
-  "title": "Exercise Order and Impact on Health",
+  "title": "Zone 5 Training and Zone 2 Training",
   "date": "May 16, 2022",
   "context": "High Intensity & Zone 5 Training",
   "people": "Peter Attia",
-  "content": "Is zone 5 training okay to do immediately following zone 2 training? It is okay to do Zone 5 training immediately after Zone 2 training, as it does not blunt the benefit gained from Zone 2 training. However, doing it in the reverse order can trigger hormonal responses and high blood lactate, which inhibits lipolysis. Lactate at the autocrine level decreases the activity of CPT1 and CPT2 (needed for fatty acid transport into the mitochondria for oxidation), thus interfering with the transport of fatty acids.",
-  "content_length": 512,
-  "content_tokens": 105,
-  "embedding": []
- },
- {
-  "title": "Understanding Exercise Intensity Zones",
-  "date": "May 16, 2022",
-  "context": "High Intensity & Zone 5 Training",
-  "people": "Peter Attia",
-  "content": "Often patients will say, “I went out and did a two-hour ride today and it showed me that I spent 45 of those minutes, 45 of those 120 minutes were in Zone 2. So I did 45 minutes at Zone 2”. This is not the same as spending 45 minutes in dedicated Zone 2 training. There is a lot of up and down intensity. The average might be Zone 2, but you’re oscillating between Zone 1, Zone 2, Zone 4, all the time.",
-  "content_length": 402,
-  "content_tokens": 104,
+  "content": "Is zone 5 training okay to do immediately following zone 2 training? It is okay to do Zone 5 training immediately after Zone 2 training, as long as it’s done at the end, then exercise is over. But don’t do it in the reverse order because this will trigger all these hormonal responses and high blood lactate. We know lactate inhibits lipolysis. So if you have a high interval in the middle or the beginning and you don’t clear lactate very well, lactate interferes with the transport of fatty acids.",
+  "content_length": 499,
+  "content_tokens": 115,
   "embedding": []
  }
 ]

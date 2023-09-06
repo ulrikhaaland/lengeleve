@@ -1,62 +1,42 @@
 [
  {
-  "title": "Fighting cancer and improving immune function with sleep",
+  "title": "Sleep and Cancer",
   "date": "July 17, 2022",
   "context": "Cancer",
   "people": "Peter Attia",
-  "content": "There is a significant link between sleep and cancer of bowel, prostate, and breast. WHO has classified night shift work as a probable carcinogen. Partial sleep deprivation reduces natural killer cell activity in humans. One night of poor sleep caused a 70% drop in natural killer cell activity. Sleep gets worse as we age, and therefore our immune system gets worse. Sleep and cancer development: Underslept mice had tumors 200% larger than mice who slept normally. Cancer in underslept mice had also metastasized. The mechanism? Macrophage M1 cells downregulated, and M2 cells (which promote tumor growth) upregulated by lack of sleep.",
-  "content_length": 637,
-  "content_tokens": 133,
+  "content": "For the development of cancer, a couple things must go wrong: First, a genetic insult. Second, that insult must be missed by immune system (most of the time T cells identify it). There is a significant link between sleep and cancer of bowel, prostate, and breast (3 of top 4 cancers). Causal evidence is so strong that WHO has classified night shift work as a “probable carcinogen”. A UCLA study found that partial sleep deprivation reduces natural killer cell activity in humans. Healthy adults limited to 4 hrs sleep for one night experienced a 70% drop in natural killer cell activity.",
+  "content_length": 588,
+  "content_tokens": 123,
   "embedding": []
  },
  {
-  "title": "Dr. Walker's Background",
+  "title": "Sleep, Aging and Immune System",
   "date": "July 17, 2022",
   "context": "Cancer",
   "people": "Peter Attia",
-  "content": "Dr. Walker earned his degree in neuroscience from Nottingham University, UK, and his PhD in neurophysiology from the Medical Research Council, London, UK. He subsequently became a Professor of Psychiatry at Harvard Medical School, USA. Currently, he is Professor of Neuroscience and Psychology at the University of California, Berkeley, USA.",
-  "content_length": 341,
-  "content_tokens": 64,
+  "content": "Sleep gets worse as we age, and therefore our immune system gets worse. One of the most dramatic changes with age, and the most sizable and robust physiological changes with age that we see, is that your sleep gets worse. And sleep is probably one of the most powerful regulators of your immune system. A lack of sleep bends curve of lifespan very dramatically.",
+  "content_length": 361,
+  "content_tokens": 71,
   "embedding": []
  },
  {
-  "title": "Dr. Walker's Research",
+  "title": "Sleep Deprivation and Cancer Development",
   "date": "July 17, 2022",
   "context": "Cancer",
   "people": "Peter Attia",
-  "content": "Dr. Walker’s research examines the impact of sleep on human health and disease. He has received numerous funding awards from the National Science Foundation and the National Institutes of Health, and is a Kavli Fellow of the National Academy of Sciences.",
-  "content_length": 254,
-  "content_tokens": 50,
+  "content": "A study using mice by David Gozal at the University of Chicago found that underslept mice had tumors 200% larger than mice who slept normally. Cancer in underslept mice had also metastasized. The mechanism? Macrophage M1 cells downregulated, and M2 cells (which promote tumor growth) upregulated by lack of sleep. In humans, you would have both the M2 cells upregulated as well as a “tsunami” of cortisol impacting the body and driving tumor growth.",
+  "content_length": 449,
+  "content_tokens": 106,
   "embedding": []
  },
  {
-  "title": "Why We Sleep",
+  "title": "Sleep and Cancer Management",
   "date": "July 17, 2022",
   "context": "Cancer",
   "people": "Peter Attia",
-  "content": "Dr. Walker is the author of the International Bestseller, Why We Sleep. It has a singular goal: to reunite humanity with sleep.",
-  "content_length": 127,
-  "content_tokens": 29,
-  "embedding": []
- },
- {
-  "title": "Dr. Walker's Work",
-  "date": "July 17, 2022",
-  "context": "Cancer",
-  "people": "Peter Attia",
-  "content": "In addition, Dr. Walker is an internationally recognized speaker, a successful entrepreneur, and a Sleep Scientist for Google.",
-  "content_length": 126,
-  "content_tokens": 23,
-  "embedding": []
- },
- {
-  "title": "Center for Human Sleep Science",
-  "date": "July 17, 2022",
-  "context": "Cancer",
-  "people": "Peter Attia",
-  "content": "Center for Human Sleep Science: https://www.humansleepscience.com/",
-  "content_length": 66,
-  "content_tokens": 16,
+  "content": "A current clinical tragedy in diagnosis and managing cancer is that a patient with cancer diagnosis has anxiety, can’t sleep, etc. simply due to hearing the news of their diagnosis. We are careful with chemotherapy, and meticulous in our research into causes of and types of cancer, yet we have almost but no papers on this topic of sleep and cancer.",
+  "content_length": 350,
+  "content_tokens": 71,
   "embedding": []
  }
 ]

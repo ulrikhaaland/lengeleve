@@ -1,12 +1,22 @@
 [
  {
-  "title": "Sleep and cardiovascular disease",
+  "title": "Sleep and Cardiovascular Disease",
   "date": "July 19, 2022",
   "context": "Cardiovascular Disease",
   "people": "Peter Attia",
-  "content": "Lack of sleep increases the risk of cardiovascular disease. Studies have shown that getting 5 hours of sleep or less can lead to a 200-300% increased risk of coronary artery calcification. The mechanism behind this is that with lack of sleep, the body becomes much more driven by the sympathetic nervous system, leading to atherosclerosis. Lack of sleep also increases blood pressure (hypertension), which is a risk factor for Alzheimer’s disease.",
-  "content_length": 447,
-  "content_tokens": 91,
+  "content": "Sleep deprivation can worsen or accelerate cardiovascular disease (CVD). For example, there is a 24% increased risk of heart attack the day after daylight savings in spring, and a 21% reduction in fall. This effect lasts for roughly 3 days. A study found that those getting 5 hours of sleep or less had a 200-300% increased risk of coronary artery calcification. This was after controlling for factors like exercise, smoking, BMI, and snoring.",
+  "content_length": 443,
+  "content_tokens": 92,
+  "embedding": []
+ },
+ {
+  "title": "Mechanism of Sleep Deprivation on Health",
+  "date": "July 19, 2022",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "With lack of sleep, the body becomes much more driven by the sympathetic nervous system. This means more adrenaline release, high spike in cortisol levels, and blunting of growth hormone, all factors leading to atherosclerosis. Lack of sleep also increases blood pressure (hypertension). Having an ApoE4 gene is a risk factor for Alzheimer’s, but one study showed that if you are normotensive (normal blood pressure), you don’t necessarily have an increased risk of Alzheimer’s disease, but if you are hypertensive, then your Alzheimer’s disease risk is far higher.",
+  "content_length": 565,
+  "content_tokens": 126,
   "embedding": []
  }
 ]

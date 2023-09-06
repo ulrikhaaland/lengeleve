@@ -1,22 +1,32 @@
 [
  {
-  "title": "Why sleep is the best insurance policy for lifespan and healthspan",
+  "title": "Importance of Sleep for Health",
   "date": "July 16, 2022",
   "context": "Sleep",
   "people": "Peter Attia",
-  "content": "Sleep essentially is a life support system and perhaps Mother Nature’s best effort yet at immortality. If you optimize sleep, you’re doing as much as probably you can from the health regard standpoint in terms of increasing your insurance for a longer life.",
-  "content_length": 257,
-  "content_tokens": 52,
+  "content": "Sleep is the best insurance policy for lifespan and healthspan. It is a life support system and perhaps Mother Nature’s best effort yet at immortality. Sleep acts like a superordinate node in the biological equation of health. If you optimize sleep, you’re doing as much as probably you can from the health regard standpoint in terms of increasing your insurance for a longer life.",
+  "content_length": 381,
+  "content_tokens": 77,
   "embedding": []
  },
  {
-  "title": "Can better sleep mean a longer healthspan?",
+  "title": "Sleep and Healthspan",
   "date": "July 16, 2022",
   "context": "Sleep",
   "people": "Peter Attia",
-  "content": "Matt thinks there is a good chance healthspan increases along with lifespan. It could be a huge cost benefit equation, says Matthew. If we could live longer, healthier by way of sleep, the cost savings could be enormous too.",
-  "content_length": 224,
-  "content_tokens": 46,
+  "content": "There is a good chance healthspan increases along with lifespan with better sleep. Studies are being planned to look at health span, not just lifespan.",
+  "content_length": 151,
+  "content_tokens": 29,
+  "embedding": []
+ },
+ {
+  "title": "Economic Benefits of Better Sleep",
+  "date": "July 16, 2022",
+  "context": "Sleep",
+  "people": "Peter Attia",
+  "content": "Better sleep could result in a huge cost benefit equation. The relief of health care burden that would happen if we could live longer, healthier by way of sleep could result in enormous cost savings. Unfortunately, as a country, we are not motivating/incentivizing our societies to get better sleep.",
+  "content_length": 299,
+  "content_tokens": 59,
   "embedding": []
  }
 ]

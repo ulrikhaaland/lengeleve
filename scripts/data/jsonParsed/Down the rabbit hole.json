@@ -1,22 +1,12 @@
 [
  {
-  "title": "College Dorm Fire",
-  "date": "April 15, 2018",
-  "context": "Sleep",
-  "people": "Peter Attia",
-  "content": "The 1967 blaze at Cornell University killed 9, including members of a fast-track Ph.D. program. No one was ever charged, but an amateur investigator thinks he knows who set it.",
-  "content_length": 176,
-  "content_tokens": 39,
-  "embedding": []
- },
- {
   "title": "Importance of Slow Wave Sleep",
   "date": "April 15, 2018",
   "context": "Sleep",
   "people": "Peter Attia",
-  "content": "Something else I read this month pertains to my obsession with stressing the importance of slow wave sleep (SWS) in our patients…and we’re constantly looking for ways to improve it. Here’s some evidence that the efforts (such as blue light reduction before bed: I use a pair of computer glasses from Gunnars) are worth it.",
-  "content_length": 322,
-  "content_tokens": 82,
+  "content": "Stressing the importance of slow wave sleep (SWS) in our patients is crucial and we’re constantly looking for ways to improve it. There's some evidence that efforts such as blue light reduction before bed are worth it.",
+  "content_length": 218,
+  "content_tokens": 47,
   "embedding": []
  }
 ]

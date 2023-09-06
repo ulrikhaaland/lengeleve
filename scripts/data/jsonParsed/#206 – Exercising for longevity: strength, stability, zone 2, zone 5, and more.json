@@ -4,9 +4,9 @@
   "date": "May 9, 2022",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Looking at exercise through the lens of longevity, not performance. The difference is important. If your goal was to break 2 hours and 40 minutes on the Chicago Marathon next year, the training required would be totally different from that needed to maximize longevity. Longevity is a very difficult performance goal. When you start to look into the far recesses of amazing physical performance, training would be very specific for that. Training for this type of performance is generally not collinear with longevity and at times they can be outright orthogonal. Exceptional physical performances requires maximum cardiac output, just beneath VO2 max. This level of performance and training puts an amazing strain on the body. While this is better than sitting on the couch all day, it is past the point of optimizing longevity returns. This comes at some longevity cost relative to training at a lower energy system.",
-  "content_length": 918,
-  "content_tokens": 172,
+  "content": "Peter is looking at exercise through the lens of longevity, not performance. The difference is important. If your goal was to break 2 hours and 40 minutes on the Chicago Marathon next year, the training required would be totally different from that needed to maximize longevity. Longevity is a very difficult performance goal. When you start to look into the far recesses of amazing physical performance, training would be very specific for that. This is not what Peter is discussing. Training for this type of performance is generally not collinear with longevity and at times they can be outright orthogonal.",
+  "content_length": 610,
+  "content_tokens": 116,
   "embedding": []
  },
  {
@@ -14,9 +14,9 @@
   "date": "May 9, 2022",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "This podcast is geared toward this Centenarian Decathlon. This is the idea of being the most kick-ass 90-year old possible. This is based on 2 energy systems: 1 – Strength and stability 2 – Low-end aerobic energy system (which is zone 2, we’ll talk about that in a moment) which is punctuated with brief bursts of zone 5. These energy systems matter because this is generally where life takes place. By training in zone 2 and zone 5 (with much more focus on zone 2), we’re preparing metabolically and structurally for longevity.",
-  "content_length": 528,
-  "content_tokens": 121,
+  "content": "This podcast is geared toward this Centenarian Decathlon. This is the idea of being the most kick-ass 90-year old possible. This is based on 2 energy systems: 1 – Strength and stability, 2 – Low-end aerobic energy system (which is zone 2, we’ll talk about that in a moment) which is punctuated with brief bursts of zone 5. These energy systems matter because this is generally where life takes place. By training in zone 2 and zone 5 (with much more focus on zone 2), we’re preparing metabolically and structurally for longevity.",
+  "content_length": 529,
+  "content_tokens": 122,
   "embedding": []
  },
  {
@@ -24,119 +24,39 @@
   "date": "May 9, 2022",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "What does one wish they incorporated into their exercise at age 25 to be in this race for the gold medal in the Centenarian Decathlon? For most people, a system of the body is going to fail first. Some people die suddenly when their mind and body are fine; they are an exception to this discussion. For many people their mind fails first, cognition is taken from them and then eventually they die or their body breaks down. For most people, the decline of mind and body, and the burden of disease occurs as the body fails first. This prompted the thought about how to mitigate the decline / fail of the body.",
-  "content_length": 608,
-  "content_tokens": 127,
+  "content": "What does Peter wish he incorporated into his exercise at age 25 to be in this race for the gold medal in the Centenarian Decathlon? For most people, a system of the body is going to fail first. For many people their mind fails first, cognition is taken from them and then eventually they die or their body breaks down. For most people, the decline of mind and body, and the burden of disease occurs as the body fails first. This prompted Peter to think about how to mitigate the decline / fail of the body.",
+  "content_length": 507,
+  "content_tokens": 108,
   "embedding": []
  },
  {
-  "title": "Backcasting for Health Goals",
+  "title": "Peter’s Framework for Exercise for Longevity",
   "date": "May 9, 2022",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Engaging in backcasting to think of what one wants to do when they are 100 and work backwards from that to determine what to do today at any age. This leads to the question‒ What do I have to physically be able to do to be satisfied with my life at 100 years old? The goal is not to be bedridden with disease and to retain cognitive faculties. There are lots of physical activities one might want to be able to do. Activities of daily living are important.",
-  "content_length": 456,
-  "content_tokens": 98,
+  "content": "Peter’s framework for thinking about exercise for longevity has 4 components: 1 – Stability, 2 – Strength, 3 – Aerobic performance, 4 – Anaerobic output. Each of his 18 goals (for his Centenarian decathlon) touch on at least 1 of these items in this framework; some touch on more than 1. Stability is where most people first begin to fail. This begins around the time that children start school.",
+  "content_length": 395,
+  "content_tokens": 89,
   "embedding": []
  },
  {
-  "title": "Centenarian Decathlon",
+  "title": "The Importance of Preserving Strength and Muscle Mass as We Age",
   "date": "May 9, 2022",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Creating a list of physical tasks that will approximate the things one wants to be able to do for daily living at age 100. This list can be referred to as a centenarian decathlon. The tasks can include being able to drop into a squat position and pick up a child that weighs 30 lbs, being able to get up off the floor using a single point of support, such as just 1 arm, being able to lift something that weighs 30 lbs over head, being able to get out of a pool without a ladder, and being able to walk up 3 flights of stairs with 10 lbs of groceries in each hand.",
-  "content_length": 564,
-  "content_tokens": 125,
+  "content": "How much lean mass are people losing over time? What is aging robbing you of as time goes on? The lowest rate of decline in lean mass (shown by studies) is 1-2% per year after age 50; see the table below. Between ages 20-80, this is a loss of 35-40%. The strength decline may be even greater. Some studies show 4% loss of strength per year.",
+  "content_length": 340,
+  "content_tokens": 84,
   "embedding": []
  },
  {
-  "title": "Exercise for Longevity",
+  "title": "The Value of Deadlifts for Stability and Longevity When Done Properly",
   "date": "May 9, 2022",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Working back from 100 years old, and realizing there is going to be a decline with age, one can set goals for age 80, age 60, and today. The training today centers around the goals of what one wants to do when they are 100-years-old. The framework for thinking about exercise for longevity has 4 components: Stability, Strength, Aerobic performance, and Anaerobic output. Each of the goals touch on at least 1 of these items in this framework; some touch on more than 1.",
-  "content_length": 470,
-  "content_tokens": 104,
-  "embedding": []
- },
- {
-  "title": "Importance of Stability",
-  "date": "May 9, 2022",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Stability is where most people first begin to fail. This begins around the time that children start school. The field of dynamic neuromuscular stabilization is based on this principle that there are 13-14 movements that are innate to us. By the time we are about 1.5-years-old, we do them all perfectly. Then it’s basically all downhill from there. Decline of stability is accelerated by school, once you start sitting. We lose the ability to maintain tension through our pelvic floor and throughout our entire core.",
-  "content_length": 516,
-  "content_tokens": 110,
-  "embedding": []
- },
- {
-  "title": "Recommendations for Longevity",
-  "date": "May 9, 2022",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Spend as much time as possible working on static stability then dynamic stability. Incorporate these principles into what you are doing strength-wise. At the age of 25, you can do a lot of exercises incorrectly and get away with it, but correct form is very important in the long run.",
-  "content_length": 284,
-  "content_tokens": 60,
-  "embedding": []
- },
- {
-  "title": "Breathing Squat Routine",
-  "date": "May 9, 2022",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "The routine involves lifting your best 10-rep weight, doing a squat, and then taking three deep breaths at the top of the squat. Each breath takes 10 seconds for a total of 30 seconds. After taking these 3 deep breaths at the top of the squat, do another squat. Continue this routine for a total of 20 reps. This set takes 10 minutes. Over the course of 1 year doing this, he added over 100 lbs to his squat.",
-  "content_length": 408,
-  "content_tokens": 91,
-  "embedding": []
- },
- {
-  "title": "Slow Training",
-  "date": "May 9, 2022",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "This relates to “super slow” or slow training‒ lifting slow and accumulating time under tension ~90 seconds. 90 seconds feels like an eternity. Until you time yourself lifting, you don’t realize how little time is spent under tension.",
-  "content_length": 234,
-  "content_tokens": 52,
-  "embedding": []
- },
- {
-  "title": "Centenarians and Health",
-  "date": "May 9, 2022",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Anyone who is a centenarian today lived this long because of their exceptional genes. Most of them haven’t done anything different (better/ worse) than their peers. On average today’s centenarians tend to smoke more, exercise less, and eat worse than their peers.",
-  "content_length": 263,
-  "content_tokens": 60,
-  "embedding": []
- },
- {
-  "title": "Preserving Strength and Muscle Mass",
-  "date": "May 9, 2022",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "The importance of preserving strength and muscle mass as we age is crucial. The lowest rate of decline in lean mass (shown by studies) is 1-2% per year after age 50. Between ages 20-80, this is a loss of 35-40%. The strength decline may be even greater with some studies showing 4% loss of strength per year.",
-  "content_length": 308,
-  "content_tokens": 72,
-  "embedding": []
- },
- {
-  "title": "Muscle Strength and Mortality",
-  "date": "May 9, 2022",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "The average age of participating men was 54 and for women it was 53. They were followed prospectively for 5-6 years. This study looked at all-cause mortality. The change in men’s leg strength is not subtle. This shows that the weaker one is, the quicker the decline in strength. For every 0.2 unit reduction in strength per ct area they saw a significant increase in mortality. Strength was normalized for muscle size. Muscle area was measured by computed tomography (CT) scan, to look at cross-sectional area. Lean tissue mass was determined using DEXA (dual energy-x-ray absorptiometry). They took that normalized unit of strength per CT area and observed when it was reduced by 0.2 units, there was a 26%. When muscle area was measured by DEXA, a 0.2 reduction in strength was associated with a 39% increase in mortality. Even without this normalization the result is the same. Grip strength was normalized by a DEXA arm measurement. Reduced grip strength was associated with a 23% increase in mortality. These were statistically significant results.",
-  "content_length": 1053,
-  "content_tokens": 230,
-  "embedding": []
- },
- {
-  "title": "Deadlifts for Stability and Longevity",
-  "date": "May 9, 2022",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "The value of deadlifts for stability and longevity when done properly. In 2016, an individual partially tore one of their obliques. After this, they were never able to deadlift again without some discomfort. This changed when they began Dynamic Neuromuscular Stimulation (DNS) in 2017/ 2018. Through DNS, they realized the deadlift was going to be beneficial because it becomes a beautiful audit for everything working perfectly. They deadlift at least twice a week (often 3x a week), both straight bar and trap bar; they don’t go that heavy. In terms of weight for deadlifts, they might have had 400 lbs on the trap bar in the past year. They usually stop at 350-375 on the trap bar. On the straight bar they go lighter, maybe 185 lbs. They do a lot of slow eccentrics. They film every single rep of every set. They study it and send it to their coach. Their goal is to do the deadlift perfectly, and they are constantly checking their form.",
-  "content_length": 942,
-  "content_tokens": 215,
+  "content": "How has Peter’s thinking changed on deadlifts? Long before powerlifting was in vogue, Peter would lift weights every day with a friend in high school. Powerlifting is different from olympic lifting, powerlifting is 3 lifts: the deadlift, the squat, and the bench press. Peter grew up doing a lot of deadlift, squatting, and bench pressing. He was always horrible at the bench press. In 2016 Peter partially tore one of his obliques. After this he was never able to deadlift again without some discomfort.",
+  "content_length": 504,
+  "content_tokens": 115,
   "embedding": []
  },
  {
@@ -144,9 +64,9 @@
   "date": "May 9, 2022",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "All of this little stuff translates biomechanically to the activities of daily living that matter to me. Like getting up off the floor, picking up one of my kids, lifting a piece of luggage, or something like that. When something doesn’t feel right during a deadlift, he knows how to recognize that feeling and the steps to go back and correct it. There are about 10 exercises he does to get ready to deadlift; they don’t take long (10-15 minutes). Only recently did he realize you can deadlift in a way that puts your spine under traction. This is counterintuitive; you might think your spine is under compression when lifting under an axial load. It turns out when you learn the right positioning, then you can deadlift and actively create traction in the spine. You understand how to create intra-abdominal pressure. You know how to elongate your spine. This is why the deadlift is the most important thing he does before he gets on an airplane. He’s going to be sitting for 5-6 hours. He doesn’t want his spine to be compressed. The deadlift primes him to maintain that activated form of traction.",
-  "content_length": 1101,
-  "content_tokens": 246,
+  "content": "Deadlift can be performed in a way that puts your spine under traction, which is counterintuitive as one might think the spine is under compression when lifting under an axial load. When you learn the right positioning, you can deadlift and actively create traction in the spine. This involves understanding how to create intra-abdominal pressure and how to elongate your spine. This is beneficial especially before long periods of sitting, as it helps maintain an activated form of traction and prevents spine compression.",
+  "content_length": 523,
+  "content_tokens": 99,
   "embedding": []
  },
  {
@@ -154,9 +74,9 @@
   "date": "May 9, 2022",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Zone 2 training has been covered in a variety of episodes. He spends 3-4 hours per week training in zone 2 and thinks it’s incredibly important for all of his patients. You want to put a rate-limiter on the intensity of your workout when you do zone 2 training. When he was a cyclist, he spent 10-12 hours a week training in zone 2. Now he spends 3-4 hours per week in this zone. In late 2014 when he stopped competing in time trials, he stopped doing any low intensity training (which is a major component of training for competition). He went from cycling to rowing and running. He was obsessed with being as efficient as possible; everything was an all-out effort. Meeting Iñigo and going through literature on zone 2 training before having him on the podcast brought to light the benefits of this type of training. Metabolic benefits‒ insulin-dependent and insulin-independent glucose disposal. Improvement of mitochondrial function, health, and density. Increased release of neurotrophic factors that can come from this type of activity, such as BDNF secretion. He realized he needed to reincorporate zone 2 training into his exercise program.",
-  "content_length": 1148,
-  "content_tokens": 241,
+  "content": "Zone 2 training is incredibly important for health. It involves putting a rate-limiter on the intensity of your workout. Benefits of this type of training include metabolic benefits, improvement of mitochondrial function, health, and density, and increased release of neurotrophic factors such as BDNF secretion. It is recommended to spend 3-4 hours per week training in zone 2.",
+  "content_length": 378,
+  "content_tokens": 73,
   "embedding": []
  },
  {
@@ -164,29 +84,9 @@
   "date": "May 9, 2022",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "There is not a best device, but choose one where you can easily reproduce the same output. He likes the bicycle because it has a clear metric that he can adjust‒ the wattage. Watts are easy to track. He uses an ergometer; he puts his road bike on a device called a Wahoo KICKR which is hooked up to a computer where he sets the numbers of watts he wants and it adjusts the resistance.",
-  "content_length": 384,
-  "content_tokens": 88,
-  "embedding": []
- },
- {
-  "title": "Zone 2 Training",
-  "date": "May 9, 2022",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Other devices can be good for zone 2 training. Cycling is second nature for some; it’s a very efficient thing for them to do. Regardless of the device, it’s the wattage that matters. Treadmills are also a great way to do this. For most people though, running gets them out of zone 2 quickly. Advises patients to do brisk, incline walking. Start at a 10-15-degree incline at 2.5-3.0 miles per hour (maybe less). This is empirical, you have to figure out what incline and speed will keep you in zone 2.",
-  "content_length": 500,
-  "content_tokens": 129,
-  "embedding": []
- },
- {
-  "title": "Identifying Zone 2",
-  "date": "May 9, 2022",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Track power output (watts), heart rate, and lactate. Heart rate will be elevated if sick, dehydrated, or something. In this case back off; adjust the wattage down a bit.",
-  "content_length": 169,
-  "content_tokens": 42,
+  "content": "There is not a best device for zone 2 training, but choose one where you can easily reproduce the same output. It's important to track power output (watts), heart rate, and lactate. Treadmills are a great way to do this, with brisk, incline walking recommended. This is empirical, you have to figure out what incline and speed will keep you in zone 2.",
+  "content_length": 351,
+  "content_tokens": 82,
   "embedding": []
  },
  {
@@ -194,49 +94,9 @@
   "date": "May 9, 2022",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Another pillar of exercise framework focuses on the upper end of aerobic, verging on anaerobic exercise (zone 5 training). Zones are a function of the underlying system used to track exercise intensity. This could be heart rate-based training or power-based training (following wattage output). Zone 5 is thought of as VO2 max training. There is about a 5-fold difference in benefit between low fitness and elite fitness. This shows the importance of VO2 max.",
-  "content_length": 459,
-  "content_tokens": 97,
-  "embedding": []
- },
- {
-  "title": "Approach to Zone 5 Training",
-  "date": "May 9, 2022",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "People often spend too little or too much time in zone 5. This discussion will help you determine what that sweet-spot is. If you are training to be a kick ass 90-year-old, then you don’t need to spend as much time in zone 5 as you might think. One approach to zone 5 training and other anaerobic training protocols is using the stairmaster for zone 5 training. This is a favorite piece of equipment other than the bicycle. One zone 5 workout a week is recommended. 3 minutes of zone 2, 1 minute at VO2 max. Repeat this 4-minute pattern for 20-30 minutes. This is done on the tail-end of a zone 2 workout; so this is the longer aerobic day.",
-  "content_length": 640,
-  "content_tokens": 152,
-  "embedding": []
- },
- {
-  "title": "Exercise Intensity Zones",
-  "date": "May 9, 2022",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "There’s lots of ways to hit zone 5 but most people spend too much time in zone 5 and not enough time in zone 2. The higher the intensity, the less resistance it provides; this makes you climb the steps faster. If you’re working 100% (balls-to-the-wall), you can exceed your VO2 max in terms of the work you’re doing.",
-  "content_length": 316,
-  "content_tokens": 83,
-  "embedding": []
- },
- {
-  "title": "Limits of Human Performance",
-  "date": "May 9, 2022",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "The limits of human performance in terms of going all out, is about 10 seconds. You may think you’re going all out for 80% of a spin class, but you’re not. Consider the difference between a 100 m and a 200 m sprint, run by the best athletes on the planet. By the time a sprinter is running the 200 m, they are slowing down in the second half of the race. The 100 m is about a 10-second race; this is about the limit of what a true all-out-effort means.",
-  "content_length": 452,
-  "content_tokens": 116,
-  "embedding": []
- },
- {
-  "title": "Tabata Exercise Variants",
-  "date": "May 9, 2022",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Consider 2 variants of Tabata: 1 – The 20:10 Tabata (seconds of strenuous exercise: seconds of rest) 2 – The 10:20 Tabata. Anyone who has tried this knows you can go so much harder for the 10:20 than the 20:10. The 20:10 Tabata is favored because this is the one that was studied by Irisawa and Tabata.",
-  "content_length": 302,
-  "content_tokens": 81,
+  "content": "Zone 5 is VO2 max training. It is important to spend the right amount of time in zone 5, as people often spend too little or too much time in this zone. If you are training to maintain health and fitness into old age, then you don’t need to spend as much time in zone 5 as you might think. One zone 5 workout a week is recommended, ideally on the tail-end of a zone 2 workout.",
+  "content_length": 376,
+  "content_tokens": 90,
   "embedding": []
  },
  {
@@ -244,59 +104,19 @@
   "date": "May 9, 2022",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "An analogy to think about VO2 max is‒ VO2 max is like the size of your engine. Physiologically, VO2 max tells you how quickly you can take oxygen from the air, into your lungs, get it into your blood, pump it to your muscles, and have your muscles use it in the metabolic processes that provide energy to move you. VO2 max is a rate; it’s how much oxygen per unit of time can you process. VO2 max was first discussed/measured in the 1920s by a guy named A.V. Hill, a very good runner himself. This is a point where, no matter how much you push yourself, you can’t get more oxygen (even though you can still go faster using other forms of energy). This is the limits of your aerobic system. This doesn’t tell you how fast you can run.",
-  "content_length": 733,
-  "content_tokens": 183,
+  "content": "VO2 max is a measure of how quickly you can take oxygen from the air, into your lungs, get it into your blood, pump it to your muscles, and have your muscles use it in the metabolic processes that provide energy to move you. It is a rate; it’s how much oxygen per unit of time can you process. VO2 max is like the size of your engine. It doesn’t tell you how fast you can run, but it tells you what sort of aerobic engine you have to play with.",
+  "content_length": 444,
+  "content_tokens": 109,
   "embedding": []
  },
  {
-  "title": "Understanding VO2 Max",
+  "title": "Lactate Paradox",
   "date": "May 9, 2022",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "An outlier VO2 max is a number bigger than 2 L or 5 L; this would be 75 or 80 mL. If you want to compare athletes of different sizes, for a crude approximation, you divide by weight. This is reported as milliliters of oxygen per minute per kilogram of body weight. You could argue that you should divide by lean mass not total body weight to account for skeletal tissue, fat, etc. as the amount of these tissues can vary but they doesn’t use more oxygen during exercise. For comparing to yourself, to see if you’ve increased your VO2 max, it doesn’t matter what you’re dividing by.",
-  "content_length": 581,
-  "content_tokens": 139,
-  "embedding": []
- },
- {
-  "title": "VO2 Max and Performance",
-  "date": "May 9, 2022",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "You can’t just measure someone’s VO2 max and know how fast they’re going to race. When cycling competitively, there was a guy who would ride with whose VO2 max was 55-60 mL/min∙kg; but there was never a day where he could ride faster than him. Maybe he was a more efficient athlete.",
-  "content_length": 282,
-  "content_tokens": 76,
-  "embedding": []
- },
- {
-  "title": "Historical Limits of VO2 Max",
-  "date": "May 9, 2022",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "There is a lot of confusion and debate about the limits of VO2 max. The cause of this plateau could be in the lungs, in the heart, in the circulation, or in the muscle’s ability to extract oxygen from the bloodstream and make use of it metabolically in the mitochondria. This is controversial and limitations can arise in any part of this cascade. There is also the situation where an athlete is so fit, their heart pumps blood so quickly past their lungs, that it doesn’t have time to fully stock-up on oxygen. This results in exercise-induced arterial hypoxemia. This is usually an issue at altitude. About half of endurance athletes experience this at sea level.",
-  "content_length": 665,
-  "content_tokens": 144,
-  "embedding": []
- },
- {
-  "title": "Testing VO2 Max",
-  "date": "May 9, 2022",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "The way the oxygen consumption is calculated relies on measuring the oxygen concentration breathed out and calculating the difference (the delta) between that and the oxygen concentration in the air (breathed in). It would be interesting to test VO2 max while reducing the FIO2 (the fraction of inspired oxygen). If FIO2 was reduced to 20%, 19%, 18%, etc. and if the lungs are not the limitation for VO2 max, then you should see the same VO2 max (or measure the same absolute delta between inhaled versus exhaled oxygen) in all of these conditions of different oxygen %.",
-  "content_length": 570,
-  "content_tokens": 122,
-  "embedding": []
- },
- {
-  "title": "Effects of Oxygen Levels on VO2 Max",
-  "date": "May 9, 2022",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Eliminating lungs and capillary exchange of oxygen as a limit on VO2 max could be an interesting experiment. Studies have compared 21% oxygen to 10% and 15% oxygen. Less oxygen is available at altitude and this can cause unexpected effects. For example, one might expect to go anaerobic sooner and produce more lactate at higher altitudes, but the opposite happens. This is called the lactate paradox. If you exercise to exhaustion at lower levels of altitude, you produce less lactate than you would a sea level. There’s debate over what causes this and if it’s a real thing. There are other factors that detect low oxygen and cut off the supply to the muscle to make sure we don’t deprive the brain of oxygen.",
-  "content_length": 711,
-  "content_tokens": 157,
+  "content": "If you exercise to exhaustion at lower levels of altitude, you produce less lactate than you would a sea level. There’s debate over what causes this and if it’s a real thing. There are these other circuit-breakers limiting VO2 max, that aren’t on the path from mouth to lung, to blood, to muscle. There are other factors that detect low oxygen and cut off the supply to the muscle to make sure we don’t get stupid [deprive the brain of oxygen].",
+  "content_length": 444,
+  "content_tokens": 107,
   "embedding": []
  },
  {
@@ -304,19 +124,19 @@
   "date": "May 9, 2022",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Stability is the cornerstone upon which all exercise and movement relies. It is the way that we transmit force from the body to the outside world in the safest manner possible, across the muscles which are designed to carry that load. This is opposed to seeing the dissipation of force across joints that are not fit to do so. Most of us are born with the ability to do this naturally, but it generally gets lost by the time we begin grade school due to a relative lack of activity and an abundance of sitting. This is one of the root causes of a lot of the chronic injuries many of us have. Stability is the foundation upon which all exercise should be done.",
-  "content_length": 659,
-  "content_tokens": 134,
+  "content": "Stability is the cornerstone upon which your strength is delivered, your aerobic performance is delivered, and your anaerobic performance is delivered. And it’s the way that you do so safely. Stability is the way that we transmit force from the body to the outside world in the safest manner possible, across the muscles which are designed to carry that load. This is opposed to seeing the dissipation of force across joints that are not fit to do so. Most of us are born with the ability to do this naturally, but it generally gets lost by the time we begin grade school due to a relative lack of activity and an abundance of sitting. This is one of the root causes of a lot of the chronic injuries many of us have. Stability is the foundation upon which all exercise should be done.",
+  "content_length": 784,
+  "content_tokens": 161,
   "embedding": []
  },
  {
-  "title": "Principles of Stability",
+  "title": "Correct Patterns of Movement",
   "date": "May 9, 2022",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "The correct patterns of movement are characterized by the ability to get air fully into your lungs, get your diaphragm low into your abdomen, flatten out your pelvic floor, and generate concentric, robust, intra abdominal pressure that stabilizes every aspect of them. Postural restoration (PRI), dynamic neuromuscular stabilization (DNS), and pilates are all different ways one can learn these principles of stability.",
-  "content_length": 419,
-  "content_tokens": 86,
+  "content": "The correct patterns of movement are characterized by the ability to: Get air fully into your lungs, Get your diaphragm low into your abdomen, Flatten out your pelvic floor, Generate concentric, robust, intra abdominal pressure that stabilizes every aspect of them. Postural restoration (PRI), DNS, and pilates are all different ways one can learn these principles of stability.",
+  "content_length": 378,
+  "content_tokens": 79,
   "embedding": []
  },
  {
@@ -324,29 +144,9 @@
   "date": "May 9, 2022",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "The macrostructure of the exercise routine hasn't changed much in the last year, while the microstructure (exercises) has changed a lot. Cardio days are Tuesday, Thursday, Saturday, and Sunday, with 45 minutes of zone 2 training on Tuesday, Thursday, Sunday. Saturday is either a zone 2 workout (45”) followed by zone 5 workout (30”) or a longer bike ride, more of an anaerobic workout. Weightlifting is done on Monday, Wednesday, Friday, and Sunday. 9 months ago, the routine switched to an upper body/ lower body split. Lower body is done on Mondays and Fridays, and upper body on Wednesdays and Sundays. Always lifts AFTER doing cardio because the reverse has been shown to erode strength-training gains.",
-  "content_length": 707,
-  "content_tokens": 163,
-  "embedding": []
- },
- {
-  "title": "Adjustments to Exercise Routine",
-  "date": "May 9, 2022",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "If a day of exercise is missed, adjustments are made to ensure the routine is maintained. For example, if a cardio/ ride followed by a lift day is missed, the lift is done on the previous day. However, the zone 2 workout may be short-changed. The routine is never compromised; always get 4 lifts in per week, even if it means moving the days around or doubling-up on another day.",
-  "content_length": 379,
-  "content_tokens": 85,
-  "embedding": []
- },
- {
-  "title": "Preferred Time for Exercise",
-  "date": "May 9, 2022",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "The preferred time for exercise is in the morning once the kids are out the door, off to school from Monday to Friday. The weekends are more flexible.",
-  "content_length": 150,
-  "content_tokens": 31,
+  "content": "The macrostructure of the exercise routine hasn’t changed much in the last year. The microstructure (exercises) has changed a lot. Cardio days are Tuesday, Thursday, Saturday, Sunday with 45 minutes of zone 2 training on Tuesday, Thursday, Sunday. Saturday is either a zone 2 workout followed by zone 5 workout or a longer bike ride, more of an anaerobic workout. Weightlifting is done on Monday, Wednesday, Friday, Sunday with lower body on Mondays and Fridays, and upper body on Wednesdays and Sundays. The lifts are always done AFTER doing cardio because the reverse has been shown to erode strength-training gains. If a day is missed, the lifts are never compromised; they will always get 4 lifts in per week. Sometimes it means moving the days around or doubling-up on another day.",
+  "content_length": 786,
+  "content_tokens": 173,
   "embedding": []
  }
 ]

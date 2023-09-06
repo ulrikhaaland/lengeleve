@@ -1,12 +1,12 @@
 [
  {
-  "title": "Longevity Benefits from Fitness",
+  "title": "Cardiorespiratory Fitness and Longevity",
   "date": "September 20, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "The longevity benefits from greater cardiorespiratory fitness (CRF) and greater muscle mass and strength. A rapid increase in morbidity and mortality risk as fitness levels decline with age. The relative contributions of CRF, muscle mass, and strength. The impact of fasting on muscle mass, the potential tradeoffs to consider, and why it’s critical to maximize your fitness level.",
-  "content_length": 381,
-  "content_tokens": 79,
+  "content": "The longevity benefits from greater cardiorespiratory fitness (CRF) and greater muscle mass and strength are discussed. A rapid increase in morbidity and mortality risk as fitness levels decline with age is shown in the literature. The relative contributions of CRF, muscle mass, and strength are also examined. The impact of fasting on muscle mass, the potential tradeoffs to consider, and the critical importance of working to maintain muscle mass and strength as we age are also discussed.",
+  "content_length": 492,
+  "content_tokens": 95,
   "embedding": []
  },
  {
@@ -14,139 +14,59 @@
   "date": "September 20, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "VO2 max and its association with cardiorespiratory fitness. Changing mortality risk based on VO2 max and cardiorespiratory fitness. The profound impact of improving cardiorespiratory fitness.",
-  "content_length": 191,
-  "content_tokens": 42,
+  "content": "VO2 max and its association with cardiorespiratory fitness is discussed. VO2 max is a measure of the maximum amount of oxygen a person can utilize during intense exercise. It is a common measure of cardiorespiratory fitness. The fittest of the fit have a VO2 max north of 80 milliliters of oxygen per kilogram per minute.",
+  "content_length": 321,
+  "content_tokens": 74,
   "embedding": []
  },
  {
-  "title": "Muscle Mass, Function, and Aging",
+  "title": "Mortality Risk and Cardiorespiratory Fitness",
   "date": "September 20, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Muscle mass, function, and loss with aging: how it’s defined, measured, and the cutoff points for sarcopenia. Increasing mortality risk associated with declining muscle mass and strength. Muscle size vs. strength—which has the bigger impact on mortality risk?",
-  "content_length": 259,
-  "content_tokens": 55,
+  "content": "The changing mortality risk based on VO2 max and cardiorespiratory fitness is discussed. A clear trend is observed with all-cause mortality and fitness levels. The biggest gap is between people in the bottom 25% of fitness levels and everyone above them. Improving from low to above average fitness can result in a 60% to 70% reduction in mortality.",
+  "content_length": 349,
+  "content_tokens": 73,
   "embedding": []
  },
  {
-  "title": "Cumulative Impact of Fitness and Strength on Mortality Risk",
+  "title": "Improving Cardiorespiratory Fitness",
   "date": "September 20, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Evaluating the cumulative impact of cardiorespiratory fitness and muscular strength on mortality risk when put together. Investigating the rising incidence in deaths from falls, and what role Alzheimer’s disease might play.",
-  "content_length": 223,
-  "content_tokens": 44,
+  "content": "The profound impact of improving cardiorespiratory fitness is discussed. The goal is for people to have a VO2 max that is considered 'elite' for someone a decade younger. For example, if you're 55 and female, the goal would be to have a VO2 max greater than 47, which is what would be considered elite for someone in their 40s to 50s.",
+  "content_length": 334,
+  "content_tokens": 79,
   "embedding": []
  },
  {
-  "title": "Fasting and Muscle Mass",
+  "title": "Training for Cardiorespiratory Fitness",
   "date": "September 20, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "The impact of fasting on muscle mass and the potential tradeoffs to consider. The critical importance of working to maintain muscle mass and strength as we age.",
-  "content_length": 160,
-  "content_tokens": 30,
+  "content": "A training protocol for improving cardiorespiratory fitness is discussed. This includes doing VO2 max specific training once a week and Zone 2 training. The VO2 max training involves doing two to four minute intervals at the highest level that can be maintained for that duration. This is typically done at a one-to-one ratio of work to recovery.",
+  "content_length": 346,
+  "content_tokens": 71,
   "embedding": []
  },
  {
-  "title": "VO2 max and Cardiorespiratory Fitness",
+  "title": "Age and Cardiorespiratory Fitness",
   "date": "September 20, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "VO2 max and its association with cardiorespiratory fitness. Does better cardiorespiratory fitness lead to less mortality and does lower cardiorespiratory fitness lead to higher mortality? Or is it at least associated? Most common thing in the literature is either METs, metabolic equivalents or VO2 max. For a VO2 max test, you are hooked up to an indirect calorimeter—a device that provides complete occlusion around your mouth and your nose so you’re only breathing through your mouth. The device has two sensors on it. One sensor measures the concentration of oxygen that is being expelled. The other one is also measuring the concentration of carbon dioxide that’s expelled. Because we know the concentration of oxygen and CO2 on the way in, by knowing what comes out and obviously oxygen will be lower, CO2 will be higher, we know how much carbon dioxide was produced and how much oxygen was consumed. Knowing those two things gives you a “flow rate” — VO2 and a VCO2. This can tell you how much energy you’re utilizing via something called the Fick principle. Total energy consumption is ~3.94 times VO2, and ~1.11 times VCO2 at any point in time. For instance, for this minute VO2 was X, VCO2 was Y, then you apply it to that equation and it will tell you that you were utilizing, say, 10 kilocalories per minute which would be 600 kilocalories per hour. During zone 2 exercise, it tends to be about 780 kilocalories per hour. But now what we’re talking about is something different which is… what is the maximum utilization of oxygen? If you make somebody work harder and harder and harder, at some point they will reach a maximum at which point, they can no longer utilize more oxygen.",
-  "content_length": 1694,
-  "content_tokens": 385,
+  "content": "The dramatic drop off in cardiorespiratory fitness with age is discussed. There is a precipitous fall in VO2 max in the elite category from the fifth to the sixth decade of life and onwards. This is due to a shift from Type II to Type I muscle fibers as we age. However, it is important to note that 'elite' in this context does not mean 'elite athlete', but rather refers to the top 2.5% of the general population in terms of fitness levels.",
+  "content_length": 442,
+  "content_tokens": 103,
   "embedding": []
  },
  {
-  "title": "Understanding VO2 Max",
+  "title": "Cardiorespiratory Fitness vs Smoking",
   "date": "September 20, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "VO2 max is a measure of the maximum volume of oxygen that an athlete can use. It is measured in liters per minute, but is often normalized by body weight to get milliliters per kilogram per minute. The fittest of the fit are going to be north of 80 milliliters of oxygen per kilogram per minute. Any sort of elite cardiac type athlete, a runner, cyclist, rower, those sorts of athletes, they’re generally going to be above 70.",
-  "content_length": 426,
-  "content_tokens": 101,
-  "embedding": []
- },
- {
-  "title": "Mortality Risk and VO2 Max",
-  "date": "September 20, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "A study ran a group of people through a VO2 max test and then ranked them. The study found a clear trend in all-cause mortality. There’s a relationship between fitness and mortality. The biggest gap is between the people in the bottom 25%, categorized as low fitness, and everyone above them. Going from just being low to being below average is a 50% reduction in mortality over a decade. If you then go from low to above average, it’s about a 60% or 70% reduction in mortality. The lowest improvement is going from high to elite.",
-  "content_length": 530,
-  "content_tokens": 118,
-  "embedding": []
- },
- {
-  "title": "Comparing Fitness Levels to Other Health Risks",
-  "date": "September 20, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "If you compare someone of low fitness to elite, it is a five fold difference in mortality over a decade. This was compared to other things that we commonly understand as being problematic for mortality, such as smoking, coronary artery disease, Type 2 diabetes, hypertension, and end-stage renal disease. The biggest driver of mortality, end-stage renal disease, is the same as going from low cardiorespiratory fitness to above average cardiorespiratory fitness.",
-  "content_length": 462,
-  "content_tokens": 94,
-  "embedding": []
- },
- {
-  "title": "Impact of Improving Cardiorespiratory Fitness",
-  "date": "September 20, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Improving cardiorespiratory fitness can have a profound impact on health and mortality. Going from the bottom 25th percentile to being in the 50th to 75th percentile in terms of fitness is a totally achievable feat and can significantly reduce mortality risk.",
-  "content_length": 259,
-  "content_tokens": 51,
-  "embedding": []
- },
- {
-  "title": "VO2 Max Test and Health",
-  "date": "September 20, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "VO2 max test is used to benchmark health. For each age, gender combo, two pieces of information are shown – i) METs and ii) VO2 max. There is a linear relationship between those two and an exact multiple 3.5. If you know how many METs you can hold for three minutes, then you multiply that by 3.5 and that’s your VO2 max. VO2 max is relied on because it’s more objective.",
-  "content_length": 371,
-  "content_tokens": 97,
-  "embedding": []
- },
- {
-  "title": "VO2 Max Goals and Training Protocol",
-  "date": "September 20, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "The aspiration is for people to be in the “elite” category for someone a decade younger. For example, if you’re 55 and you’re female, the goal is to have you be greater than 47, because that’s what would be elite for someone in their 40s to 50s. VO2 max training is done from the standpoint of longevity benefit. This energy system is trained directly once a week and then probably indirectly another once or twice a week. A VO2 max specific ride is typically done where you’re doing two to four minute intervals that are at the highest level that you can go for two to four minutes.",
-  "content_length": 583,
-  "content_tokens": 137,
-  "embedding": []
- },
- {
-  "title": "Age and VO2 Max",
-  "date": "September 20, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "There is a dramatic drop off in VO2 max with age. Going from the second decade of life to the third, the third to the fourth, the fourth to the fifth, the fifth to the sixth, there is very little fall. Then there is a big fall, bigger fall, bigger fall. This is based on the difference between how people perform in endurance activities versus explosive strength activities as they age. There is a greater ability to maintain cardiorespiratory fitness at a Masters level as you age and a lower level to maintain explosivity and strength as you age due really to the shift from Type II to Type I fibers.",
-  "content_length": 602,
-  "content_tokens": 128,
-  "embedding": []
- },
- {
-  "title": "Elite Fitness Level",
-  "date": "September 20, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Don’t confuse this for elite athlete — This is just the characteristic that was given to a general population that fall in the top ~2.5% of the population. Each time you move from one of these groups to the next, you get a statistically significant benefit. But the benefit gets less with each bump—You’re always going to want to go to the right and up, meaning increase your fitness and mimic that of somebody younger.",
-  "content_length": 419,
-  "content_tokens": 92,
-  "embedding": []
- },
- {
-  "title": "Cardiorespiratory Fitness",
-  "date": "September 20, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "The most important thing is getting out of that low and/or below average group. You get such an advantage of getting out of that group—it’s more beneficial than if a smoker quit smoking. If you knew somebody who had low cardiorespiratory fitness and didn’t want to take the steps that were necessary to get into even average or above average fitness, you would be able to say to them, ‘Do you realize the choice you’re making is more illogical than a smoker who continues to smoke?’…And it’s no comparison. It’s no comparison in terms of the hazard ratio of death.",
-  "content_length": 564,
-  "content_tokens": 137,
+  "content": "Having low cardiorespiratory fitness can be more detrimental to health than smoking. Improving fitness levels can significantly reduce the risk of death.",
+  "content_length": 153,
+  "content_tokens": 29,
   "embedding": []
  },
  {
@@ -154,19 +74,9 @@
   "date": "September 20, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Sarcopenia refers to the loss of muscle mass and strength, which is often associated with aging. It is defined by low muscle mass, low muscle strength, and low physical performance. Recently, the emphasis has been put on low muscle strength as the first criteria for sarcopenia. If you have low muscle strength, then you have probable sarcopenia. When you look at low muscle quantity or a quality, which is more or less looking at muscle mass, then that’s a confirmed diagnosis of sarcopenia. If you’re also low in physical performance, if you’re low in strength, low in quality and quantity of the muscle and low in physical performance, then they consider it more severe sarcopenia.",
-  "content_length": 684,
-  "content_tokens": 151,
-  "embedding": []
- },
- {
-  "title": "Effects of Aging on Muscles",
-  "date": "September 20, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "As a result of aging, we’re seeing more low grade inflammation, more oxidative stress, impaired regenerative capacity, impaired muscle protein synthesis. We replace our Type II muscle fibers—more contractile function—with fat and connective tissue. The net result is we are losing two things, i) the structural component of the muscle—the loss of the actual contractile function, and ii) the metabolic myocyte function. That’s why it’s accompanied by more insulin resistance, less glucose disposal, greater tendency to diabetes.",
-  "content_length": 528,
-  "content_tokens": 111,
+  "content": "Sarcopenia refers to the loss of muscle mass and strength, which is a common aspect of aging. It is defined by low muscle mass, low muscle strength, and low physical performance. Aging can lead to low-grade inflammation, oxidative stress, impaired regenerative capacity, and impaired muscle protein synthesis. This results in the replacement of Type II muscle fibers with fat and connective tissue, leading to insulin resistance, less glucose disposal, and a greater tendency to diabetes.",
+  "content_length": 488,
+  "content_tokens": 95,
   "embedding": []
  },
  {
@@ -174,39 +84,9 @@
   "date": "September 20, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "You could get an accurate measure of muscle mass by using a CT scan or an MRI, but they are not practical due to the risk of radiation and cost. The gold standard today is Dual X-ray absorptiometry (DXA or DEXA). While it’s not quite as accurate as CT and MRI, it does allow you to come up with an approximation of total muscle mass by just looking at the appendices (or appendicular lean mass (ALM)). Another common way—which probably is less accurate—is Bioelectrical Impedance Analysis, BIA. It’s a two compartment models: They’re looking at basically how much fat mass you have and how much fat free mass you have and also considering bone, connective tissue and the organs.",
-  "content_length": 678,
-  "content_tokens": 162,
-  "embedding": []
- },
- {
-  "title": "DEXA Scan and Appendicular Lean Mass",
-  "date": "September 20, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "In a DEXA scan example, an individual has 17.4 kilograms of appendicular lean mass. This is normalized by height to get a number in kilograms per meter squared. In this case, it is 6.24. This individual is a 49 year old female and she’s right above the cut point so she wouldn’t be considered sarcopenic.",
-  "content_length": 304,
-  "content_tokens": 76,
-  "embedding": []
- },
- {
-  "title": "Appendicular Lean Mass/Height2 (kg/m2) vs Age",
-  "date": "September 20, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "There’s a pretty wide range in the population. For example, a 50 year old woman in the bottom 3% would have an ALMI of five kilograms per meter squared. On the other end of the spectrum, the most muscular, the top 3% would be probably 8.5. For males at 50, the bottom 3% would be just below 7.0 and the top 3% are probably 10.5.",
-  "content_length": 328,
-  "content_tokens": 87,
-  "embedding": []
- },
- {
-  "title": "Muscle Mass in Men vs. Women",
-  "date": "September 20, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "There is a relative stability for women as they age; whereas men experience more of a decline. Women tend to hold a higher percentage of their muscle mass below their waist.",
-  "content_length": 173,
-  "content_tokens": 34,
+  "content": "Muscle mass can be measured using a CT scan or an MRI, but these methods are not practical due to the risk of radiation and cost. The gold standard today is Dual X-ray absorptiometry (DXA or DEXA), which provides an approximation of total muscle mass. Another common method is Bioelectrical Impedance Analysis (BIA), which measures fat mass and fat-free mass.",
+  "content_length": 359,
+  "content_tokens": 84,
   "embedding": []
  },
  {
@@ -214,79 +94,19 @@
   "date": "September 20, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "The sarcopenia cutoff points are defined as follows: For men, the cut off point is ASM divided by height or ALMI of below 7.0 kilograms per meter squared. For women, the cutoff is lower, at less than 5.5 kilograms per meters squared. This is both a quantitative and a functional definition of sarcopenia.",
-  "content_length": 304,
-  "content_tokens": 70,
+  "content": "The sarcopenia cut-off points are defined by muscle quantity and functional deficits. For men, the cut-off point is below 7.0 kilograms per meter squared, and for women, it is less than 5.5 kilograms per meters squared. Functional deficits are measured by grip strength and chair stand tests.",
+  "content_length": 292,
+  "content_tokens": 63,
   "embedding": []
  },
  {
-  "title": "Functional Deficits in Sarcopenia",
+  "title": "Mortality Risk Associated with Declining Muscle Mass and Strength",
   "date": "September 20, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Functional deficits are measured by low strength by “chair stand” and “grip strength”. For grip strength, the cutoff points for men is less than 27 kilograms and for women it’s 16 kilograms. For the chair stand, the cutoff points for men and women is greater than 15 seconds for five rises.",
-  "content_length": 290,
-  "content_tokens": 69,
-  "embedding": []
- },
- {
-  "title": "Research Focus in Sarcopenia",
-  "date": "September 20, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Most of the research focuses on grip strength, quadricep strength, and volume and muscle mass.",
-  "content_length": 94,
-  "content_tokens": 20,
-  "embedding": []
- },
- {
-  "title": "Mortality Risk and Muscle Mass",
-  "date": "September 20, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Once a group is defined as having low muscle mass or low muscle strength, there is an implication in terms of mortality. A meta analysis in 2017 found that people with sarcopenia, defined as low muscle mass, had a 60% increase in the relative risk of death compared to people without. The implication is that low muscle mass is a risk to men but not to women as they age. The weight of the studies is based on how many people were in the study and there weren’t a lot of women. The females is weighted lower because it’s a lower sample size.",
-  "content_length": 541,
-  "content_tokens": 120,
-  "embedding": []
- },
- {
-  "title": "Methods of Measuring Muscle Mass",
-  "date": "September 20, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Different methods are used to measure muscle mass. These include calf circumference, skeletal muscle index (SMI), and mid-arm muscle circumference (MAMC). The skeletal mass index is more or less what they’re trying to do is getting an appendicular score. But you can’t really get an appendicular score from BI analysis. They have equations where they try to basically validate and test those things compared to a DEXA to try to get an estimate for the appendicular lean mass.",
-  "content_length": 475,
-  "content_tokens": 103,
-  "embedding": []
- },
- {
-  "title": "Muscle Mass and Strength Study",
-  "date": "September 20, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "A study looked at muscle mass and muscle strength and the relationship between the two. They used two methods to measure low muscle mass (LMM): absolute appendicular lean mass and normalized appendicular lean mass by BMI. For low muscle strength (LMS), they used a knee extension dynamometer for testing leg strength. The study found that the appendicular lean mass in an absolute term was not a predictor of mortality, though there was a trend towards it. And when you normalize by BMI, there was a 47% increase in all-cause mortality, but it was not statistically significant.",
-  "content_length": 578,
-  "content_tokens": 118,
-  "embedding": []
- },
- {
-  "title": "Muscle Mass vs Strength",
-  "date": "September 20, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "If you do not have low muscle strength, but you’re deficient in muscle mass, there’s no statistically significant change. If you don’t have adequate strength, even muscle mass doesn’t rescue you. Strength matters more than mass. Low muscle strength was independently associated with increased risk for mortality. If you have low muscle mass, provided you have adequate strength, you’re okay. Be less concerned with the size of your muscles and be more concerned with how strong you are. The bigger your muscles get, all things equal, the stronger you’re probably getting as well.",
-  "content_length": 579,
-  "content_tokens": 125,
-  "embedding": []
- },
- {
-  "title": "Muscle Mass and Mortality Risk",
-  "date": "September 20, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Many studies that show mixed results in terms of muscle mass/strength and mortality risk try to adjust for confounders and end up removing diabetic people or people with renal disease. These conditions often correlate with low muscle mass/function. One of the drivers of end-stage renal disease is diabetes.",
-  "content_length": 307,
-  "content_tokens": 59,
+  "content": "Low muscle mass and strength are associated with an increased risk of mortality. A meta-analysis found a 60% increase in the relative risk of death for people with sarcopenia compared to those without. However, low muscle strength was found to be more associated with increased risk for mortality than low muscle mass.",
+  "content_length": 318,
+  "content_tokens": 61,
   "embedding": []
  },
  {
@@ -294,69 +114,19 @@
   "date": "September 20, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Muscle size vs. strength—which has the bigger impact on mortality risk? Aging is robbing you of lean mass and strength. The lowest rate of decline is 1% per year. Some studies show 1.3% per year. Others put it at one to 2% per year after 50. Loss of 35 to 40% between age 20 and 80. Some studies even showing 4% strength loss per year.",
-  "content_length": 335,
-  "content_tokens": 83,
+  "content": "Muscle strength appears to matter more than muscle size when it comes to mortality risk. People lose about 1-2% of their muscle mass per year after the age of 50, and the loss of strength might be even greater. Therefore, maintaining strength and cardiorespiratory fitness is crucial for health as one ages.",
+  "content_length": 307,
+  "content_tokens": 65,
   "embedding": []
  },
  {
-  "title": "Maintaining Strength and Muscle Mass",
+  "title": "Muscle Strength and Mortality",
   "date": "September 20, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "It’s very difficult to put that in context when you understand what compounding does. If you have the aspiration of kicking ass when you’re 85, you can’t afford to be average when you’re 50. Either through cardiorespiratory fitness, strength, or probably even muscle mass, to some extent, given its association with strength. You’ve got to be strong. You’ve got to have muscle mass to accompany that strength. You’ve got to have the cardiorespiratory fitness.",
-  "content_length": 459,
-  "content_tokens": 115,
-  "embedding": []
- },
- {
-  "title": "Muscle Strength and Mortality Risk Study",
-  "date": "September 20, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Another study that went out 10 years on the Kaplan–Meier curves. They looked at men and women leg strength versus grip strength (a leg extension and a grip exercise). The leg strength, they did it in newton meters. The grip strength is in kilograms.",
-  "content_length": 249,
-  "content_tokens": 54,
-  "embedding": []
- },
- {
-  "title": "Study on Age and Strength",
-  "date": "September 20, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Average age about 54 for men and women—essentially evaluating people in their sixth decade of life. They were followed prospectively for five to six years and looked at all-cause mortality.",
-  "content_length": 189,
-  "content_tokens": 38,
-  "embedding": []
- },
- {
-  "title": "Men's Leg Strength and Mortality",
-  "date": "September 20, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Results when looking at men’s leg strength showed that the weaker you are, the quicker the Kaplan-Meier curve moves down. They took their strength metric and they normalized it by muscle size. They used CT cross-sectional area and DEXA. With reduction in grip strength, which was normalized by DEXA arm measurement, it’s at 23%. All of these were statistically significant.",
-  "content_length": 373,
-  "content_tokens": 83,
-  "embedding": []
- },
- {
-  "title": "Women's Strength and Mortality",
-  "date": "September 20, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "For women, the results were statistically significant, but they had basically a higher confidence interval or a larger confidence interval. Meaning they came close to crossing unity.",
-  "content_length": 182,
-  "content_tokens": 31,
-  "embedding": []
- },
- {
-  "title": "Strength and Mortality Risk",
-  "date": "September 20, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Using a rigorous way to quantify strength and normalizing strength by size of muscle and then prospectively following people, we again see this trend. This goes hand in hand with the previous analysis which showed us that strength is the more important parameter.",
-  "content_length": 263,
-  "content_tokens": 48,
+  "content": "Generally with time, every Kaplan-Meier curve moves down as you go to the right. But the weaker you are, the quicker it goes down. They took their strength metric and they normalized it by muscle size. They used actually CT cross-sectional area and then they used DEXA. But when you take that normalized unit of strength per CT area and you reduce that by 0.2 units, or DEXA reduced by 0.34 units, you are seeing an increase of 26% or a 39% increase in mortality, respectively. With reduction in grip strength, which was normalized by DEXA arm measurement, it’s at 23%. And all of these were statistically significant.",
+  "content_length": 618,
+  "content_tokens": 142,
   "embedding": []
  },
  {
@@ -364,39 +134,9 @@
   "date": "September 20, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Evaluating the cumulative impact of cardiorespiratory fitness and muscular strength on mortality risk when put together. What does it mean to be both fit from a cardiorespiratory standpoint and a strength standpoint? Is there a case to be made for doing both?",
-  "content_length": 259,
-  "content_tokens": 55,
-  "embedding": []
- },
- {
-  "title": "Impact of Exercise Type on Mortality Risk",
-  "date": "September 20, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "A lot of people who enjoy doing one type of exercise at the expense of the other. If you have low strength, improving your cardiorespiratory fitness gives you a really big bang for your buck. If you go from ‘low strength, low cardiorespiratory’ up to ‘middle respiratory fitness’, that gives you a whopping 34% risk reduction. If you take it all the way up to high, it takes you to 42% risk reduction.",
-  "content_length": 401,
-  "content_tokens": 99,
-  "embedding": []
- },
- {
-  "title": "Quality of Life",
-  "date": "September 20, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "These data points do not capture quality of life. None of this speaks to, can you play with your grandkids? Can you still enjoy the things that you really love doing when you’re in your 80s that you enjoy doing in your 50s?",
-  "content_length": 223,
-  "content_tokens": 53,
-  "embedding": []
- },
- {
-  "title": "Cardiorespiratory Fitness and Strength",
-  "date": "September 20, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "The more you want to enjoy later in life, the more you want to be in that highest group of both strength and cardiorespiratory fitness. Those things are harder to quantify, but they matter quite a bit.",
-  "content_length": 201,
-  "content_tokens": 45,
+  "content": "Evaluating the cumulative impact of cardiorespiratory fitness and muscular strength on mortality risk when put together. What does it mean to be both fit from a cardiorespiratory standpoint and a strength standpoint? Is there a case to be made for doing both? You’re basically looking at three groups, each of which has three sub groups in it. Major groups are by strength, low, medium, and high strength. Within each of them, is low, medium and high cardiorespiratory fitness.",
+  "content_length": 477,
+  "content_tokens": 107,
   "embedding": []
  },
  {
@@ -404,49 +144,9 @@
   "date": "September 20, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "From 2007 to 2016, a 10 year period, we saw the deaths per 100,000 in the United States as a result of falls go from about 46 to 60. That’s a 30% increase. At this rate, by 2030, we’re going to see seven fall deaths every hour.",
-  "content_length": 227,
-  "content_tokens": 63,
-  "embedding": []
- },
- {
-  "title": "Death from Fall Stats",
-  "date": "September 20, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Looking at some of the death rates from 2016, the death from fall is 61.6 per 100,000. To put that in perspective, in adults age 65 and older the #10 cause of death is Septicemia (Sepsis) at 61.7 per 100,000. If you take all accidental deaths, they lump in falling, motor vehicle accident and unintentional poisoning—those three make up 80% of accidental deaths (about the 5th leading cause of death).",
-  "content_length": 401,
-  "content_tokens": 96,
-  "embedding": []
- },
- {
-  "title": "Increase in Falling Death Rate",
-  "date": "September 20, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "A paper speculated that this rate increase in deaths from falls might be because of longer survival after the onset of common diseases like heart disease, stroke and cancer, for example. In other words, people are getting longer survival but maybe not necessarily healthier survival.",
-  "content_length": 283,
-  "content_tokens": 50,
-  "embedding": []
- },
- {
-  "title": "Alzheimer’s Disease and Fall Deaths",
-  "date": "September 20, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Alzheimer’s disease deaths in adults over the age of 65 over the same period, from 2007 to 2016, there’s a similar rate increase (26%) to the increase in fall deaths (30%). Sarcopenia is a risk factor for Alzheimer’s disease. And if you have Alzheimer’s disease, that’s also a risk factor for sarcopenia. This might be a “vicious cycle situation”.",
-  "content_length": 347,
-  "content_tokens": 96,
-  "embedding": []
- },
- {
-  "title": "Traumatic Brain Injury and Unintentional Falling",
-  "date": "September 20, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "The leading cause of traumatic brain injury is unintentional falling, which exceeds that of even motor vehicle accidents. That means that these unintentional falls are not just the leading cause of mortality, but now morbidity from TBI.",
-  "content_length": 236,
-  "content_tokens": 43,
+  "content": "Peter says it’s “stunning” when you look at the increase in mortality we’ve seen over the past decade basically with respect to falls. From 2007 to 2016, a 10 year period, we saw the deaths per 100,000 in the United States as a result of falls go from about 46 to 60 (That’s a 30% increase). At this rate, by 2030, we’re going to see seven fall deaths every hour.",
+  "content_length": 363,
+  "content_tokens": 98,
   "embedding": []
  },
  {
@@ -454,39 +154,19 @@
   "date": "September 20, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "People look at fasting and actually caloric restriction and say, “Is there a trade off here that I’m making between building muscle and preserving muscle and potentially fasting?” Anytime you are doing a prolonged fast, probably anything over a couple of days, you’re taking a catabolic hit. Now the question is, how much of a hit are you taking to muscle size versus muscle strength? Everyone needs to be thoughtful about how they use fasting as a tool. Some patients should never be fasting.",
-  "content_length": 493,
-  "content_tokens": 105,
+  "content": "People look at fasting and actually caloric restriction and say, “Is there a trade off here that I’m making between building muscle and preserving muscle and potentially fasting?” You are making a trade off. Anytime you are doing a prolonged fast, probably anything over a couple of days, you’re taking a catabolic hit. Now the question is, how much of a hit are you taking to muscle size versus muscle strength?",
+  "content_length": 412,
+  "content_tokens": 91,
   "embedding": []
  },
  {
-  "title": "Fasting and Health",
+  "title": "Maintaining Muscle Mass and Strength as We Age",
   "date": "September 20, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Fasting isn't valuable in some cases, especially for patients who need to be more anabolic for purposes of building up and getting stronger. However, other people need the metabolic benefits of fasting, such as improvements in insulin sensitivity, glucose regulation, and other cardio-metabolic parameters. Fasting can be a useful tool for weight loss, but it's important to understand that muscle mass may also be reduced in the process. A one-size-fits-all approach is not suitable, and it's important to evaluate the situation in the context of individual health status. Anyone close to sarcopenia should not be fasting or in a calorie-restricted state.",
-  "content_length": 656,
-  "content_tokens": 132,
-  "embedding": []
- },
- {
-  "title": "Maintaining Muscle Mass and Strength with Age",
-  "date": "September 20, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "It's critically important to work to maintain muscle mass and strength as we age. Contrary to popular belief, the decline in muscle mass or size as we age is not linear or gradual, but rather staggered, especially in cases of injury or bedridden conditions. Having a muscle reserve is important for times of disease or injury. Waiting until older age to start building muscle could potentially be disastrous.",
-  "content_length": 408,
-  "content_tokens": 77,
-  "embedding": []
- },
- {
-  "title": "Effects of COVID on Muscle Mass",
-  "date": "September 20, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "The effect that COVID had on people is not just about life versus death. For those who ended up in the hospital, there's a significant deconditioning problem. A study mentioned in a podcast showed that a group of older subjects who trained heavily for a year gained an additional 5 lbs of muscle mass, but just a few weeks of inactivity took it all away. Regular exercise is crucial, and it's important to find a way to enjoy it as it needs to be done every day.",
-  "content_length": 462,
-  "content_tokens": 101,
+  "content": "A lot of people think that there’s a linear or gradual decline in muscle mass or muscle size as we age. The reality is that it’s a lot more staggered as you get into older age… if you’re injured or if you’re bedridden, for example, that accelerates the decline. Art De Vany often talks about “physiological headroom” which is basically just having a muscle reserve so that on a rainy day—which might mean you might get a disease or you might have an injury where you are going be incapacitated—that to have that muscle and reserve is really important.",
+  "content_length": 551,
+  "content_tokens": 131,
   "embedding": []
  }
 ]

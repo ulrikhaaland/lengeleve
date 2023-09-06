@@ -1,17 +1,19 @@
-import puppeteer from "puppeteer";
-import * as fs from "fs";
-import csv from "csv-parser";
-import { encode } from "gpt-3-encoder";
-import { Chunk } from "@/types";
-import { createClient } from "@supabase/supabase-js";
-import { Configuration, OpenAIApi } from "openai";
-import { loadEnvConfig } from "@next/env";
-import { JSDOM } from "jsdom";
+import puppeteer from 'puppeteer';
+import * as fs from 'fs';
+import csv from 'csv-parser';
+import { encode } from 'gpt-3-encoder';
+import { Chunk } from '@/types';
+import { createClient } from '@supabase/supabase-js';
+import { Configuration, OpenAIApi } from 'openai';
+import { loadEnvConfig } from '@next/env';
+import { JSDOM } from 'jsdom';
+import { time } from 'console';
+import { set } from 'mobx';
 
-const loginUrl = "https://peterattiamd.com/login/";
-const targetUrl = "https://peterattiamd.com/ama39/";
-const username = "ulrikhaaland2@gmail.com";
-const password = "Ulrik1994";
+const loginUrl = 'https://peterattiamd.com/login/';
+const targetUrl = 'https://peterattiamd.com/ama39/';
+const username = 'ulrikhaaland2@gmail.com';
+const password = 'Ulrik1994';
 
 export type Scraped = {
   position: number;
@@ -29,7 +31,7 @@ export type EncodedString = {
   encodedLength: number;
 };
 
-loadEnvConfig("");
+loadEnvConfig('');
 
 const configuration = new Configuration({
   apiKey: process.env.OPENAI_API_KEY,
@@ -62,14 +64,14 @@ const generateEmbeddings = async (chunks: Chunk[]): Promise<void> => {
     } = chunk;
 
     const embeddingResponse = await openai.createEmbedding({
-      model: "text-embedding-ada-002",
+      model: 'text-embedding-ada-002',
       input: content,
     });
 
     const [{ embedding }] = embeddingResponse.data.data;
 
     const { data, error } = await supabase
-      .from("training")
+      .from('training')
       .insert({
         title,
         date,
@@ -80,12 +82,12 @@ const generateEmbeddings = async (chunks: Chunk[]): Promise<void> => {
         content_tokens,
         embedding,
       })
-      .select("*");
+      .select('*');
 
     if (error) {
-      console.log("error", error);
+      console.log('error', error);
     } else {
-      console.log("saved", i, i);
+      console.log('saved', i, i);
     }
 
     await new Promise((resolve) => setTimeout(resolve, 200));
@@ -94,7 +96,7 @@ const generateEmbeddings = async (chunks: Chunk[]): Promise<void> => {
 };
 
 const extractText = (firstH4: Element, secondH4: Element): string => {
-  let extractedText = "";
+  let extractedText = '';
   let currentElement = firstH4.nextSibling;
 
   while (currentElement && currentElement !== secondH4) {
@@ -121,7 +123,7 @@ const scrape = async (
 
   // Check if the button with the specified class exists and click it if found
   const closeButtonSelector =
-    "CloseButton__ButtonElement-sc-79mh24-0 lnQjcm catoosa-CloseButton catoosa-close catoosa-ClosePosition--top-right";
+    'CloseButton__ButtonElement-sc-79mh24-0 lnQjcm catoosa-CloseButton catoosa-close catoosa-ClosePosition--top-right';
   const closeButton = await page.$(closeButtonSelector);
 
   if (closeButton) {
@@ -130,35 +132,43 @@ const scrape = async (
 
   // Check if the button with the specified class exists and click it if found
   const closeButtonSelector2 =
-    "CloseButton__ButtonElement-sc-79mh24-0 lnQjcm catoosa-CloseButton catoosa-close catoosa-ClosePosition--top-right";
+    'CloseButton__ButtonElement-sc-79mh24-0 lnQjcm catoosa-CloseButton catoosa-close catoosa-ClosePosition--top-right';
   const closeButton2 = await page.$(closeButtonSelector2);
 
   if (closeButton2) {
     await page.click(closeButtonSelector2);
   }
 
-  await page.type("#user_login", username);
-  await page.type("#user_pass", password);
-  await page.click("#wp-submit");
+  const closeButtonSelector3 = '.cky-btn.cky-btn-accept';
+
+  // Wait for the button to appear
+  await page.waitForSelector(closeButtonSelector3);
+
+  // Click the button
+  await page.click(closeButtonSelector3);
+
+  await page.type('#user_login', username);
+  await page.type('#user_pass', password);
+  await page.click('#wp-submit');
 
   await page.waitForTimeout(2000);
   await page.goto(url);
   await page.waitForTimeout(2000);
 
   let { content, category, date, firstH4 } = await page.evaluate(() => {
-    console.log("asd");
+    console.log('asd');
 
     const titleElement = document.querySelector(
-      ".heading--page"
+      '.heading--page'
     ) as HTMLElement;
     const categoryElement = document.querySelector(
-      ".list-item__category"
+      '.list-item__category'
     ) as HTMLElement;
     const dateElement = document.querySelector(
-      ".list-item__meta"
+      '.list-item__meta'
     ) as HTMLElement;
     const contentElement = document.querySelector(
-      ".content--post"
+      '.content--post'
     ) as HTMLElement;
 
     const title = titleElement.textContent;
@@ -170,7 +180,7 @@ const scrape = async (
       'h4[id="notes"]:nth-child(2)'
     );
 
-    console.log("ASDASDASDASDSAD");
+    console.log('ASDASDASDASDSAD');
 
     const content =
       firstH4 && secondH4
@@ -184,15 +194,15 @@ const scrape = async (
 
   if (title && content) {
     content = content.trim();
-    date = date.replace("\n", "").trim();
-    console.log("Title:", title.replace(/\s+/g, " ").trim());
+    date = date.replace('\n', '').trim();
+    console.log('Title:', title.replace(/\s+/g, ' ').trim());
     // console.log("Content:", content.trim());
 
     const jsonContent = JSON.stringify({ title, content }, null, 2);
     fs.writeFileSync(`scripts/data/raw/${title}.json`, jsonContent);
     return { position, title, content, category, date };
   } else {
-    console.log("Could not find the specified text or title.");
+    console.log('Could not find the specified text or title.');
     return undefined;
   }
 };
@@ -201,32 +211,32 @@ export const onParseFailure = async (failedContent: string) => {
 
   try {
     response = await openai.createChatCompletion({
-      model: "gpt-4",
+      model: 'gpt-4',
       messages: [
         {
-          role: "system",
-          content: "You help with formatting JSON.",
+          role: 'system',
+          content: 'You help with formatting JSON.',
         },
         {
-          role: "user",
+          role: 'user',
           content:
-            "This content was parsed incorrectly. Can you turn it into JSON list containg each chunk as JSON format: {title: title, content: content}. It is crucial to respond in the JSON Format as requested.",
+            'This content was parsed incorrectly. Can you turn it into JSON list containg each chunk as JSON format: {title: title, content: content}. It is crucial to respond in the JSON Format as requested.',
         },
         {
-          role: "user",
+          role: 'user',
           content: failedContent,
         },
       ],
       temperature: 0.1,
-      max_tokens: 1000,
+      max_tokens: 3000,
     });
   } catch (e) {
     console.log(e);
     console.log(configuration.apiKey);
   }
 
-  if (response!.status !== 200) {
-    throw new Error("OpenAI API returned an error");
+  if (!response || response!.status !== 200) {
+    throw new Error('OpenAI API returned an error');
   } else {
     return response!.data.choices[0].message?.content;
   }
@@ -237,28 +247,29 @@ const chatCompletetion = async (content: string) => {
 
   try {
     response = await openai.createChatCompletion({
-      model: "gpt-4",
+      model: 'gpt-4',
       messages: [
         {
-          role: "user",
+          role: 'user',
           content:
-            "I will give you a chunk of text. You will extract the parts that is relevant to health. You will not use any personal names. You will leave out parts where they talk about peoples backgrounds. You will keep in mind that these chunks are meant for extraction from an embedding database, therefore you will format it appropriately. Then you will combine the relevant text into a chunks, give each chunk a title, and only return a JSON list containg each chunk as JSON format: {title: title, content: content}. It is crucial to respond in the JSON Format as requested.",
+            'I will give you a chunk of text. You will extract the parts that is relevant to health. You will not use any personal names. You will leave out parts where they talk about peoples backgrounds. You will keep in mind that these chunks are meant for extraction from an embedding database, therefore you will format it appropriately. Then you will combine the relevant text into a chunks, give each chunk a title, and only return a JSON list containg each chunk as JSON format: {title: title, content: content}. It is crucial to respond in the JSON Format as requested.',
         },
         {
-          role: "user",
+          role: 'user',
           content: content,
         },
       ],
       temperature: 0.0,
-      max_tokens: 1000,
+      max_tokens: 3000,
     });
   } catch (e) {
     console.log(e);
     console.log(configuration.apiKey);
   }
 
-  if (response!.status !== 200) {
-    throw new Error("OpenAI API returned an error");
+  if (!response || response!.status !== 200) {
+    return null;
+    throw new Error('OpenAI API returned an error');
   } else {
     return response!.data.choices[0].message?.content;
   }
@@ -268,6 +279,11 @@ async function PP(content: any, tries?: number): Promise<any> {
   let parsed;
 
   if (tries === 3) return undefined;
+
+  if (tries == undefined) {
+    // Usage:
+    await sleep(1000);
+  }
 
   try {
     parsed = JSON.parse(content);
@@ -301,7 +317,18 @@ const parse = async (scraped: Scraped): Promise<Chunk[]> => {
       content = await chatCompletetion(chunk.content);
     }
 
-    let parsed = await PP(content);
+    if (content === null) {
+      continue;
+    }
+
+    let parsed;
+
+    try {
+      parsed = await PP(content);
+    } catch (error) {
+      console.log(error);
+      continue;
+    }
 
     if (!parsed || parsed?.length === 0) {
       continue;
@@ -320,7 +347,7 @@ const parse = async (scraped: Scraped): Promise<Chunk[]> => {
         title: chunk.title,
         date: scraped.date,
         context: scraped.category,
-        people: "Peter Attia",
+        people: 'Peter Attia',
         content: chunk.content.trim(),
         content_length: chunk.content.trim().length,
         content_tokens: encode(chunk.content.trim()).length,
@@ -335,7 +362,7 @@ const parse = async (scraped: Scraped): Promise<Chunk[]> => {
 
   const jsonContent = JSON.stringify(chunks, null, 1);
 
-  fs.writeFile(filePath, jsonContent, "utf8", (err) => {
+  fs.writeFile(filePath, jsonContent, 'utf8', (err) => {
     if (err) {
       console.error(`Error writing to file ${filePath}:`, err);
     } else {
@@ -347,13 +374,13 @@ const parse = async (scraped: Scraped): Promise<Chunk[]> => {
 };
 
 async function runScrape(row: any) {
-  const number = row["position"];
-  const title = row["title"];
-  const url = row["link"];
+  const number = row['position'];
+  const title = row['title'];
+  const url = row['link'];
 
   const scrapeItem = await scrape(number, title, url);
 
-  console.log("scraping: " + title);
+  console.log('scraping: ' + title);
 
   const content = splitString(scrapeItem!.content);
   scrapeItem!.contentEncoded = content;
@@ -369,9 +396,9 @@ function removeHtmlElementsAndLinks(input: string): string {
   const dom = new JSDOM(input);
 
   // Return the text content without any HTML tags
-  const textContent = dom.window.document.body.textContent || "";
+  const textContent = dom.window.document.body.textContent || '';
 
-  const startSearchString = "Show Notes*";
+  const startSearchString = 'Show Notes*';
   const startSearchIndex = textContent.indexOf(startSearchString);
 
   // If the start specified string is found, remove all text before it
@@ -380,7 +407,7 @@ function removeHtmlElementsAndLinks(input: string): string {
       ? textContent.substring(startSearchIndex)
       : textContent;
 
-  const endSearchString = "§Selected Links";
+  const endSearchString = '§Selected Links';
   const endSearchIndex = updatedTextContent.indexOf(endSearchString);
 
   // If the end specified string is found, remove all text after it
@@ -390,26 +417,26 @@ function removeHtmlElementsAndLinks(input: string): string {
 
   return updatedTextContent;
 }
-function splitString(input: string, maxLength: number = 1000): EncodedString[] {
+function splitString(input: string, maxLength: number = 3000): EncodedString[] {
   // Remove all HTML elements and links
   input = removeHtmlElementsAndLinks(input);
 
   const result: EncodedString[] = [];
-  let currentSubstring = "";
+  let currentSubstring = '';
 
   for (let i = 0; i < input.length; i++) {
     currentSubstring += input[i];
     const encoded = encode(currentSubstring);
 
     if (encoded.length >= maxLength - 1 || i === input.length - 1) {
-      let lastIndex = currentSubstring.lastIndexOf("\n");
+      let lastIndex = currentSubstring.lastIndexOf('\n');
 
       // Ensure that we don't split on a number
       while (
         lastIndex > 0 &&
         !isNaN(parseInt(currentSubstring[lastIndex + 1], 10))
       ) {
-        lastIndex = currentSubstring.lastIndexOf("\n", lastIndex - 1);
+        lastIndex = currentSubstring.lastIndexOf('\n', lastIndex - 1);
       }
 
       if (lastIndex === -1 || lastIndex === currentSubstring.length - 1) {
@@ -418,7 +445,7 @@ function splitString(input: string, maxLength: number = 1000): EncodedString[] {
           contentLength: currentSubstring.length,
           encodedLength: encode(currentSubstring).length,
         });
-        currentSubstring = "";
+        currentSubstring = '';
       } else {
         const resultString = currentSubstring.substring(0, lastIndex);
         result.push({
@@ -442,25 +469,29 @@ function splitString(input: string, maxLength: number = 1000): EncodedString[] {
   return result;
 }
 async function startScrape(results: any[]) {
-  for (let i = 0; i < results.length; i++) {
+  for (let i = 10; i < results.length; i++) {
     const row = results[i];
     await runScrape(row);
     // console.log(i);
-    console.log("generated embeddings for: " + row["title"]);
+    console.log('generated embeddings for: ' + row['title']);
   }
 }
 
 async function main() {
   const results: any[] = [];
 
-  fs.createReadStream("scripts/data/csv/zone2_unique.csv")
+  fs.createReadStream('scripts/data/csv/sleep_unique.csv')
     .pipe(csv())
-    .on("data", (data: any) => results.push(data))
-    .on("end", () => {
+    .on('data', (data: any) => results.push(data))
+    .on('end', () => {
       startScrape(results);
     });
 }
 
 main().catch((error) => {
-  console.error("Error:", error);
+  console.error('Error:', error);
 });
+
+function sleep(ms: number): Promise<void> {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
