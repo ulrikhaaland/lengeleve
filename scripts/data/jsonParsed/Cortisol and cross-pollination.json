@@ -1,32 +1,22 @@
 [
  {
-  "title": "The Nuances of Cortisol and Insulin",
+  "title": "Understanding Cortisol",
   "date": "July 28, 2019",
   "context": "Nutritional Biochemistry",
   "people": "Peter Attia",
-  "content": "Cortisol and insulin play opposing roles acutely. Cortisol is a mobilizing (catabolic) hormone and insulin is a depositing (anabolic) hormone. Cortisol appears to simultaneously stimulate fat deposition and fat mobilization and it can induce or exacerbate insulin resistance. What happens to cortisol in the body may depend on what’s happening with insulin, and vice versa, along with other important fat cell hormones and enzymes.",
-  "content_length": 431,
-  "content_tokens": 85,
+  "content": "Cortisol is a hormone that plays a significant role in metabolism. It's easy to demonize cortisol, much in the same way we are naively prone to do with insulin (i.e., high = bad; low = good). It’s important to remember context before we do so. Elevated cortisol can help save our life in fight-or-flight situations or it can contribute to chronic disease. Cortisol and insulin appear to play opposing roles acutely. Insulin is a depositing (anabolic) hormone and cortisol is a mobilizing (catabolic) hormone. Cushing syndrome is a condition where a person is faced with continuous and excessive cortisol production. One of the hallmarks of Cushing syndrome is excessive fat accumulation and extreme muscle wasting of the extremities. In the case of Addison’s Disease, where cortisol levels can drop to very low levels, it is characterized by weight loss. Cortisol appears to simultaneously stimulate fat deposition and fat mobilization and it can induce or exacerbate insulin resistance.",
+  "content_length": 987,
+  "content_tokens": 207,
   "embedding": []
  },
  {
-  "title": "The Interplay Between Nutrition, Exercise, Sleep, Stress, and Glucocorticoids",
+  "title": "Interplay between Nutrition, Exercise, Sleep, Stress, and Glucocorticoids",
   "date": "July 28, 2019",
   "context": "Nutritional Biochemistry",
   "people": "Peter Attia",
-  "content": "Peter Attia has been able to find many insights and answers to the many questions he has on the issue of glucocorticoids from previous guests of the podcast. He was able to find information on cortisol from guests such as Robert Sapolsky, Nav Chandel, Matthew Walker, Jason Fung, and Robert Lustig.",
-  "content_length": 298,
+  "content": "The interplay between nutrition, exercise, sleep, stress, and glucocorticoids can provide many insights into health and metabolism. What happens to cortisol in the body may depend on what’s happening with insulin, and vice versa, along with other important fat cell hormones and enzymes, such as hormone-sensitive lipase.",
+  "content_length": 321,
   "content_tokens": 67,
-  "embedding": []
- },
- {
-  "title": "The Qualys",
-  "date": "July 28, 2019",
-  "context": "Nutritional Biochemistry",
-  "people": "Peter Attia",
-  "content": "Peter Attia's team has been working on The Qualys, which are mini episodes highlighting the best questions, topics, and tactics discussed on the podcast. One of the things he wants to put an emphasis on is not just the best clips from a particular episode, but the best topics, which are often covered in several different episodes. Using cortisol as an example, some of the guests that have talked about the hormone and its effects on health include Matthew Walker, Robert Sapolsky, Jason Fung, Nav Chandel, and Robert Lustig.",
-  "content_length": 527,
-  "content_tokens": 110,
   "embedding": []
  }
 ]

@@ -1,32 +1,32 @@
 [
  {
-  "title": "Resistance exercise is important for reducing sarcopenia and osteoporosis",
+  "title": "Importance of Resistance Exercise",
   "date": "March 25, 2023",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Resistance exercise is one of the most potent ways to reduce sarcopenia, the loss of muscle mass and strength, and osteoporosis, the loss of bone mineral content.",
-  "content_length": 162,
-  "content_tokens": 37,
+  "content": "Fragility is the enemy of performing the activities of daily living. If you want to be able to walk up the stairs or play with kids on the floor well into your 80s and 90s, you’re going to need to counteract the inevitable age-related losses of muscle and bone tissue. Resistance exercise is one of the most potent ways to reduce sarcopenia, the loss of muscle mass and strength, and osteoporosis, the loss of bone mineral content.",
+  "content_length": 431,
+  "content_tokens": 97,
   "embedding": []
  },
  {
-  "title": "Researchers discover a new drug that mimics the effects of exercise",
+  "title": "Potential Alternative to Exercise: LAMZ",
   "date": "March 25, 2023",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Researchers from Tokyo Medical and Dental University have recently reported their discovery of a new drug that leads to some of the same effects on bone and muscle as locomotion. Could this drug – which they’ve named “locamidazole” or LAMZ – be an alternative to exercising?",
-  "content_length": 274,
-  "content_tokens": 63,
+  "content": "Researchers have recently reported their discovery of a new drug that leads to some of the same effects on bone and muscle as locomotion. This drug, named 'locamidazole' or LAMZ, could potentially be an alternative to exercising, especially in cases where exercise is not a viable option, such as in patients with dementia, or during temporary bed rest, such as after a hip fracture.",
+  "content_length": 383,
+  "content_tokens": 81,
   "embedding": []
  },
  {
-  "title": "LAMZ was able to blunt the effects of sarcopenia and osteoporosis",
+  "title": "Efficacy of LAMZ in Mice",
   "date": "March 25, 2023",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "While it’s not a substitute for exercise, LAMZ was able to blunt the effects of sarcopenia and osteoporosis and may prove to be useful as a stop-gap during temporary extended periods of inactivity.",
-  "content_length": 197,
-  "content_tokens": 48,
+  "content": "When administered daily via an oral route in healthy mice, LAMZ effectively entered the bloodstream and was taken up by muscle and bone. After 14 days, the mice treated with LAMZ had increased muscle fiber width, which translated to fewer episodes of fatigue during a fixed 15-minute duration of treadmill running and greater maximal muscle strength. Micro-CT showed that mice treated with LAMZ had increased bone volume, improved trabecular bone thickness, and increased bone mineral content.",
+  "content_length": 493,
+  "content_tokens": 97,
   "embedding": []
  },
  {
@@ -40,53 +40,53 @@
   "embedding": []
  },
  {
-  "title": "LAMZ and its effects on muscle and bone",
+  "title": "Potential Limitations and Side Effects of LAMZ",
   "date": "March 25, 2023",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "The mice treated with LAMZ showed increases in muscle fiber size and bone deposition, but without any reported changes in body composition. The influence of LAMZ with declining levels of sex hormones will need to be compared to these initial results to determine if the drug will be effective in older populations. Each experiment was conducted over 14 days, the equivalent of a few months in humans, so other side effects might not show up in this timeframe.",
-  "content_length": 459,
-  "content_tokens": 88,
+  "content": "The initial findings may seem exciting, but there are several reasons to remain skeptical that these results will translate to humans. Even with increases in muscle fiber size and bone deposition, the mice treated with LAMZ didn’t change weight and remained the same weight as the controls. The overall metabolic implications remain unknown without any reported changes in body composition. While there were no adverse effects seen on routine blood test monitoring, there may be other long-term effects of LAMZ, since calcium signaling and PGC-1α have a wide range of functions.",
+  "content_length": 578,
+  "content_tokens": 112,
   "embedding": []
  },
  {
-  "title": "LAMZ is not a substitute for exercise",
+  "title": "LAMZ is Not a Substitute for Exercise",
   "date": "March 25, 2023",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "LAMZ was not able to completely stop the sarcopenic and osteoporotic effects of disuse, so this drug is not a replacement for exercise (or an excuse to be sedentary) in the average person. Exercise is essential for increasing aerobic capacity, cardiac output, and insulin sensitivity. Exercise is also an effective means to improve cognition and mood while lowering stress. LAMZ cannot mimic these myriad effects of exercise beyond muscle anabolism and bone deposition.",
-  "content_length": 469,
-  "content_tokens": 95,
+  "content": "Despite its significant effects relative to control treatment, LAMZ was not able to completely stop the sarcopenic and osteoporotic effects of disuse, so this drug is not a replacement for exercise (or an excuse to be sedentary) in the average person. Beyond the effects on muscle and bone, there is currently no evidence that LAMZ positively influences the cardiovascular system, the nervous system, or overall metabolism. Exercise is essential for increasing aerobic capacity, cardiac output, and insulin sensitivity. Being able to walk up a flight of stairs requires sufficient cardiorespiratory capacity and neuromuscular control, not just adequate bone and muscle mass. Exercise is also an effective means to improve cognition and mood while lowering stress.",
+  "content_length": 763,
+  "content_tokens": 148,
   "embedding": []
  },
  {
-  "title": "Exercise is the best way to maintain overall health",
+  "title": "Importance of Physical Exercise",
   "date": "March 25, 2023",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Physical exercise is one of the best ways to maintain overall health with age.",
-  "content_length": 78,
-  "content_tokens": 15,
+  "content": "Physical exercise is one of the best ways to maintain overall health with age. For those who are able, the best way to continue to avoid sarcopenia and osteoporosis is through exercise.",
+  "content_length": 185,
+  "content_tokens": 40,
   "embedding": []
  },
  {
-  "title": "LAMZ may be a viable therapy in some cases",
+  "title": "Drug Therapy for Inactivity",
   "date": "March 25, 2023",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "In some clinical cases where exercise is not feasible, such as recovering from a hip fracture, drug therapy such as LAMZ may prove to be a viable way to slow the onset of frailty resulting from inactivity or reduced movement. But more needs to be understood about the effects of LAMZ before it is translated to human trials, including its efficacy in elderly populations.",
-  "content_length": 371,
-  "content_tokens": 75,
+  "content": "In some clinical cases where exercise is not feasible, such as recovering from a hip fracture, drug therapy may prove to be a viable way to slow the onset of frailty resulting from inactivity or reduced movement.",
+  "content_length": 212,
+  "content_tokens": 42,
   "embedding": []
  },
  {
-  "title": "Exercise is better than exercise-mimicking drugs",
+  "title": "Research on LAMZ",
   "date": "March 25, 2023",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "For those who are able, the best way to continue to avoid sarcopenia and osteoporosis is through exercise – not a flashy exercise-mimicking drug.",
-  "content_length": 145,
-  "content_tokens": 35,
+  "content": "More needs to be understood about the effects of LAMZ before it is translated to human trials, including its efficacy in elderly populations.",
+  "content_length": 141,
+  "content_tokens": 27,
   "embedding": []
  }
 ]

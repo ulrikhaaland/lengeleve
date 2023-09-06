@@ -1,12 +1,12 @@
 [
  {
-  "title": "Footwear",
+  "title": "Footwear and Toe Health",
   "date": "June 6, 2022",
   "context": "Stability",
   "people": "Peter Attia",
-  "content": "Peter says going from a minimalist foot pattern to a heavily supported shoe has altered our attachment to the ground. Beth also considers modern footwear to be a problem, particularly because it decreases one’s ability to use their toes.",
-  "content_length": 237,
-  "content_tokens": 45,
+  "content": "Going from a minimalist foot pattern to a heavily supported shoe has altered our attachment to the ground. Modern footwear decreases one’s ability to use their toes. If we’re never experiencing load through the toes and the forefoot and you’re never feeling your feet you’re going to lose that.",
+  "content_length": 294,
+  "content_tokens": 65,
   "embedding": []
  },
  {
@@ -14,13 +14,13 @@
   "date": "June 6, 2022",
   "context": "Stability",
   "people": "Peter Attia",
-  "content": "Taken from FRC, Beth has her clients do “toe yoga” to help regain and maintain capacity to use the toes. This basically involves spreading the toes apart and moving the big toe and other toes up and down independently of each other, all while keeping the rest of the foot relatively still.",
-  "content_length": 289,
-  "content_tokens": 62,
+  "content": "Toe yoga helps regain and maintain capacity to use the toes. This involves spreading the toes apart and moving the big toe and other toes up and down independently of each other, all while keeping the rest of the foot relatively still.",
+  "content_length": 235,
+  "content_tokens": 46,
   "embedding": []
  },
  {
-  "title": "Importance of maintaining use of your toes",
+  "title": "Importance of Toe Use",
   "date": "June 6, 2022",
   "context": "Stability",
   "people": "Peter Attia",

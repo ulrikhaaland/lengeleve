@@ -1,32 +1,22 @@
 [
  {
-  "title": "Effect of Vitamin D Supplementation on Fracture Risk",
+  "title": "Vitamin D Supplementation and Fracture Risk",
   "date": "August 13, 2022",
   "context": "Medications, Supplements & Other Treatments",
   "people": "Peter Attia",
-  "content": "The NEJM study published two weeks ago utilized data from the VITAL trial, tracking the incidence of bone fractures among nearly 26,000 participants over the 5-year follow-up period. The study aimed to assess whether vitamin D supplementation reduced risk of incident fractures, but the underlying question, then, is whether vitamin D levels in the body are inversely associated with fracture risk. Vitamin D was measured in fewer than 25% of participants at follow-up, and only a fraction of those participants had also provided baseline samples for comparison (~10% of the total study population).",
-  "content_length": 599,
-  "content_tokens": 115,
+  "content": "An article in the New England Journal of Medicine discussed the effect of vitamin D supplementation on fracture risk. The study utilized data from a 5-year, placebo-controlled, double-blinded, randomized clinical trial of over 18,000 participants. The investigators concluded that supplementation with vitamin D did not have a significant effect on mood or depressive symptoms. Another study published in the NEJM utilized data from the same trial, this time tracking the incidence of bone fractures among nearly 26,000 participants over the 5-year follow-up period. The study aimed to assess whether vitamin D supplementation reduced risk of incident fractures. For vitamin D supplementation to have any effect relative to placebo, it needs to be increasing the body’s supply of vitamin D. The researchers relied on self-reporting questionnaires to assess supplementation adherence and the outcome of interest was also measured by self-report, with participants reporting fractures in annual questionnaires. The vitamin D group was given a dose of 2000 IU/day. A sizable subset of participants took vitamin D supplements outside of the study directives, especially among the placebo group.",
+  "content_length": 1190,
+  "content_tokens": 219,
   "embedding": []
  },
  {
-  "title": "Baseline Characteristics",
+  "title": "Baseline Characteristics and Vitamin D Levels",
   "date": "August 13, 2022",
   "context": "Medications, Supplements & Other Treatments",
   "people": "Peter Attia",
-  "content": "The NEJM study did not limit their analysis to those with low baseline vitamin D levels. Individuals are generally considered deficient in vitamin D if circulating levels are below 20 ng/mL, and only about 13% of study participants met this definition at the start of the study.",
-  "content_length": 278,
-  "content_tokens": 54,
-  "embedding": []
- },
- {
-  "title": "Dose of Intervention",
-  "date": "August 13, 2022",
-  "context": "Medications, Supplements & Other Treatments",
-  "people": "Peter Attia",
-  "content": "The vitamin D group was given a dose of 2000 IU/day. With pre- and post-treatment comparison from only 10% of participants, we just can’t be sure that this dose was sufficient to raise vitamin D to a clinically meaningful level above the placebo group. In our practice we do not supplement with a dose of 2000 IU. Either we don’t supplement at all (if we levels are adequate) or we supplement with 5000 IU if supplementation is warranted.",
-  "content_length": 438,
-  "content_tokens": 97,
+  "content": "The NEJM study did not limit their analysis to those with low baseline vitamin D levels. Individuals are generally considered deficient in vitamin D if circulating levels are below 20 ng/mL, and only about 13% of study participants met this definition at the start of the study. The authors stratified participants into quartiles based on baseline vitamin D levels, and their results demonstrated no significant differences in fracture risk between quartiles. However, the data did show a trend toward highest risk among the lowest quartile (vitamin D ≤24 ng/mL) and lowest risk among the highest quartile (vitamin D ≥37 ng/mL).",
+  "content_length": 628,
+  "content_tokens": 127,
   "embedding": []
  }
 ]

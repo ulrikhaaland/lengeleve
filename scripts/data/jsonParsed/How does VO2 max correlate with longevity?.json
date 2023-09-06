@@ -1,22 +1,32 @@
 [
  {
-  "title": "The Importance of Cardiovascular Fitness for Longevity",
+  "title": "Mortality Risk and Cardiorespiratory Fitness",
   "date": "May 17, 2022",
   "context": "VO2 Max",
   "people": "Peter Attia",
-  "content": "A study conducted on 122,000 patients found that there is a monotonic relationship between fitness and mortality. The biggest gap is between the people in the bottom 25% who are categorized as low fitness and everyone above them. Going from low to below average is a 50% reduction in mortality over a decade. Going from low to above average is about a 60% or 70% reduction in mortality. The lowest improvement is going from high to elite. If you compare someone of low fitness to elite, it is a five-fold difference in mortality over a decade. Improving your fitness can have a significant impact on mortality rates.",
-  "content_length": 616,
-  "content_tokens": 126,
+  "content": "Changing mortality risk based on VO2 max and cardiorespiratory fitness. Overview of the experiment: A group of people that were 53 years old on average ran them through a VO2 max test and then it ranked them. Low were people who scored in the bottom 25th percentile, below average was the 25th to 50 percentile, 50 to 75th percentile was above average, high was 75th to maybe 95th, and elite was just that top 5%. A total of 122,000 patients participated. Looking at all-cause mortality there’s a clear trend. There’s a relationship between fitness and mortality. The biggest gap is between the people in the bottom 25%, categorized as low fitness, and everyone above them.",
+  "content_length": 673,
+  "content_tokens": 150,
   "embedding": []
  },
  {
-  "title": "Comparison of Mortality Rates with Other Health Conditions",
+  "title": "Risk-Adjusted All-Cause Mortality",
   "date": "May 17, 2022",
   "context": "VO2 Max",
   "people": "Peter Attia",
-  "content": "When comparing the differences in fitness levels, it gives you a greater appreciation for how much improvement in mortality comes from improving your fitness. The biggest driver of mortality is end-stage renal disease in this cohort, which is the same as going from low cardiorespiratory fitness to above average cardiorespiratory fitness. Going from the bottom 25th percentile to being in the 50th to 75th percentile is a totally achievable feat.",
-  "content_length": 447,
-  "content_tokens": 88,
+  "content": "When lumping everyone in together, male and female, if you have low fitness and then comparing it to everybody else, what’s the risk reduction? Going from just being low to being below average is a 50% reduction in mortality over a decade. If you then go from low to above average, it’s about a 60% or 70% reduction in mortality. Then it just continues monotonically to increase. The lowest improvement is going from high to elite.",
+  "content_length": 431,
+  "content_tokens": 97,
+  "embedding": []
+ },
+ {
+  "title": "Comparison of Fitness Levels and Mortality",
+  "date": "May 17, 2022",
+  "context": "VO2 Max",
+  "people": "Peter Attia",
+  "content": "If you compare someone of low fitness to elite, it is a five fold difference in mortality over a decade. They put this in the context of other things that we commonly understand as being problematic for mortality… Namely, smoking, coronary artery disease, Type 2 diabetes, hypertension, and end-stage renal disease. But now when you compare that to the differences in these fitness levels, it gives you a greater appreciation for how much improvement in mortality comes from improving your fitness. If you look at the biggest driver of mortality, which would be end-stage renal disease in this cohort, it’s the same as going from low cardiorespiratory fitness to above average cardiorespiratory fitness.",
+  "content_length": 703,
+  "content_tokens": 143,
   "embedding": []
  }
 ]

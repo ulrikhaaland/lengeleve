@@ -1,22 +1,32 @@
 [
  {
-  "title": "Superior tools for measuring obesity at the individual level",
+  "title": "Measuring Obesity",
   "date": "March 21, 2022",
   "context": "Body Composition",
   "people": "Peter Attia",
-  "content": "Peter uses other tools to measure obesity; DEXA scans provide 4 points of information: 1) % body fat 2) Visceral fat (VAT, visceral adipose tissue) 3) Bone mineral density 4) Appendicular Lean Mass Index, a measure of muscle mass. It also provides information about subcutaneous fat, but that doesn’t seem to matter because it is incredibly genetic and relatively uncoupled from metabolic health. VAT, the visceral adipose tissue seems to be much more tightly correlated to what we see when we look at more sophisticated biomarkers of insulin sensitivity and metabolic health, and any evidence of liver fat. Peter wonders if at the population level, something better than BMI will come alone one day.",
-  "content_length": 700,
-  "content_tokens": 149,
+  "content": "Superior tools for measuring obesity at the individual level include DEXA scans which provide 4 points of information: 1) % body fat 2) Visceral fat (VAT, visceral adipose tissue) 3) Bone mineral density 4) Appendicular Lean Mass Index, a measure of muscle mass. It also provides information about subcutaneous fat, but that doesn’t seem to matter because it is incredibly genetic and relatively uncoupled from metabolic health. VAT, the visceral adipose tissue seems to be much more tightly correlated to what we see when we look at more sophisticated biomarkers of insulin sensitivity and metabolic health, and any evidence of liver fat.",
+  "content_length": 639,
+  "content_tokens": 135,
   "embedding": []
  },
  {
-  "title": "Nutrition Science Initiative (NuSI)",
+  "title": "Limitations of BMI",
   "date": "March 21, 2022",
   "context": "Body Composition",
   "people": "Peter Attia",
-  "content": "He has also served on the Scientific Advisory Board for the Nutrition Science Initiative (NuSI).",
-  "content_length": 96,
-  "content_tokens": 19,
+  "content": "BMI offers little insight, relative to other tools. It’s the least bad tool available to get massive data sets and broad assessments on, for understanding what’s going on at the population level. However, there are concerns about the futility of BMI measurement in some populations.",
+  "content_length": 282,
+  "content_tokens": 59,
+  "embedding": []
+ },
+ {
+  "title": "Editorial Contributions",
+  "date": "March 21, 2022",
+  "context": "Body Composition",
+  "people": "Peter Attia",
+  "content": "Contributed to many editorial boards and is currently an associate editor or statistical editor for Obesity; International Journal of Obesity; Nutrition Today; Obesity Reviews; Public Library of Science (PLOS) Genetics; Surgery for Obesity and Related Diseases (SOARD), and American Journal of Clinical Nutrition. Founding Field Chief Editor of Frontiers in Genetics.",
+  "content_length": 367,
+  "content_tokens": 66,
   "embedding": []
  },
  {
@@ -24,19 +34,9 @@
   "date": "March 21, 2022",
   "context": "Body Composition",
   "people": "Peter Attia",
-  "content": "Dr. Allison's research interests include obesity and nutrition.",
-  "content_length": 63,
-  "content_tokens": 11,
-  "embedding": []
- },
- {
-  "title": "Editorial Boards",
-  "date": "March 21, 2022",
-  "context": "Body Composition",
-  "people": "Peter Attia",
-  "content": "Dr. Allison has contributed to many editorial boards, including Nutrition Today and American Journal of Clinical Nutrition.",
-  "content_length": 123,
-  "content_tokens": 20,
+  "content": "Research interests include obesity and nutrition, quantitative genetics, clinical trials, statistical and research methodology, and research rigor and integrity.",
+  "content_length": 161,
+  "content_tokens": 25,
   "embedding": []
  }
 ]

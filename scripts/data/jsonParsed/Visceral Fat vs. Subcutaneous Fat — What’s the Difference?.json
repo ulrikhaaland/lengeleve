@@ -1,26 +1,16 @@
 [
  {
-  "title": "The different types of body fat",
+  "title": "Types of Body Fat",
   "date": "March 22, 2022",
   "context": "Body Composition",
   "people": "Peter Attia",
-  "content": "Subcutaneous fat = fat between the skin and the fascia. Visceral fat = fat beneath the fascia near the vital organs. Visceral fat is incredibly associated with metabolic disease. Although there are no standard reference ranges for visceral fat, in healthy individuals, values are generally less than 1 kg for younger individuals and between 1-2 kg for older individuals.",
-  "content_length": 370,
-  "content_tokens": 75,
+  "content": "Not all fat is created equal. Subcutaneous fat is the fat between the skin and the fascia. The inability to see the six-pack of abs is really an issue of either too small rectus abdominis muscle group and/or too much subcutaneous fat surrounding the rectus abdominis muscles. Visceral fat is the fat beneath the fascia near the vital organs. Visceral fat is found around the liver, the kidneys, the spleen, and the gut. Visceral fat is incredibly associated with metabolic disease. In an ideal world, rather than tracking our BF%, we would instead track what % of our fat was visceral fat. Although there are no standard reference ranges for visceral fat, in healthy individuals, values are generally less than 1 kg for younger individuals and between 1-2 kg for older individuals.",
+  "content_length": 781,
+  "content_tokens": 170,
   "embedding": []
  },
  {
-  "title": "Tracking visceral fat",
-  "date": "March 22, 2022",
-  "context": "Body Composition",
-  "people": "Peter Attia",
-  "content": "In an ideal world, rather than tracking our BF%, we would instead track what % of our fat was visceral fat.",
-  "content_length": 107,
-  "content_tokens": 24,
-  "embedding": []
- },
- {
-  "title": "Using MRI to see visceral fat",
+  "title": "MRI and Visceral Fat",
   "date": "March 22, 2022",
   "context": "Body Composition",
   "people": "Peter Attia",

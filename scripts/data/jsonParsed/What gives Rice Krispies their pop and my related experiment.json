@@ -1,36 +1,36 @@
 [
  {
-  "title": "The Science Behind Rice Krispies Popping",
+  "title": "Understanding the Composition of Rice Krispies",
   "date": "April 25, 2021",
   "context": "Nutritional Biochemistry",
   "people": "Peter Attia",
-  "content": "The answer lies in how the rice kernel molecular structure transforms as a result of the manufacturing process. A rice kernel is predominantly made up of starch granules. Starch is a polysaccharide, which means that it is made up of a series of glucose molecules linked together. The transformative process has 3 steps: (1) preliminary cooking exposes the starch granule to water that later expands as gas under high temperature, (2) rolling the granule damages its structure and allows for (3) kernel puffing when the absorbed water vaporizes and forcibly expands the granule. As a function of temperature and water content changes over the course of the whole process, the kernel undergoes a glass transition where the starch granule structure becomes more disordered and more rigidly bound. Once the Rice Krispies hit the cereal bowl and absorb liquid (milk), the moisture content increases and the kernel goes from glassy to rubbery. The pockets of trapped air release as the walls of the kernel are weakened, which in turn break the parts of the structure that are still glassy, forcing the Snap! Crackle! Pop!",
-  "content_length": 1115,
-  "content_tokens": 227,
+  "content": "A rice kernel is predominantly made up of starch granules. Starch is a polysaccharide, which means that it is made up of a series of glucose molecules linked together. The transformative process has 3 steps: preliminary cooking exposes the starch granule to water that later expands as gas under high temperature, rolling the granule damages its structure and allows for kernel puffing when the absorbed water vaporizes and forcibly expands the granule. The steam bubbles that form within the network of starch granules also expand the kernel’s structure until its walls reach their elasticity limit and there is a sudden loss of water when the bubbles break open. But some gas stays trapped in the kernel walls because not all bubbles break open.",
+  "content_length": 747,
+  "content_tokens": 146,
   "embedding": []
  },
  {
-  "title": "Glycemic Response Comparison",
+  "title": "The Science Behind the Popping Sound of Rice Krispies",
   "date": "April 25, 2021",
   "context": "Nutritional Biochemistry",
   "people": "Peter Attia",
-  "content": "In summary, the 3-way comparison produced the following results: Compared to plain white rice, Rice Krispies produced a higher and faster glycemic response on a gram-for-gram basis. And both rice foods induced a higher and faster glycemic response compared to the Generation UCAN product.",
-  "content_length": 288,
-  "content_tokens": 60,
+  "content": "As a function of temperature and water content changes over the course of the whole process, the kernel undergoes a glass transition where the starch granule structure becomes more disordered and more rigidly bound. Once the Rice Krispies hit the cereal bowl and absorb liquid, the moisture content increases and the kernel goes from glassy to rubbery. The pockets of trapped air release as the walls of the kernel are weakened, which in turn break the parts of the structure that are still glassy, forcing the Snap! Crackle! Pop!",
+  "content_length": 530,
+  "content_tokens": 108,
   "embedding": []
  },
  {
-  "title": "Processed Foods and Glycemic Response",
+  "title": "Glycemic Response to Rice Krispies",
   "date": "April 25, 2021",
   "context": "Nutritional Biochemistry",
   "people": "Peter Attia",
-  "content": "The glycemic response hierarchy is not so surprising, considering that food metabolism changes with molecular structure alterations. In most instances, processed foods produce a higher glycemic response compared to their non-processed counterparts.",
-  "content_length": 248,
-  "content_tokens": 41,
+  "content": "Compared to plain white rice, Rice Krispies produced a higher and faster glycemic response on a gram-for-gram basis. And both rice foods induced a higher and faster glycemic response compared to the Generation UCAN product. The glycemic response hierarchy is not so surprising, considering that food metabolism changes with molecular structure alterations. In most instances, processed foods produce a higher glycemic response compared to their non-processed counterparts.",
+  "content_length": 472,
+  "content_tokens": 88,
   "embedding": []
  },
  {
-  "title": "Generation UCAN",
+  "title": "Generation UCAN: A Unique Food Processing Exception",
   "date": "April 25, 2021",
   "context": "Nutritional Biochemistry",
   "people": "Peter Attia",
@@ -40,7 +40,7 @@
   "embedding": []
  },
  {
-  "title": "Food Processing and Nutritional Absorption",
+  "title": "Glycemic Response to Different Starch Products",
   "date": "April 25, 2021",
   "context": "Nutritional Biochemistry",
   "people": "Peter Attia",

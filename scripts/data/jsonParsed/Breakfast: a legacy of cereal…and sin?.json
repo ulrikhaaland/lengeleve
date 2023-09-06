@@ -1,22 +1,32 @@
 [
  {
-  "title": "The Origins of Breakfast Cereal",
+  "title": "Breakfast Importance and Health",
   "date": "June 28, 2020",
   "context": "Nutritional Biochemistry",
   "people": "Peter Attia",
-  "content": "John Harvey Kellogg developed one of the first dried cereals in an attempt to provide a healthful option for patients he treated at the Battle Creek Sanitarium, a wellness resort based on health principles advocated by the Seventh-day Adventist Church. Kellogg believed “stimulating” foods, such as rich sauces, condiments, spices, and highly seasoned food, “has an undoubted influence upon the sexual nature of boys, stimulating those organs into too early activity, and occasioning temptations to sin which otherwise would not occur.” Bland foods would allow for a “simple, pure and unstimulating diet,” and provide a number of benefits. For example, the diet could help prevent young men from masturbating, which to Kellogg, was “the most dangerous of all sexual abuses.”",
-  "content_length": 774,
-  "content_tokens": 171,
+  "content": "We’ve been told for decades that breakfast is “the most important meal of the day.” More recently, studies have made headlines suggesting that skipping breakfast is unhealthy. The American Heart Association (AHA) putting their “heart-healthy” stamp of approval on breakfast cereals such as Lucky Charms, Trix, and Cocoa Puffs was a face-palm move. These three selections no longer adorn the seal, but the AHA still includes other sugar-sweetened cereals on their list of certified heart-healthy foods. Digging into a bowl of French Toast Crunch and skim milk for your health seems like a bad choice, assuming you have at least a tincture of interest in your health.",
+  "content_length": 665,
+  "content_tokens": 152,
   "embedding": []
  },
  {
-  "title": "The Addition of Sugar to Cereal",
+  "title": "Origins of Breakfast Cereal",
   "date": "June 28, 2020",
   "context": "Nutritional Biochemistry",
   "people": "Peter Attia",
-  "content": "John Harvey’s brother, and business partner, William, wished they could reach more customers, and he thought sugar was the answer. Because of his nutrition and religious beliefs, John Harvey was against adding “flavorful foods” like sugar—which he believed were “sinful and unclean”—to his foods. After all, the whole point of this simple and pure cereal thing was to stop people from pleasuring themselves. He was apparently so opposed to this idea that he walked away from the partnership, leaving William in control of the cereal company. Kellogg’s went on to release such hits as Sugar Corn Pops, Sugar Frosted Flakes, and Sugar Smacks, and since then have developed a prodigious list of sugary cereals.",
-  "content_length": 707,
-  "content_tokens": 160,
+  "content": "Before General Foods, there was Kellogg’s. Before Kellogg’s the brand, there was Kellogg the man. John Harvey Kellogg—a doctor, a nutritionist, and a Seventh-day Adventist—developed one of the first dried cereals in an attempt to provide a healthful option for patients he treated at the Battle Creek Sanitarium, a wellness resort based on health principles advocated by the Seventh-day Adventist Church. Kellogg believed “stimulating” foods, such as rich sauces, condiments, spices, and highly seasoned food, “has an undoubted influence upon the sexual nature of boys, stimulating those organs into too early activity, and occasioning temptations to sin which otherwise would not occur.” Bland foods would allow for a “simple, pure and unstimulating diet,” and provide a number of benefits.",
+  "content_length": 791,
+  "content_tokens": 183,
+  "embedding": []
+ },
+ {
+  "title": "Evolution of Breakfast Cereal",
+  "date": "June 28, 2020",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "Eventually, he created a food company to help with the production. Their first cereal was called Granula. That name was already taken by James Caleb Jackson, who is perhaps the true inventor of dry breakfast cereal. Jackson also started the trend of eating cereal with milk, since his creation, dried graham flour dough nuggets, were so hard they required soaking in milk for at least 20 minutes to actually chew the food. Kellogg renamed his cereal to Granola. John Harvey’s brother, and business partner, William, wished they could reach more customers, and he thought sugar was the answer. Because of his nutrition and religious beliefs, John Harvey was against adding “flavorful foods” like sugar—which he believed were “sinful and unclean”—to his foods. After all, the whole point of this simple and pure cereal thing was to stop people from pleasuring themselves. He was apparently so opposed to this idea that he walked away from the partnership, leaving William in control of the cereal company. Kellogg’s went on to release such hits as Sugar Corn Pops, Sugar Frosted Flakes, and Sugar Smacks, and since then have developed a prodigious list of sugary cereals.",
+  "content_length": 1169,
+  "content_tokens": 253,
   "embedding": []
  }
 ]

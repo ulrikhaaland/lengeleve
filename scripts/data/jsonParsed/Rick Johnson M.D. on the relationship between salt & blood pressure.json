@@ -1,32 +1,52 @@
 [
  {
-  "title": "The Role of Uric Acid in High Blood Pressure",
+  "title": "Mechanisms that drive high blood pressure",
   "date": "March 7, 2022",
   "context": "High Blood Pressure",
   "people": "Peter Attia",
-  "content": "Rick Johnson found that high uric acid levels could be driving inflammation in the kidneys, leading to high blood pressure. He did studies in adolescents who were overweight and discovered that many of them had high uric acid levels and high blood pressure. He also did studies in animals and saw that when they raised uric acid, the animals developed high blood pressure. He did a study where they randomized adolescents with high blood pressure to drugs to lower uric acid or not. The results were remarkable, 90% of them normalized their blood pressure when their uric acid levels were lowered.",
-  "content_length": 597,
-  "content_tokens": 115,
+  "content": "Salt is important in blood pressure. In animals that are sensitive to high blood pressure, blood pressure can be worsened by giving them salt. Studies showed that if you put people with high blood pressure on a salt restriction, this lowered blood pressure. This has led to recommendations to restrict salt in people with high blood pressure. As we get older, we become more sensitive to the effects of salt on blood pressure. People with high blood pressure have inflammation in their kidneys. This inflammation tends to be in the main part of the kidney where the tubules are and around the little blood vessels. The inflammation was actually maintaining the kidney in a state where it couldn’t get rid of salt very well. This occurs by creating reduced blood flow to the kidney. People with high blood pressure have reduced blood flow to their kidneys. When the blood flow is reduced, this affects the ability of the kidney to excrete salt, and triggers the retention of salt.",
+  "content_length": 979,
+  "content_tokens": 189,
   "embedding": []
  },
  {
-  "title": "Richard Johnson's Background",
+  "title": "High blood pressure as an inflammatory disease",
   "date": "March 7, 2022",
   "context": "High Blood Pressure",
   "people": "Peter Attia",
-  "content": "Richard Johnson is a professor of medicine in the Department of Nephrology at the University of Colorado since 2008 and he’s spent the last 19 years being a division chief across three very prestigious medical schools. An unbelievably prolific author, Rick has well over 700 publications in JAMA, New England Journal of Medicine, Science, et Cetera. He’s lectured across 40 countries, authored two books, including The Fat Switch, and has been funded extensively by the National Institute of Health (NIH).",
-  "content_length": 505,
+  "content": "High blood pressure is an inflammatory disease that is driven by inflammation. Many things could drive inflammation in the kidneys. Some drugs are very vasoconstrictive; cocaine, for example, and other things that constrict the renal arteries. Activation of the renin angiotensin system, for example, can cause ischemia to the kidneys and bring in this inflammation. But one thing that seems to drive it is a level of high uric acid.",
+  "content_length": 433,
+  "content_tokens": 93,
+  "embedding": []
+ },
+ {
+  "title": "Role of uric acid in high blood pressure",
+  "date": "March 7, 2022",
+  "context": "High Blood Pressure",
+  "people": "Peter Attia",
+  "content": "Studies in adolescents who were overweight revealed that many of them had high uric acid levels and were discovered to have high blood pressure. Studies in animals showed that when they raised uric acid, the animals developed high blood pressure. A study was done where adolescents with high blood pressure were randomized to drugs to lower uric acid or not. The results were remarkable, 90% of them normalized their blood pressure when their uric acid levels were lowered. There was a 5-8 mm drop in ambulatory blood pressure.",
+  "content_length": 527,
   "content_tokens": 103,
   "embedding": []
  },
  {
-  "title": "Richard Johnson's Research Focus",
+  "title": "Professional Experience",
   "date": "March 7, 2022",
   "context": "High Blood Pressure",
   "people": "Peter Attia",
-  "content": "His primary focus in research has been on the mechanisms causing kidney disease, but it was in doing this that he became really interested in the connection between fructose (and fructose metabolism) and obesity, diabetes, heart disease, hypertension, and metabolic disease.",
-  "content_length": 274,
-  "content_tokens": 49,
+  "content": "A professor of medicine in the Department of Nephrology at the University of Colorado since 2008 and has spent the last 19 years being a division chief across three very prestigious medical schools. Has well over 700 publications in JAMA, New England Journal of Medicine, Science, et cetera. Has lectured across 40 countries, authored two books, including The Fat Switch, and has been funded extensively by the National Institute of Health (NIH).",
+  "content_length": 446,
+  "content_tokens": 88,
+  "embedding": []
+ },
+ {
+  "title": "Research Focus",
+  "date": "March 7, 2022",
+  "context": "High Blood Pressure",
+  "people": "Peter Attia",
+  "content": "Primary focus in research has been on the mechanisms causing kidney disease. Became really interested in the connection between fructose (and fructose metabolism) and obesity, diabetes, heart disease, hypertension, and metabolic disease.",
+  "content_length": 237,
+  "content_tokens": 40,
   "embedding": []
  }
 ]

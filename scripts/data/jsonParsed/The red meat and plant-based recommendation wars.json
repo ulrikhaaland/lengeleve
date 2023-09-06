@@ -1,32 +1,32 @@
 [
  {
-  "title": "Impact of Meat Consumption on Health",
+  "title": "Investigation on Impact of Red Meat and Processed Meat",
   "date": "March 1, 2020",
   "context": "Nutritional Biochemistry",
   "people": "Peter Attia",
-  "content": "The Annals of Internal Medicine published 6 papers by the same group of investigators investigating the impact of unprocessed red meat and processed meat on cardiovascular disease, cancer, and all-cause mortality. This group of investigators ultimately recommended that adults continue eating the current levels of red and processed meat while acknowledging that this was a “weak recommendation,” based on evidence that provides little certainty.",
-  "content_length": 446,
-  "content_tokens": 78,
+  "content": "The Annals of Internal Medicine published 6 papers investigating the impact of unprocessed red meat and processed meat on cardiovascular disease, cancer, and all-cause mortality. Red meat was defined as mammalian meat, and processed meat was defined as white or red meat preserved by smoking, curing, salting, or adding preservatives. The investigators recommended that adults continue eating the current levels of red and processed meat while acknowledging that this was a weak recommendation, based on evidence that provides little certainty. The evidence for adverse outcomes associated with meat consumption is too weak to recommend reducing its consumption.",
+  "content_length": 662,
+  "content_tokens": 115,
   "embedding": []
  },
  {
-  "title": "Limitations of Nutritional Epidemiology",
+  "title": "Criticism and Controversy",
   "date": "March 1, 2020",
   "context": "Nutritional Biochemistry",
   "people": "Peter Attia",
-  "content": "The recommendation faced criticism from public health authorities who have previously taken a hard line on meat avoidance. Rather than repeat myself on the limitations of nutritional epidemiology and the behind-the-scenes ridiculousness that is going on with groups that are supposedly promoting good health and science, I highly suggest you read the perspective in JAMA, the Annals papers (at least the recommendations paper), and the HSPH’s response to the recommendations.",
-  "content_length": 475,
-  "content_tokens": 89,
+  "content": "The recommendation faced criticism from public health authorities who have previously taken a hard line on meat avoidance. The perspective points to financial ties to industry as the exclusive conflict of interest, whether pro- or anti-meat. Nonfinancial conflicts of interest these authors have in terms of their ideological, intellectual, and allegiance biases are often not discussed.",
+  "content_length": 387,
+  "content_tokens": 66,
   "embedding": []
  },
  {
-  "title": "Improving the Quality of Dietary Research",
+  "title": "Need for Improvement in Dietary Research",
   "date": "March 1, 2020",
   "context": "Nutritional Biochemistry",
   "people": "Peter Attia",
-  "content": "In a viewpoint in JAMA, David Ludwig and his colleagues provide some suggestions for improving the quality of dietary research that I think make sense. I can’t help but agree with people like John Ioannidis who argue (as he did in JAMA) the field of nutritional epidemiology needs radical reform.",
-  "content_length": 296,
-  "content_tokens": 63,
+  "content": "Suggestions for improving the quality of dietary research have been provided. The field of nutritional epidemiology needs radical reform. Nutritional epidemiology is a scandal. It should just go to the waste bin.",
+  "content_length": 212,
+  "content_tokens": 40,
   "embedding": []
  }
 ]

@@ -1,102 +1,32 @@
 [
  {
-  "title": "Shoulder Exercises Post-Op",
+  "title": "Shoulder Surgery Recovery",
   "date": "June 17, 2022",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Peter Attia films his week 9 post-op PT session with Kyler Brown where they walk through 11 shoulder exercises. These exercises are great even if you’re not recovering from surgery.",
-  "content_length": 181,
+  "content": "Had shoulder surgery in March 2022. Recently given clearance to expand range of motion. Week 9 post-op PT session included 11 shoulder exercises. These exercises are beneficial even if not recovering from surgery.",
+  "content_length": 213,
   "content_tokens": 39,
   "embedding": []
  },
  {
-  "title": "Isometric Shoulder Exercises",
+  "title": "Shoulder Exercises",
   "date": "June 17, 2022",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "This video includes several isometric shoulder exercises, including shoulder extension, shoulder flexion, and shoulder external rotation. These exercises can help improve shoulder strength and stability.",
-  "content_length": 203,
-  "content_tokens": 32,
+  "content": "Isometric Shoulder Extension, Isometric Shoulder Flexion, Isometric Shoulder External Rotation, Assisted Flexion/Supination with Core Activation and Diaphragmatic Breathing, Ipsilateral Rotation With Banded Hip and Shoulder Facilitation, Bilateral Banded External Rotation (3 hand positions), Kickstand RDL with External Rotation Isometric the Shoulder, Reverse Lunge with Isometric Row, Isometric Cuff walk-outs (Increases load tolerance without motion to the joint)",
+  "content_length": 467,
+  "content_tokens": 105,
   "embedding": []
  },
  {
-  "title": "Assisted Flexion/Supination with Core Activation and Diaphragmatic Breathing",
+  "title": "Rotator Cuff Exercises",
   "date": "June 17, 2022",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "This exercise involves assisted flexion and supination with core activation and diaphragmatic breathing. It can help improve shoulder mobility and stability.",
-  "content_length": 157,
-  "content_tokens": 28,
-  "embedding": []
- },
- {
-  "title": "Ipsilateral Rotation With Banded Hip and Shoulder Facilitation",
-  "date": "June 17, 2022",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "This exercise involves ipsilateral rotation with banded hip and shoulder facilitation. It can help improve shoulder and hip mobility and stability.",
-  "content_length": 147,
-  "content_tokens": 27,
-  "embedding": []
- },
- {
-  "title": "Bilateral Banded External Rotation",
-  "date": "June 17, 2022",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "This exercise involves bilateral banded external rotation with three hand positions. It can help improve shoulder strength and stability.",
-  "content_length": 137,
-  "content_tokens": 22,
-  "embedding": []
- },
- {
-  "title": "Kickstand RDL with External Rotation Isometric the Shoulder",
-  "date": "June 17, 2022",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "This exercise involves a kickstand RDL with external rotation isometric the shoulder. It can help improve shoulder and hip mobility and stability.",
-  "content_length": 146,
-  "content_tokens": 27,
-  "embedding": []
- },
- {
-  "title": "Reverse Lunge with Isometric Row",
-  "date": "June 17, 2022",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "This exercise involves a reverse lunge with isometric row. It can help improve shoulder and back strength and stability.",
-  "content_length": 120,
-  "content_tokens": 23,
-  "embedding": []
- },
- {
-  "title": "Isometric Cuff walk-outs",
-  "date": "June 17, 2022",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "This exercise involves isometric cuff walk-outs, which can help increase load tolerance without motion to the joint.",
-  "content_length": 116,
-  "content_tokens": 22,
-  "embedding": []
- },
- {
-  "title": "Rotator Cuff Eccentrics",
-  "date": "June 17, 2022",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "This video includes rotator cuff eccentrics, which can help improve shoulder strength and stability.",
-  "content_length": 100,
-  "content_tokens": 19,
-  "embedding": []
- },
- {
-  "title": "Rotator Cuff Eccentric with Drop sets",
-  "date": "June 17, 2022",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "This exercise involves rotator cuff eccentric with drop sets, which can help improve shoulder strength and stability.",
-  "content_length": 117,
-  "content_tokens": 20,
+  "content": "Rotator Cuff Eccentrics, Rotator Cuff Eccentric with Drop sets",
+  "content_length": 62,
+  "content_tokens": 17,
   "embedding": []
  }
 ]

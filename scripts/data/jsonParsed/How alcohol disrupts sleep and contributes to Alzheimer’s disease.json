@@ -1,12 +1,22 @@
 [
  {
-  "title": "How alcohol disrupts sleep (and contributes to Alzheimer’s disease)",
+  "title": "Alcohol's Impact on Sleep and Alzheimer's Disease",
   "date": "March 29, 2022",
   "context": "Alcohol & Sleep",
   "people": "Peter Attia",
-  "content": "Alcohol inhibits vasopressin, so it’s a potent diuretic, which means you’ll need to get up to urinate more frequently. It also negatively impacts: resting heart rate, heart rate variability, temperature and respiratory rate. Frequent wake ups (fragmented sleep) is a common side effect of alcohol consumption. Fragmented sleep is a predisposing factor for greater likelihood of amyloid and tau pathology, which are the two proteins that seem to contribute right now to Alzheimer’s.",
-  "content_length": 481,
-  "content_tokens": 109,
+  "content": "Alcohol disrupts sleep and contributes to Alzheimer's disease. Alcohol is often misunderstood as a sleep aid. There is an association between alcohol consumption and Alzheimer's disease potentially mediated through the destruction of sleep that alcohol causes. Fragmented sleep is often seen in Alzheimer's disease. Two forms of quality sleep include consistent bedtime and wake up time, and continuous sleep during the night. Alcohol disrupts this by causing frequent wake ups, or fragmented sleep. Many people aren't even realizing they are waking up frequently. Alcohol inhibits vasopressin, so it's a potent diuretic, which means you'll need to get up to urinate more frequently. It also negatively impacts resting heart rate, heart rate variability, temperature and respiratory rate. Fragmented sleep seems to be a predisposing factor for greater likelihood of amyloid and tau pathology, which are the two proteins that contribute to Alzheimer's.",
+  "content_length": 951,
+  "content_tokens": 181,
+  "embedding": []
+ },
+ {
+  "title": "The Importance of Quality Sleep",
+  "date": "March 29, 2022",
+  "context": "Alcohol & Sleep",
+  "people": "Peter Attia",
+  "content": "Quality sleep is characterized by a consistent bedtime and wake up time, and continuous sleep during the night with as few awakenings as possible. Our bodies love consistent rhythm and when forced out of that rhythm, the circadian rhythm is markedly disrupted. Alcohol is particularly harmful as it litters sleep with numerous awakenings, mimicking a sleep phenotype that predisposes individuals to a higher Alzheimer's disease risk.",
+  "content_length": 433,
+  "content_tokens": 79,
   "embedding": []
  }
 ]

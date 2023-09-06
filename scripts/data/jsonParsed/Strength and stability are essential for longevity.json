@@ -1,42 +1,32 @@
 [
  {
-  "title": "Physical Goals at 90 Years Old",
+  "title": "Physical Health and Aging",
   "date": "May 26, 2022",
   "context": "Strength & Muscle Mass",
   "people": "Peter Attia",
-  "content": "Envision yourself at 90 years old. What do you want to be able to do, physically? Perhaps it’s as simple as walking up two flights of stairs or playing on the floor with your great-grandkids.",
-  "content_length": 191,
-  "content_tokens": 46,
+  "content": "Envision yourself at 90 years old. What do you want to be able to do, physically? Perhaps it’s as simple as walking up two flights of stairs or playing on the floor with your great-grandkids. While these activities may sound “simple” today, your body will naturally decline with age. Knowing this, imagine how much more you need to be able to do today to easily do these “simple” activities at 90 years old.",
+  "content_length": 407,
+  "content_tokens": 96,
   "embedding": []
  },
  {
-  "title": "Backcasting",
+  "title": "Backcasting for Physical Health",
   "date": "May 26, 2022",
   "context": "Strength & Muscle Mass",
   "people": "Peter Attia",
-  "content": "In my practice, we call this backcasting, or reverse-engineering. We break down and train the movements of everyday life, outlining how “good” you need to be today to achieve your goals tomorrow.",
-  "content_length": 195,
-  "content_tokens": 44,
+  "content": "In practice, this is called backcasting, or reverse-engineering. The movements of everyday life are broken down and trained, outlining how “good” you need to be today to achieve your goals tomorrow.",
+  "content_length": 198,
+  "content_tokens": 43,
   "embedding": []
  },
  {
-  "title": "Movement Specialist",
+  "title": "The Art of Stability",
   "date": "May 26, 2022",
   "context": "Strength & Muscle Mass",
   "people": "Peter Attia",
-  "content": "For more from movement specialist, Beth Lewis, ...",
-  "content_length": 50,
-  "content_tokens": 10,
-  "embedding": []
- },
- {
-  "title": "Episode #131",
-  "date": "May 26, 2022",
-  "context": "Strength & Muscle Mass",
-  "people": "Peter Attia",
-  "content": "check out episode #131, The Art of Stability: Learning about pain, mitigating injury, and moving better through life.",
-  "content_length": 117,
-  "content_tokens": 24,
+  "content": "Learning about pain, mitigating injury, and moving better through life.",
+  "content_length": 71,
+  "content_tokens": 13,
   "embedding": []
  }
 ]

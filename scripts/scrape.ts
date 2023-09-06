@@ -236,6 +236,7 @@ export const onParseFailure = async (failedContent: string) => {
   }
 
   if (!response || response!.status !== 200) {
+    return null;
     throw new Error('OpenAI API returned an error');
   } else {
     return response!.data.choices[0].message?.content;
@@ -280,9 +281,8 @@ async function PP(content: any, tries?: number): Promise<any> {
 
   if (tries === 3) return undefined;
 
-  if (tries == undefined) {
-    // Usage:
-    await sleep(1000);
+  if (!tries) {
+    await sleep(1000); // Waits for 1 second
   }
 
   try {
@@ -305,8 +305,6 @@ async function PP(content: any, tries?: number): Promise<any> {
 const parse = async (scraped: Scraped): Promise<Chunk[]> => {
   const chunks: Chunk[] = [];
 
-  // const andyTry = andy.slice(17);
-
   for (let i = 0; i < scraped.contentEncoded!.length; i++) {
     const chunk = scraped.contentEncoded![i];
     console.log(chunk.content.length);
@@ -315,10 +313,6 @@ const parse = async (scraped: Scraped): Promise<Chunk[]> => {
       content = await chatCompletetion(chunk.content);
     } catch (error) {
       content = await chatCompletetion(chunk.content);
-    }
-
-    if (content === null) {
-      continue;
     }
 
     let parsed;
@@ -480,7 +474,7 @@ async function startScrape(results: any[]) {
 async function main() {
   const results: any[] = [];
 
-  fs.createReadStream('scripts/data/csv/sleep_unique.csv')
+  fs.createReadStream('scripts/data/csv/exercise_unique.csv')
     .pipe(csv())
     .on('data', (data: any) => results.push(data))
     .on('end', () => {

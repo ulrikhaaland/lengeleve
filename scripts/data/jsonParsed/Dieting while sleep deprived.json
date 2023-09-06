@@ -1,22 +1,22 @@
 [
  {
-  "title": "Dietary changes when you are sleep deprived",
+  "title": "Effects of Sleep Deprivation on Diet",
   "date": "May 31, 2022",
   "context": "Diet & Sleep",
   "people": "Peter Attia",
-  "content": "Inferior fuel partitioning, hyperinsulinemia, impaired glucose disposal, and a tendency to probably eat more junk food are some of the dietary changes that occur when you are sleep deprived. Fuel partitioning is affected by sleep, and respiratory quotient goes up when sleep deprived, which signals a metabolic inefficiency. Peter Attia says that he finds it hard to avoid junk food when he is sleep deprived, and that sleep is probably the single greatest tool in his arsenal to eat well.",
-  "content_length": 489,
-  "content_tokens": 100,
+  "content": "Dietary changes when you are sleep deprived include inferior fuel partitioning, hyperinsulinemia, impaired glucose disposal, and a tendency to probably eat more unhealthy food. The energy balance of an organism, how much to eat and how the body uses it, is affected by sleep. The respiratory quotient goes up when sleep deprived, implying that under the same level of exertion, you would preferentially go after glycogen for ATP, as opposed to fat, signaling a metabolic inefficiency.",
+  "content_length": 484,
+  "content_tokens": 101,
   "embedding": []
  },
  {
-  "title": "Dieting while sleep deprived",
+  "title": "Dieting While Sleep Deprived",
   "date": "May 31, 2022",
   "context": "Diet & Sleep",
   "people": "Peter Attia",
-  "content": "Dieting when underslept (6 hrs or less) is much less effective in terms of fat loss. If underslept, 70% of what you lose is from lean muscle mass (the body holds onto fat). A big reason for this is the high levels of cortisol (stress hormone) and insulin.",
-  "content_length": 255,
-  "content_tokens": 64,
+  "content": "A study showed that dieting when underslept (6 hrs or less) was much less effective in terms of fat loss. If underslept, 70% of what you lose is from lean muscle mass as the body holds onto fat. A big reason for this is the high levels of cortisol (stress hormone) and insulin.",
+  "content_length": 277,
+  "content_tokens": 67,
   "embedding": []
  }
 ]

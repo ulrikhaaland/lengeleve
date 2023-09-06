@@ -1,72 +1,42 @@
 [
  {
-  "title": "Dispelling myths about protein intake and cancer risk",
+  "title": "Protein Intake and Cancer Risk",
   "date": "May 3, 2022",
   "context": "Protein",
   "people": "Peter Attia",
-  "content": "Layne Norton dispels the myth that excess protein intake increases cancer risk through elevations in mTOR and IGF-1. He explains that mTOR elevations that lead to cancer originate mostly via insulin resistance. There’s a big difference between a dose of protein that causes mTOR to rise and go back down in a natural rhythm and a chronic stimulus. This is also tissue-specific; we’re talking about in skeletal muscle, not liver, not brain necessarily, those sorts of things. The same is true for IGF-1.",
-  "content_length": 502,
-  "content_tokens": 111,
+  "content": "Dispelling myths that excess protein intake increases cancer risk through elevations in mTOR and IGF. mTOR elevations that lead to cancer and whatnot, those originate mostly via insulin resistance. Elevations in insulin result in insulin signaling through AKT, which can then transmit to mTOR. There’s a big difference between a dose of protein that causes mTOR to rise and go back down in a natural rhythm and a chronic stimulus. This is also tissue-specific; we’re talking about in skeletal muscle, not liver, not brain necessarily, those sorts of things. The same is true for IGF-1. The amplitude of response from mTOR due to resistance training dwarfs what protein does. If we look at the meta-analyses on cancer incidence amongst resistance trainers, we see lower levels of cancer in people who resistance train.",
+  "content_length": 817,
+  "content_tokens": 172,
   "embedding": []
  },
  {
-  "title": "The difference between acute and chronic response to stressors",
+  "title": "Exercise and Health",
   "date": "May 3, 2022",
   "context": "Protein",
   "people": "Peter Attia",
-  "content": "Exercise is a short-term stressor, it’s a controlled dose of a stressor that your body can handle. There’s a difference between an acute response and a chronic response. If you look at people with elevated inflammation, their inflammatory markers are not super high but are elevated all the time. It’s the chronic pulse that’s the problem.",
-  "content_length": 339,
-  "content_tokens": 79,
+  "content": "Viewed in a certain light, exercise seems unhealthy but we know it is not. Exercise is a short-term stressor, it’s a controlled dose of a stressor that your body can handle. There’s a difference between an acute response and a chronic response. If you look at people with elevated inflammation, their inflammatory markers are not super high but are elevated all the time. It’s the chronic pulse that’s the problem.",
+  "content_length": 414,
+  "content_tokens": 95,
   "embedding": []
  },
  {
-  "title": "The role of mTOR in cancer treatment",
+  "title": "Diet and Health",
   "date": "May 3, 2022",
   "context": "Protein",
   "people": "Peter Attia",
-  "content": "Layne Norton explains that mTOR plays a role in cancer, but it can’t be the cart before the horse sort of thing. People will say Rapamycin is an mTOR inhibitor and that’s a cancer treatment drug. But is it a good idea to use chemotherapy to prevent cancer? Peter Attia adds that Rapamycin has never been a particularly successful cancer therapeutic used constituently. It does show benefits for longevity in basically all animal models. So the extrapolation would be pulsatile rapamycin is probably beneficial.",
-  "content_length": 510,
-  "content_tokens": 110,
+  "content": "We have this idea that like, there’s this perfect diet out there. That’s going to be the one diet that’s going to reduce cancer and cardiovascular disease and mortality and all that. And the fact is that there’s probably trade offs for everything. There are people that will say that protein increases cancer. There’s a ton of cofounders to that. Meta-analysis looking at cancer and protein content of the diet look at above 70 g protein per day (1.2 g / kg body weight). Most Americans eat high protein according to the RDA definition but where is this from? Burgers, hot dogs, and processed meat. What is the incidence of cancer in people who just have a high protein, but overall healthy diet? Here’s the thing, most people who eat high levels of meat eat low levels of fruits and vegetables. What they found was that at the highest levels of meat intake, but also with the highest levels of fruit and vegetable intake, there was no difference in cancer incidents between the lowest level of meat intake and even with the highest level of fruit and vegetable intake. So high protein is not an issue in a healthy diet. It suggests that the quality of the overall diet is what is important.",
+  "content_length": 1191,
+  "content_tokens": 261,
   "embedding": []
  },
  {
-  "title": "The relationship between IGF levels and mortality",
+  "title": "Quality of Diet",
   "date": "May 3, 2022",
   "context": "Protein",
   "people": "Peter Attia",
-  "content": "Peter Attia agrees with the point that tissue specificity and time course are very difficult things to infer from the outside, which is sort of the meta view of all things equal. IGF levels have a J curve with mortality and therefore very, very high levels of IGF must be problematic.",
-  "content_length": 284,
-  "content_tokens": 56,
-  "embedding": []
- },
- {
-  "title": "Protein and Cancer",
-  "date": "May 3, 2022",
-  "context": "Protein",
-  "people": "Peter Attia",
-  "content": "There are people that will say that protein increases cancer. Meta-analysis looking at cancer and protein content of the diet look at above 70 g protein per day (1.2 g / kg body weight). Layne notes, “What they found was that at the highest levels of meat intake, but also with the highest levels of fruit and vegetable intake, there was no difference in cancer incidents between the lowest level of meat intake and even with the highest level of fruit and vegetable intake”. So high protein is not an issue in a healthy diet.",
-  "content_length": 526,
-  "content_tokens": 112,
-  "embedding": []
- },
- {
-  "title": "Diet Quality",
-  "date": "May 3, 2022",
-  "context": "Protein",
-  "people": "Peter Attia",
-  "content": "“You can achieve good diet quality on a whole host of different diets”— Layne Norton. A lot of it boils down to: What are the food choices you’re making on balance? Are you getting enough fruits and vegetables and minerals and micronutrients?",
-  "content_length": 242,
-  "content_tokens": 59,
-  "embedding": []
- },
- {
-  "title": "Whole Foods vs Supplements",
-  "date": "May 3, 2022",
-  "context": "Protein",
-  "people": "Peter Attia",
-  "content": "Every time we try to say, fruits and vegetables have these benefits on health that we see pretty consistently, so let’s try and take out these isolated micronutrients and give them in the supplements. We’re always disappointed with the results. We have to eat the whole food to get those benefits.",
-  "content_length": 297,
-  "content_tokens": 65,
+  "content": "You can achieve good diet quality on a whole host of different diets. You can have a ketogenic diet that is very poor quality or high quality. The same is true for plant-based, intermittent fasting, etc. A lot of it boils down to: What are the food choices you’re making on balance? Are you getting enough fruits and vegetables and minerals and micronutrients? Every time we try to say, fruits and vegetables have these benefits on health that we see pretty consistently, so let’s try and take out these isolated micronutrients and give them in the supplements. We’re always disappointed with the results. We have to eat the whole food to get those benefits.",
+  "content_length": 658,
+  "content_tokens": 145,
   "embedding": []
  }
 ]
