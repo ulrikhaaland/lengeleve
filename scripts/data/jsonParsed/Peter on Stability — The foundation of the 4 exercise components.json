@@ -1,31 +1,41 @@
 [
  {
-  "title": "The 4 Components of Exercise",
+  "title": "Components of Exercise",
   "date": "January 25, 2022",
   "context": "Stability",
   "people": "Peter Attia",
-  "content": "The 4 components of exercise are stability, strength, Zone 2 aerobic training, and Zone 5 high intensity training.",
-  "content_length": 114,
-  "content_tokens": 22,
+  "content": "The 4 components of exercise: 1 | Stability (the foundation) 2 | Strength 3 | Zone 2 aerobic training 4 | Zone 5 (high intensity, e.g., HIIT). Stability is the cornerstone upon which your strength is delivered, your aerobic performance is delivered and your anaerobic performance is delivered. And it’s the way that you do so safely.",
+  "content_length": 333,
+  "content_tokens": 75,
   "embedding": []
  },
  {
-  "title": "Stability as the Foundation",
+  "title": "Understanding Stability",
   "date": "January 25, 2022",
   "context": "Stability",
   "people": "Peter Attia",
-  "content": "Stability is the cornerstone upon which strength, aerobic performance, and anaerobic performance are delivered. It is a way to transmit force from the body to the outside world in the safest manner possible, across the muscles which are designed to carry that load, as opposed to seeing the dissipation of force across joints that are not fit to do so.",
-  "content_length": 352,
-  "content_tokens": 70,
+  "content": "Stability is a way that we transmit force from the body to the outside world in the safest manner possible across the muscles which are designed to carry that load as opposed to seeing the dissipation of force across joints that are not fit to do so. For example, when you pick up 60 pounds off the ground, the idea is you want all of that 60 pounds to be transmitted from your muscles to the ground and you don’t want anything dissipating out your back, knees, or hips.",
+  "content_length": 470,
+  "content_tokens": 101,
   "embedding": []
  },
  {
-  "title": "Dynamic Neuromuscular Stabilization (DNS)",
+  "title": "Loss of Stability",
   "date": "January 25, 2022",
   "context": "Stability",
   "people": "Peter Attia",
-  "content": "Peter is a big fan of DNS to train proper stabilization and movements. DNS can help with inefficient movement patterns that result in force leakage around the scapula, elbow, knee, back, hips, etc. Stability is probably what Peter thinks of as the foundation upon which everything should be done vis-a-vis exercise.",
-  "content_length": 315,
+  "content": "Humans are born with this ability but we lose it over time because of our lack of activity and our abundance of sitting. But it’s possible to reacquire this ability through deliberate practice of these movements.",
+  "content_length": 212,
+  "content_tokens": 44,
+  "embedding": []
+ },
+ {
+  "title": "Dynamic Neuromuscular Stabilization",
+  "date": "January 25, 2022",
+  "context": "Stability",
+  "people": "Peter Attia",
+  "content": "Dynamic neuromuscular stabilization (DNS) is a method to train proper stabilization and movements. This “force leakage” is the root cause of a lot of the chronic injuries that people have. Stability is probably what I think of as the foundation upon which everything should be done vis-a-vis exercise.",
+  "content_length": 301,
   "content_tokens": 65,
   "embedding": []
  },
@@ -34,19 +44,9 @@
   "date": "January 25, 2022",
   "context": "Stability",
   "people": "Peter Attia",
-  "content": "Other ways to train stabilization include Postural Restoration Institute (PRI) and Pilates. The particular teacher matters a lot, and it's heavily dependent on the practitioner and the student.",
-  "content_length": 193,
-  "content_tokens": 37,
-  "embedding": []
- },
- {
-  "title": "Insights About Stability Training",
-  "date": "January 25, 2022",
-  "context": "Stability",
-  "people": "Peter Attia",
-  "content": "Peter has shared insights about stability training on his Instagram, including hip hinge (VMO), deadlifts, scapulae, and concentric intra-abdominal pressure (to stabilize the ribs).",
-  "content_length": 181,
-  "content_tokens": 42,
+  "content": "Other ways to train stabilization: Postural Restoration Institute (PRI), Pilates – while the vocabulary might be different than DNS or PRI, many of the principles are similar. The particular teacher matters a lot. Of the four pieces of exercise we’re going to talk about, this is the one that probably will take the most tinkering for people to find the right type of practitioners.",
+  "content_length": 382,
+  "content_tokens": 80,
   "embedding": []
  }
 ]

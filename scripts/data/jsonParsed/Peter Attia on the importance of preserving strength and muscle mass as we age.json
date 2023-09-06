@@ -1,12 +1,22 @@
 [
  {
-  "title": "Muscle size vs. strength and mortality risk",
+  "title": "Muscle Size vs. Strength Impact on Mortality Risk",
   "date": "February 1, 2022",
   "context": "Strength & Muscle Mass",
   "people": "Peter Attia",
-  "content": "Peter discusses the impact of muscle size and strength on mortality risk. He emphasizes the importance of fighting against the effects of aging and the loss of lean mass and strength over time. Studies show a decline in strength of 1-4% per year after the age of 50, resulting in a loss of 35-40% between the ages of 20 and 80. Peter stresses the importance of being above average in terms of strength, muscle mass, and cardiorespiratory fitness to maintain health and function in old age.",
-  "content_length": 489,
-  "content_tokens": 103,
+  "content": "Muscle size and strength have significant impacts on mortality risk. The loss of lean mass and strength over time due to aging is a serious concern. Aging can lead to a decline in strength at a rate of 1% to 2% per year after the age of 50, with a total loss of 35 to 40% between the ages of 20 and 80. Some studies even show a 4% strength loss per year.",
+  "content_length": 354,
+  "content_tokens": 83,
+  "embedding": []
+ },
+ {
+  "title": "Importance of Maintaining Strength and Muscle Mass",
+  "date": "February 1, 2022",
+  "context": "Strength & Muscle Mass",
+  "people": "Peter Attia",
+  "content": "Maintaining strength and muscle mass is crucial for health, especially as one ages. It is important to fight against the natural decline that comes with aging. This can be achieved through cardiorespiratory fitness, strength training, and maintaining muscle mass. The goal should be to remain strong and fit, even into old age.",
+  "content_length": 327,
+  "content_tokens": 66,
   "embedding": []
  }
 ]

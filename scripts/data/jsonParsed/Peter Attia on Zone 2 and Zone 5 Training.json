@@ -1,42 +1,42 @@
 [
  {
-  "title": "Optimizing for Longevity",
+  "title": "Strategies for Longevity through Exercise",
   "date": "February 8, 2022",
   "context": "High Intensity & Zone 5 Training",
   "people": "Peter Attia",
-  "content": "Everything Peter is talking about in terms of exercise is about optimizing for longevity. That is much different that optimizing for performance. For instance, if someone were to want to run the fastest 10k possible… That means training at an energy system that is very demanding of the cardiovascular system. It is pretty much maximum cardiac output just beneath VO2 max above functional threshold which is past the point of optimizing longevity returns and it actually comes at some cost to longevity relative to something more at a slightly lower energy system. Instead, Peter thinks about training for the Centenarian Decathlon⇒ i.e., being a kickass 90 year old. The main energy systems of life: Zone 1, Zone 2, Zone 5. “By training zone 2 and zone 5 . . . we’re really teeing ourselves up metabolically and also structurally to do these things.”",
-  "content_length": 851,
-  "content_tokens": 178,
+  "content": "Optimizing exercise for longevity is different than optimizing for performance. Training at an energy system that is very demanding of the cardiovascular system, such as running a fast 10k, is past the point of optimizing longevity returns and can actually come at some cost to longevity. Instead, training for longevity involves focusing on the main energy systems of life: Zone 1, Zone 2, and Zone 5. By training zone 2 and zone 5, we’re structuring ourselves metabolically and structurally for longevity.",
+  "content_length": 507,
+  "content_tokens": 101,
   "embedding": []
  },
  {
-  "title": "Zone 2 Training",
+  "title": "Zone 2 Training for Longevity",
   "date": "February 8, 2022",
   "context": "High Intensity & Zone 5 Training",
   "people": "Peter Attia",
-  "content": "Zone 2 training is basically the highest level of exertion that is effectively pure mitochondrial oxidative phosphorylation before you start to net accumulate lactate. Peter does zone 2 about four times per week. He uses a lactate meter to make sure he is right on that limit of not going too far, not pushing too hard, but pushing hard enough. Usually he does it on a stationary bike that’s hooked up to a power meter where he’s titrating watts and heart rate to get to a point where his finger stick lactate level is 1.8 or 1.9 milliMole. If done on a treadmill, he’s doing 15% incline at about 3.0 to 3.4 miles per hour to produce the same effect as the bike. Can also be done on an elliptical. For a beginner: ~2 hours a week is a good place to start. Ideally: 3-4 hours per week. But you probably can’t do too much zone 2, says Peter, you’re mostly just limited by time and the ability to allocate it towards other forms of exercise.",
-  "content_length": 938,
-  "content_tokens": 231,
+  "content": "Zone 2 is the highest level of exertion that is effectively pure mitochondrial oxidative phosphorylation before you start to net accumulate lactate. Zone 2 training can be done about four times per week, using a lactate meter to ensure the limit of exertion is not exceeded. This can be done on a stationary bike, treadmill, or an elliptical. For beginners, around 2 hours a week is a good place to start, but ideally, 3-4 hours per week should be dedicated to Zone 2 training.",
+  "content_length": 477,
+  "content_tokens": 103,
   "embedding": []
  },
  {
-  "title": "Zone 5 Training",
+  "title": "Zone 5 Training for Longevity",
   "date": "February 8, 2022",
   "context": "High Intensity & Zone 5 Training",
   "people": "Peter Attia",
-  "content": "Zone 5 is high intensity zone (i.e., HIIT) and the fourth and final piece of exercise. You don’t need to be spending much time in zone 5, but to neglect it completely, you’ll probably pay a bit of a price, says Peter. Peter describes this zone as a small part of life using the example of an escalator being broken and you have two pieces of luggage and your kid and you’re late for your flight. Many of the studies on this focus on its comparability to aerobics exercise on a minute per minute or unit time basis. HIIT is more efficient when looking at it that way. But Peter does not view it as an either/or situation. Using both of these tools is optimal and especially when zone 5 training doesn’t require that much more time.",
-  "content_length": 730,
-  "content_tokens": 172,
+  "content": "Zone 5 is a high intensity zone and the fourth and final piece of exercise. While not much time needs to be spent in Zone 5, neglecting it completely can have negative effects on longevity. High Intensity Interval Training (HIIT) is more efficient when compared to aerobic exercise on a minute per minute or unit time basis. However, using both aerobic exercise and HIIT is optimal for longevity.",
+  "content_length": 396,
+  "content_tokens": 81,
   "embedding": []
  },
  {
-  "title": "Peter's Typical Week of Exercise",
+  "title": "Typical Week of Exercise for Longevity",
   "date": "February 8, 2022",
   "context": "High Intensity & Zone 5 Training",
   "people": "Peter Attia",
-  "content": "3-5 bouts of strength training, 4 bouts of zone 2, 2 bouts of zone 5. Stability is sprinkled into pretty much every day with maybe one day of a longer, more dedicated 60-minute session around stability.",
-  "content_length": 202,
-  "content_tokens": 45,
+  "content": "A typical week of exercise for longevity includes 3-5 bouts of strength training, 4 bouts of Zone 2 training, and 2 bouts of Zone 5 training. Stability exercises are also incorporated into daily routines.",
+  "content_length": 204,
+  "content_tokens": 40,
   "embedding": []
  }
 ]
