@@ -1,52 +1,52 @@
 [
  {
-  "title": "Beets as a Source of Dietary Nitrates for Exercise Performance",
+  "title": "Beets and Athletic Performance",
   "date": "May 7, 2022",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Beets are a source of dietary nitrates, which can be processed to nitrite and nitric oxide via the enterosalivary pathway and provide benefits for cardiovascular health and exercise performance. A recent systematic review and meta-analysis suggests that dietary nitrate supplementation can increase neuromuscular power by 5% with vs. without nitrate supplementation. The studies primarily utilized concentrated beetroot juice as the source of dietary nitrate, which ranged in concentration from 6.4 mmol (estimated) to 15.9 mmol (measured) across studies. However, the majority of studies included in the analysis had not measured the dose of nitrate administered, and most failed to monitor any markers of nitrate bioavailability.",
-  "content_length": 731,
-  "content_tokens": 144,
+  "content": "Beets (also known as beetroots) are a source of dietary nitrates, one of five supplements listed in the International Olympic Committee’s consensus statement on dietary supplements as having strong evidence to support their use for boosting exercise performance. Existing evidence suggests that nitrates from vegetable sources such as beets and leafy greens can be processed to nitrite and nitric oxide via the enterosalivary pathway and provide benefits for cardiovascular health and exercise performance.",
+  "content_length": 506,
+  "content_tokens": 93,
   "embedding": []
  },
  {
-  "title": "The Mechanism of Dietary Nitrates on Muscle Power",
+  "title": "Dietary Nitrate Supplementation and Neuromuscular Power",
   "date": "May 7, 2022",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Nitric oxide is a vasodilator; some studies suggest it enhances blood flow to muscles and particularly to fast-twitch muscle fibers. Other work indicates that oxygen demand is lowered by nitrate supplementation. Nitrates may also improve the efficiency of ATP production by the mitochondria, though tests of this hypothesis have yielded conflicting results. Dr. Coggan and his colleagues propose that dietary nitrates enhance skeletal muscle function through modulation of intracellular calcium concentration.",
-  "content_length": 509,
-  "content_tokens": 92,
+  "content": "In a review, data from 19 studies was re-analyzed to hone in on the ability of dietary nitrate supplementation to increase neuromuscular power. These studies primarily utilized concentrated beetroot juice as the source of dietary nitrate. The studies measured neuromuscular power among subjects tested in a non-fatigued state using various exercises. As a result of their meta-analysis, an effect size of 0.43 was reported, corresponding to an impressive 5% increase in muscle power with vs. without nitrate supplementation.",
+  "content_length": 524,
+  "content_tokens": 108,
   "embedding": []
  },
  {
-  "title": "The Potential Risks of Nitrates and Nitrites",
+  "title": "Limitations and Risks of Nitrate Supplementation",
   "date": "May 7, 2022",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Nitrates and nitrites are also commonly used as an additive in processed meats such as bacon and hot dogs and have long been thought to contribute to increased risk for certain cancers, though this view has been challenged over the last decade. Still, without an understanding of exactly how dietary nitrates act in the body at a cellular and physiological level, we’re unlikely to settle on answers to questions about their net benefits or risks to human health.",
-  "content_length": 463,
-  "content_tokens": 89,
+  "content": "The majority of studies included in the analysis had not measured the dose of nitrate administered, and most failed to monitor any markers of nitrate bioavailability. Another limitation is that the mechanism by which dietary nitrates may increase muscle power remains undefined. Nitrates and nitrites are also commonly used as an additive in processed meats such as bacon and hot dogs and have long been thought to contribute to increased risk for certain cancers.",
+  "content_length": 464,
+  "content_tokens": 84,
   "embedding": []
  },
  {
-  "title": "The Benefits of Nitrate Supplementation on Performance",
+  "title": "Call for More Research on Nitrate Supplementation",
   "date": "May 7, 2022",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "The results of the current systematic review and meta-analysis by Coggan et al. support previous findings on the benefits of nitrate supplementation on performance, with a reported average increase in muscle power of 5%. For competitive athletes, this could provide the boost needed to dramatically move up in their ranking. For adults struggling with declines in strength that accompany aging, this could aid in everyday tasks and wellbeing.",
-  "content_length": 442,
-  "content_tokens": 80,
+  "content": "The results of the current systematic review and meta-analysis support previous findings on the benefits of nitrate supplementation on performance, with a reported average increase in muscle power of 5%. For competitive athletes, this could provide the boost needed to dramatically move up in their ranking. For adults struggling with declines in strength that accompany aging, this could aid in everyday tasks and wellbeing.",
+  "content_length": 425,
+  "content_tokens": 73,
   "embedding": []
  },
  {
-  "title": "Dietary Nitrate and Exercise Performance",
+  "title": "Dietary Nitrate Supplementation and Performance Enhancement",
   "date": "May 7, 2022",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "The authors claim that maximal benefits are achieved with acute supplementation and non-endurance, non-maximal activity. The lack of precise dosage data in most of the source studies prohibits fair sub-analyses. More research is necessary in order to characterize this effect more fully and determine optimal dosing and frequency. Follow-up studies should also seek to clarify the mechanisms through which dietary nitrate achieves its observed and hypothesized benefits and risks. Perhaps such research will soon make nitrates the next big thing in performance enhancement.",
-  "content_length": 573,
-  "content_tokens": 103,
+  "content": "Maximal benefits are achieved with acute supplementation and non-endurance, non-maximal activity. The lack of precise dosage data in most of the source studies prohibits fair sub-analyses. More research is necessary in order to characterize this effect more fully and determine optimal dosing and frequency. Follow-up studies should also seek to clarify the mechanisms through which dietary nitrate achieves its observed and hypothesized benefits and risks.",
+  "content_length": 457,
+  "content_tokens": 84,
   "embedding": []
  }
 ]

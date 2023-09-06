@@ -1,42 +1,32 @@
 [
  {
-  "title": "Eccentric Strength and Injury Prevention",
+  "title": "Health Risks of Accidental Injuries",
   "date": "July 23, 2022",
   "context": "Stability",
   "people": "Peter Attia",
-  "content": "Accidental injury is among the leading causes of death in the developed world, and even when an injury itself is not directly responsible for ending one’s life, the associated debilitation can hasten the onset and progression of other health concerns. Critical to this task are two elements often overlooked in training regimens: eccentric strength and grip strength. Eccentric strength is the strength associated with muscle lengthening, as opposed to concentric strength, which is the strength associated with muscle contraction. During eccentric movements, muscles act as shock absorbers and braking systems against external forces such as gravity, and the importance of this function for the prevention of falls and injuries can’t be overstated.",
-  "content_length": 749,
-  "content_tokens": 138,
+  "content": "Accidental injury is among the leading causes of death in the developed world, and even when an injury itself is not directly responsible for ending one’s life, the associated debilitation can hasten the onset and progression of other health concerns. Although falls and other accidents are typically sudden and unexpected events, we can nevertheless take steps to make them less likely to occur – and to make them less severe when they do happen.",
+  "content_length": 447,
+  "content_tokens": 85,
   "embedding": []
  },
  {
-  "title": "What is Eccentric Strength and Why Does it Matter?",
+  "title": "Importance of Eccentric Strength",
   "date": "July 23, 2022",
   "context": "Stability",
   "people": "Peter Attia",
-  "content": "Eccentric strength is the strength associated with muscle lengthening, as opposed to concentric strength, which is the strength associated with muscle contraction. During eccentric movements, muscles act as shock absorbers and braking systems against external forces such as gravity, and the importance of this function for the prevention of falls and injuries can’t be overstated. Eccentric strength of the knee extensors, for example, is what allows us to maintain control as we walk downhill or down a flight of stairs, providing a brake against gravity taking over. In addition to preventing falls, this ability to use muscles for deceleration and controlled movement also reduces force experienced by joints, providing yet another means of avoiding injury.",
-  "content_length": 761,
-  "content_tokens": 142,
+  "content": "Eccentric strength is the strength associated with muscle lengthening, as opposed to concentric strength, which is the strength associated with muscle contraction. During eccentric movements, muscles act as shock absorbers and braking systems against external forces such as gravity, and the importance of this function for the prevention of falls and injuries can’t be overstated. This ability to use muscles for deceleration and controlled movement also reduces force experienced by joints, providing yet another means of avoiding injury.",
+  "content_length": 540,
+  "content_tokens": 97,
   "embedding": []
  },
  {
-  "title": "How to Train for Eccentric Strength",
+  "title": "Training for Eccentric Strength",
   "date": "July 23, 2022",
   "context": "Stability",
   "people": "Peter Attia",
-  "content": "Despite its importance, eccentric strength is a less intuitive concept than concentric strength, which may explain why it’s so often missing from training regimens. To help overcome this barrier, the links throughout this newsletter are intended to provide more information on eccentric strength and how it plays a role in overall stability and injury avoidance, and below I’ve included a few links to short video clips with specific exercises for eccentric strength training. Step-ups",
-  "content_length": 485,
-  "content_tokens": 90,
-  "embedding": []
- },
- {
-  "title": "Eccentric Strength-Focused Warm-Up Exercise",
-  "date": "July 23, 2022",
-  "context": "Stability",
-  "people": "Peter Attia",
-  "content": "This warm-up exercise is focused on eccentric strength. Eccentric strength is the ability to control a weight as it is lowered. This exercise involves lowering a weight slowly and under control, then using the opposite arm to lift the weight back up. This exercise can help improve muscle activation and control, as well as prepare the body for more intense exercises.",
-  "content_length": 368,
-  "content_tokens": 70,
+  "content": "Despite its importance, eccentric strength is a less intuitive concept than concentric strength, which may explain why it’s so often missing from training regimens. The links throughout this newsletter are intended to provide more information on eccentric strength and how it plays a role in overall stability and injury avoidance, and below I’ve included a few links to short video clips with specific exercises for eccentric strength training.",
+  "content_length": 445,
+  "content_tokens": 81,
   "embedding": []
  }
 ]

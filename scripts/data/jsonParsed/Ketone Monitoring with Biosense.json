@@ -1,12 +1,22 @@
 [
  {
+  "title": "Ketogenic Diets and Fasting",
+  "date": "March 2, 2022",
+  "context": "Ketosis",
+  "people": "Peter Attia",
+  "content": "Ketogenic diets and fasting have rapidly expanded in popularity and clinical applications, and the benefits of both result, in part, from the physiological state of ketosis. The level of ketosis correlates with clinical management of many disease processes and also provides a lens into our metabolic flexibility. Ketone monitoring devices are thus powerful tools for providing actionable feedback on one’s health.",
+  "content_length": 414,
+  "content_tokens": 76,
+  "embedding": []
+ },
+ {
   "title": "Ketogenesis and Ketone Measurement",
   "date": "March 2, 2022",
   "context": "Ketosis",
   "people": "Peter Attia",
-  "content": "Both ketogenic diets and fasting have the common effect of drastically limiting glucose availability in the body, which instead must then rely on fats for fuel. Measurement of ketone bodies provides a means for quantifying the level of ketosis that an individual is experiencing.",
-  "content_length": 279,
-  "content_tokens": 52,
+  "content": "Both ketogenic diets and fasting have the common effect of drastically limiting glucose availability in the body, which instead must then rely on fats for fuel. Insulin levels are suppressed, driving a sharp increase in fatty acid β-oxidation by liver mitochondria. Measurement of ketone bodies provides a means for quantifying the level of ketosis that an individual is experiencing. However, ketone production can vary significantly throughout the day, and based upon the current clinical trial results, it is concluded that multiple daily ketone measurements (3-5x/day) are needed to capture the full picture of daily ketone exposure.",
+  "content_length": 637,
+  "content_tokens": 125,
   "embedding": []
  },
  {
@@ -14,29 +24,19 @@
   "date": "March 2, 2022",
   "context": "Ketosis",
   "people": "Peter Attia",
-  "content": "Breath acetone rises during a fast as the body mobilizes stored fat to meet its energy requirements. Breath acetone can now be measured with high precision, accuracy, and sensitivity (e.g.,1 ppm range), making it a viable alternative to blood BHB for ketone monitoring.",
-  "content_length": 269,
-  "content_tokens": 59,
+  "content": "In addition to giving rise to BHB, AcAc can alternatively be converted spontaneously to acetone, a small volatile organic compound that readily diffuses into the lungs and is expelled when we exhale. Breath acetone rises during a fast as the body mobilizes stored fat to meet its energy requirements. Numerous studies have correlated the level of breath acetone with fat loss, and elevated breath acetone while fasting indicates that your body has made the “metabolic switch” towards greater fat and ketone metabolism.",
+  "content_length": 518,
+  "content_tokens": 103,
   "embedding": []
  },
  {
-  "title": "What is Biosense?",
+  "title": "Biosense Ketone Monitoring Device",
   "date": "March 2, 2022",
   "context": "Ketosis",
   "people": "Peter Attia",
-  "content": "Readout Health developed Biosense®, which is currently the only medical-grade breath acetone device designed for tracking ketosis. The Biosense clinical trial showcased the technology and clinical data demonstrating a correlation of breath acetone with blood BHB.",
-  "content_length": 263,
-  "content_tokens": 50,
-  "embedding": []
- },
- {
-  "title": "Biosense Device and App",
-  "date": "March 2, 2022",
-  "context": "Ketosis",
-  "people": "Peter Attia",
-  "content": "The Biosense device is a less invasive and more cost-effective way to measure ketones compared to BHB tests. It comes with a free app that provides personalized ketone data and goal tracking, and permits unlimited testing. The app also includes several in-app programs for weight loss, anti-inflammatory, and healthspan.",
-  "content_length": 320,
-  "content_tokens": 67,
+  "content": "Readout Health developed Biosense®, which is currently the only medical-grade breath acetone device designed for tracking ketosis. The Biosense clinical trial showcased the technology and clinical data demonstrating a correlation of breath acetone with blood BHB. Compared with BHB tests, simply blowing into a Biosense device is considerably less invasive and more cost-effective. The Biosense device includes a free app with personalized ketone data and goal tracking, which is Bluetooth-enabled (when synced) and permits unlimited testing (no expensive strips needed).",
+  "content_length": 571,
+  "content_tokens": 112,
   "embedding": []
  },
  {
@@ -44,29 +44,19 @@
   "date": "March 2, 2022",
   "context": "Ketosis",
   "people": "Peter Attia",
-  "content": "Biosense uses proprietary units called ACEs, where 1 ACE is equivalent to 0.1 mmol/L of BHB. An ACE score of 5+ indicates ketosis, and the level of ACEs detected is influenced by the level of carbohydrate restriction, calorie restriction, or duration of fasting. A score of over 10 ACEs is recommended for a deeper and potentially more therapeutic state of ketosis, which can be achieved with a modified fasting approach or exercise.",
-  "content_length": 433,
-  "content_tokens": 93,
+  "content": "Biosense uses proprietary units called ACEs, where 1 ACE is equivalent to 0.1 mmol/L of BHB. Since nutritional ketosis is typically defined as blood BHB levels ranging from 0.5-3.0 mmol/L, an ACE score of 5+ would indicate ketosis. The level of carbohydrate restriction, calorie restriction, or duration of your fast will directly influence the levels of ACEs detected by the Biosense meter. The higher your ACE score, the deeper you are in ketosis.",
+  "content_length": 449,
+  "content_tokens": 106,
   "embedding": []
  },
  {
-  "title": "Biosense breath acetone meter for clinical monitoring of therapeutic ketosis",
+  "title": "Biosense Breath Acetone Meter",
   "date": "March 2, 2022",
   "context": "Ketosis",
   "people": "Peter Attia",
-  "content": "The Biosense breath acetone meter is a tool for the clinical monitoring of therapeutic ketosis.",
-  "content_length": 95,
-  "content_tokens": 20,
-  "embedding": []
- },
- {
-  "title": "Monitoring nutrition, ketone supplementation, exercise, and fasting protocols",
-  "date": "March 2, 2022",
-  "context": "Ketosis",
-  "people": "Peter Attia",
-  "content": "It can help those who want to monitor their nutrition, ketone supplementation, exercise, and fasting protocols to provide insight and feedback for actionable steps towards optimizing your metabolic health.",
-  "content_length": 205,
-  "content_tokens": 35,
+  "content": "The Biosense breath acetone meter is a tool for the clinical monitoring of therapeutic ketosis. It can help those who want to monitor their nutrition, ketone supplementation, exercise, and fasting protocols to provide insight and feedback for actionable steps towards optimizing your metabolic health.",
+  "content_length": 301,
+  "content_tokens": 55,
   "embedding": []
  }
 ]

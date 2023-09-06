@@ -1,22 +1,32 @@
 [
  {
-  "title": "Importance of Grip Strength",
+  "title": "Importance of Eccentric Strength",
   "date": "July 30, 2022",
   "context": "Strength & Muscle Mass",
   "people": "Peter Attia",
-  "content": "Grip strength is important as it is one of the strongest physical associations with longer life. It serves as a great proxy for overall body strength and muscle mass, as gripping involves not only the muscles of the hand but also those of the arms and shoulder. Grip strength is a very functional form of strength, given our reliance on our hands for countless everyday tasks, and has an outsized impact on our quality of life.",
-  "content_length": 427,
-  "content_tokens": 84,
+  "content": "Eccentric strength is important in increasing stability and preventing falls, a major cause of health decline and death among the elderly.",
+  "content_length": 138,
+  "content_tokens": 25,
   "embedding": []
  },
  {
-  "title": "Grip Strength and Injury Prevention",
+  "title": "Significance of Grip Strength",
   "date": "July 30, 2022",
   "context": "Strength & Muscle Mass",
   "people": "Peter Attia",
-  "content": "Grip strength can directly make the difference between a good and a bad outcome in accidents. Having a strong grip gives you a greater chance of catching yourself after losing balance, thus avoiding the downward spiral in health that often follows a bad fall. The better we are at gripping supports, the less likely that a lapse in balance will result in a full-fledged fall and serious injury.",
-  "content_length": 394,
-  "content_tokens": 76,
+  "content": "Grip strength is one of the strongest physical associations with longer life. It serves as a great proxy for overall body strength and muscle mass, as gripping involves not only the muscles of the hand but also those of the arms and shoulder. Grip strength is a very functional form of strength – given our reliance on our hands for countless everyday tasks, having a strong grip has an outsized impact on our quality of life. If your grip is weak, everything upstream of that is weak, which can often lead to injury.",
+  "content_length": 517,
+  "content_tokens": 103,
+  "embedding": []
+ },
+ {
+  "title": "Grip Strength and Accidents",
+  "date": "July 30, 2022",
+  "context": "Strength & Muscle Mass",
+  "people": "Peter Attia",
+  "content": "Grip strength can directly make the difference between a good and a bad outcome in accidents. Having a strong grip gives you a greater chance of catching yourself after losing balance, thus avoiding the downward spiral in health that often follows a bad fall. Grip strength complements eccentric strength: while eccentric strength improves stability and deceleration and makes us less likely to lose our balance, grip strength provides a back-up level of protection for those inevitable occasions when we do stumble. The better we are at gripping supports, the less likely that a lapse in balance will result in a full-fledged fall and serious injury.",
+  "content_length": 651,
+  "content_tokens": 121,
   "embedding": []
  },
  {
@@ -24,19 +34,19 @@
   "date": "July 30, 2022",
   "context": "Strength & Muscle Mass",
   "people": "Peter Attia",
-  "content": "Some of the exercises that can be incorporated into a fitness routine to improve grip strength include finger pull-ups, dumbbell grip, and paused pull-ups.",
-  "content_length": 155,
-  "content_tokens": 32,
+  "content": "Grip strength training can be incorporated into a fitness routine. Some exercises include Finger Pull-ups, Dumbbell Grip, and Paused Pull-ups.",
+  "content_length": 142,
+  "content_tokens": 31,
   "embedding": []
  },
  {
-  "title": "Importance of Grip Training",
+  "title": "Importance of Grip Training in Physical Fitness",
   "date": "July 30, 2022",
   "context": "Strength & Muscle Mass",
   "people": "Peter Attia",
-  "content": "Supplementing with dedicated grip exercises can help ensure you’re getting maximal benefits throughout life and aren’t letting this important element of physical fitness fall under the radar.",
-  "content_length": 191,
-  "content_tokens": 35,
+  "content": "If you are lifting weights regularly, it’s likely that you’re getting a fair amount of grip training already from staple exercises such as pull-ups and deadlifts. But supplementing with dedicated grip exercises can help ensure you’re getting maximal benefits throughout life and aren’t letting this important element of physical fitness fall under the radar.",
+  "content_length": 358,
+  "content_tokens": 74,
   "embedding": []
  }
 ]

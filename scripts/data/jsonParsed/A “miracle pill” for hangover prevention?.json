@@ -1,32 +1,32 @@
 [
  {
-  "title": "Hangover Prevention Pills",
+  "title": "Hangover Prevention and Treatment",
   "date": "September 24, 2022",
   "context": "Alcohol",
   "people": "Peter Attia",
-  "content": "Myrkl hangover pills contain L-cysteine, vitamin B12, and two probiotics: bacillus subtilis and bacillus coagulans. L-cysteine covalently binds to acetaldehyde, creating a stable compound, which reduces the toxicity of acetaldehyde, the byproduct of alcohol metabolism that is thought to contribute to hangover symptoms. The inclusion of the two probiotics may increase your metabolic rate of alcohol and its byproducts, reducing BAC and less alcohol absorption. However, the increased rate of elimination of alcohol and acetaldehyde may help reduce hangovers, but this effect comes at the expense of the alcohol-induced “buzz.”",
-  "content_length": 628,
-  "content_tokens": 143,
+  "content": "A quick search for “hangover prevention” will send you down a rabbit hole of suggestions, although the most common is alternating water and alcohol consumption. And focusing on hydration is good advice: blood alcohol concentration (BAC) is directly affected by your body water content. Alcohol consumption also induces mild dehydration, which is thought to cause, at least in part, the classic hangover headaches and fatigue. Hangover pills require much less thought: one to twelve hours before drinking, take two pills and supposedly wake up hangover-free. The active ingredients in these pills are the amino acid L-cysteine, vitamin B12, and two probiotics: bacillus subtilis and bacillus coagulans.",
+  "content_length": 701,
+  "content_tokens": 150,
   "embedding": []
  },
  {
-  "title": "Alcohol and Metabolism",
+  "title": "Effectiveness of Hangover Pills",
   "date": "September 24, 2022",
   "context": "Alcohol",
   "people": "Peter Attia",
-  "content": "Alcoholic drinks are associated with numerous metabolic effects and are notoriously high in calories.",
-  "content_length": 101,
-  "content_tokens": 17,
+  "content": "The origin of vitamin B12 as part of a hangover treatment may stem from the fact that chronic alcohol consumption in alcoholics can lead to B12 deficiency. While vitamin B12 is an effective treatment in chronic drinkers, there is a dearth of evidence to show that B12 has any impact on acute drinking-related hangovers. L-cysteine covalently binds to acetaldehyde, creating a stable compound. This reduces the toxicity of acetaldehyde, the byproduct of alcohol metabolism that is thought to contribute to hangover symptoms. Strains of both bacillus subtilis and bacillus coagulans have shown co-expression of alcohol dehydrogenase (ADH) and aldehyde dehydrogenase (ALDH). Prophylactically supplementing with probiotics that produce ADH and ALDH may increase your metabolic rate of alcohol and its byproducts.",
+  "content_length": 808,
+  "content_tokens": 181,
   "embedding": []
  },
  {
-  "title": "Hangover Pills",
+  "title": "Downsides of Hangover Pills",
   "date": "September 24, 2022",
   "context": "Alcohol",
   "people": "Peter Attia",
-  "content": "The use case of hangover pills is targeted at those who are looking to reduce the next-day effects of having a couple drinks for enjoyment or socially.",
-  "content_length": 151,
-  "content_tokens": 31,
+  "content": "The increased rate of elimination of alcohol and acetaldehyde may help reduce hangovers, but this effect comes at the expense of the alcohol-induced “buzz.” If your goal is to get drunk, this pill is not for you, since it will increase the volume of alcohol needed to achieve the desired effect, and it won’t help to reduce a hangover if you do reach that same intoxication level. For instance, alcoholic drinks are associated with numerous metabolic effects and are notoriously high in calories. Drinking more means consuming more excess calories, and a hangover pill won’t have any mitigating effect on that.",
+  "content_length": 610,
+  "content_tokens": 128,
   "embedding": []
  },
  {
@@ -34,29 +34,19 @@
   "date": "September 24, 2022",
   "context": "Alcohol",
   "people": "Peter Attia",
-  "content": "Because this is a supplement and not a medication, the studies indicating efficacy of combining these ingredients are very limited.",
-  "content_length": 131,
-  "content_tokens": 22,
+  "content": "Because this is a supplement and not a medication, the studies indicating efficacy of combining these ingredients are very limited. In one crossover study performed by the company, subjects were given either placebo or hangover pills every day for a week before alcohol consumption. After eating a light breakfast, subjects were dosed with 0.3 g alcohol per kg bodyweight, and BAC was measured using a breathalyzer and a blood draw at set time points over the next three hours. Remarkably, there was a 70% reduction in area under the curve for BAC and a 30% reduction in breath alcohol when subjects took the hangover supplements.",
+  "content_length": 630,
+  "content_tokens": 128,
   "embedding": []
  },
  {
-  "title": "Hangover Pill Success",
+  "title": "The Bottom Line on Hangover Pills",
   "date": "September 24, 2022",
   "context": "Alcohol",
   "people": "Peter Attia",
-  "content": "Despite the difference in recommended use from experimental conditions, the product page boasts success for 70% of people.",
-  "content_length": 122,
-  "content_tokens": 21,
-  "embedding": []
- },
- {
-  "title": "Preventing Hangovers",
-  "date": "September 24, 2022",
-  "context": "Alcohol",
-  "people": "Peter Attia",
-  "content": "The only truly fool-proof way to prevent a hangover is to avoid consuming alcohol in the first place.",
-  "content_length": 101,
-  "content_tokens": 22,
+  "content": "There is no magic or “miracle” in alcohol metabolism. A hangover pill may reduce alcohol absorption and increase the metabolism of alcohol byproducts if you consume only a drink or two. But, given the numerous harmful effects of alcohol, the prospect of a hangover might not be such a bad thing if it encourages one to simply drink less. After all, the only truly fool-proof way to prevent a hangover is to avoid consuming alcohol in the first place.",
+  "content_length": 450,
+  "content_tokens": 97,
   "embedding": []
  }
 ]

@@ -137,6 +137,14 @@ const scrape = async (
     await page.click(closeButtonSelector2);
   }
 
+  const closeButtonSelector3 = ".cky-btn.cky-btn-accept";
+
+  // Wait for the button to appear
+  await page.waitForSelector(closeButtonSelector3);
+
+  // Click the button
+  await page.click(closeButtonSelector3);
+
   await page.type("#user_login", username);
   await page.type("#user_pass", password);
   await page.click("#wp-submit");
@@ -218,14 +226,15 @@ export const onParseFailure = async (failedContent: string) => {
         },
       ],
       temperature: 0.1,
-      max_tokens: 1000,
+      max_tokens: 3000,
     });
   } catch (e) {
     console.log(e);
     console.log(configuration.apiKey);
   }
 
-  if (response!.status !== 200) {
+  if (!response || response!.status !== 200) {
+    return null;
     throw new Error("OpenAI API returned an error");
   } else {
     return response!.data.choices[0].message?.content;
@@ -250,14 +259,15 @@ const chatCompletetion = async (content: string) => {
         },
       ],
       temperature: 0.0,
-      max_tokens: 1000,
+      max_tokens: 3000,
     });
   } catch (e) {
     console.log(e);
     console.log(configuration.apiKey);
   }
 
-  if (response!.status !== 200) {
+  if (!response || response!.status !== 200) {
+    return null;
     throw new Error("OpenAI API returned an error");
   } else {
     return response!.data.choices[0].message?.content;
@@ -268,6 +278,10 @@ async function PP(content: any, tries?: number): Promise<any> {
   let parsed;
 
   if (tries === 3) return undefined;
+
+  if (!tries) {
+    await sleep(1000); // Waits for 1 second
+  }
 
   try {
     parsed = JSON.parse(content);
@@ -289,8 +303,6 @@ async function PP(content: any, tries?: number): Promise<any> {
 const parse = async (scraped: Scraped): Promise<Chunk[]> => {
   const chunks: Chunk[] = [];
 
-  // const andyTry = andy.slice(17);
-
   for (let i = 0; i < scraped.contentEncoded!.length; i++) {
     const chunk = scraped.contentEncoded![i];
     console.log(chunk.content.length);
@@ -301,7 +313,14 @@ const parse = async (scraped: Scraped): Promise<Chunk[]> => {
       content = await chatCompletetion(chunk.content);
     }
 
-    let parsed = await PP(content);
+    let parsed;
+
+    try {
+      parsed = await PP(content);
+    } catch (error) {
+      console.log(error);
+      continue;
+    }
 
     if (!parsed || parsed?.length === 0) {
       continue;
@@ -390,7 +409,7 @@ function removeHtmlElementsAndLinks(input: string): string {
 
   return updatedTextContent;
 }
-function splitString(input: string, maxLength: number = 1000): EncodedString[] {
+function splitString(input: string, maxLength: number = 3000): EncodedString[] {
   // Remove all HTML elements and links
   input = removeHtmlElementsAndLinks(input);
 
@@ -453,7 +472,7 @@ async function startScrape(results: any[]) {
 async function main() {
   const results: any[] = [];
 
-  fs.createReadStream("scripts/data/csv/zone2_unique.csv")
+  fs.createReadStream("scripts/data/csv/exercise_unique.csv")
     .pipe(csv())
     .on("data", (data: any) => results.push(data))
     .on("end", () => {
@@ -464,3 +483,7 @@ async function main() {
 main().catch((error) => {
   console.error("Error:", error);
 });
+
+function sleep(ms: number): Promise<void> {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}

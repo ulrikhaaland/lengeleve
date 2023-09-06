@@ -1,32 +1,52 @@
 [
  {
-  "title": "Dietary strategies to reduce the negative impact of fructose",
+  "title": "Dietary Strategies to Reduce Fructose Impact",
   "date": "June 15, 2022",
   "context": "Sugar",
   "people": "Peter Attia",
-  "content": "Rick recommends avoiding liquids that have lots of sugar in them, such as soft drinks and fruit juices. Sports drinks are interesting because some are really low in fructose, maybe 2-4% fructose and 6% glucose. Soft drinks are about 11% sugar— 6% fructose and 5% glucose. The original sports drinks were glucose rich and had a lot of salt and water. Some studies showed that oxidation of glucose could be facilitated by having a little bit of fructose in the drink. The sugar content of freshly squeezed orange juice is probably about two thirds of a soft drink. Apple juice is sweeter, it’s equivalent to a soft drink. The Pediatric Society recommends limiting fruit juice, to like 6 ounces or less for older children and 4 ounces or so for really small children.",
-  "content_length": 764,
-  "content_tokens": 158,
+  "content": "If you want to go on a zero fructose diet, you’re going to have a hard time. The first thing recommended is try not to drink liquids that have lots of sugar in them— soft drinks and fruit juices. Review of risks of liquid sugars, published in Obesity in 2019, Are Liquid Sugars Different from Solid Sugar in Their Ability to Cause Metabolic Syndrome? Soft drinks are about 11% sugar— 6% fructose and 5% glucose. This is on the order of 110 g total sugar per liter.",
+  "content_length": 464,
+  "content_tokens": 105,
   "embedding": []
  },
  {
-  "title": "Richard Johnson's Background",
+  "title": "Sports Drinks and Fructose",
   "date": "June 15, 2022",
   "context": "Sugar",
   "people": "Peter Attia",
-  "content": "Richard Johnson is a professor of medicine in the Department of Nephrology at the University of Colorado since 2008 and he’s spent the last 19 years being a division chief across three very prestigious medical schools. An unbelievably prolific author, Rick has well over 700 publications in JAMA, New England Journal of Medicine, Science, et Cetera. He’s lectured across 40 countries, authored two books, including The Fat Switch, and has been funded extensively by the National Institute of Health (NIH).",
-  "content_length": 505,
-  "content_tokens": 103,
+  "content": "Sports drinks are interesting because some are really low in fructose. Maybe 2-4% fructose and 6% glucose. 6% glucose means there are 60 grams of glucose per liter. The original sports drinks were glucose rich and had a lot of salt and water. Some studies showed that oxidation of glucose could be facilitated by having a little bit of fructose in the drink. Having a small amount of fructose actually accelerated glucose uptake; this worked primarily in the gut. Performance was increased by having small amounts of fructose (2-3%) and the optimal glucose in sports drinks was found to be 5-6%. Now, some sports drinks actually have more fructose in it because it tastes better and that’s a problem. But for someone out there exercising, using a sports drink for what it’s meant for, then this is fine. But drinking sports drinks without exercise, in front of the TV, is probably not a good idea.",
+  "content_length": 897,
+  "content_tokens": 188,
   "embedding": []
  },
  {
-  "title": "Richard Johnson's Research Focus",
+  "title": "Fruit Juice and Fructose",
   "date": "June 15, 2022",
   "context": "Sugar",
   "people": "Peter Attia",
-  "content": "His primary focus in research has been on the mechanisms causing kidney disease, but it was in doing this that he became really interested in the connection between fructose (and fructose metabolism) and obesity, diabetes, heart disease, hypertension, and metabolic disease.",
-  "content_length": 274,
-  "content_tokens": 49,
+  "content": "The sugar content of freshly squeezed orange juice is probably about two thirds of a soft drink. Apple juice is sweeter, it’s equivalent to a soft drink. The Pediatric Society a long time ago realized that juice has so much fructose that it was being associated with obesity in children. They made recommendations to limit fruit juice, to like 6 ounces or less for older children and 4 ounces or so for really small children.",
+  "content_length": 425,
+  "content_tokens": 86,
+  "embedding": []
+ },
+ {
+  "title": "Professional Experience",
+  "date": "June 15, 2022",
+  "context": "Sugar",
+  "people": "Peter Attia",
+  "content": "A professor of medicine in the Department of Nephrology at the University of Colorado since 2008 and has spent the last 19 years being a division chief across three very prestigious medical schools. Has well over 700 publications in JAMA, New England Journal of Medicine, Science, et cetera. Has lectured across 40 countries, authored two books, including The Fat Switch, and has been funded extensively by the National Institute of Health (NIH).",
+  "content_length": 446,
+  "content_tokens": 88,
+  "embedding": []
+ },
+ {
+  "title": "Research Focus",
+  "date": "June 15, 2022",
+  "context": "Sugar",
+  "people": "Peter Attia",
+  "content": "Primary focus in research has been on the mechanisms causing kidney disease. Became really interested in the connection between fructose (and fructose metabolism) and obesity, diabetes, heart disease, hypertension, and metabolic disease.",
+  "content_length": 237,
+  "content_tokens": 40,
   "embedding": []
  }
 ]

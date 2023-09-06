@@ -1,22 +1,32 @@
 [
  {
-  "title": "Fasting and Radiation Toxicity",
+  "title": "Fasting and Radiation Exposure",
   "date": "August 4, 2019",
   "context": "Fasting",
   "people": "Peter Attia",
-  "content": "The study aimed to find out if fasting could protect the intestines from high-dose radiation, which could allow for higher doses of radiation treatment in killing pancreatic tumor cells. Not only did the investigators demonstrate that fasting improved survival and intestinal cell regeneration, they also found that fasting improved the survival of mice with pancreatic tumors also subjected to lethal doses of abdominal radiation. The investigators also noted that the protection conferred by fasting applied only to the normal tissues, whereas the pancreatic tumors were not radioprotected, and actually may have been more vulnerable as a result of the 24-hour fast.",
-  "content_length": 668,
-  "content_tokens": 119,
+  "content": "An interesting study pertaining to fasting in mice showed that the rodents that fasted for 24 hours prior to exposure to a high dose of radiation survived beyond expectations. The non-fasting mice all died within a week from radiation-induced toxicity. The fasting mice showed signs of radiation toxicity, but were back to their baseline activity levels 8 days later. The fasting also appeared to protect intestinal stem cells: intestinal epithelial cells in the fasting mice were regenerating by day 10 post-radiation.",
+  "content_length": 519,
+  "content_tokens": 98,
   "embedding": []
  },
  {
-  "title": "Fasting and Cancer Therapy",
+  "title": "Fasting and Cancer Treatment",
   "date": "August 4, 2019",
   "context": "Fasting",
   "people": "Peter Attia",
-  "content": "Fasting and/or dietary restriction has been shown to improve the tolerability of toxic cancer therapies (e.g., chemotherapy, radiation therapy). A 2019 review points to several studies in which forms of fasting protects normal cells in mice from the damage induced by chemotherapy and other toxic drugs while differentially making cancer cells more vulnerable.",
-  "content_length": 360,
-  "content_tokens": 65,
+  "content": "The purpose of the study was to find out if fasting could protect the intestines from high-dose radiation, which could allow for higher doses of radiation treatment in killing pancreatic tumor cells. Not only did the investigators demonstrate that fasting improved survival and intestinal cell regeneration, they also found that fasting improved the survival of mice with pancreatic tumors also subjected to lethal doses of abdominal radiation. The investigators also noted that the protection conferred by fasting applied only to the normal tissues, whereas the pancreatic tumors were not radioprotected, and actually may have been more vulnerable as a result of the 24-hour fast.",
+  "content_length": 681,
+  "content_tokens": 122,
+  "embedding": []
+ },
+ {
+  "title": "Fasting and Toxic Cancer Therapies",
+  "date": "August 4, 2019",
+  "context": "Fasting",
+  "people": "Peter Attia",
+  "content": "This is not the first time that fasting and/or dietary restriction has been shown to improve the tolerability of toxic cancer therapies such as chemotherapy and radiation therapy. A 2019 review points to several studies in which forms of fasting protects normal cells in mice from the damage induced by chemotherapy and other toxic drugs while differentially making cancer cells more vulnerable.",
+  "content_length": 395,
+  "content_tokens": 68,
   "embedding": []
  },
  {
@@ -24,19 +34,9 @@
   "date": "August 4, 2019",
   "context": "Fasting",
   "people": "Peter Attia",
-  "content": "There already have been a number of feasibility studies in cancer patients showing it is well-tolerated and efficacious. Fasting is riskier in mice and generally better tolerated in humans.",
-  "content_length": 189,
-  "content_tokens": 38,
-  "embedding": []
- },
- {
-  "title": "Fasting and Cancer",
-  "date": "August 4, 2019",
-  "context": "Fasting",
-  "people": "Peter Attia",
-  "content": "Given the mounting evidence that fasting appears to be safe and may be beneficial, I would love to see more clinical trials in cancer patients looking at its potential effects.",
-  "content_length": 176,
-  "content_tokens": 32,
+  "content": "What’s true in mice living in laboratory conditions may not be true in men and women living in the real world. However, fasting is an entirely different story. There already have been a number of feasibility studies in cancer patients showing it is well-tolerated and efficacious. Fasting is riskier in mice and generally better tolerated in humans. Given the mounting evidence that fasting appears to be safe and may be beneficial, more clinical trials in cancer patients looking at its potential effects are needed.",
+  "content_length": 517,
+  "content_tokens": 101,
   "embedding": []
  }
 ]

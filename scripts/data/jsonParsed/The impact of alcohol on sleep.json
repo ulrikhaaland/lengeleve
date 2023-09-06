@@ -1,52 +1,42 @@
 [
  {
-  "title": "Alcohol's impact on sleep",
+  "title": "Alcohol's Impact on Sleep",
   "date": "March 29, 2022",
   "context": "Alcohol & Sleep",
   "people": "Peter Attia",
-  "content": "Alcohol is a sedative that can put you to sleep quicker, but it can also fragment sleep and block REM sleep. It can reduce the quality of sleep and negatively impact disease. The mechanism of sleep disruption is speculated to be the aldehydes which is a byproduct of ethanol metabolism. Alcohol-induced reduction in glutamate has also been implicated in alcohol-induced suppression of REM sleep. Overall, alcohol reduces REM sleep and has little effect on deep sleep.",
-  "content_length": 467,
-  "content_tokens": 93,
+  "content": "Alcohol negatively impacts sleep. It is a sedative and a GABA agonist, which can cause you to lose consciousness more quickly, but this should not be confused with falling asleep. Alcohol fragments sleep, causing you to wake up more times during the night, often so briefly that you don't remember. It also blocks REM sleep, leading to waking up unrefreshed and unrestored. However, it doesn't seem to negatively impact deep sleep.",
+  "content_length": 431,
+  "content_tokens": 91,
   "embedding": []
  },
  {
-  "title": "Metrics to track the impact of alcohol on your sleep",
+  "title": "Personal Observations on Alcohol and Sleep",
   "date": "March 29, 2022",
   "context": "Alcohol & Sleep",
   "people": "Peter Attia",
-  "content": "Alcohol can impact resting heart rate, heart rate variability, respiratory rate, and body temperature. The impact is a function of how much you drink and when you drink in relation to sleep. For example, two drinks close to bedtime can increase resting heart rate by 6-8 beats per minute, compress heart rate variability by 20-50%, increase respiratory rate by 2 breaths per minute, and increase body temperature by 0.3-0.6 °F.",
-  "content_length": 427,
-  "content_tokens": 93,
+  "content": "Even just two drinks can disrupt REM sleep, leading to more wake-ups and more light sleep. The mechanism of sleep disruption is not clear, but it might be due to the aldehydes, a byproduct of ethanol metabolism, which block the brain's ability to generate REM sleep. Alcohol reduces REM sleep, can reduce sleep latency so you can fall asleep quicker, but overall reduces the quality of sleep.",
+  "content_length": 392,
+  "content_tokens": 83,
   "embedding": []
  },
  {
-  "title": "Thermogenic effect of food",
+  "title": "Metrics to Track the Impact of Alcohol on Sleep",
   "date": "March 29, 2022",
   "context": "Alcohol & Sleep",
   "people": "Peter Attia",
-  "content": "Food has a thermogenic effect",
-  "content_length": 29,
-  "content_tokens": 6,
+  "content": "Alcohol can impact four biometric parameters: resting heart rate, heart rate variability, respiratory rate, and body temperature. The impact is a function of how much you drink and when you drink in relation to sleep. For example, two drinks close to bedtime can increase resting heart rate, compress heart rate variability, increase respiratory rate, and raise body temperature.",
+  "content_length": 379,
+  "content_tokens": 72,
   "embedding": []
  },
  {
-  "title": "Eating before bedtime",
+  "title": "Why These Metrics Matter",
   "date": "March 29, 2022",
   "context": "Alcohol & Sleep",
   "people": "Peter Attia",
-  "content": "For Peter, the more closely he’s eating to bedtime will drive his body temperature up",
-  "content_length": 85,
-  "content_tokens": 20,
-  "embedding": []
- },
- {
-  "title": "Importance of metrics",
-  "date": "March 29, 2022",
-  "context": "Alcohol & Sleep",
-  "people": "Peter Attia",
-  "content": "\"It just seems to me that all of these things are suggestive of more sympathetic tone, and that’s the underlying issue.\" —Peter Attia",
-  "content_length": 133,
-  "content_tokens": 31,
+  "content": "These metrics are suggestive of more sympathetic tone, which is the underlying issue with alcohol's impact on sleep.",
+  "content_length": 116,
+  "content_tokens": 21,
   "embedding": []
  }
 ]

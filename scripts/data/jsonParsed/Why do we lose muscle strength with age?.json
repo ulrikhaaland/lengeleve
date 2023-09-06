@@ -1,92 +1,52 @@
 [
  {
-  "title": "Age-related muscle loss",
+  "title": "Age-Related Muscle Loss",
   "date": "June 11, 2022",
   "context": "Strength & Muscle Mass",
   "people": "Peter Attia",
-  "content": "Muscle mass and strength naturally decrease as we age. Loss of both muscle mass and muscle strength accelerates as we age, though the rate of muscle strength loss is typically far greater than the rate of muscle mass loss.",
-  "content_length": 222,
-  "content_tokens": 44,
+  "content": "Muscle mass and strength naturally decrease as we age. Loss of both muscle mass and muscle strength accelerates as we age, though the rate of muscle strength loss is typically far greater than the rate of muscle mass loss. Although muscle mass does affect muscle strength, these data suggest that there may be something else at play to explain age-related strength loss.",
+  "content_length": 370,
+  "content_tokens": 71,
   "embedding": []
  },
  {
-  "title": "Why do muscles lose strength as we get older?",
+  "title": "Mechanism of Muscle Contraction",
   "date": "June 11, 2022",
   "context": "Strength & Muscle Mass",
   "people": "Peter Attia",
-  "content": "Researchers have explored numerous systemic, cellular, and molecular systems to determine why we experience a loss of muscle strength with age, and it appears to boil down to two major factors: muscle quality and neuromuscular innervation.",
-  "content_length": 239,
-  "content_tokens": 45,
+  "content": "Skeletal muscle produces contractile force based on a complex, coordinated series of events. Muscles are innervated by motor neurons originating from the brain or spinal cord, which provide the signal for muscle contraction. An impulse from a motor neuron reaches the muscle through the neuromuscular junction, after which the excitatory signal propagates through the muscle fiber. This impulse triggers the release of calcium in the muscle fiber, which induces interactions between two key proteins – myosin and actin – and this interaction, which depends on energy in the form of ATP, is what ultimately results in muscle contraction.",
+  "content_length": 636,
+  "content_tokens": 123,
   "embedding": []
  },
  {
-  "title": "Loss of Muscle Quality",
+  "title": "Factors Contributing to Muscle Strength Loss with Age",
   "date": "June 11, 2022",
   "context": "Strength & Muscle Mass",
   "people": "Peter Attia",
-  "content": "The loss of muscle quality is inevitable, progressing intrinsically at the cellular level at multiple steps along the muscle contraction pathway. Age is also associated with myosin structural changes that reduce its ability to remain in a strong-binding, force-generating state, so muscle contraction is weaker. Additionally, we accumulate oxidative stress-related DNA damage as we age, resulting in a decline in muscle mitochondrial function and lower mitochondrial density, ultimately leading to insufficient production of the ATP needed for muscle contraction.",
-  "content_length": 563,
-  "content_tokens": 97,
+  "content": "Researchers have explored numerous systemic, cellular, and molecular systems to determine why we experience a loss of muscle strength with age, and it appears to boil down to two major factors: muscle quality and neuromuscular innervation. Loss of muscle quality is inevitable, progressing intrinsically at the cellular level at multiple steps along the muscle contraction pathway. Age is also associated with myosin structural changes that reduce its ability to remain in a strong-binding, force-generating state, so muscle contraction is weaker. Additionally, we accumulate oxidative stress-related DNA damage as we age, resulting in a decline in muscle mitochondrial function and lower mitochondrial density, ultimately leading to insufficient production of the ATP needed for muscle contraction. Another major factor contributing to muscle strength decline is the loss of neuromuscular innervation. In older populations, denervation appears to outpace reinnervation, independent of activity level. The reduced density of neural connections to muscle fibers equates to reduced communication between the brain and muscle, resulting in lower force, lower speed, and overall compromised performance.",
+  "content_length": 1199,
+  "content_tokens": 212,
   "embedding": []
  },
  {
-  "title": "Loss of Innervation",
+  "title": "Mitigating Age-Related Muscle Strength Loss",
   "date": "June 11, 2022",
   "context": "Strength & Muscle Mass",
   "people": "Peter Attia",
-  "content": "Another major factor contributing to muscle strength decline is the loss of neuromuscular innervation. Throughout one’s life, nerves constantly undergo cycles of innervating and denervating muscle fibers depending upon muscle usage. The more a muscle is used, the more neuromotor connections it develops, which leads to improved contractile strength. The opposite is also true: muscles that are seldom used become less innervated.",
-  "content_length": 430,
-  "content_tokens": 86,
+  "content": "Although little can be done to mitigate the age-related decline in muscle quality, we do have some control over neuromuscular remodeling. Increased activation of muscle fibers through physical activity initiates a cascade of events that attenuate muscle strength loss. Active muscle releases a number of biochemical signals which promote growth of motor neuron fibers, induce them to form more connections to the muscle, and enhance excitatory signal transmission at the neuromuscular junction. These combined effects improve neuromuscular communication and lead to better control and increased strength of muscle contractions, counteracting the effects of aging muscles. In particular, endurance and power training appear to contribute significantly to neuromuscular remodeling, and data from life-long athletes indicate that regular exercise in our later years is effective in improving muscle strength and function.",
+  "content_length": 918,
+  "content_tokens": 164,
   "embedding": []
  },
  {
-  "title": "Age-related decline in muscle quality",
-  "date": "June 11, 2022",
-  "context": "Strength & Muscle Mass",
-  "people": "Peter Attia",
-  "content": "In older populations, denervation appears to outpace reinnervation, independent of activity level. Studies suggest this may be due to unstable neuromuscular junctions, motor neuron death that occurs with aging, and the impaired ability of neurons to reinnervate fibers. The reduced density of neural connections to muscle fibers equates to reduced communication between the brain and muscle, resulting in lower force, lower speed, and overall compromised performance.",
-  "content_length": 467,
-  "content_tokens": 88,
-  "embedding": []
- },
- {
-  "title": "Physical activity and neuromuscular remodeling",
-  "date": "June 11, 2022",
-  "context": "Strength & Muscle Mass",
-  "people": "Peter Attia",
-  "content": "Increased activation of muscle fibers through physical activity initiates a cascade of events that attenuate muscle strength loss. Active muscle releases a number of biochemical signals which promote growth of motor neuron fibers, induce them to form more connections to the muscle, and enhance excitatory signal transmission at the neuromuscular junction. These combined effects improve neuromuscular communication and lead to better control and increased strength of muscle contractions, counteracting the effects of aging muscles.",
-  "content_length": 533,
-  "content_tokens": 92,
-  "embedding": []
- },
- {
-  "title": "Endurance and power training",
-  "date": "June 11, 2022",
-  "context": "Strength & Muscle Mass",
-  "people": "Peter Attia",
-  "content": "In particular, endurance and power training appear to contribute significantly to neuromuscular remodeling, and data from life-long athletes indicate that regular exercise in our later years is effective in improving muscle strength and function.",
-  "content_length": 246,
-  "content_tokens": 43,
-  "embedding": []
- },
- {
-  "title": "The Importance of Exercise",
+  "title": "Importance of Exercise",
   "date": "June 11, 2022",
   "context": "Strength & Muscle Mass",
   "people": "Peter Attia",
   "content": "Keep exercising throughout life. It is unequivocally the very best weapon in our arsenal when it comes to fending off a deterioration in health and extending lifespan. Improved neuromuscular communication is just one more example of the many mechanisms by which exercise counteracts or slows the physiological declines associated with the aging process.",
   "content_length": 353,
   "content_tokens": 61,
-  "embedding": []
- },
- {
-  "title": "The Message is Critical",
-  "date": "June 11, 2022",
-  "context": "Strength & Muscle Mass",
-  "people": "Peter Attia",
-  "content": "The message of the importance of exercise is so critical that it bears repeating over and over again. Maybe, on your 100th birthday, you’ll be glad I did.",
-  "content_length": 154,
-  "content_tokens": 36,
   "embedding": []
  }
 ]

@@ -1,42 +1,22 @@
 [
  {
-  "title": "The Three Levers of Nutrition",
+  "title": "Intermittent Fasting and Health",
   "date": "January 12, 2020",
   "context": "Fasting",
   "people": "Peter Attia",
-  "content": "The framework to explain eating is based on modifying three parameters or “pulling 3 levers” in various combinations: what you eat or don’t eat (i.e., dietary restriction or DR), how much you eat (i.e., caloric restriction or CR), or when you eat and don’t eat (i.e., time restriction or TR).",
-  "content_length": 292,
-  "content_tokens": 77,
+  "content": "A paper in The New England Journal of Medicine (NEJM) titled “Effects of Intermittent Fasting on Health, Aging, and Disease” suggests that when you eat (and don’t eat) can have a profound impact on your health. Nutrition can be explained by modifying three parameters or “pulling 3 levers” in various combinations. These are what you eat or don’t eat (i.e., dietary restriction or DR), how much you eat (i.e., caloric restriction or CR), or when you eat and don’t eat (i.e., time restriction or TR). Of the three levers, TR (often, though misleadingly, called “intermittent fasting”) possibly contains the simplest dietary prescription: limit your eating to a window of X hours. For example, “Only eat between noon and 8 pm each day.” Most people, without effort, are already doing something like a 10/14 TRF schedule (i.e., not eating for 10 hours; eating within a 14-hour window). From here, it’s easy to get to 12/12 (e.g., only eat between 8 am and 8 pm). Then 14/10, and soon enough 16/8. Before you know it, you’ll be amazed by how easy 18/6 feels (e.g., only eat between 1 pm and 7 pm).",
+  "content_length": 1093,
+  "content_tokens": 296,
   "embedding": []
  },
  {
-  "title": "Time Restriction",
+  "title": "Effects of Time Restricted Feeding",
   "date": "January 12, 2020",
   "context": "Fasting",
   "people": "Peter Attia",
-  "content": "Time restriction (TR) possibly contains the simplest dietary prescription: limit your eating to a window of X hours. For example, “Only eat between noon and 8 pm each day.” Most people are already doing something like a 10/14 TRF schedule, even without a modicum of effort (i.e., not eating for 10 hours; eating within a 14-hour window).",
-  "content_length": 337,
-  "content_tokens": 80,
-  "embedding": []
- },
- {
-  "title": "Benefits of Time Restriction",
-  "date": "January 12, 2020",
-  "context": "Fasting",
-  "people": "Peter Attia",
-  "content": "The metabolic flexibility experienced with TRF is certainly on par with what is experienced during a longer journey in nutritional ketosis. For example, though eating only one (large) meal per day at dinner, one can work up to doing a 6-hour very tough bike ride on nothing but water in the first half of the day.",
-  "content_length": 313,
-  "content_tokens": 66,
-  "embedding": []
- },
- {
-  "title": "The Standard American Diet",
-  "date": "January 12, 2020",
-  "context": "Fasting",
-  "people": "Peter Attia",
-  "content": "If you want to be sick, don’t do any of these things. Eat as much as you want (no CR), of anything you want (no DR), whenever you want (no TR). This is called the “standard American diet.”",
-  "content_length": 188,
-  "content_tokens": 54,
+  "content": "Experimenting with time restricted feeding (TRF) can lead to metabolic flexibility. For example, eating one (large) meal per day at dinner, can lead to the ability to do a 6-hour very tough bike ride on nothing but water in the first half of the day. If you want to be sick, don’t do any of these things. Eat as much as you want (no CR), of anything you want (no DR), whenever you want (no TR). This is called the “standard American diet.” The further you can get away from this pattern of eating, the better. Always pull one of the levers; often pull two; sometimes pull all three.",
+  "content_length": 582,
+  "content_tokens": 143,
   "embedding": []
  }
 ]

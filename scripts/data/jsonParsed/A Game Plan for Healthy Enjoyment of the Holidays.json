@@ -1,72 +1,32 @@
 [
  {
-  "title": "The impact of a single meal on body weight and metabolic parameters",
+  "title": "Effects of Overindulgence on Health",
   "date": "November 21, 2021",
   "context": "Nutritional Biochemistry",
   "people": "Peter Attia",
-  "content": "A single meal, regardless of how large, does not generally have a long-term impact on body weight, fat mass, or important metabolic parameters. Though many notice an uptick in weight the morning after a heavy meal, such “overnight weight gain” is typically the result of water retention, as a larger-than-average meal usually corresponds to a larger-than-average quantity of sodium and carbohydrate.",
-  "content_length": 399,
-  "content_tokens": 84,
+  "content": "A single meal, regardless of how large, does not generally have a long-term impact on body weight, fat mass, or important metabolic parameters. Though many notice an uptick in weight the morning after a heavy meal, such “overnight weight gain” is typically the result of water retention, as a larger-than-average meal usually corresponds to a larger-than-average quantity of sodium and carbohydrate. The apparent gain is short-lived and doesn’t reflect an increase in fat mass. It’s very easy to let a single oversized meal turn into a series of many oversized meals, and the excess calories quickly add up. In the days after a large meal, the tendency to continue overeating is in part due to a surplus in supply: leftovers from that delicious holiday feast crowd the refrigerator and constantly tempt us to have another taste.",
+  "content_length": 828,
+  "content_tokens": 175,
   "embedding": []
  },
  {
-  "title": "The tendency to overeat after a large meal",
+  "title": "Counter-Regulatory Eating and Health",
   "date": "November 21, 2021",
   "context": "Nutritional Biochemistry",
   "people": "Peter Attia",
-  "content": "The tendency to continue overeating is in part due to a surplus in supply: leftovers from that delicious holiday feast crowd the refrigerator and constantly tempt us to have another taste (this time with no cooking required). Unfortunately, this problem is compounded in many individuals by a decreased sense of inhibition toward food following a single episode of overeating. In other words, one is more likely to overeat after consuming a large meal than after eating nothing at all.",
-  "content_length": 485,
-  "content_tokens": 90,
+  "content": "This problem is compounded in many individuals by a decreased sense of inhibition toward food following a single episode of overeating. One is more likely to overeat after consuming a large meal than after eating nothing at all. This phenomenon – known as “counter-regulatory eating” – is, paradoxically, strongest among those who adhere to strict diets under normal circumstances. The strength of the counter-regulatory eating response does not correspond directly to the calorie content of the initial food. Rather, it appears to depend on the degree to which the dieter perceives a food as “forbidden,” irrespective of calorie load, implying that different individuals are likely to have different food triggers for this response.",
+  "content_length": 733,
+  "content_tokens": 143,
   "embedding": []
  },
  {
-  "title": "Strategies to prevent holiday eating from derailing health and fitness goals",
+  "title": "Strategies to Prevent Overeating",
   "date": "November 21, 2021",
   "context": "Nutritional Biochemistry",
   "people": "Peter Attia",
-  "content": "A little advanced planning can go a long way toward ensuring that indulgence doesn’t get out of hand or become a habit. I find, for example, that changing my environment in such a way that removes temptation is more effective than hoping I’ll have the willpower to resist temptation as it arises. Willpower is, in my estimation, a lousy strategy. For me, removing post-meal temptation means preemptive leftover control. Whenever I host Thanksgiving dinner, I ask each of my guests to bring tupperware. No one leaves the house without their share, and I’m not left with a stuffed refrigerator. Another strategy is simply to prepare less food.",
-  "content_length": 641,
-  "content_tokens": 137,
-  "embedding": []
- },
- {
-  "title": "The effectiveness of pre-holiday fasting",
-  "date": "November 21, 2021",
-  "context": "Nutritional Biochemistry",
-  "people": "Peter Attia",
-  "content": "In previous years, I’ve also often relied on a pre-holiday fast to help me prepare for the onslaught of excess calories. This would typically involve maintaining my workout routine while drastically reducing my calorie intake in the 3-4 days leading up to Thanksgiving. By the time the Macy’s parade floats came sailing into Herald Square on Thursday morning, I had built up enough of a calorie deficit that I could safely chow down to my heart’s content. But this still doesn’t address the leftover problem, it only addresses the “damage” from the feast.",
-  "content_length": 555,
-  "content_tokens": 121,
-  "embedding": []
- },
- {
-  "title": "Leftovers Temptation",
-  "date": "November 21, 2021",
-  "context": "Nutritional Biochemistry",
-  "people": "Peter Attia",
-  "content": "I sent guests off with leftovers, but noticed at the end of the evening that we’d forgotten to divide the pies. A deviation from the game plan, but I could improvise: I tossed the leftover pie in the trash, and as I went to bed, I was feeling pretty good about overcoming the temptation of my foe. But after my morning workout the next day, the pie came roaring back with a vengeance. Before I knew it, I was digging through the trash, and sure enough, it was waiting there, still in its box, ready for me.",
-  "content_length": 506,
-  "content_tokens": 117,
-  "embedding": []
- },
- {
-  "title": "Removing Temptation",
-  "date": "November 21, 2021",
-  "context": "Nutritional Biochemistry",
-  "people": "Peter Attia",
-  "content": "It served as a stark reminder that, for me, a strategy of resisting temptation is much less effective than removing temptation altogether. And you can bet that when it comes time to divide leftovers with my guests this year, whatever remains of the pie will be the first to go.",
-  "content_length": 277,
-  "content_tokens": 56,
-  "embedding": []
- },
- {
-  "title": "Long-term Health",
-  "date": "November 21, 2021",
-  "context": "Nutritional Biochemistry",
-  "people": "Peter Attia",
-  "content": "Because even the best-laid plans can fail in the short-term, but when it comes to the long game of improving health, every day – and holiday – is a brand-new ballgame.",
-  "content_length": 167,
-  "content_tokens": 42,
+  "content": "A little advanced planning can go a long way toward ensuring that indulgence doesn’t get out of hand or become a habit. Changing the environment in such a way that removes temptation is more effective than hoping to have the willpower to resist temptation as it arises. Removing post-meal temptation means preemptive leftover control. Another strategy is simply to prepare less food. In previous years, maintaining a workout routine while drastically reducing calorie intake in the 3-4 days leading up to a large meal has been effective. However, this still doesn’t address the leftover problem, it only addresses the “damage” from the feast. Some might find, for example, that aggressive fasting only worsens counter-regulatory eating after the fast is broken. The most effective and realistic game plan will vary for different individuals and different families, and even the best-laid plans can sometimes fail in the short-term.",
+  "content_length": 931,
+  "content_tokens": 186,
   "embedding": []
  }
 ]

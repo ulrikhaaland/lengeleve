@@ -1,12 +1,12 @@
 [
  {
-  "title": "What is Cultured Meat?",
+  "title": "Introduction to Cultured Meat",
   "date": "January 2, 2022",
   "context": "Nutritional Biochemistry",
   "people": "Peter Attia",
-  "content": "Lab-grown meat – also called cultured meat – is created from culturing animal-sourced muscle and fat cells in vitro.  It is the most well-known example of the burgeoning field of “cellular agriculture,” which received hundreds of millions of dollars in global investments just in 2020 alone. Advocates praise lab-grown meat for its potential benefits for the environment and animal rights, as well as for improving global access to quality, protein-rich food.",
-  "content_length": 459,
-  "content_tokens": 96,
+  "content": "Lab-grown meat – also called cultured meat – is created from culturing animal-sourced muscle and fat cells in vitro. It is the most well-known example of the burgeoning field of “cellular agriculture,” which received hundreds of millions of dollars in global investments just in 2020 alone. Advocates praise lab-grown meat for its potential benefits for the environment and animal rights, as well as for improving global access to quality, protein-rich food.",
+  "content_length": 458,
+  "content_tokens": 95,
   "embedding": []
  },
  {
@@ -14,19 +14,29 @@
   "date": "January 2, 2022",
   "context": "Nutritional Biochemistry",
   "people": "Peter Attia",
-  "content": "Several analysts and industry insiders are skeptical that cultured meat is imminent and inevitable. The science and technology currently available cannot produce cost-competitive cell-cultured meat products, but some groups claim that they can be competitive within the next 10 years by addressing several technical and economic barriers. Chemical engineer David Humbird, who has researched the technology and economics of cell-cultured meat, told The Counter that it was “hard to find an angle that wasn’t a ludicrous dead end.”",
-  "content_length": 529,
+  "content": "The science and technology currently available cannot produce cost-competitive cell-cultured meat products, but some groups claim that they can be competitive within the next 10 years by addressing several technical and economic barriers. However, there are consequences to putting so many eggs into one basket. And since any one breakthrough isn’t likely to solve all of the problems currently facing the cultured meat industry, the product timelines that these start-ups have set for themselves seem little more than fantasy.",
+  "content_length": 527,
+  "content_tokens": 95,
+  "embedding": []
+ },
+ {
+  "title": "Future of Cultured Meat",
+  "date": "January 2, 2022",
+  "context": "Nutritional Biochemistry",
+  "people": "Peter Attia",
+  "content": "For cultured meat to move the needle on climate, a sequence of as-yet-unforeseen breakthroughs will still be necessary. We’ll need to train cells to behave in ways that no cells have behaved before. We’ll need to engineer bioreactors that defy widely accepted principles of chemistry and physics. We’ll need to build an entirely new nutrient supply chain using sustainable agricultural practices, inventing forms of bulk amino acid production that are cheap, precise, and safe.",
+  "content_length": 477,
   "content_tokens": 101,
   "embedding": []
  },
  {
-  "title": "Bottom Line?",
+  "title": "Plant-Based Meat Alternatives",
   "date": "January 2, 2022",
   "context": "Nutritional Biochemistry",
   "people": "Peter Attia",
-  "content": "Cultured meat start-ups claim that marketable products are just on the horizon. If we consider the fact that horizons are distant lines that can never be attained, then I agree with this assessment. The number of revolutionary breakthroughs that would be needed to overcome all of the current roadblocks simply seems insurmountable, at least within a 10-year timeline. Meanwhile, as lab-grown meat struggles to get off the ground, plant-based “meats” – produced by companies like Beyond Meats and Impossible Foods – have already proven their viability and popularity.",
-  "content_length": 567,
-  "content_tokens": 118,
+  "content": "Meanwhile, as lab-grown meat struggles to get off the ground, plant-based “meats” – produced by companies like Beyond Meats and Impossible Foods – have already proven their viability and popularity.",
+  "content_length": 198,
+  "content_tokens": 43,
   "embedding": []
  }
 ]

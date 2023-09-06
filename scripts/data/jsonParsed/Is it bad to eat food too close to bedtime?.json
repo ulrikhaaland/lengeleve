@@ -1,12 +1,22 @@
 [
  {
-  "title": "Eating before bedtime",
+  "title": "Eating Before Bedtime",
   "date": "May 31, 2022",
   "context": "Diet & Sleep",
   "people": "Peter Attia",
-  "content": "Matt advises cutting off all eating at least 3 hours before bed. The principal reason is just because when you lie down, you’re more likely to get acid reflux, more likely to have digestive issues. Secondly, because it can raise your core body temperature. You need to drop your core body temperature by about two to three degrees Fahrenheit to initiate sleep and then to stay asleep. If you must have something to eat close to bed because you are too hungry to sleep, avoid simple carbs because those will actually just get translated more quickly into energy and ultimately a heat index.",
-  "content_length": 589,
-  "content_tokens": 116,
+  "content": "It is advised to cut off all eating at least 3 hours before bed. The principal reason is that when you lie down, you’re more likely to get acid reflux and have digestive issues. Additionally, eating can raise your core body temperature. You need to drop your core body temperature by about two to three degrees Fahrenheit to initiate sleep and then to stay asleep. That’s why it’s easier to sleep in a cold room than a hot room.",
+  "content_length": 428,
+  "content_tokens": 96,
+  "embedding": []
+ },
+ {
+  "title": "Food Choices Before Bedtime",
+  "date": "May 31, 2022",
+  "context": "Diet & Sleep",
+  "people": "Peter Attia",
+  "content": "If you must have something to eat close to bed because you are too hungry to sleep, avoid simple carbs because those will actually just get translated more quickly into energy and ultimately a heat index.",
+  "content_length": 204,
+  "content_tokens": 38,
   "embedding": []
  }
 ]
