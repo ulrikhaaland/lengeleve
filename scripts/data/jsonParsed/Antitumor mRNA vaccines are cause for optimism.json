@@ -1,16 +1,16 @@
 [
  {
-  "title": "Moderna's mRNA vaccine shows promise in treating melanoma",
+  "title": "Moderna's mRNA Vaccine for Melanoma",
   "date": "January 7, 2023",
   "context": "Cancer",
   "people": "Peter Attia",
-  "content": "Moderna recently announced the efficacy of a personalized mRNA vaccine in combination with traditional immunotherapy in treating patients with stage III/IV melanoma. The ongoing Phase 2b clinical trial KEYNOTE-942, sponsored by Moderna in collaboration with Merck, revealed that the group receiving adjuvant mRNA vaccine treatment and Keytruda demonstrated a 44% reduction in risk of recurrence or death compared to the group receiving the PD-1 inhibitor drug alone. The preliminary announcement was picked up by several mainstream news outlets, followed shortly by heated debate and misinformation on social media.",
-  "content_length": 615,
-  "content_tokens": 114,
+  "content": "Moderna’s recent announcement on the efficacy of a personalized mRNA vaccine – in combination with traditional immunotherapy – in treating patients with stage III/IV melanoma. The ongoing Phase 2b clinical trial KEYNOTE-942, sponsored by Moderna in collaboration with Merck. Patients with stage III or IV melanoma underwent surgical tumor removal, after which they began treatment in one of two randomly assigned study arms: the experimental group received the immunotherapeutic PD-1 inhibitor drug pembrolizumab (trade name Keytruda) plus the novel anti-cancer mRNA vaccine mRNA-4157/V940, while the comparison group received Keytruda alone. The groups were then followed for comparison of recurrence-free survival (RFS). The group receiving adjuvant mRNA vaccine treatment and Keytruda demonstrated a 44% reduction in risk of recurrence or death compared to the group receiving the PD-1 inhibitor drug alone.",
+  "content_length": 910,
+  "content_tokens": 192,
   "embedding": []
  },
  {
-  "title": "Using vaccines to fight cancer",
+  "title": "Cancer Vaccines",
   "date": "January 7, 2023",
   "context": "Cancer",
   "people": "Peter Attia",
@@ -20,63 +20,43 @@
   "embedding": []
  },
  {
-  "title": "The importance of personalization",
+  "title": "Personalization in Cancer Vaccines",
   "date": "January 7, 2023",
   "context": "Cancer",
   "people": "Peter Attia",
-  "content": "The earliest attempts at vaccines against cancer focused on tumor-associated antigens – proteins which were unusually overexpressed in cancer cells. But since normal cells often express these proteins as well, this approach can result in toxic autoimmune responses against healthy tissue, demonstrating the need for tumor-specific antigens.",
-  "content_length": 340,
-  "content_tokens": 61,
+  "content": "Creating vaccines for tumor-specific antigens is not a one-size-fits-all endeavor; it requires a tailored approach for each individual patient and tumor. From a routine tumor biopsy, it’s possible to determine the DNA signatures specific to a given case of cancer. For mRNA-4157/V940, Moderna used these signatures to create personalized mRNA vaccines to target unique mutational hallmarks in the tumors of each individual patient, theoretically enhancing efficacy against that tumor while reducing the likelihood of off-target autoimmunity.",
+  "content_length": 541,
+  "content_tokens": 111,
   "embedding": []
  },
  {
-  "title": "The Challenge of Personalized Cancer Vaccines",
+  "title": "mRNA Vaccines",
   "date": "January 7, 2023",
   "context": "Cancer",
   "people": "Peter Attia",
-  "content": "Unfortunately, the ways in which cancer cells differ from healthy cells vary from person to person and from tumor to tumor. For those of you who may recall my discussion with Dr. Rosenberg, one of the most amazing insights of the past few years is that while each person’s cancer may have on average about 100 mutations (give or take), at least 80% of cancer patients have mutations that are recognized by their own immune system. That’s the good news. The bad news is that virtually none of these immunogenic mutations are shared across people. Thus, creating vaccines for tumor-specific antigens is not a one-size-fits-all endeavor; it requires a tailored approach for each individual patient and tumor.",
-  "content_length": 705,
-  "content_tokens": 147,
+  "content": "mRNA vaccines offer several practical advantages over other vaccine types, including lower production costs and enhanced safety, but particularly with respect to cancer, we have reason to expect that they may also be more effective. A single mRNA strand can encode several antigens, and therefore, a single immunization can induce the immune system to recognize and target multiple cancer cell hallmarks, reducing the risk that variations among the abnormal cells might permit some to evade detection.",
+  "content_length": 501,
+  "content_tokens": 89,
   "embedding": []
  },
  {
-  "title": "Advantages of mRNA Vaccines for Cancer",
+  "title": "Combination of Vaccines and Immune Checkpoint Inhibitors",
   "date": "January 7, 2023",
   "context": "Cancer",
   "people": "Peter Attia",
-  "content": "Of the many categories of vaccines, nucleic acid-based vaccines – i.e., those involving DNA or RNA as a template to code for antigens – offer distinct advantages when it comes to personalization and other challenges. RNA vaccines consist of messenger RNA (mRNA) transcribed in vitro from DNA encoding antigens of interest (e.g., proteins present specifically in pathogens or cancer cells). After entering a cell, the mRNA is used as a template for creating the antigen proteins, which are subsequently presented on the surface of certain immune cells to stimulate a targeted, highly-specific immune response to tumor cells bearing those antigens. mRNA vaccines offer several practical advantages over other vaccine types, including lower production costs and enhanced safety, but particularly with respect to cancer, we have reason to expect that they may also be more effective.",
-  "content_length": 879,
-  "content_tokens": 169,
+  "content": "Tumor cells can also actively suppress immune reactions, in part by activating “immune checkpoints.” These checkpoints normally serve to block immune activity against healthy tissue but can be hijacked by cancer cells in order to evade destruction. Keytruda is part of a class of drugs known as immune checkpoint inhibitors and acts by suppressing the activity of the checkpoint protein PD-1. Keytruda in combination with mRNA-4157/V940 reduces risk by an additional 44% relative to Keytruda alone.",
+  "content_length": 498,
+  "content_tokens": 102,
   "embedding": []
  },
  {
-  "title": "Combining mRNA Vaccines with Immune Checkpoint Inhibitors",
+  "title": "mRNA Vaccines and Cancer Treatment",
   "date": "January 7, 2023",
   "context": "Cancer",
   "people": "Peter Attia",
-  "content": "As you may recall from my previous newsletter on immunotherapy, the difficulty of recognizing abnormal cells is not the only challenge the immune system faces when it comes to battling cancer. Tumor cells can also actively suppress immune reactions, in part by activating “immune checkpoints.” These checkpoints normally serve to block immune activity against healthy tissue but can be hijacked by cancer cells in order to evade destruction. So we now have two problems: how to make “custom” treatments for each patient, which mRNA vaccine technology can do, and how to rev up the immune system to attack the cancer, now that it recognizes it. In other words, although creating personalized vaccines against specific tumor antigens may help the immune system to identify abnormal cells, doing so does not guarantee that the body will then mount a full immune response to destroy those cells. This is where Keytruda enters the story. Keytruda is part of a class of drugs known as immune checkpoint inhibitors and acts by suppressing the activity of the checkpoint protein PD-1. The drug has rightfully been celebrated in its own right since receiving FDA approval in 2014, with melanoma patients on Keytruda showing significantly higher recurrence-free survival than those on placebo (HR: 0.57; 98.4% CI: 0.43 – 0.74; P<0.001). But according to Moderna’s recent announcement, Keytruda in combination with mRNA-4157/V940 reduces risk by an additional 44% relative to Keytruda alone. While it’s worth reiterating that these data are very preliminary, they do make sense. An mRNA vaccine stimulates a highly-specific immune response against a given tumor, and a PD-1 inhibitor removes a barrier which would otherwise prevent that response from proceeding. One treatment presses the gas, the other lifts up on the brakes. A logical and potentially very potent combination.",
-  "content_length": 1867,
-  "content_tokens": 386,
-  "embedding": []
- },
- {
-  "title": "Immunotherapy for Cancer",
-  "date": "January 7, 2023",
-  "context": "Cancer",
-  "people": "Peter Attia",
-  "content": "I believe that no form of systemic therapy (the only hope for advanced cancer) has a fraction of the potential that immunotherapy does.",
-  "content_length": 135,
-  "content_tokens": 27,
-  "embedding": []
- },
- {
-  "title": "mRNA vaccine and cancer treatment",
-  "date": "January 7, 2023",
-  "context": "Cancer",
-  "people": "Peter Attia",
-  "content": "Based on our current understanding of science and medicine, we have reason to be cautiously optimistic that mRNA vaccines, in combination with checkpoint inhibitors, might provide yet another incremental advance toward more effective cancer treatment.",
-  "content_length": 251,
-  "content_tokens": 39,
+  "content": "This clinical trial and mRNA vaccine won’t answer all of our prayers. But based on our current understanding of science and medicine, we have reason to be cautiously optimistic that mRNA vaccines, in combination with checkpoint inhibitors, might provide yet another incremental advance toward more effective cancer treatment.",
+  "content_length": 325,
+  "content_tokens": 56,
   "embedding": []
  }
 ]

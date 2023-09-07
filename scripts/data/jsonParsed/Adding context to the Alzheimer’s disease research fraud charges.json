@@ -1,42 +1,62 @@
 [
  {
-  "title": "Alzheimer's Disease Research Fraud",
+  "title": "Alzheimer's Disease Research",
   "date": "September 3, 2022",
   "context": "Cognitive Health & Neurodegenerative Disease",
   "people": "Peter Attia",
-  "content": "a news article published in Science sent shockwaves through the scientific community when it reported that one of the most influential and frequently-cited publications in Alzheimer’s disease (AD) research was evidently based on fraud. Lesné and his colleagues reported a key link in the so-called “amyloid hypothesis” of AD pathogenesis – the theory that the cognitive and memory impairments associated with AD are caused primarily by aggregates (known as “plaques”) of amyloid beta (Aꞵ) proteins. Based in large part on Lesné’s findings, research on Aꞵ’s role in AD pathogenesis has received a lion’s share of government funding allotted for the disease over the last 16 years. Virtually all clinical trials using anti-amyloid drugs have failed to show any positive effect on cognition, and many Phase 3 trials have been terminated early for lack of efficacy. So when Schrag revealed compelling evidence that Lesné had falsified data images in the 2006 paper and in several of his subsequent publications on Aꞵ*56, the revelation certainly wasn’t the first blow to the amyloid hypothesis.",
-  "content_length": 1090,
-  "content_tokens": 249,
+  "content": "One of the most influential and frequently-cited publications in Alzheimer’s disease (AD) research was evidently based on fraud. The study reported a key link in the so-called “amyloid hypothesis” of AD pathogenesis – the theory that the cognitive and memory impairments associated with AD are caused primarily by aggregates (known as “plaques”) of amyloid beta (Aꞵ) proteins. The authors claimed to have discovered a previously unknown subtype of Aꞵ called Aꞵ*56, which they then showed caused memory impairment when injected into young rats. Aꞵ plaques had been recognized as a common feature of AD since 1906, but the work implied a causal link between these proteins and cognitive decline.",
+  "content_length": 693,
+  "content_tokens": 161,
   "embedding": []
  },
  {
-  "title": "Limited funding for AD research",
+  "title": "Impact of the Study on Alzheimer's Disease Research",
   "date": "September 3, 2022",
   "context": "Cognitive Health & Neurodegenerative Disease",
   "people": "Peter Attia",
-  "content": "The problem was exacerbated by the relatively limited NIH budget for AD research in the decade following Lesné’s study. In 2012, AD research received less than 25% of the funding devoted to cardiovascular research and only about 9% of the funding allocated for cancer research.",
-  "content_length": 277,
-  "content_tokens": 55,
+  "content": "Based in large part on the findings, research on Aꞵ’s role in AD pathogenesis has received a lion’s share of government funding allotted for the disease over the last 16 years. This research provided the foundation for subsequent development and approval of anti-amyloid medications (e.g., aducanumab) for AD treatment. The logic is simple: Aꞵ plaques are the causal driver of disease, so removing them should slow or halt disease progression.",
+  "content_length": 443,
+  "content_tokens": 103,
   "embedding": []
  },
  {
-  "title": "Shift away from amyloid hypothesis",
+  "title": "Challenges in Alzheimer's Disease Research",
+  "date": "September 3, 2022",
+  "context": "Cognitive Health & Neurodegenerative Disease",
+  "people": "Peter Attia",
+  "content": "Virtually all clinical trials using anti-amyloid drugs have failed to show any positive effect on cognition, and many Phase 3 trials have been terminated early for lack of efficacy. These results led many AD experts to raise serious questions about Aꞵ as a primary culprit. Amyloid advocates point out that starting treatment with these medications earlier in the course of disease might yield more positive outcomes, but critics remain skeptical, pointing out that many elderly individuals with normal cognition are found to have significant amyloid plaques during autopsy.",
+  "content_length": 574,
+  "content_tokens": 108,
+  "embedding": []
+ },
+ {
+  "title": "Allegations of Fraud in Alzheimer's Disease Research",
+  "date": "September 3, 2022",
+  "context": "Cognitive Health & Neurodegenerative Disease",
+  "people": "Peter Attia",
+  "content": "Evidence was revealed that the data images in the 2006 paper and in several of the subsequent publications on Aꞵ*56 were falsified. The potentially gross misrepresentation of results on Aꞵ*56 simply weakened the argument in favor of a theory which many experts agreed was already critically flawed or incomplete. Still, the findings also don’t disprove the amyloid hypothesis, nor do they bolster evidence for any alternative theories.",
+  "content_length": 435,
+  "content_tokens": 90,
+  "embedding": []
+ },
+ {
+  "title": "Impact of Fraud on Biomedical Research",
+  "date": "September 3, 2022",
+  "context": "Cognitive Health & Neurodegenerative Disease",
+  "people": "Peter Attia",
+  "content": "High-profile fraud cases have a way of calling attention to larger, systematic problems in the execution and communication of biomedical research. The recent news that these results are allegedly fraudulent has thus elicited widespread concern and regret that years of work and billions of dollars in NIH funds might have been wasted or would have been better shared with research into other hypotheses.",
+  "content_length": 403,
+  "content_tokens": 69,
+  "embedding": []
+ },
+ {
+  "title": "Future of Alzheimer's Disease Research",
   "date": "September 3, 2022",
   "context": "Cognitive Health & Neurodegenerative Disease",
   "people": "Peter Attia",
   "content": "Inconsistencies in evidence and the failure of anti-amyloid drugs to provide any benefit have prompted experts to rethink the dominance of the amyloid hypothesis, and the rising burden of AD in the United States has motivated Congress to more than quintuple the NIH budget for AD and dementia-related funding since 2015. Some of these funding opportunities specifically prioritize projects exploring new or under-studied hypotheses on AD pathogenesis.",
   "content_length": 451,
   "content_tokens": 86,
-  "embedding": []
- },
- {
-  "title": "Impact of fraud allegations",
-  "date": "September 3, 2022",
-  "context": "Cognitive Health & Neurodegenerative Disease",
-  "people": "Peter Attia",
-  "content": "It’s too early to know if and how these allegations of fraud might impact theories on AD or practices around scientific research, but even before Schrag’s investigations, the tide appeared to be shifting.",
-  "content_length": 204,
-  "content_tokens": 43,
   "embedding": []
  }
 ]

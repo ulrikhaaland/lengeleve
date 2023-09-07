@@ -1,12 +1,12 @@
 [
  {
-  "title": "Jim Walmsley breaks 50-mile record",
+  "title": "Record Breaking Athletic Performance",
   "date": "June 2, 2019",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Jim Walmsley broke the 50-mile record by 13 seconds, finishing in 4 hours, 50 minutes, 7 seconds. Walmsey averaged a 5:48 mile for almost five hours, which is truly remarkable.",
-  "content_length": 176,
-  "content_tokens": 44,
+  "content": "The first 20 miles felt really flowy. Broke the 50-mile record which has stood for 36 years by 13 seconds, finishing in 4 hours, 50 minutes, 7 seconds. Many people would have a hard time riding a bicycle 50 miles in less time. Averaged a 5:48 mile for almost five hours. Imagine running on a treadmill at 10.3 mph for five hours.",
+  "content_length": 329,
+  "content_tokens": 80,
   "embedding": []
  },
  {
@@ -14,19 +14,19 @@
   "date": "June 2, 2019",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Project Carbon X was part promotion and part athletic endeavor, while Breaking2 was a similar stunt and show of athletic display. Project Carbon X was IAAF-approved for world record status while Breaking2 was not. Both are truly remarkable feats.",
-  "content_length": 246,
-  "content_tokens": 48,
+  "content": "Project Carbon X was part promotion and part athletic endeavor. A similar event was Breaking2, where three participants set out to run 26.2 miles in under two hours. Project Carbon X was IAAF-approved for world record status while Breaking2 was not. Finished Breaking2 in 2:00:25, which is over a minute faster than the official world record, 2:01:39. Averaged a 4:36 mile for a shade over two hours. Imagine running on a treadmill at 13 mph for two hours.",
+  "content_length": 456,
+  "content_tokens": 107,
   "embedding": []
  },
  {
-  "title": "Specialization in athletic performance",
+  "title": "Athletic Specialization and Generalization",
   "date": "June 2, 2019",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Both feats seemingly demonstrate a remarkable display of specialization. Generalization and specialization have been on my mind recently as I’m looking forward to reading David Epstein’s new book, Range: Why Generalists Triumph in a Specialized World.",
-  "content_length": 251,
-  "content_tokens": 49,
+  "content": "Both feats demonstrate a remarkable display of specialization. Won the world championship in the 5K at age 18. Generalization and specialization have been on mind recently. Curious about the journey of many people who excel in a given field, and whether there are more similarities than differences in how they got to that position.",
+  "content_length": 332,
+  "content_tokens": 61,
   "embedding": []
  }
 ]

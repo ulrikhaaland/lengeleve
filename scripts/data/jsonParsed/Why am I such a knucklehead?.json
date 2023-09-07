@@ -1,12 +1,12 @@
 [
  {
-  "title": "Cracking Knuckles and Arthritis",
+  "title": "Knuckle Cracking and Health",
   "date": "March 24, 2019",
   "context": "Preventing Chronic Disease",
   "people": "Peter Attia",
-  "content": "As far as harm, will cracking my knuckles give me arthritis? Probably not. A 2011 case-control study examined the hand radiographs of 215 people and compared the joints and found no difference between crackers and controls…no matter how many years or how often a person cracked their knuckles. During the author’s childhood, various renowned authorities informed him that cracking his knuckles would lead to arthritis of the fingers. To test the accuracy of this hypothesis, the following study was undertaken. For 50 years, the author cracked the knuckles of his left hand at least twice a day, leaving those on the right as a control. Thus, the knuckles on the left were cracked at least 36,500 times, while those on the right cracked rarely and spontaneously. At the end of the 50 years, the hands were compared for the presence of arthritis. There was no arthritis in either hand, and no apparent differences between the two hands.",
-  "content_length": 935,
-  "content_tokens": 191,
+  "content": "During boxing days, there was an obsession with cracking knuckles. An interesting article from the New York Times (2018) explains that researchers created a mathematical model of a cracking knuckle, suggesting that the sound arises from the popping of a bubble in the joint. As for potential harm, a 2011 case-control study examined the hand radiographs of 215 people and found no difference between those who cracked their knuckles and those who didn't, regardless of how many years or how often a person cracked their knuckles. It has also been suggested that people who crack their knuckles were more likely to have lower grip strength, but recent experiments appear to refute this.",
+  "content_length": 685,
+  "content_tokens": 132,
   "embedding": []
  }
 ]

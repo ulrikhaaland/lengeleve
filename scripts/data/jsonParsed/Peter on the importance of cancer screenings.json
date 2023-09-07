@@ -1,12 +1,22 @@
 [
  {
-  "title": "The importance of cancer screening",
+  "title": "Importance of Cancer Screening",
   "date": "April 19, 2022",
   "context": "Cancer",
   "people": "Peter Attia",
-  "content": "Major diseases that rob a person of lifespan include cancer, atherosclerotic diseases, and the diseases of dementia and neurocognitive decline. Age is the greatest risk factor for cancer just as it is for the other two diseases. The simplest explanation for why screening matters is the evidence that suggests that a cancer that is caught earlier is easier to treat than a cancer that is caught later. One explanation for that may be that the cancers that have been around longer have developed more mutations. It is therefore Peter’s belief that the more we can do to screen for cancer and catch it earlier, the better we will be.",
-  "content_length": 631,
-  "content_tokens": 125,
+  "content": "Longevity has two components: lifespan and healthspan. Major diseases that rob a person of lifespan include cancer, atherosclerotic diseases, and the diseases of dementia and neurocognitive decline. Age is the greatest risk factor for cancer. One of the pillars of longevity is minimizing mortality from cancer. Screening is one of three pieces: prevention, early detection, and treatment. The simplest explanation for why screening matters is the evidence that suggests that a cancer that is caught earlier is easier to treat than a cancer that is caught later. For instance, if you catch a breast cancer or a colon cancer when there are tens or hundreds of millions of cancer cells, your odds of treating that successfully are better than if you catch the same cancer years later, when there are billions of cells.",
+  "content_length": 816,
+  "content_tokens": 157,
+  "embedding": []
+ },
+ {
+  "title": "Screening Costs and Survival Rates",
+  "date": "April 19, 2022",
+  "context": "Cancer",
+  "people": "Peter Attia",
+  "content": "Screening frequently comes with a price, both financial and emotional, due to false positives and false negatives. Looking at five-year survival stats, if you catch breast cancer early and it’s a local cancer and it hasn’t metastasized, the five-year survival rates are 99%. But for metastatic breast cancer, five-year survival is about 28%.",
+  "content_length": 341,
+  "content_tokens": 77,
   "embedding": []
  }
 ]

@@ -1,12 +1,32 @@
 [
  {
-  "title": "Colonoscopy Screening and Colorectal Cancer Death",
+  "title": "Colonoscopy Screenings",
   "date": "October 15, 2022",
   "context": "Preventing Chronic Disease",
   "people": "Peter Attia",
-  "content": "Colonoscopy is the gold standard screening modality for colorectal cancer (CRC) – the second leading cause of cancer-related deaths after lung cancer – and the CDC and American Cancer Society recommend colonoscopy screenings every 10 years for those between the ages of 45 to 75. The study, known as the Nordic-European Initiative on Colorectal Cancer (NordICC) trial, aimed to investigate the effect of colonoscopy screening on the risk of CRC diagnosis and death. When considering the full intention-to-treat cohort, the investigators report that invitation to undergo colonoscopy screening was associated with an unexpectedly modest (18%) reduction in risk for CRC diagnosis relative to the usual-care group (RR=0.82; 95% CI: 0.70 to 0.93). Further, no significant difference was observed between the invited group and usual-care group in deaths attributable to colorectal cancer (RR=0.90; 95% CI: 0.64 to 1.16) or in deaths attributable to all causes (RR=0.99; 95% CI: 0.96 to 1.04).",
-  "content_length": 987,
-  "content_tokens": 237,
+  "content": "Recommendations for colonoscopy screenings are everywhere in the United States. Colonoscopy is the gold standard screening modality for colorectal cancer (CRC) – the second leading cause of cancer-related deaths after lung cancer – and the CDC and American Cancer Society recommend colonoscopy screenings every 10 years for those between the ages of 45 to 75.",
+  "content_length": 359,
+  "content_tokens": 73,
+  "embedding": []
+ },
+ {
+  "title": "NordICC Study on Colonoscopy",
+  "date": "October 15, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "The Nordic-European Initiative on Colorectal Cancer (NordICC) trial aimed to investigate the effect of colonoscopy screening on the risk of CRC diagnosis and death. The investigators report that invitation to undergo colonoscopy screening was associated with an unexpectedly modest (18%) reduction in risk for CRC diagnosis relative to the usual-care group. Further, no significant difference was observed between the invited group and usual-care group in deaths attributable to colorectal cancer or in deaths attributable to all causes.",
+  "content_length": 537,
+  "content_tokens": 104,
+  "embedding": []
+ },
+ {
+  "title": "Safety of Colonoscopy",
+  "date": "October 15, 2022",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "Of the 11,843 colonoscopies performed in this study there were zero perforations and 15 (0.127%) bleeding complications. This reinforces how safe colonoscopy is in the hands of experienced endoscopists.",
+  "content_length": 202,
+  "content_tokens": 48,
   "embedding": []
  },
  {
@@ -14,9 +34,9 @@
   "date": "October 15, 2022",
   "context": "Preventing Chronic Disease",
   "people": "Peter Attia",
-  "content": "The results mentioned above compare those who did not undergo colonoscopy with those who were invited to have the procedure – not with those who necessarily did. Indeed, the study authors report that only 42% of participants in the invited group actually followed through with screening. When restricting their analysis to this protocol-adherent sub-group (i.e., conducting a “per-protocol” analysis), the investigators found much larger disparities between groups. Relative to the usual-care group, the invited group demonstrated significantly lower risk of both CRC diagnosis (1.22% incidence in usual-care vs. 0.84% in invited; RR=0.69; 95% CI: 0.55 to 0.83) and CRC mortality (0.30% vs. 0.15%; RR=0.50; 95% CI: 0.27 to 0.77) at 10 years follow-up.",
-  "content_length": 751,
-  "content_tokens": 186,
+  "content": "The results mentioned above compare those who did not undergo colonoscopy with those who were invited to have the procedure – not with those who necessarily did. The study authors report that only 42% of participants in the invited group actually followed through with screening.",
+  "content_length": 279,
+  "content_tokens": 50,
   "embedding": []
  },
  {
@@ -24,33 +44,13 @@
   "date": "October 15, 2022",
   "context": "Preventing Chronic Disease",
   "people": "Peter Attia",
-  "content": "Critics of colonoscopy screening programs argue that these per-protocol analyses are less relevant than intention-to-treat analyses – even an intervention that can prevent 100% of cancer deaths is useless if no one chooses to receive it – and from a public health perspective, they’re not wrong. These critics are suggesting that efficacy – how well an intervention performs under ideal conditions (including perfect adherence) – is not, on its own, sufficient to inform decisions about the best ways to allocate resources for various public health agendas.",
-  "content_length": 557,
-  "content_tokens": 107,
+  "content": "Efficacy – how well an intervention performs under ideal conditions (including perfect adherence) – is not, on its own, sufficient to inform decisions about the best ways to allocate resources for various public health agendas. Effectiveness – how well an intervention performs in real-world conditions in which patients are free to make their own decisions – is also critical for understanding the overall impact an intervention will have on the population level.",
+  "content_length": 464,
+  "content_tokens": 83,
   "embedding": []
  },
  {
-  "title": "Effectiveness vs. Efficacy",
-  "date": "October 15, 2022",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "Effectiveness – how well an intervention performs in real-world conditions in which patients are free to make their own decisions – is also critical for understanding the overall impact an intervention will have on the population level. (For more on efficacy vs. effectiveness, take a look at my previous newsletter discussing these two metrics.)",
-  "content_length": 346,
-  "content_tokens": 62,
-  "embedding": []
- },
- {
-  "title": "Importance of Efficacy for Individual Patients",
-  "date": "October 15, 2022",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "That logic is reasonable when considering a whole population – the primary concern of policy-makers and epidemiologists, but it does little when considering any individual patient – the concern of healthcare providers and the individuals themselves. For any given person, the top priority is one’s own health – not optimal distribution of government resources – and the probable decisions of the rest of the population are irrelevant for one’s personal health choices (at least for non-communicable diseases such as cancer). In other words, when it comes to a single patient’s decision on whether or not to undergo screening, efficacy is a far more important consideration than effectiveness.",
-  "content_length": 692,
-  "content_tokens": 131,
-  "embedding": []
- },
- {
-  "title": "Clinical Trials and Efficacy vs. Effectiveness",
+  "title": "Clinical Trials: Efficacy and Effectiveness",
   "date": "October 15, 2022",
   "context": "Preventing Chronic Disease",
   "people": "Peter Attia",
@@ -60,33 +60,13 @@
   "embedding": []
  },
  {
-  "title": "Limitations of the NordICC Trial",
+  "title": "Implications of the NordICC Trial",
   "date": "October 15, 2022",
   "context": "Preventing Chronic Disease",
   "people": "Peter Attia",
-  "content": "As an effectiveness study, the NordICC trial followed a fairly robust design: a randomized trial with a large cohort in which the independent variable under study (invitation to undergo colonoscopy vs. no invitation) was entirely within the control of the investigators. But as an efficacy trial, virtually all of these strengths are lost. For per-protocol analyses, the variable under study is not the invitation to undergo screening but rather screening itself, and whether or not participants in the invited group chose to undergo colonoscopy was up to the participants themselves. This is to say, the independent variable was no longer fully controlled by the investigators and was not randomly assigned.",
-  "content_length": 708,
-  "content_tokens": 133,
-  "embedding": []
- },
- {
-  "title": "Underestimation of Efficacy",
-  "date": "October 15, 2022",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "And as Drs. Jason Dominitz and Douglas Roberston point out in their commentary on the study, those in the invited group who did not undergo screening exhibited lower cancer detection rates at follow-up than those in the usual-care group. These observations suggest that those who did choose to be screened may have done so out of greater concern about risk – perhaps due to mild symptoms or family history of CRC – and if this is the case, the per-protocol cohort would have likely displayed higher CRC rates than would have been observed if screening had truly been randomly assigned. In other words, the per-protocol analyses would have underestimated the true efficacy of colonoscopy screenings.",
-  "content_length": 698,
-  "content_tokens": 137,
-  "embedding": []
- },
- {
-  "title": "Conclusion",
-  "date": "October 15, 2022",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "The NordICC trial was designed to generate information on effectiveness, not efficacy. If you happen to work for the CDC or other public health organizations, the trial results are perhaps worth taking into consideration for determining the optimal allocation of funds to various health initiatives. But if instead you are an individual concerned above all with maintaining your own health and that of your loved ones – or if you are a healthcare provider responsible for advising individuals on their own health – these data have very little relevance, and if anything, they provide encouraging (albeit crude) evidence that colonoscopy screenings do significantly reduce risk of CRC diagnosis and death, and they are very safe in experienced hands.",
-  "content_length": 749,
-  "content_tokens": 132,
+  "content": "The NordICC trial was designed to generate information on effectiveness, not efficacy. If you are an individual concerned above all with maintaining your own health and that of your loved ones – or if you are a healthcare provider responsible for advising individuals on their own health – these data provide encouraging (albeit crude) evidence that colonoscopy screenings do significantly reduce risk of CRC diagnosis and death, and they are very safe in experienced hands.",
+  "content_length": 474,
+  "content_tokens": 85,
   "embedding": []
  }
 ]

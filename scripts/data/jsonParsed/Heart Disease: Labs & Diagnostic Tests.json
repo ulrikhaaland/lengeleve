@@ -1,22 +1,22 @@
 [
  {
-  "title": "Lp(a) particles and ASCVD biomarkers",
+  "title": "Heart Disease Risk Factors",
   "date": "August 30, 2022",
   "context": "Cardiovascular Disease",
   "people": "Peter Attia",
-  "content": "In Peter’s practice, apoB is the most important metric they look at to predict risk (though not the only marker). Labs to identify biomarkers of ASCVD include the full lipid panel, Lp(a) (measured at least once), apoB, and APOE (genotype). These measures tell about the risk but not how much atherosclerosis is currently present. There are not great biomarkers for assessing how much atherosclerosis is present. Additional measurements factor into how risk is managed, such as homocysteine, uric acid, thyroid function, iron, and ferritin.",
-  "content_length": 539,
-  "content_tokens": 128,
+  "content": "There are Lp(a) particles. In practice, apoB is the most important metric they look at to predict risk. The full lipid panel— he always wants to see the non-HDL cholesterol. Lp(a) (measured at least once). If it’s elevated, he might look again, depending on certain interventions. apoB and APOE are largely unrelated for the purpose of this. These measures tell about the risk but not how much atherosclerosis is currently present. There are not great biomarkers for assessing how much atherosclerosis is present. The biomarkers for predicting risk are useful so we can lower risk by reducing them. Additional measurements factor into how risk is managed: Homocysteine, Uric acid, Thyroid function, Iron, Ferritin. Even slight elevations of blood pressure are important. A lot of this can be treated through changes in behavior.",
+  "content_length": 828,
+  "content_tokens": 188,
   "embedding": []
  },
  {
-  "title": "Diagnostic tests for arterial damage",
+  "title": "Diagnostic Tests for Arterial Damage",
   "date": "August 30, 2022",
   "context": "Cardiovascular Disease",
   "people": "Peter Attia",
-  "content": "Diagnostic tests to determine the level of arterial damage present include CAC, CTA, CIMT, and more. The 2 most important things we can look at are: 1 – Coronary artery calcium (CAC) score and 2 – A CT angiogram (CTA). The CT angiogram (CTA) is a much better test, but it comes at a higher cost and it comes with more radiation. Really, the CAC and the CTA are a very important thing that we use also in risk prediction, especially if the patient is themselves on the fence about preventative measures.",
-  "content_length": 502,
-  "content_tokens": 127,
+  "content": "Diagnostic tests to determine the level of arterial damage present—CAC, CTA, CIMT, and more. What diagnostics can capture the level of damage currently present in the arteries? The 2 most important things we can look at are: Coronary artery calcium (CAC) score and A CT angiogram (CTA). Calcium score (CAC) is done by doing a very quick CT scan of the heart without any intravenous contrast. It looks at the amount of calcification in the coronary arteries. Once you have calcium formation around coronary arteries you’re at the 2nd to last stage of atherosclerosis. The CT angiogram (CTA) is a much better test but it comes at a higher cost and it comes with more radiation. A CT scan of the heart (this one is with contrast) captures the calcification. They typically run a dry scan first to look for calcium. But then once the contrast is in, you can see with great illumination the arteries. This gives a better sense of the luminal narrowing and the presence of soft plaque.",
+  "content_length": 979,
+  "content_tokens": 227,
   "embedding": []
  }
 ]

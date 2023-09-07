@@ -4,19 +4,9 @@
   "date": "June 3, 2018",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Breaking2 was a project by Nike to break the 2-hour barrier for the marathon.",
-  "content_length": 77,
-  "content_tokens": 18,
-  "embedding": []
- },
- {
-  "title": "Kipchoge: The Greatest Marathoner",
-  "date": "June 3, 2018",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Malcolm Gladwell calls Kipchoge the greatest marathoner who ever lived, and the most beautiful runner who ever lived.",
-  "content_length": 117,
-  "content_tokens": 26,
+  "content": "Breaking2 was a project by Nike to break the 2-hour barrier for the marathon. To get a taste for what kind of feat this is, put a treadmill at 13.1 mph, sprint for about a minute, and imagine keeping up a pace somewhere in this ballpark for 2 hours.",
+  "content_length": 249,
+  "content_tokens": 59,
   "embedding": []
  },
  {
@@ -24,9 +14,9 @@
   "date": "June 3, 2018",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Gladwell, a runner himself, says that in running circles they have a “Kipchoge number.” This is just like the aforementioned treadmill experiment: how long (in distance) can you keep up with Kipchoge at his marathon pace?",
-  "content_length": 221,
-  "content_tokens": 55,
+  "content": "In running circles they have a 'Kipchoge number.' This is just like the aforementioned treadmill experiment: how long (in distance) can you keep up with Kipchoge at his marathon pace? The average person can probably keep his pace for 20 meters.",
+  "content_length": 244,
+  "content_tokens": 54,
   "embedding": []
  },
  {
@@ -34,9 +24,9 @@
   "date": "June 3, 2018",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "The doc is such a great combination of physiology, psychology, engineering, and the pursuit of excellence—in a movement that is etched into human history.",
-  "content_length": 154,
-  "content_tokens": 30,
+  "content": "The Breaking2 documentary is a great combination of physiology, psychology, engineering, and the pursuit of excellence—in a movement that is etched into human history.",
+  "content_length": 167,
+  "content_tokens": 31,
   "embedding": []
  }
 ]

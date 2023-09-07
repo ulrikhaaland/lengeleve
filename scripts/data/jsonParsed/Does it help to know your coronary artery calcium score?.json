@@ -1,12 +1,32 @@
 [
  {
-  "title": "Associations between CAC scores and risk for CVD",
+  "title": "Fitness, Cardiovascular Disease, and Coronary Artery Calcium Scores",
   "date": "May 27, 2018",
   "context": "Preventing Chronic Disease",
   "people": "Peter Attia",
-  "content": "This paper looked at “generally healthy middle-aged men” and associations between their level of aerobic fitness, CAC scores, and risk for CVD. People with a CAC of 0 (i.e., ZERO) had a 0.9% (CI: 0.6% to 1.3%) “hard event” (i.e., heart attack, stroke, death) rate.",
-  "content_length": 264,
-  "content_tokens": 87,
+  "content": "The paper looked at associations between the level of aerobic fitness, coronary artery calcium (CAC) scores, and risk for cardiovascular disease (CVD) in generally healthy middle-aged men. The 10-year risk of an event for someone with a CAC score of zero is about 0.4%, or 4 cases per 1,000 individuals. If no calcium is seen on the CAC, there is little to no risk of CVD over the next decade. However, the 10-year event rate is actually 4%. Rates of events like CVD are expressed in person-years. For example, in the MESA study, the observed 10-year ASCVD event rate was 4.2 per 1000 person-years. That’s 4.2 events per 1,000 people, per year. Over 10 years, that’s 42 events per 1,000 people, which is 4.2%.",
+  "content_length": 709,
+  "content_tokens": 186,
+  "embedding": []
+ },
+ {
+  "title": "Coronary Artery Calcium and Fitness Study",
+  "date": "May 27, 2018",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "In the study, the rates seem even higher. People with a CAC of 0 had a 0.9% “hard event” rate. This was calculated from the following raw data: 3,729 people had a score of 0, and over the follow-up period of 8.2 years, 27 hard events occurred. This is much higher than people like to quote in the camp of “if your CAC is zero you can ignore your lipids.”",
+  "content_length": 354,
+  "content_tokens": 98,
+  "embedding": []
+ },
+ {
+  "title": "Pros and Cons of Knowing Your CAC Score",
+  "date": "May 27, 2018",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "There’s an article from February that went over some of the pros and cons for knowing your CAC score. It’s an important debate. A CAC score of zero doesn't necessarily mean immunity to CVD, nor does a score of > 100 guarantee CVD.",
+  "content_length": 230,
+  "content_tokens": 58,
   "embedding": []
  }
 ]

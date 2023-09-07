@@ -1,32 +1,42 @@
 [
  {
-  "title": "Genes that modify risk associated with the APOE4 variant",
+  "title": "Alzheimer’s Disease and APOE4 Variant",
   "date": "April 11, 2022",
   "context": "Cognitive Health & Neurodegenerative Disease",
   "people": "Peter Attia",
-  "content": "When it comes to Alzheimer’s disease, Peter’s focus on genes outside of APOE is now pretty significant. It turns out that there are a lot of genes that seem to modify the risk of APOE. There are some individuals who walk around with e4/e4 who don’t seem to get Alzheimer’s disease or if they do, they get it very late in life.",
-  "content_length": 326,
-  "content_tokens": 85,
+  "content": "Alzheimer’s disease is associated with the APOE4 variant. There are a lot of genes that seem to modify the risk of APOE. APOE has three subtypes, e2, e3, and e4. Everyone has a pair meaning there are six possible combinations. The fourth isoform (e4) is the high risk one. The e3/e4 seems to be associated with about a 2x-3x increase in risk in Alzheimer’s disease. The e4/e4 probably has about an 8x-12x increase in risk. However, this doesn't explain what happens at the individual level. There are some individuals who walk around with e4/e4 who don’t seem to get Alzheimer’s disease or if they do, they get it very late in life.",
+  "content_length": 632,
+  "content_tokens": 173,
   "embedding": []
  },
  {
-  "title": "Genes that modify the risk of the e4 variant",
+  "title": "Genes that Modify the Risk of the e4 Variant",
   "date": "April 11, 2022",
   "context": "Cognitive Health & Neurodegenerative Disease",
   "people": "Peter Attia",
-  "content": "It turns out that there are a bunch of other genes that we’re now starting to understand, modify the risk of e4 (some genes make it more significant, some genes make it less). So there are certain haplotypes of the TOMM40 gene that amplify risk. There are certain mitochondrial haplotypes that amplify risk. One of the most exciting genes is the Klotho modifier. KL-VS is the modified snip of klotho that actually seems to erase all of the downside of APOE4. So APOE4 people who have this klotho subtype have baseline risk.",
-  "content_length": 523,
-  "content_tokens": 125,
+  "content": "There are a bunch of other genes that modify the risk of e4. Some genes make it more significant, some genes make it less. Certain haplotypes of the TOMM40 gene and certain mitochondrial haplotypes amplify risk. One of the most exciting genes is the Klotho modifier. KL-VS is the modified snip of klotho that actually seems to erase all of the downside of APOE4. APOE4 people who have this klotho subtype have baseline risk.",
+  "content_length": 424,
+  "content_tokens": 102,
   "embedding": []
  },
  {
-  "title": "Prospects of identifying these genes in individuals",
+  "title": "Prospects of Identifying these Genes in Individuals",
   "date": "April 11, 2022",
   "context": "Cognitive Health & Neurodegenerative Disease",
   "people": "Peter Attia",
-  "content": "Unfortunately the ways to measure these other genes, it’s very challenging and we have to do it by brute force today. it takes a lot of time and costs a lot of money to take a whole genome sequence and do the search for all of these other subtypes. A big step in the right direction here is going to be getting more data and getting those data for less than $20,000 per person. Probably sooner than 10 years from now. This is a solvable problem technically speaking, it’s just about throwing enough dollars at it.",
-  "content_length": 513,
-  "content_tokens": 114,
+  "content": "The ways to measure these other genes is very challenging and requires a lot of time and money to take a whole genome sequence and do the search for all of these other subtypes. A big step in the right direction here is going to be getting more data and getting those data for less than $20,000 per person.",
+  "content_length": 306,
+  "content_tokens": 65,
+  "embedding": []
+ },
+ {
+  "title": "Practicality of Gene Identification",
+  "date": "April 11, 2022",
+  "context": "Cognitive Health & Neurodegenerative Disease",
+  "people": "Peter Attia",
+  "content": "This process might be practical to do for people sooner than 10 years from now. This is a solvable problem technically speaking, it’s just about throwing enough dollars at it.",
+  "content_length": 175,
+  "content_tokens": 37,
   "embedding": []
  }
 ]

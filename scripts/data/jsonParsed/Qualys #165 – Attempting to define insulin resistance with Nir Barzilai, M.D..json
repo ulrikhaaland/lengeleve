@@ -1,12 +1,22 @@
 [
  {
-  "title": "Research Interests",
+  "title": "Insulin Resistance Definition",
   "date": "February 16, 2022",
   "context": "Insulin Resistance",
   "people": "Peter Attia",
-  "content": "Dr. Barzilai’s research interests are in the biology and genetics of aging. One focuses on the genetic of exceptional longevity, where we hypothesize and demonstrated that centenarians have protective genes, which allows the delay of aging or for the protection against age-related diseases. The second direction, for which Dr. Barzilai is holding an NIH Merit award that focuses on the metabolic decline of aging, and his team hypothesize that the brain leads this decline.",
-  "content_length": 474,
-  "content_tokens": 99,
+  "content": "Attempting to define insulin resistance",
+  "content_length": 39,
+  "content_tokens": 6,
+  "embedding": []
+ },
+ {
+  "title": "Aging Research",
+  "date": "February 16, 2022",
+  "context": "Insulin Resistance",
+  "people": "Peter Attia",
+  "content": "Dr. Barzilai’s research interests are in the biology and genetics of aging. One focuses on the genetic of exceptional longevity, where we hypothesize and demonstrated that centenarians have protective genes, which allows the delay of aging or for the protection against age-related diseases.",
+  "content_length": 291,
+  "content_tokens": 59,
   "embedding": []
  },
  {
@@ -14,9 +24,9 @@
   "date": "February 16, 2022",
   "context": "Insulin Resistance",
   "people": "Peter Attia",
-  "content": "In a Program he is leading we take full advantage of phenotypes, DNA, and cells from the Ashkenazi Jewish families with exceptional longevity and the appropriate controls and his group have established at Einstein (over 2600 samples of which ~670 are centenarians) and discovered underling genomic differences associated with longevity. Longevity Genes Project (LGP) is a cross-sectional, on-going collection of blood and phenotype from families with centenarian proband.",
-  "content_length": 471,
-  "content_tokens": 94,
+  "content": "Longevity Genes Project (LGP) is a cross-sectional, on-going collection of blood and phenotype from families with centenarian proband. LonGenity is a longitudinal study of 1400 subjects, half offspring of parents with exceptional longevity, validating and following their aging in relationship to their genome.",
+  "content_length": 310,
+  "content_tokens": 63,
   "embedding": []
  },
  {
@@ -24,13 +34,13 @@
   "date": "February 16, 2022",
   "context": "Insulin Resistance",
   "people": "Peter Attia",
-  "content": "His lab has identified several central pathways that specifically alter body fat distribution and insulin action and secretion by intraventricular or hypothalamic administration of several peptides that are modulated by aging including: Leptin, IGF-1, IGFBP3 and resveratrol.",
-  "content_length": 275,
-  "content_tokens": 54,
+  "content": "The second direction, for which Dr. Barzilai is holding an NIH Merit award that focuses on the metabolic decline of aging, and his team hypothesize that the brain leads this decline. His lab has identified several central pathways that specifically alter body fat distribution and insulin action and secretion by intraventricular or hypothalamic administration of several peptides that are modulated by aging including: Leptin, IGF-1, IGFBP3 and resveratrol.",
+  "content_length": 458,
+  "content_tokens": 94,
   "embedding": []
  },
  {
-  "title": "Targeting Aging with METformin (TAME)",
+  "title": "Targeting Aging with METformin",
   "date": "February 16, 2022",
   "context": "Insulin Resistance",
   "people": "Peter Attia",

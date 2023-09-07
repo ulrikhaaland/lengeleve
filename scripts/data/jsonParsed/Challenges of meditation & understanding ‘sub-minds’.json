@@ -4,9 +4,9 @@
   "date": "April 5, 2022",
   "context": "Mindfulness & Meditation",
   "people": "Peter Attia",
-  "content": "Zubin found meditation very challenging until he read the book The Mind Illuminated and things improved vastly. Zubin recommends the book for nerds and for type A’s who want a process. Zubin has used the meditation apps Waking Up with Sam Harris and Headspace.",
-  "content_length": 260,
-  "content_tokens": 57,
+  "content": "Meditation can be very challenging. However, with the right resources, such as the book 'The Mind Illuminated', improvements can be seen. There are also various meditation apps available, such as 'Waking Up with Sam Harris' and 'Headspace'.",
+  "content_length": 240,
+  "content_tokens": 52,
   "embedding": []
  },
  {
@@ -14,9 +14,19 @@
   "date": "April 5, 2022",
   "context": "Mindfulness & Meditation",
   "people": "Peter Attia",
-  "content": "Our mind is really like a boardroom where you’re projecting stuff on a screen, and that’s our conscious awareness. These sub-minds are what’s doing the projecting. We have an audio sub-mind, a visual sub-mind, and a narrating sub-mind that ties them together. The liberating thing about that is that at any moment your next slice could be something completely different. It’s influenced by the momentum of the previous slices, but it is in itself an unknown and anything is possible.",
-  "content_length": 483,
-  "content_tokens": 112,
+  "content": "Our mind is like a boardroom where we're projecting stuff on a screen, and that's our conscious awareness. These projections are done by our sub-minds. We have an audio sub-mind, a visual sub-mind, and a narrating sub-mind that ties them together. The liberating thing about this is that at any moment your next slice could be something completely different. It’s influenced by the momentum of the previous slices, but it is in itself an unknown and anything is possible.",
+  "content_length": 471,
+  "content_tokens": 104,
+  "embedding": []
+ },
+ {
+  "title": "Health 3.0",
+  "date": "April 5, 2022",
+  "context": "Mindfulness & Meditation",
+  "people": "Peter Attia",
+  "content": "Health 3.0 is an innovative primary care clinic and model that was part of an ambitious urban revitalization movement. The goal of this movement is to rapidly catalyze transformation by leveraging the awesome power of passionate and engaged healthcare professionals.",
+  "content_length": 266,
+  "content_tokens": 46,
   "embedding": []
  }
 ]

@@ -1,26 +1,36 @@
 [
  {
-  "title": "FDA approves aducanumab for Alzheimer's disease",
+  "title": "FDA Approval of Aducanumab for Alzheimer’s Disease",
   "date": "June 13, 2021",
   "context": "Medications, Supplements & Other Treatments",
   "people": "Peter Attia",
-  "content": "The FDA approved the drug aducanumab for the treatment of Alzheimer’s disease (AD). The monoclonal antibody treatment aimed to slow the progression of memory and cognitive problems arising early in AD by decreasing amyloid beta in the brain. It has been nearly two decades since an AD drug was last approved and further, a potential disease-modifying treatment is unlike the four approved drugs for AD, which treat symptoms of the disease and not the disease itself.",
-  "content_length": 466,
-  "content_tokens": 97,
+  "content": "The Food and Drug Administration (FDA) approved the drug aducanumab for the treatment of Alzheimer’s disease (AD). The monoclonal antibody treatment aimed to slow the progression of memory and cognitive problems arising early in AD by decreasing amyloid beta in the brain. It has been nearly two decades since an AD drug was last approved and further, a potential disease-modifying treatment is unlike the four approved drugs for AD, which treat symptoms of the disease and not the disease itself.",
+  "content_length": 497,
+  "content_tokens": 104,
   "embedding": []
  },
  {
-  "title": "Questions around the efficacy and safety of aducanumab",
+  "title": "Controversy and Debate Around Aducanumab",
   "date": "June 13, 2021",
   "context": "Medications, Supplements & Other Treatments",
   "people": "Peter Attia",
-  "content": "There are questions around what the efficacy of aducanumab will look like in clinical practice, and what the real-world safety (outside the confines of a structured clinical trial) will be. As part of aducanumab’s accelerated approval, the FDA requires Biogen (the pharmaceutical company that manufactures aducanumab under the brand name Aduhelm) to complete a phase 4 confirmatory trial to verify the drug’s clinical benefit. Additional information on the drug’s safety and efficacy will also come from its use in clinical practice, which will shape its clinical use applications.",
-  "content_length": 581,
-  "content_tokens": 125,
+  "content": "There is certainly controversy and considerable public debate around the drug’s approval; after the FDA approved the treatment, three FDA advisory panel members resigned. The drug is now in the arsenal of drug treatment for AD, and with that, there are as many questions as answers, involving the real-world efficacy, safety, and application of the drug.",
+  "content_length": 354,
+  "content_tokens": 70,
   "embedding": []
  },
  {
-  "title": "Cost and administration of aducanumab",
+  "title": "Efficacy and Safety of Aducanumab in Clinical Practice",
+  "date": "June 13, 2021",
+  "context": "Medications, Supplements & Other Treatments",
+  "people": "Peter Attia",
+  "content": "There are questions around what the efficacy of aducanumab will look like in clinical practice, and what the real-world safety will be. As part of aducanumab’s accelerated approval, the FDA requires Biogen to complete a phase 4 confirmatory trial to verify the drug’s clinical benefit. Additional information on the drug’s safety and efficacy will also come from its use in clinical practice, which will shape its clinical use applications.",
+  "content_length": 440,
+  "content_tokens": 96,
+  "embedding": []
+ },
+ {
+  "title": "Cost and Administration of Aducanumab",
   "date": "June 13, 2021",
   "context": "Medications, Supplements & Other Treatments",
   "people": "Peter Attia",
@@ -30,73 +40,33 @@
   "embedding": []
  },
  {
-  "title": "Ambiguity around how to use aducanumab",
+  "title": "Uncertainty Around Prescribing Aducanumab",
   "date": "June 13, 2021",
   "context": "Medications, Supplements & Other Treatments",
   "people": "Peter Attia",
-  "content": "There is also ambiguity around how to use the drug, which may sound like an unexpected unknown for a drug that has just been approved by the FDA. The clinical trial was very specific about how the drug was used: to treat patients in the mild cognitive impairment stage of AD who had amyloid beta—a protein biomarker of AD. The drug was approved based on its ability to reduce amyloid in the brain (which is correlated with improving mild cognitive impairment), rather than based on a clinical measure such as delaying cognitive decline.",
-  "content_length": 536,
-  "content_tokens": 107,
+  "content": "There is ambiguity around how to use the drug, which may sound like an unexpected unknown for a drug that has just been approved by the FDA. The clinical trial was very specific about how the drug was used: to treat patients in the mild cognitive impairment stage of AD who had amyloid beta—a protein biomarker of AD. The drug was approved based on its ability to reduce amyloid in the brain, rather than based on a clinical measure such as delaying cognitive decline.",
+  "content_length": 468,
+  "content_tokens": 97,
   "embedding": []
  },
  {
-  "title": "Uncertainty around prescribing aducanumab",
+  "title": "FDA's Broad Range of Drug Application Decisions",
   "date": "June 13, 2021",
   "context": "Medications, Supplements & Other Treatments",
   "people": "Peter Attia",
-  "content": "There is further uncertainty around prescribing aducanumab because the FDA explicitly left the directions for who should get the drug general: while the clinical trial was very specific about how the drug was used, the drug label does not include any criteria limiting its indication to a subset of patients.",
-  "content_length": 308,
-  "content_tokens": 57,
+  "content": "The FDA is leaving such a broad range of drug application decisions in the hands of clinicians. This discretionary responsibility, which demands a case-by-case approach to care, will quickly reveal how the field will need to amend its current diagnostic methods and data collection practices. The evolution in clinical diagnostics, such as blood tests for amyloid and tau, will be used in a few years to risk stratify patients and also guide treatment.",
+  "content_length": 452,
+  "content_tokens": 89,
   "embedding": []
  },
  {
-  "title": "The importance of diagnostic methods and data collection practices",
+  "title": "Aducanumab Approval and Its Implications",
   "date": "June 13, 2021",
   "context": "Medications, Supplements & Other Treatments",
   "people": "Peter Attia",
-  "content": "It is interesting that the FDA is leaving such a broad range of drug application decisions in the hands of clinicians. This discretionary responsibility, which demands a case-by-case approach to care, will quickly reveal how the field will need to amend its current diagnostic methods and data collection practices. The evolution in clinical diagnostics, such as blood tests for amyloid and tau, will be used in a few years to risk stratify patients and also guide treatment (much like commonly used cholesterol tests today). Further, genetic testing may also soon become part of a standard of care, especially considering that patients with two copies of the ApoE4 gene are at higher risk for developing side effects from the treatment, which include brain swelling and bleeding.",
-  "content_length": 780,
-  "content_tokens": 149,
-  "embedding": []
- },
- {
-  "title": "Safety and Efficacy of Aducanumab",
-  "date": "June 13, 2021",
-  "context": "Medications, Supplements & Other Treatments",
-  "people": "Peter Attia",
-  "content": "Given the outstanding questions around the safety and efficacy of aducanumab, the drug’s approval has been met with reticence by some clinicians.",
-  "content_length": 145,
-  "content_tokens": 33,
-  "embedding": []
- },
- {
-  "title": "Education and Guidance for Aducanumab",
-  "date": "June 13, 2021",
-  "context": "Medications, Supplements & Other Treatments",
-  "people": "Peter Attia",
-  "content": "The introduction of aducanumab will surely require education and guidance to help the field navigate the role of this drug in clinical practice and expectations will evolve when more data become available.",
-  "content_length": 205,
-  "content_tokens": 37,
-  "embedding": []
- },
- {
-  "title": "Costs and Benefits of Drug Treatment",
-  "date": "June 13, 2021",
-  "context": "Medications, Supplements & Other Treatments",
-  "people": "Peter Attia",
-  "content": "Every drug treatment has its costs and benefits and those are relative terms, depending on the patient and context.",
-  "content_length": 115,
-  "content_tokens": 21,
-  "embedding": []
- },
- {
-  "title": "New Era of AD Care",
-  "date": "June 13, 2021",
-  "context": "Medications, Supplements & Other Treatments",
-  "people": "Peter Attia",
-  "content": "There is nonetheless an exciting possibility for the drug’s approval to propel the push for a new era of AD care that includes routine testing for various disease biomarkers, such as beta amyloid.",
-  "content_length": 196,
-  "content_tokens": 41,
+  "content": "Given the outstanding questions around the safety and efficacy of aducanumab, the drug’s approval has been met with reticence by some clinicians. The introduction of aducanumab will surely require education and guidance to help the field navigate the role of this drug in clinical practice and expectations will evolve when more data become available. Every drug treatment has its costs and benefits and those are relative terms, depending on the patient and context. There is nonetheless an exciting possibility for the drug’s approval to propel the push for a new era of AD care that includes routine testing for various disease biomarkers, such as beta amyloid.",
+  "content_length": 664,
+  "content_tokens": 132,
   "embedding": []
  }
 ]

@@ -1,12 +1,12 @@
 [
  {
-  "title": "A doctor on 9 things that could go wrong with the new vaccines",
+  "title": "Concerns about COVID-19 Vaccination",
   "date": "December 13, 2020",
   "context": "COVID-19",
   "people": "Peter Attia",
-  "content": "This is a good overview of the issues that may occur when rolling out a COVID-19 vaccine. The author lays out these worries in a list format. “Doctors will bend the truth to help their patients get a vaccine faster,” number 6 on the list, is very tricky. Number 7, “Vaccines will exacerbate inequality in the health care system,” is a huge problem, probably the largest, in my opinion. Number 9, “Anti-vaxxers amplify and misrepresent side effects,” is all-too true. We need to put on our critical thinking caps when differentiating between reasonable and baseless views. One question the author did not fully address is, who is the final arbitrator of determining when a person meets the criteria for vaccination? How high does a person’s blood pressure need to be for them to qualify as having hypertension, for example? Is someone with very well-controlled type 2 diabetes the same risk as a person with very poorly controlled diabetes? Who decides whether individuals meet the criteria for vaccination? Will proof of conditions be necessary? And to me, perhaps most perplexing, how does one prove they’re vaccinated (or even that they received their second vaccine) in day-to-day situations?",
-  "content_length": 1195,
-  "content_tokens": 261,
+  "content": "This is a good overview of the issues that may occur when rolling out a COVID-19 vaccine. The author lays out these worries in a list format. “Doctors will bend the truth to help their patients get a vaccine faster,” number 6 on the list, is very tricky. When individual health and public health don’t align, it puts doctors, individual patients, and the public at-large in a difficult position. Number 7, “Vaccines will exacerbate inequality in the health care system,” is a huge problem. Number 9, “Anti-vaxxers amplify and misrepresent side effects,” is all-too true. One question the author did not fully address is, who is the final arbitrator of determining when a person meets the criteria for vaccination? Health care workers and residents of long-term care facilities are obviously at the top of the list for the first phase of the rollout. But for many other individuals not in those categories, it gets murkier than we’d like to believe. How high does a person’s blood pressure need to be for them to qualify as having hypertension, for example? Is someone with very well-controlled type 2 diabetes the same risk as a person with very poorly controlled diabetes? Who decides whether individuals meet the criteria for vaccination? The doctor? What if the patient hasn’t seen their doctor in years or doesn’t have regular access to a doctor? Will the pharmacy decide? Will proof of conditions be necessary? And to me, perhaps most perplexing, how does one prove they’re vaccinated (or even that they received their second vaccine) in day-to-day situations? Travel is one thing, when someone can present documentation, but will people now require lifetime “vaccine passports” just to go to the gym, the movie theatre, or a restaurant?",
+  "content_length": 1742,
+  "content_tokens": 388,
   "embedding": []
  },
  {
@@ -14,19 +14,9 @@
   "date": "December 13, 2020",
   "context": "COVID-19",
   "people": "Peter Attia",
-  "content": "This super cool visual site combines science, art, and technology. The various site animations teach about various biological pathways at the molecular level. It’s just beautiful. Once you select a pathway you can see all the proteins that play a role. What’s more—you can even toggle and click a given protein to learn more about its function. This is a great reference guide for proteins at play, and their function in specific pathways.",
-  "content_length": 439,
-  "content_tokens": 90,
-  "embedding": []
- },
- {
-  "title": "I Definitely Lost a Lot of IQ Points That Day",
-  "date": "December 13, 2020",
-  "context": "COVID-19",
-  "people": "Peter Attia",
-  "content": "I recently spoke with my friend Steve Levitt for his podcast and, given how we have known each other personally for a decade now, he brought up some pretty funny anecdotes in reference to my former self. The conversation got me thinking about how I have approached my own career path and likewise approach the applied science of longevity. In short, I leave room to change my mind or try something new and different.",
-  "content_length": 416,
-  "content_tokens": 81,
+  "content": "This super cool visual site combines science, art, and technology. The various site animations teach about various biological pathways at the molecular level. Once you select a pathway you can see all the proteins that play a role. What’s more—you can even toggle and click a given protein to learn more about its function. This is a great reference guide for proteins at play, and their function in specific pathways.",
+  "content_length": 418,
+  "content_tokens": 83,
   "embedding": []
  }
 ]

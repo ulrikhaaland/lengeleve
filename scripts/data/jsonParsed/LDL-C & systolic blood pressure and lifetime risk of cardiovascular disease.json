@@ -1,26 +1,16 @@
 [
  {
-  "title": "The Prevalence of Vascular Disease",
+  "title": "Understanding the Relationship Between Cholesterol and Blood Pressure to Heart Disease",
   "date": "November 10, 2019",
   "context": "Preventing Chronic Disease",
   "people": "Peter Attia",
-  "content": "Looking at 5-year age groups, from the ages of 40-44 to 70-74, death rates for vascular disease (i.e., heart disease and cerebrovascular disease) is the second-leading killer (or a close first) in the United States, behind cancer deaths. By the time we reach 75-79 and beyond, death from vascular disease begins to take over in a big way. The rates of death rise monotonically to the point where a form of vascular disease is about 10 times more likely to show up on a death certificate of someone 95 years of age or older. Vascular disease is the final common path to death.",
-  "content_length": 575,
-  "content_tokens": 134,
+  "content": "For those interested in human longevity, the prevention of cardiovascular disease has long been at the forefront. Looking at 5-year age groups, from the ages of 40-44 to 70-74, death rates for vascular disease (i.e., heart disease and cerebrovascular disease) is the second-leading killer (or a close first) in the United States, behind cancer deaths. By the time we reach 75-79 and beyond, death from vascular disease begins to take over in a big way. The rates of death rise monotonically to the point where a form of vascular disease is about 10 times more likely to show up on a death certificate of someone 95 years of age or older. Vascular disease is the final common path to death.",
+  "content_length": 689,
+  "content_tokens": 153,
   "embedding": []
  },
  {
-  "title": "The Importance of Mitigating Vascular Disease",
-  "date": "November 10, 2019",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "This is why (just ask my patients) I harp on atherosclerosis so much when talking longevity. And I’m not talking about the nonsense sci-fi longevity like some pundits who claim it’s within their purview to live to 200 or beyond. I’m talking about normal people, sans centenarian genes, trying to make it into their 90s. If this type of longevity is appealing to you, you need to know everything possible about mitigating vascular disease.",
-  "content_length": 438,
-  "content_tokens": 101,
-  "embedding": []
- },
- {
-  "title": "Mendelian Randomization Studies",
+  "title": "Mendelian Randomization Studies and Disease Causation",
   "date": "November 10, 2019",
   "context": "Preventing Chronic Disease",
   "people": "Peter Attia",
@@ -30,7 +20,7 @@
   "embedding": []
  },
  {
-  "title": "Using MR to Study the Association of Genetic Variants with CVD",
+  "title": "Study on the Association of Genetic Variants with Cardiovascular Disease",
   "date": "November 10, 2019",
   "context": "Preventing Chronic Disease",
   "people": "Peter Attia",
@@ -40,53 +30,53 @@
   "embedding": []
  },
  {
-  "title": "Genetic LDL-C and SBP Scores and Major CV Events",
+  "title": "Findings of the Study",
   "date": "November 10, 2019",
   "context": "Preventing Chronic Disease",
   "people": "Peter Attia",
-  "content": "Using genotyping data from the UK Biobank, the investigators compiled genetic LDL-C and SBP scores to split them into groups with inherited lower LDL-C, lower SBP, or both. They then compared the differences in LDL-C, SBP, and major CV event rates between these groups. Major CV events is defined in this study as coronary death, nonfatal heart attacks, or coronary revascularization (e.g., placement of a stent, bypass procedure). Participants with genetic LDL-C scores higher than the median (ergo, lower LDL-C) had an odds ratio (OR) for major coronary events of 0.74 (95% CI, 0.72-0.76; p < .001) compared with participants with genetic LDL-C scores at or below the median, which means a 26% relative risk reduction. Participants with genetic SBP scores higher than the median (ergo, lower SBP) had an OR for major coronary events of 0.83 (95% CI, 0.81-0.86; p < .001) compared with participants with genetic SBP scores at or below the median, which translates to 17% relative risk reduction.",
-  "content_length": 996,
-  "content_tokens": 248,
+  "content": "Participants with genetic LDL-C scores higher than the median (ergo, lower LDL-C) had an odds ratio (OR) for major coronary events of 0.74 (95% CI, 0.72-0.76; p < .001) compared with participants with genetic LDL-C scores at or below the median, which means a 26% relative risk reduction. The investigators noted that this scaled to an OR of 0.46 (95% CI, 0.43-0.48) per 38.7 mg/dL (or 1 mmol/L) lower LDL-C values. In English, for every 38.7 mg/dL reduction in LDL-C, the risk of major CV events was reduced by 54%. Participants with genetic SBP scores higher than the median (ergo, lower SBP) had an OR for major coronary events of 0.83 (95% CI, 0.81-0.86; p < .001) compared with participants with genetic SBP scores at or below the median, which translates to 17% relative risk reduction. This scaled to an OR of 0.55 (95% CI, 0.52-0.59) per 10 mmHg lower SBP. Again, in English, for every 10 mmHg reduction in SBP, the risk of major CV events was reduced by 45%.",
+  "content_length": 967,
+  "content_tokens": 280,
   "embedding": []
  },
  {
-  "title": "Dose-Dependent Associations and Meta-Regression Analysis",
+  "title": "Implications of the Study",
   "date": "November 10, 2019",
   "context": "Preventing Chronic Disease",
   "people": "Peter Attia",
-  "content": "The investigators sliced up the scores further, into quartiles, to see if the associated risks were dose-dependent. If the participants were grouped into lower and lower levels of LDL-C, did the associated risk of major CV events get lower and lower? Same question for SBP? Figure 6, below, from the paper (helpful in that it’s a graph, but less helpful in that you can’t really extract the answer I’m after directly) and eTable 4 from the supplement (much more helpful, but you need to stomach a cumbersome spreadsheet), shown below Figure 6, give us some sense of how these two variables impact vascular disease.",
-  "content_length": 614,
-  "content_tokens": 137,
+  "content": "This Mendelian randomization demonstrates that a reduction of SBP by 5 mmHg and a reduction of LDL-C by 22.4 mg/dL, over the course of one’s lifetime, reduces risk of major adverse cardiac and vascular events by 53%. [And if you play with eTable 4, you can see all other permutations of this—I’m just pointing out the largest one.] Because of the frequency of this disease, a relative reduction of this much is also an enormous absolute risk reduction. It seems at least plausible that these results can be extrapolated further, which the authors suggest, to a reduction of SBP by 10 mmHg and a reduction of LDL-C by 1 mmol/L (38.7 mg/dL). These yield a risk reduction of 45% and 54%, respectively, and note that these are independent, meaning in each case the other variable is not also being reduced.",
+  "content_length": 802,
+  "content_tokens": 191,
   "embedding": []
  },
  {
-  "title": "Mendelian Randomization and Disease Risk",
-  "date": "November 10, 2019",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "This Mendelian randomization demonstrates that a reduction of SBP by 5 mmHg and a reduction of LDL-C by 22.4 mg/dL, over the course of one’s lifetime, reduces risk of major adverse cardiac and vascular events by 53%. Because of the frequency of this disease, a relative reduction of this much is also an enormous absolute risk reduction. It seems at least plausible that these results can be extrapolated further, which the authors suggest, to a reduction of SBP by 10 mmHg and a reduction of LDL-C by 1 mmol/L (38.7 mg/dL). These yield a risk reduction of 45% and 54%, respectively, and note that these are independent, meaning in each case the other variable is not also being reduced.",
-  "content_length": 687,
-  "content_tokens": 160,
-  "embedding": []
- },
- {
-  "title": "Lowering LDL-C and SBP",
-  "date": "November 10, 2019",
-  "context": "Preventing Chronic Disease",
-  "people": "Peter Attia",
-  "content": "Because the effects of SBP and LDL-C were completely independent across the range of their data, the authors go one step further and extrapolate the combined effect of these changes—lowering LDL-C by 38.7 mg/dL *and* lowering SBP by 10 mmHg—and the results suggest an OR of 0.22, or a relative risk reduction of 78%.",
-  "content_length": 316,
-  "content_tokens": 79,
-  "embedding": []
- },
- {
-  "title": "Limitations of Mendelian Randomization",
+  "title": "Understanding Mendelian Randomization",
   "date": "November 10, 2019",
   "context": "Preventing Chronic Disease",
   "people": "Peter Attia",
   "content": "Mendelian randomization can provide powerful evidence on mechanisms of disease and trying to determine the potential effects of modifiable exposures and health outcomes, but MR is not immune from limitations. One of the major threats to MR establishing causation is pleiotropy, which is the potential for SNPs to have more than one specific phenotypic effect. What if the same SNP that is associated with lower LDL-C levels also has an effect on some other aspect of CV risk? For example, say it somehow improves endothelial function. We may be fooled into thinking that the SNP confers CV protection because it lowers LDL-C, but it may be protective for some other reason, or its effects on LDL-C may be only telling part of the story.",
   "content_length": 736,
   "content_tokens": 152,
+  "embedding": []
+ },
+ {
+  "title": "Genetic LDL-C Score and Alzheimer's Disease Risk",
+  "date": "November 10, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "If you look at the 100 SNPs used in the genetic LDL-C score, the SNP that had the largest effect size in terms of lower LDL-C levels—a reported -15 mg/dL—happens to be the T allele on rs7412. This SNP happens to be part of the APOE genoset evaluation that many people use to find out what alleles they have to determine risk for Alzheimer’s disease (AD). Having one T allele on rs7412 effectively means you have a “2” in terms of APOE status. Having two copies means you’re an APOE 2/2, which is associated with a reduced risk for AD. So, if we were looking at AD risk and LDL-C levels in a Mendelian randomization study, it’s possible we might conclude that reduced risk of AD from this SNP is entirely due to its effect on LDL-C levels, when there are a number of other plausible mechanisms.",
+  "content_length": 793,
+  "content_tokens": 204,
+  "embedding": []
+ },
+ {
+  "title": "Potential of Mendelian Randomization",
+  "date": "November 10, 2019",
+  "context": "Preventing Chronic Disease",
+  "people": "Peter Attia",
+  "content": "The point here is that we can still fool ourselves, but MR has the potential to shed more light on potential risk factors for vascular disease. No amount of epidemiology could come close to the strength of these associations, the way it did for the relationship between smoking and vascular disease, for example.",
+  "content_length": 312,
+  "content_tokens": 59,
   "embedding": []
  }
 ]

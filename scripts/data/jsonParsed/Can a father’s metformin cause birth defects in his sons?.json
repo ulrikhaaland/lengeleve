@@ -1,12 +1,32 @@
 [
  {
-  "title": "Paternal Metformin Use and Birth Defects",
+  "title": "Reevaluating Medical Wisdom",
   "date": "April 16, 2022",
   "context": "Medications, Supplements & Other Treatments",
   "people": "Peter Attia",
-  "content": "A study published in the Annals of Internal Medicine examined the effects of paternal exposure to three separate diabetes treatments during spermatogenesis on offspring. The study found that paternal metformin treatment was associated with elevated frequency of genital birth defects in male offspring, as well as a higher frequency of all-category birth defects irrespective of offspring sex. These associations were not observed in the offspring of men who ceased metformin treatment prior to the 3-month preconception window, nor did the authors find any effect on unexposed siblings of exposed offspring. The study was robustly designed by observational standards, utilizing vast registry data to exclude cases of maternal diabetes or essential hypertension and to adjust for confounds.",
-  "content_length": 790,
-  "content_tokens": 139,
+  "content": "In my rebuttal of a recent paper on the efficacy of statins, I tried to emphasize that one very flawed study does not in any way discredit the importance of constantly reevaluating conventional medical wisdom, especially in response to changing circumstances and information. Only through such questioning can the medical field move forward and adapt to new challenges, but new evidence must be subject to close, discerning examination.",
+  "content_length": 436,
+  "content_tokens": 79,
+  "embedding": []
+ },
+ {
+  "title": "Metformin and Birth Defects",
+  "date": "April 16, 2022",
+  "context": "Medications, Supplements & Other Treatments",
+  "people": "Peter Attia",
+  "content": "A study concerning a different gold-standard therapy, one which could potentially raise a more credible (albeit still very preliminary) concern: can paternal metformin use cause birth defects in offspring? Metformin is a first-line therapy for glucose control in patients with type 2 diabetes (T2D), a disease which, historically, has almost exclusively affected adults beyond prime reproductive years. But in developed nations, the average age at diagnosis for T2D has fallen precipitously in recent decades, and incidence among younger adults – and even children and adolescents – is on the rise.",
+  "content_length": 598,
+  "content_tokens": 117,
+  "embedding": []
+ },
+ {
+  "title": "Study Findings and Strengths",
+  "date": "April 16, 2022",
+  "context": "Medications, Supplements & Other Treatments",
+  "people": "Peter Attia",
+  "content": "In their prospective study of over 1.1 million births in Denmark from 1997-2016, the authors used registry data to determine paternal exposure to three separate diabetes treatments – insulin, metformin, and sulfonylurea – during spermatogenesis (the 3-month period leading up to conception). They analyzed the data for correlations between treatment exposure and birth defects in offspring up to one year post-birth, and they found that paternal metformin treatment – but not treatment with insulin or sulfonylurea – was associated with elevated frequency of genital birth defects in male offspring, with an adjusted odds ratio (aOR) of 3.39 (95% CI, 1.82 to 6.30). Additionally, metformin exposure was associated with a higher frequency of all-category birth defects irrespective of offspring sex (aOR: 1.40, CI: 1.08 to 1.82) as well as a lower proportion of male vs. female births (49.3%), contrasting the expected slight male bias.",
+  "content_length": 935,
+  "content_tokens": 209,
   "embedding": []
  },
  {
@@ -14,33 +34,33 @@
   "date": "April 16, 2022",
   "context": "Medications, Supplements & Other Treatments",
   "people": "Peter Attia",
-  "content": "The study has significant limitations, including the absence of data on medication compliance and glycemic control. The study was underpowered, and even a small error in assessing exposure might have made the difference in whether or not the result was significant. The lack of glycemic control data raises the possibility that this variable constituted a major confound for which the authors could not adjust. The study was also underpowered for sulfonylurea, and insufficient power might account for the lack of observed association between paternal sulfonylurea exposure and the specific subclass of genital defects in male offspring.",
-  "content_length": 637,
-  "content_tokens": 116,
+  "content": "As the authors themselves point out, this study is not without significant limitations. Perhaps the largest is the absence of data on medication compliance and glycemic control. Paternal exposure was determined from registry data on filled prescriptions, but filled prescriptions aren’t necessarily taken prescriptions, so we can’t be completely certain that every exposed infant truly was exposed. Another caveat concerns the authors’ findings on sulfonylurea. Both metformin and sulfonylurea were found to have similar associations with all-category birth defects (aORs of 1.40 and 1.34 for metformin and sulfonylurea, respectively) and lower proportions of male births (49.4% and 49.3%, respectively).",
+  "content_length": 704,
+  "content_tokens": 151,
   "embedding": []
  },
  {
-  "title": "Correlation vs. Causation",
+  "title": "Correlation is Not Causation",
   "date": "April 16, 2022",
   "context": "Medications, Supplements & Other Treatments",
   "people": "Peter Attia",
-  "content": "The study has shown an association between paternal metformin exposure and offspring birth defects, but it cannot show a causal pathway linking the two variables because of the “third variable problem”. T2D is a complex disease affecting the entire body, and any number of affected pathways might impact offspring health. More studies are needed.",
-  "content_length": 346,
-  "content_tokens": 67,
+  "content": "This study has shown an association between paternal metformin exposure and offspring birth defects, but it cannot show a causal pathway linking the two variables because of the “third variable problem” – the possibility that a third, confounding variable affects both paternal metformin exposure and offspring defects, creating the false appearance of a causal relationship between the two. T2D is a complex disease affecting the entire body, and any number of affected pathways might impact offspring health. Having diabetes certainly makes one more likely to take diabetes medications, but this condition also has clear (though not fully understood) links to reproduction: diabetes in men has detrimental effects on fertility, and maternal diabetes has been associated with birth defects in offspring. Additionally, T2D is correlated with many comorbidities (e.g., obesity) for which the study authors did not have data but which may have also contributed to the associations they observed.",
+  "content_length": 993,
+  "content_tokens": 183,
   "embedding": []
  },
  {
-  "title": "Lack of Existing Data on Paternal Metformin Exposure and Birth Defects",
+  "title": "Statin Use and Cardiovascular Risk",
   "date": "April 16, 2022",
   "context": "Medications, Supplements & Other Treatments",
   "people": "Peter Attia",
-  "content": "Because, in contrast to the association between statin use and cardiovascular risk, we have virtually no existing data on paternal metformin exposure and birth defects – no large body of consistent literature exists to contravene these results.",
-  "content_length": 244,
-  "content_tokens": 45,
+  "content": "In contrast to the association between statin use and cardiovascular risk, we have virtually no existing data on paternal metformin exposure and birth defects. No large body of consistent literature exists to contravene these results.",
+  "content_length": 234,
+  "content_tokens": 43,
   "embedding": []
  },
  {
-  "title": "Uncharted Territory in Research",
+  "title": "Diabetes Drugs and Reproductive Years",
   "date": "April 16, 2022",
   "context": "Medications, Supplements & Other Treatments",
   "people": "Peter Attia",
@@ -50,7 +70,7 @@
   "embedding": []
  },
  {
-  "title": "Further Investigation Needed",
+  "title": "Need for More Research",
   "date": "April 16, 2022",
   "context": "Medications, Supplements & Other Treatments",
   "people": "Peter Attia",
@@ -60,7 +80,7 @@
   "embedding": []
  },
  {
-  "title": "Caution Needed for Diabetes Patients Trying to Have Children",
+  "title": "Treatment Plans for Diabetes Patients Trying to Have Children",
   "date": "April 16, 2022",
   "context": "Medications, Supplements & Other Treatments",
   "people": "Peter Attia",

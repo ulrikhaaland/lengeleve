@@ -1,62 +1,32 @@
 [
  {
-  "title": "LDL-C vs ApoB",
+  "title": "Study on Statins and LDL-C",
   "date": "April 2, 2022",
   "context": "Cholesterol",
   "people": "Peter Attia",
-  "content": "Byrne et al. chose to use LDL-C as the relevant variable for mechanistically linking statin efficacy to clinical outcomes, yet LDL-C is not an ideal metric for determining the atherogenic risk. The most reliable risk-associated variable is the concentration of apolipoprotein B (apoB), the protein that associates with LDL particles and, to a much lesser extent, very-low-density lipoproteins (VLDLs) and chylomicron remnants. ApoB-containing particle number – not their cholesterol content – is the key determinant of atherogenic risk, and because only a single molecule of apoB associates with each LDL or remnant particle, apoB thus provides a far more accurate estimate of the number of atherogenic particles than cholesterol content, which varies widely across different LDL particles. Another more reliable variable than LDL-C is non-high-density-lipoprotein cholesterol (non-HDL-C) concentration, which, in contrast to LDL-C, includes all apoB-containing lipoprotein particles (LDLs and remnants). Though LDL-C does provide some approximation of atherogenic risk, either apoB or non-HDL-C would do so more accurately, yet neither of these preferred metrics was included in the analysis conducted by Byrne and her colleagues.",
-  "content_length": 1231,
-  "content_tokens": 278,
+  "content": "A study published in JAMA Internal Medicine suggested that lowering low-density lipoprotein cholesterol (LDL-C) with statins confers at best only “modest” benefit to patients. The study reviewed and analyzed data from 21 randomized clinical trials designed to investigate the efficacy of statins in reducing all-cause mortality and cardiovascular outcomes including myocardial infarction and stroke. The authors reported an absolute risk reduction of 0.8% for all-cause mortality, 1.3% for myocardial infarction, and 0.4% for stroke among patients randomized to receive statin treatment compared to placebo or usual care.",
+  "content_length": 621,
+  "content_tokens": 132,
   "embedding": []
  },
  {
-  "title": "Treatment Duration",
+  "title": "Issues with the Study",
   "date": "April 2, 2022",
   "context": "Cholesterol",
   "people": "Peter Attia",
-  "content": "The study conducted by Byrne and her colleagues reviewed and analyzed data from 21 randomized clinical trials (RCTs) designed to investigate the efficacy of statins in reducing all-cause mortality (ACM) and cardiovascular (CV) outcomes including myocardial infarction (MI) and stroke. However, the duration of treatment in these trials varied widely, ranging from 2 to 6 years, with a median of only 4.8 years. This is a critical limitation, as the benefits of statin therapy are known to accrue over time, with the greatest reductions in CV events observed after 5 years or more of treatment. Thus, the relatively short duration of the trials included in the meta-analysis conducted by Byrne and her colleagues likely underestimated the true benefits of statin therapy.",
-  "content_length": 770,
+  "content": "The study has several shortcomings. First, it used LDL-C as the relevant variable for linking statin efficacy to clinical outcomes, yet LDL-C is not an ideal metric for determining the atherogenic risk. The most reliable risk-associated variable is the concentration of apolipoprotein B (apoB), the protein that associates with LDL particles. Another more reliable variable than LDL-C is non-high-density-lipoprotein cholesterol concentration. Second, the average treatment duration of 4.4 years across included trials is almost certainly too short to show the full potential effect of LDL-C reductions on cardiovascular risk and mortality. Lastly, the degree of LDL-C reduction was not considered. The efficacy of interventions is a function of two variables: time and magnitude.",
+  "content_length": 780,
   "content_tokens": 156,
   "embedding": []
  },
  {
-  "title": "Duration of Treatment and CV Risk",
+  "title": "Understanding Statins and Cardiovascular Risk",
   "date": "April 2, 2022",
   "context": "Cholesterol",
   "people": "Peter Attia",
-  "content": "The average treatment duration of 4.4 years across included trials is almost certainly too short to show the full potential effect of LDL-C reductions on CV risk and mortality. Studies using Mendelian randomization have investigated the effects of genetic variants known to lower LDL-C, an effect which would naturally continue throughout one’s lifetime. These studies have revealed very strong associations between LDL-C and risk of CV events.",
-  "content_length": 444,
-  "content_tokens": 85,
-  "embedding": []
- },
- {
-  "title": "Degree of LDL-C Reduction",
-  "date": "April 2, 2022",
-  "context": "Cholesterol",
-  "people": "Peter Attia",
-  "content": "The efficacy of interventions is a function of two variables: time and magnitude. In the case of atherosclerotic CVD, risk can be conceptualized as the integral function of apoB over time. If the treatment duration is short, then the only possible way to detect a significant effect would be to examine studies with a large magnitude in LDL-C reduction. Such data do exist, primarily from trials investigating PCSK9 inhibitors, and they show strong causal associations between LDL-lowering treatment and CV events and mortality.",
-  "content_length": 528,
-  "content_tokens": 107,
-  "embedding": []
- },
- {
-  "title": "Study's Impact on Conventional Wisdom",
-  "date": "April 2, 2022",
-  "context": "Cholesterol",
-  "people": "Peter Attia",
-  "content": "Last month's study adds very little to our understanding of statins and the relationship between LDL and CV risk, and does not provide justification for revising therapeutic approaches.",
-  "content_length": 185,
-  "content_tokens": 33,
-  "embedding": []
- },
- {
-  "title": "Misleading Insinuations",
-  "date": "April 2, 2022",
-  "context": "Cholesterol",
-  "people": "Peter Attia",
-  "content": "Despite insinuations in popular press and social media, the data from this study do not warrant revising therapeutic approaches.",
-  "content_length": 128,
-  "content_tokens": 23,
+  "content": "Far from shaking up conventional wisdom about statins and the relationship between LDL and CV risk, last month’s study adds very little to our understanding of these therapies and their mechanisms. While we have a responsibility to question existing practices and, if warranted, revise therapeutic approaches, the data from this study do not provide justification for such revision, despite rampant – and potentially deadly – insinuations to the contrary in popular press and social media.",
+  "content_length": 489,
+  "content_tokens": 87,
   "embedding": []
  }
 ]

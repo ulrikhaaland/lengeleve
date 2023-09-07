@@ -1,32 +1,32 @@
 [
  {
-  "title": "Perimenopause and Alzheimer's Risk in Women",
+  "title": "Alzheimer’s Risk Among Women",
   "date": "July 27, 2022",
   "context": "Cognitive Health & Neurodegenerative Disease",
   "people": "Peter Attia",
-  "content": "Perimenopause is a “brain disease” and during perimenopause there are metabolic shifts in the brain that can predispose to acceleration of Alzheimer’s pathology. The disruption of sleep, the brain fog, problems with processing speed and attention, are all symptoms of perimenopause. Perimenopause transition is a huge unrealized risk factor for progression to dementia in an Alzheimer’s susceptible woman.",
-  "content_length": 405,
-  "content_tokens": 88,
+  "content": "There is a greater Alzheimer’s risk among women. Women living longer has been proposed as the reason for greater Alzheimer’s risk, but that this does not explain all of the difference. Perimenopause is a “brain disease”. During perimenopause there are metabolic shifts in the brain that can predispose to acceleration of Alzheimer’s pathology. This is underappreciated and can be countered with appropriate use of estrogen replacement. The disruption of sleep, the brain fog, problems with processing speed and attention, are all symptoms of perimenopause. Perimenopause transition is a huge unrealized risk factor for progression to dementia in an Alzheimer’s susceptible woman.",
+  "content_length": 679,
+  "content_tokens": 145,
   "embedding": []
  },
  {
-  "title": "Hysterectomy and Alzheimer's Risk in Women",
+  "title": "Factors Contributing to Alzheimer’s Risk in Women",
   "date": "July 27, 2022",
   "context": "Cognitive Health & Neurodegenerative Disease",
   "people": "Peter Attia",
-  "content": "Lauren’s mother’s hysterectomy was likely a contributing factor in her progression. An E4/E4 woman, a surgical menopause, meaning taking out the ovaries with the uterus, could fast forward brain aging in a woman.",
-  "content_length": 212,
-  "content_tokens": 56,
+  "content": "Hysterectomy can be a contributing factor in the progression of Alzheimer's disease. Widowhood is a astronomically important risk factor for cognitive decline and dementia. Women with an enlarged waist circumference have a 39% increase in dementia risk. In men, muscle mass is a more important predictor than body fat, but the reason for this difference between men and women is not yet known.",
+  "content_length": 393,
+  "content_tokens": 78,
   "embedding": []
  },
  {
-  "title": "Other Factors Contributing to Alzheimer's Risk in Women",
+  "title": "Current Study on Alzheimer’s Risk",
   "date": "July 27, 2022",
   "context": "Cognitive Health & Neurodegenerative Disease",
   "people": "Peter Attia",
-  "content": "Widowhood is a astronomically important risk factor for cognitive decline and dementia. Abdominal obesity: women with an enlarged waist circumference have a 39% increase in dementia risk. Interestingly, in men, muscle mass is a more important predictor than body fat, but we do not yet know why.",
-  "content_length": 295,
-  "content_tokens": 62,
+  "content": "A study is currently being conducted involving comprehensive brain imaging in men and women between the ages of 40-65 to determine the reason for the difference in Alzheimer’s risk between men and women.",
+  "content_length": 203,
+  "content_tokens": 39,
   "embedding": []
  }
 ]

@@ -1,112 +1,52 @@
 [
  {
-  "title": "Tradeoff between avoiding false positives and false negatives",
+  "title": "Understanding Screening Tests",
   "date": "April 14, 2020",
   "context": "COVID-19",
   "people": "Peter Attia",
-  "content": "For any test, there is usually a tradeoff between avoiding false positives and false negatives. The higher the sensitivity, the lower the specificity. The higher the specificity, the lower the sensitivity.",
-  "content_length": 205,
-  "content_tokens": 38,
+  "content": "Sensitivity, specificity, PPV, and NPV shouldn’t be judged in isolation. Diagnostic measures help determine if screening tools are effective at detecting when cancer is present or not. These measures can be misleading when evaluated in isolation; context matters. Sensitivity is the true positive rate: it represents the percentage of people with cancer who are correctly identified as such. Specificity is the true negative rate: it represents the percentage of healthy people who are correctly identified as such.",
+  "content_length": 515,
+  "content_tokens": 97,
   "embedding": []
  },
  {
-  "title": "High sensitivity vs low sensitivity",
+  "title": "Sensitivity and Specificity in Cancer Screening",
   "date": "April 14, 2020",
   "context": "COVID-19",
   "people": "Peter Attia",
-  "content": "High sensitivity test is more likely to detect cancer when cancer is truly present and less likely to miss cancer when cancer is truly present. Low sensitivity test is less likely to detect cancer when cancer is truly present and more likely to miss cancer when cancer is truly present.",
-  "content_length": 286,
-  "content_tokens": 58,
+  "content": "For any test, there is usually a tradeoff between avoiding false positives and false negatives. The same is true in cancer screening. If an MRI can detect tumors < 1 mm in size, it’s highly sensitive. However, the test is going to be less specific. More false alarms. The opposite is true as well. If an MRI only detects tumors > 5 cm, the test will be highly specific (i.e., low false positives), but have low sensitivity (i.e., high false negatives). The higher the specificity, the lower the sensitivity.",
+  "content_length": 507,
+  "content_tokens": 115,
   "embedding": []
  },
  {
-  "title": "High specificity vs low specificity",
+  "title": "Predictive Values in Cancer Screening",
   "date": "April 14, 2020",
   "context": "COVID-19",
   "people": "Peter Attia",
-  "content": "High specificity test is more likely to not detect cancer when cancer is truly not present and less likely to detect cancer when cancer is truly not present (i.e., fewer false alarms). Low specificity test has a lower proportion of negatives that are correctly identified as such and is more likely to detect cancer when cancer is truly not present (i.e., more false alarms).",
-  "content_length": 375,
-  "content_tokens": 79,
+  "content": "Positive predictive value (PPV) is the probability that subjects with a positive screening test truly have the disease. Negative predictive value (NPV) is the probability that subjects with a negative screening test truly do not have the disease. The NPV is virtually 100%. What it appears to be showing is that if you test negative, you almost assuredly don’t have thyroid cancer. While true, this is misleading. Only 0.16% of the population tested has thyroid cancer. Because 99.84% of the people tested don’t have thyroid cancer, the NPV can’t be less than 99.84%.",
+  "content_length": 567,
+  "content_tokens": 130,
   "embedding": []
  },
  {
-  "title": "Positive predictive value and negative predictive value",
+  "title": "Interpreting Test Results",
   "date": "April 14, 2020",
   "context": "COVID-19",
   "people": "Peter Attia",
-  "content": "Positive predictive value: Positive predictive value (PPV) is the probability that subjects with a positive screening test truly have the disease. Negative predictive value: Negative predictive value (NPV) is the probability that subjects with a negative screening test truly do not have the disease.",
-  "content_length": 300,
-  "content_tokens": 59,
+  "content": "Sensitivity, specificity, PPV, and NPV shouldn’t be judged in isolation. A test with 100% sensitivity can be completely useless in practice without considering specificity. The test would have 0% specificity. The converse is true as well. Imagine the letter sent to 500,000 was instead a negative letter. It would identify 100% of the true negatives and would yield zero false positives. The test would have 100% specificity. But it would also carry with it 0% sensitivity.",
+  "content_length": 473,
+  "content_tokens": 101,
   "embedding": []
  },
  {
-  "title": "Example of thyroid cancer screening",
+  "title": "Diagnostic Measures in Health",
   "date": "April 14, 2020",
   "context": "COVID-19",
   "people": "Peter Attia",
-  "content": "Here’s an example: 500,000 people are screened for thyroid cancer with a population prevalence of 0.16%. The screening tool used is ultrasound with 98% sensitivity and 54% specificity. We can see from this example that the NPV is virtually 100%. We can also see that even with a high sensitivity, which tells us the true positive rate, the PPV is a remarkably low 0.3%.",
-  "content_length": 369,
-  "content_tokens": 84,
-  "embedding": []
- },
- {
-  "title": "Example of breast cancer screening",
-  "date": "April 14, 2020",
-  "context": "COVID-19",
-  "people": "Peter Attia",
-  "content": "Here’s a different example: 500,000 women are screened for breast cancer with a population prevalence of 11%. The screening tool used is Prenuvo MRI with 92% sensitivity and 99.6% specificity. The NPV is 99%. The PPV in this example is 96.6%.",
-  "content_length": 242,
-  "content_tokens": 63,
-  "embedding": []
- },
- {
-  "title": "Sensitivity and Specificity",
-  "date": "April 14, 2020",
-  "context": "COVID-19",
-  "people": "Peter Attia",
-  "content": "Sensitivity, specificity, PPV, and NPV shouldn’t be judged in isolation. Therefore, a test with 100% sensitivity can be completely useless in practice without considering specificity. The converse is true as well. The test would have 100% specificity. But it would also carry with it 0% sensitivity.",
-  "content_length": 299,
-  "content_tokens": 65,
-  "embedding": []
- },
- {
-  "title": "PPV and Prevalence",
-  "date": "April 14, 2020",
-  "context": "COVID-19",
-  "people": "Peter Attia",
-  "content": "Similarly, in the positive-letter example, 100% sensitivity may be misleading in terms of its ability to predict someone has cancer. If the population prevalence was 0.5%, the PPV would also be 0.5%, meaning the test is no better than, well, sending random letters to postal addresses. The same holds true for the negative-letter example.",
-  "content_length": 338,
-  "content_tokens": 73,
-  "embedding": []
- },
- {
-  "title": "Diagnostic Measures",
-  "date": "April 14, 2020",
-  "context": "COVID-19",
-  "people": "Peter Attia",
-  "content": "Diagnostic measures help us determine if our screening tools are effective at detecting when cancer is present or not.",
-  "content_length": 118,
-  "content_tokens": 22,
-  "embedding": []
- },
- {
-  "title": "Misleading Measures",
-  "date": "April 14, 2020",
-  "context": "COVID-19",
-  "people": "Peter Attia",
-  "content": "Often, these measures can be misleading, especially when evaluated in isolation.",
-  "content_length": 80,
-  "content_tokens": 14,
-  "embedding": []
- },
- {
-  "title": "Context is Key",
-  "date": "April 14, 2020",
-  "context": "COVID-19",
-  "people": "Peter Attia",
-  "content": "It’s important to look at diagnostics in context.",
-  "content_length": 49,
-  "content_tokens": 13,
+  "content": "Diagnostic measures help us determine if our screening tools are effective at detecting when cancer is present or not. Often, these measures can be misleading, especially when evaluated in isolation. It’s important to look at diagnostics in context.",
+  "content_length": 249,
+  "content_tokens": 49,
   "embedding": []
  }
 ]

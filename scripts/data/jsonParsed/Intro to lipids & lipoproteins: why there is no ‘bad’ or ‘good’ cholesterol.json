@@ -1,22 +1,22 @@
 [
  {
-  "title": "Cholesterol 101",
+  "title": "Understanding Cholesterol",
   "date": "May 11, 2022",
   "context": "Cholesterol",
   "people": "Peter Attia",
-  "content": "Here is my attempt at explaining the basics of lipids, lipoproteins, and why there is no such thing as “good” or “bad” cholesterol.",
-  "content_length": 131,
-  "content_tokens": 38,
+  "content": "Frustration with the way the press writes about “good” and “bad” cholesterol. Explaining the basics of lipids, lipoproteins, and why there is no such thing as “good” or “bad” cholesterol. To understand the field of lipidology, going through past cholesterol content is recommended. You can learn far more than most health journalists will ever know (and even more than some doctors know).",
+  "content_length": 388,
+  "content_tokens": 93,
   "embedding": []
  },
  {
-  "title": "Lipidology",
+  "title": "Heart Disease Causes",
   "date": "May 11, 2022",
   "context": "Cholesterol",
   "people": "Peter Attia",
-  "content": "This is a 6-part series on lipidology with Tom Dayspring, M.D., FACP, FNLAA.",
-  "content_length": 76,
-  "content_tokens": 26,
+  "content": "What causes heart disease? Early and aggressive lowering of apoB could change the course of ASCVD.",
+  "content_length": 98,
+  "content_tokens": 21,
   "embedding": []
  }
 ]

@@ -1,22 +1,32 @@
 [
  {
-  "title": "The Myth of Saturated Fat and Heart Disease",
+  "title": "Saturated Fat and Heart Disease",
   "date": "July 17, 2012",
   "context": "Cholesterol",
   "people": "Peter Attia",
-  "content": "Every time I hear someone “assert” that saturated fat and dietary cholesterol lead to heart disease I have to bite my tongue. This week, and I apologize for how long overdue this post is, I’m going to get into the details of  how this country (and many others who followed our lead) came to believe one of the most pervasive myths in the entire field of nutrition.",
-  "content_length": 364,
-  "content_tokens": 81,
+  "content": "Every time I hear someone “assert” that saturated fat and dietary cholesterol lead to heart disease I have to bite my tongue. This week, I’m going to get into the details of how this country (and many others who followed our lead) came to believe one of the most pervasive myths in the entire field of nutrition.",
+  "content_length": 312,
+  "content_tokens": 69,
   "embedding": []
  },
  {
-  "title": "The State of Our Current Nutritional Environment",
+  "title": "Nutritional Environment and Food Policies",
   "date": "July 17, 2012",
   "context": "Cholesterol",
   "people": "Peter Attia",
-  "content": "As I’ve learned more and more about this topic, it appears to me that the state of our current nutritional environment, with food policies based on just about everything but rigorous, experimental science, couldn’t make much ethical sense. I was happy to take this opportunity to speak with a group of thought leaders on this important topic.",
-  "content_length": 342,
-  "content_tokens": 70,
+  "content": "As I’ve learned more and more about this topic, it appears to me that the state of our current nutritional environment, with food policies based on just about everything but rigorous, experimental science, couldn’t make much ethical sense.",
+  "content_length": 239,
+  "content_tokens": 49,
+  "embedding": []
+ },
+ {
+  "title": "Talk on Nutrition and Ethics",
+  "date": "July 17, 2012",
+  "context": "Cholesterol",
+  "people": "Peter Attia",
+  "content": "I recently gave a talk at the UCSD medical school. I was asked to give a talk about “ethics.” I gave a more recent (circa 2015) talk on the subject which captures both the video and and my slides, which I’ll share below. It’s about an hour long.",
+  "content_length": 245,
+  "content_tokens": 68,
   "embedding": []
  }
 ]

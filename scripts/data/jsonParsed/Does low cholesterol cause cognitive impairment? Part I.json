@@ -1,72 +1,42 @@
 [
  {
-  "title": "The concern of cognitive impairment with lipid-lowering drugs",
+  "title": "Cholesterol and Cognitive Impairment",
   "date": "September 19, 2021",
   "context": "Cholesterol",
   "people": "Peter Attia",
-  "content": "There’s a widely held notion that what is good for the heart is good for the brain. But when it comes to cholesterol levels, there’s some concern that lower may not be better in the case of the brain. But do the CVD benefits of lipid-lowering drugs come at a cost of increased risk of cognitive impairment? It seems like a valid concern, given the importance of cholesterol synthesis and metabolism in the brain. In 2012, the FDA issued a label change to statins to include the potential for cognitive side effects such as memory loss and confusion. The warning was based on post-marketing surveillance and observational studies, but nonetheless put the potential for adverse cognitive effects of lipid-lowering therapies under the spotlight.",
-  "content_length": 742,
-  "content_tokens": 150,
+  "content": "There’s a widely held notion that what is good for the heart is good for the brain. But when it comes to cholesterol levels, there’s some concern that lower may not be better in the case of the brain. Cardiovascular disease (CVD) is primarily driven by three things: lipoproteins, inflammation, and endothelial dysfunction. There are several drugs that can reduce the amount of cholesterol and the lipoproteins that escort them through the body. Statins and PCSK9 inhibitors are known to reduce LDL cholesterol (LDL-C). But do the CVD benefits of lipid-lowering drugs come at a cost of increased risk of cognitive impairment? Cholesterol is a major constituent of the human brain and is the body’s most cholesterol-rich organ, containing about 20% of the body’s total cholesterol. Cholesterol is essential for normal brain development and is critically important for brain function.",
+  "content_length": 882,
+  "content_tokens": 192,
   "embedding": []
  },
  {
-  "title": "The effect of lipid-lowering drugs on cognitive function",
+  "title": "Cholesterol Lowering Drugs and Cognitive Function",
   "date": "September 19, 2021",
   "context": "Cholesterol",
   "people": "Peter Attia",
-  "content": "A recent randomized controlled trial adds to the accumulating evidence suggesting that the answer is no. This study in more than 2,000 patients with familial hypercholesterolemia and at high CVD risk while on a maximally tolerated statin dose found, after nearly two years of treatment, there was no effect on cognitive function in those taking a PCSK9 inhibitor called alirocumab compared to placebo.",
-  "content_length": 401,
-  "content_tokens": 81,
+  "content": "A recent randomized controlled trial found, after nearly two years of treatment, there was no effect on cognitive function in those taking a PCSK9 inhibitor called alirocumab compared to placebo. The body has four distinct “pools” of cholesterol, in which tissues have regulatory mechanisms to maintain their respective homeostasis. The brain synthesizes its own cholesterol and does not exchange cholesterol with the other aforementioned pools, which means that cholesterol concentrations outside the brain have no direct impact on brain cholesterol. The brain’s cholesterol pool is a closed, self-sufficient system since it cannot exchange and excrete cholesterol, unlike other cholesterol pools in the periphery. There is no relation between plasma cholesterol measurements and tissue pools of cholesterol. Several other studies have demonstrated that PCSK9 inhibitors induced dramatic reductions in plasma LDL-C concentrations to as low as 10 mg/dL without adverse cognitive effects.",
+  "content_length": 987,
+  "content_tokens": 178,
   "embedding": []
  },
  {
-  "title": "The relationship between cholesterol and the brain",
+  "title": "Cholesterol and Brain Development",
   "date": "September 19, 2021",
   "context": "Cholesterol",
   "people": "Peter Attia",
-  "content": "Cholesterol is essential for normal brain development and is critically important for brain function. If we slash the amount of LDL and the cholesterol they contain while circulating in the plasma, will it have negative consequences for the brain and its voracious appetite for cholesterol? So, why doesn’t lowering the amount of cholesterol in the periphery lead to cognitive impairment? The answer lies in understanding that the amount of cholesterol we measure in circulation—that which is contained in the plasma lipoproteins we concern ourselves with—represents a tiny fraction of total body cholesterol.",
-  "content_length": 609,
-  "content_tokens": 112,
+  "content": "Newborns to young children have very low total plasma cholesterol compared to adults. Developing infants have quite low plasma cholesterol (between 100 and 130 mg/dL) and yet have the highest demand for cellular cholesterol, as they are in a period of rapid brain development. If plasma cholesterol were an accurate proxy for the cholesterol needed for our tissues and organs, we’d all be dead.",
+  "content_length": 394,
+  "content_tokens": 79,
   "embedding": []
  },
  {
-  "title": "The brain's self-sufficient cholesterol pool",
+  "title": "Statin Use and Cognitive Outcomes",
   "date": "September 19, 2021",
   "context": "Cholesterol",
   "people": "Peter Attia",
-  "content": "It turns out that the brain synthesizes its own cholesterol and does not exchange cholesterol with the other aforementioned pools, which means that cholesterol concentrations outside the brain have no direct impact on brain cholesterol. If you recall, the brain is the most cholesterol-rich organ, accounting for about 20% of the body’s total cholesterol—and it has distinct turnover dynamics: the brain cholesterol’s half-life is in the order of years compared to a cholesterol half-life of a few days in other tissues in the body. So consider the brain’s cholesterol pool as a closed, self-sufficient system since it cannot exchange and excrete cholesterol, unlike other cholesterol pools in the periphery.",
-  "content_length": 708,
-  "content_tokens": 140,
-  "embedding": []
- },
- {
-  "title": "Cholesterol in plasma vs tissue pools",
-  "date": "September 19, 2021",
-  "context": "Cholesterol",
-  "people": "Peter Attia",
-  "content": "There is no relation between plasma cholesterol measurements and tissue pools of cholesterol. Once you understand that circulating cholesterol is not an accurate proxy for the brain’s cholesterol required for neuronal function, it should come as no surprise that several other studies have demonstrated that PCSK9 inhibitors induced dramatic reductions in plasma LDL-C concentrations to as low as 10 mg/dL without adverse cognitive effects.",
-  "content_length": 440,
-  "content_tokens": 76,
-  "embedding": []
- },
- {
-  "title": "Low plasma cholesterol in infants",
-  "date": "September 19, 2021",
-  "context": "Cholesterol",
-  "people": "Peter Attia",
-  "content": "To drive home the point that the cholesterol within circulating lipoproteins in the plasma has little to do with peripheral pools of cholesterol or brain cholesterol, consider that newborns to young children have very low total plasma cholesterol compared to adults. As an additional proof point, developing infants have quite low plasma cholesterol (between 100 and 130 mg/dL) and yet have the highest demand for cellular cholesterol, as they are in a period of rapid brain development. If plasma cholesterol were an accurate proxy for the cholesterol needed for our tissues and organs, we’d all be dead.",
-  "content_length": 605,
-  "content_tokens": 115,
-  "embedding": []
- },
- {
-  "title": "Statin use and cognitive outcomes",
-  "date": "September 19, 2021",
-  "context": "Cholesterol",
-  "people": "Peter Attia",
-  "content": "But all of this said, it still does not fully satisfy my need to know if aggressive statin use, at least in some people, might be associated with poor cognitive outcomes. Much of the data we have discussed are based on the use of PCSK9 inhibitors, which are the most potent lipid-lowering medications available. But their mechanism of action increases lipoprotein clearance from the circulation via the liver by directly inhibiting a protein that degrades LDL receptors (LDLR). Conversely, statins work primarily by inhibiting cholesterol synthesis, which has the knock-on effect of increasing liver expression of LDLR and clearance of LDL. So, while the manner in which these two drugs work is similar (LDLR-mediated), the mechanisms by which the two affect LDLR are different. Is it at least possible that statins, specifically, may alter brain cholesterol synthesis?",
-  "content_length": 869,
-  "content_tokens": 176,
+  "content": "It still does not fully satisfy my need to know if aggressive statin use, at least in some people, might be associated with poor cognitive outcomes. Much of the data we have discussed are based on the use of PCSK9 inhibitors, which are the most potent lipid-lowering medications available. But their mechanism of action increases lipoprotein clearance from the circulation via the liver by directly inhibiting a protein that degrades LDL receptors (LDLR). Conversely, statins work primarily by inhibiting cholesterol synthesis, which has the knock-on effect of increasing liver expression of LDLR and clearance of LDL. So, while the manner in which these two drugs work is similar (LDLR-mediated), the mechanisms by which the two affect LDLR are different. Is it at least possible that statins, specifically, may alter brain cholesterol synthesis?",
+  "content_length": 847,
+  "content_tokens": 170,
   "embedding": []
  }
 ]

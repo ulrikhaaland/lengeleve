@@ -1,42 +1,42 @@
 [
  {
-  "title": "Glucose Hypometabolism in the Brain and Alzheimer's Disease",
+  "title": "Alzheimer's Research and Glucose Metabolism",
   "date": "February 16, 2020",
   "context": "Cognitive Health & Neurodegenerative Disease",
   "people": "Peter Attia",
-  "content": "The article points to accumulating research suggesting glucose hypometabolism in the brain is not just a marker of Alzheimer’s disease (AD), but a maker of it. The perspective highlights the observational studies that suggest patients with diabetes (particularly type 2, T2DM) have an elevated risk of developing AD and other forms of dementia (with vascular dementia showing the highest association in this meta-analysis). All of this suggests that there’s a metabolic component to AD, and effective treatments for diabetes may also help treat AD.",
-  "content_length": 548,
-  "content_tokens": 108,
+  "content": "Accumulating research suggests glucose hypometabolism in the brain is not just a marker of Alzheimer’s disease (AD), but a maker of it. Observational studies suggest patients with diabetes (particularly type 2, T2DM) have an elevated risk of developing AD and other forms of dementia. Different variants of the apolipoprotein E (APOE) allele affect glucose metabolism in the brain in mice. Mice with two copies of the APOE2 variant are more efficient at utilizing glucose than APOE4 mice, which could help explain the associated protection of the APOE2 variant, and elevated risk of APOE4 seen in study after study in the US population.",
+  "content_length": 636,
+  "content_tokens": 139,
   "embedding": []
  },
  {
-  "title": "APOE Allele and Glucose Metabolism in the Brain",
+  "title": "Testing Diabetes Drugs for Alzheimer's Treatment",
   "date": "February 16, 2020",
   "context": "Cognitive Health & Neurodegenerative Disease",
   "people": "Peter Attia",
-  "content": "A different line of research shows that different variants of the apolipoprotein E (APOE) allele affect glucose metabolism in the brain in mice. Essentially, mice with two copies of the APOE2 variant are more efficient at utilizing glucose than APOE4 mice, which could help explain the associated protection of the APOE2 variant, and elevated risk of APOE4 seen in study after study in the US population.",
-  "content_length": 404,
-  "content_tokens": 96,
+  "content": "There is a focus on testing diabetes drugs among patients with AD and other forms of cognitive impairment. Studies are also looking at whether diet and exercise might delay cognitive impairment. Effective treatments for diabetes may also help treat AD. If T2DM increases the risk for AD, lowering the risk of T2DM may lower the risk of AD as well.",
+  "content_length": 347,
+  "content_tokens": 69,
   "embedding": []
  },
  {
-  "title": "Early Detection of Abnormalities in Glucose Metabolism",
+  "title": "Early Detection of Alzheimer's Disease",
   "date": "February 16, 2020",
   "context": "Cognitive Health & Neurodegenerative Disease",
   "people": "Peter Attia",
-  "content": "A study looking at positron emission tomography (PET) scans of people at high risk for developing AD have detected decreases in the rate of glucose metabolism in the brain decades before the appearance of AD symptoms. If we can detect abnormalities early, we can address them early.",
-  "content_length": 282,
-  "content_tokens": 56,
+  "content": "A study looking at positron emission tomography (PET) scans of people at high risk for developing AD have detected decreases in the rate of glucose metabolism in the brain decades before the appearance of AD symptoms. If abnormalities can be detected early, they can be addressed early.",
+  "content_length": 286,
+  "content_tokens": 54,
   "embedding": []
  },
  {
-  "title": "Testing Diabetes Drugs and Lifestyle Changes for AD Prevention",
+  "title": "Metabolism and Alzheimer's Disease",
   "date": "February 16, 2020",
   "context": "Cognitive Health & Neurodegenerative Disease",
   "people": "Peter Attia",
-  "content": "The perspective closes with a section on testing diabetes drugs among patients with AD and other forms of cognitive impairment, as well as a few studies looking at whether diet and exercise might delay cognitive impairment. I’ve discussed AD as a metabolic disease on the podcast with Richard Isaacson, a neurologist and director of an Alzheimer’s prevention clinic, and Francisco Gonzalez-Lima, a professor of neuroscience and AD researcher, and both of them believe metabolism is a key player in the prevention and treatment of AD.",
-  "content_length": 533,
-  "content_tokens": 106,
+  "content": "There is a belief that metabolism is a key player in the prevention and treatment of AD. More resources are focusing on brain energy metabolism to reduce the burden of such a devastating disease.",
+  "content_length": 195,
+  "content_tokens": 36,
   "embedding": []
  }
 ]

@@ -1,26 +1,26 @@
 [
  {
-  "title": "COVID vaccines save lives",
+  "title": "COVID Vaccines and Health",
   "date": "January 23, 2022",
   "context": "COVID-19",
   "people": "Peter Attia",
-  "content": "COVID vaccines absolutely save lives. Full stop. My opposition to vaccine mandates does not in any way diminish my belief in the data supporting the efficacy of vaccines in preventing severe disease and death, particularly in people over 65 and in those with comorbidities. Deaths of Unvaccinated vs Vaccinated (mRNA vaccines only, at least 1 dose). Data collected from the Veterans Affairs system between December 2020 and March 2021. The data above show that for people over the age of 18, the relative risk reduction (RRR) of death is between 84 and 88%, regardless of age.",
-  "content_length": 576,
-  "content_tokens": 118,
+  "content": "COVID vaccines save lives. COVID vaccines absolutely save lives. Full stop. My opposition to vaccine mandates does not in any way diminish my belief in the data supporting the efficacy of vaccines in preventing severe disease and death, particularly in people over 65 and in those with comorbidities. The data above show that for people over the age of 18, the relative risk reduction (RRR) of death is between 84 and 88%, regardless of age. This is very close to the 90% risk reduction that was touted at the time of vaccine approval a year ago. But if you’ve paid attention to anything I’ve spoken and written about for the past 10 years, you will recall that we should always pay attention to absolute risk reduction (ARR) also. If the relative risk reduction is 90% (to make the math easy), you still don’t know if the risk is being reduced from 100% to 10% or from 0.1% to 0.01%. And this matters greatly.",
+  "content_length": 910,
+  "content_tokens": 206,
   "embedding": []
  },
  {
-  "title": "Absolute Risk Reduction and Number-Needed-to-Treat",
+  "title": "Understanding Vaccine Efficacy",
   "date": "January 23, 2022",
   "context": "COVID-19",
   "people": "Peter Attia",
-  "content": "The absolute risk reduction (ARR) increases with age. Why? Because the older you are, the more likely you are to die from COVID, so the benefit from the vaccine is greater. Second, the ARR numbers are very small, especially for people younger than 65. A quick way to get an intuitive understanding of this is to take the reciprocal of the ARR. This number is known as the “NNT” or number-needed-to-treat, which tells you how many people you need to treat to save a life. If the ARR is 50%, the NNT is 2 (1/0.5). If the ARR is 0.1%, the NNT is 1,000 (1/0.001). Based on this data set from the VA (which I chose because of the age stratification), the the number of people you need to vaccinate to save one life in the 18-64 group is 10,000, versus 2,857 in the 65-74 group , and 1,370 in the over-75 group. By comparison, the NNT for a statin is between 50 and 200, depending on the study and patient population studied.",
-  "content_length": 919,
-  "content_tokens": 247,
+  "content": "Returning to the actual data for COVID vaccines, take a look at the absolute risk reduction column. Here, two things stand out. First, the absolute risk reduction (ARR) increases with age. Why? Because the older you are, the more likely you are to die from COVID, so the benefit from the vaccine is greater. Second, the ARR numbers are very small, especially for people younger than 65. A quick way to get an intuitive understanding of this is to take the reciprocal of the ARR. This number is known as the “NNT” or number-needed-to-treat, which tells you how many people you need to treat to save a life. If the ARR is 50%, the NNT is 2 (1/0.5). If the ARR is 0.1%, the NNT is 1,000 (1/0.001). Based on this data set from the VA (which I chose because of the age stratification), the the number of people you need to vaccinate to save one life in the 18-64 group is 10,000, versus 2,857 in the 65-74 group , and 1,370 in the over-75 group.",
+  "content_length": 940,
+  "content_tokens": 252,
   "embedding": []
  },
  {
-  "title": "Effectiveness of COVID Vaccines",
+  "title": "COVID Vaccines and Risk of Death",
   "date": "January 23, 2022",
   "context": "COVID-19",
   "people": "Peter Attia",
@@ -30,43 +30,33 @@
   "embedding": []
  },
  {
-  "title": "Mandating Vaccines",
+  "title": "COVID Vaccines and Transmission",
   "date": "January 23, 2022",
   "context": "COVID-19",
   "people": "Peter Attia",
-  "content": "There are many reasons I have heard put forth for why vaccines should be mandated, but one dominant argument stands out: Mandating vaccines will protect vaccinated people from unvaccinated people. This argument assumes three things: Vaccines DO NOT provide complete protection to the vaccinated (or else why would we care about what the unvaccinated do), Prior infection DOES NOT confer immunity on par with vaccination, and Vaccines DO prevent transmission of the virus (which is why we want the unvaccinated vaccinated, even if we don’t care about their health, per se).",
-  "content_length": 572,
-  "content_tokens": 114,
+  "content": "Vaccines DO prevent transmission of the virus (which is why we want the unvaccinated vaccinated, even if we don’t care about their health, per se).",
+  "content_length": 147,
+  "content_tokens": 36,
   "embedding": []
  },
  {
-  "title": "Vaccines and Disease Risk",
+  "title": "COVID Vaccines and Natural Immunity",
   "date": "January 23, 2022",
   "context": "COVID-19",
   "people": "Peter Attia",
-  "content": "Vaccines do not provide complete protection to the vaccinated, but they significantly reduce the risk of detectable infection, hospitalization, and death. Novel therapeutics have been developed specifically to treat COVID, including monoclonal antibodies, paxlovid, and molnupiravir, all of which reduce the risk of hospitalization and death by anywhere from 50% to 90%. At least one existing drug (fluvoxamine) has been repurposed to treat COVID successfully, reducing both hospitalizations and deaths by 66% and 91%, respectively, based on per protocol usage. Far more sophisticated critical care knowledge has evolved, specifically, to address COVID, including the use of dexamethasone and better strategies of ventilation.",
-  "content_length": 726,
-  "content_tokens": 152,
+  "content": "Next, let’s examine the assumption that prior infections do not provide immunity on par with vaccine immunity. Of the three sub-arguments in the case for mandates based on protecting the vaccinated, I find this the hardest to understand. I am not aware of any other virus from which a recovery does not confer immunity (and yet a vaccine does). In other words, the null hypothesis around this point, at the outset, should be that natural immunity is indeed as good as vaccine immunity, pending data to prove that assumption false. Looking back at the close coronavirus cousins of COVID, SARS and MERS, the data are overwhelming that patients who survived those infections had lasting immunity, even 12 years after infection. Do data exist to suggest natural immunity doesn’t exist for this particular coronavirus? No. To the contrary, there is ample evidence that natural immunity is robust and durable. In fact, the data suggest that recovery from COVID provides longer lasting and stronger protection against subsequent infection, symptomatic disease, and hospitalization caused by the Delta variant, compared to vaccination.",
+  "content_length": 1127,
+  "content_tokens": 221,
   "embedding": []
  },
  {
-  "title": "Omicron Variant and Disease Risk",
+  "title": "Vaccine Efficacy",
   "date": "January 23, 2022",
   "context": "COVID-19",
   "people": "Peter Attia",
-  "content": "The Omicron variant is much less virulent than Delta and Beta and Alpha. The data are unambiguously clear that Omicron is a very mild infection, compared to Delta, Beta, or Alpha, and based on the emerging data, it seems to be mild even compared to influenza. The vaccinated are not immune to COVID infections, but their risk of severe illness or death is very low because of the vaccines, novel and repurposed drugs, and better critical care knowledge. The dominant variant, Omicron, is a very mild virus (even to the unvaccinated).",
-  "content_length": 533,
-  "content_tokens": 120,
-  "embedding": []
- },
- {
-  "title": "Natural Immunity vs Vaccine Immunity",
-  "date": "January 23, 2022",
-  "context": "COVID-19",
-  "people": "Peter Attia",
-  "content": "There is ample evidence that natural immunity is robust and durable. In fact, the data suggest that recovery from COVID provides longer lasting and stronger protection against subsequent infection, symptomatic disease, and hospitalization caused by the Delta variant, compared to vaccination. A quick examination of this figure from the CDC data released on January 20 shows that there is virtually no difference in hospitalizations from COVID between the vaccinated and unvaccinated, if a prior COVID infection took place. In fact, if you look at Table 1 from the paper, and run the calculations yourself, you’ll see the risk of hospitalization is lowest in the group that was not vaccinated, but previously infected.",
-  "content_length": 718,
-  "content_tokens": 137,
+  "content": "Vaccines unquestionably reduce the risk of hospitalization in previously uninfected people (by a factor of 16.5x). In people who are previously infected vaccines offer zero additional benefit with respect to hospitalization. In vaccinated people, being previously infected reduces the risk of hospitalization by a factor or 2.5x.",
+  "content_length": 329,
+  "content_tokens": 66,
   "embedding": []
  },
  {
@@ -80,17 +70,17 @@
   "embedding": []
  },
  {
-  "title": "Mandating Vaccines to Prevent Hospitals from Being Overrun",
+  "title": "Hospital Capacity and Healthcare Workforce",
   "date": "January 23, 2022",
   "context": "COVID-19",
   "people": "Peter Attia",
-  "content": "During a bad flu season in the U.S. (recent examples would be 2017-2018, 2014-2015, and 2012-2013) it is common for 50,000 to 70,000 patients to be hospitalized at any one time across the country. This is not very different from what we see today (which says nothing of the fact that roughly half of the hospitalized COVID patients have incidental infections. That is, they are there for another reason, but also test positive for COVID). The difference, today, is that the hospital workforce is greatly reduced, relative to a bad flu season.",
-  "content_length": 542,
-  "content_tokens": 121,
+  "content": "It’s true that hospitals are stretched very thin right now with the n-th surge of COVID. During a bad flu season in the U.S. it is common for 50,000 to 70,000 patients to be hospitalized at any one time across the country. The difference, today, is that the hospital workforce is greatly reduced, relative to a bad flu season. According to a survey by Morning Consult, approximately 18% of healthcare workers have quit their jobs since February 2020, while another 12% have been fired or laid off.",
+  "content_length": 497,
+  "content_tokens": 111,
   "embedding": []
  },
  {
-  "title": "The State of the Virus",
+  "title": "Current State of the Pandemic",
   "date": "January 23, 2022",
   "context": "COVID-19",
   "people": "Peter Attia",
@@ -100,63 +90,33 @@
   "embedding": []
  },
  {
-  "title": "The Impact of Vaccine Mandates",
+  "title": "Impact of Vaccine Mandates",
   "date": "January 23, 2022",
   "context": "COVID-19",
   "people": "Peter Attia",
-  "content": "In my birthplace of Canada, an unvaccinated person cannot board a plane or a train, let alone go into a restaurant, gym, or skating rink. This is especially interesting, given that the rate of infections in Ontario is now higher in vaccinated than unvaccinated persons, a transition that occurred with the arrival of Omicron in late December. This finding presumably speaks to the low efficacy of the current vaccines at preventing Omicron infections.",
-  "content_length": 451,
-  "content_tokens": 90,
+  "content": "In my birthplace of Canada, an unvaccinated person cannot board a plane or a train, let alone go into a restaurant, gym, or skating rink. A Canadian friend of mine, this week, was prohibited from seeing a medical doctor for a corneal abrasion because the doctor refused to see unvaccinated patients (including those with natural immunity from a prior COVID infection). A Virginia man in need of a kidney transplant was removed from the transplant list, denying him a life-saving procedure, because he was not vaccinated (though he was previously infected with COVID).",
+  "content_length": 567,
+  "content_tokens": 118,
   "embedding": []
  },
  {
-  "title": "Medical Discrimination",
+  "title": "Vaccination and Immunity",
   "date": "January 23, 2022",
   "context": "COVID-19",
   "people": "Peter Attia",
-  "content": "A Canadian friend of mine, this week, was prohibited from seeing a medical doctor for a corneal abrasion because the doctor refused to see unvaccinated patients (including those with natural immunity from a prior COVID infection). A Virginia man in need of a kidney transplant was removed from the transplant list, denying him a life-saving procedure, because he was not vaccinated (though he was previously infected with COVID).",
-  "content_length": 429,
-  "content_tokens": 86,
+  "content": "Today, unvaccinated apparently applies to an 18-year-old college student who “only” received the full 2-shot vaccine dose, but did not receive a third booster shot. If we’re using circulating antibodies as our metric of immune success, we’ll need to give boosters every 3 months to keep antibodies high. And for what? Certainly not to help us avoid severe disease, hospitalization, or death. For that we can rely on the memory B-cells and T-cells we developed in response to an actual infection or to our first vaccination.",
+  "content_length": 523,
+  "content_tokens": 119,
   "embedding": []
  },
  {
-  "title": "Vaccine Mandates",
+  "title": "Science-Based Policy Discussions",
   "date": "January 23, 2022",
   "context": "COVID-19",
   "people": "Peter Attia",
-  "content": "Even though the U.S. Supreme Court last week struck down the federal government’s proposed vaccine mandate for large corporations, hundreds of U.S. companies and universities are still putting in place mandates of their own, which come with stiff financial penalties and even job losses. What is the scientific evidence to support vaccine mandates today? If this were really about science, why would we not allow previous infection, which confers all the benefits of vaccination, if not more, the same rights? Does it not seem that mandates are having the opposite effect to what is desired? Instead of increasing vaccination rates are mandates instead hardening and alienating the unvaccinated further?",
-  "content_length": 703,
-  "content_tokens": 134,
-  "embedding": []
- },
- {
-  "title": "Mandates or Punishment?",
-  "date": "January 23, 2022",
-  "context": "COVID-19",
-  "people": "Peter Attia",
-  "content": "If we are being honest with ourselves, are the mandates truly for the protection of the vaccinated, or do they exist to punish the unvaccinated? How will history evaluate us for how we have treated the unvaccinated?",
-  "content_length": 215,
-  "content_tokens": 45,
-  "embedding": []
- },
- {
-  "title": "Science-based policy discussions",
-  "date": "January 23, 2022",
-  "context": "COVID-19",
-  "people": "Peter Attia",
-  "content": "And as we look at future science-based policy discussions, even beyond COVID, we need first to agree on the questions we are actually trying to answer.",
-  "content_length": 151,
-  "content_tokens": 32,
-  "embedding": []
- },
- {
-  "title": "Choosing sides",
-  "date": "January 23, 2022",
-  "context": "COVID-19",
-  "people": "Peter Attia",
-  "content": "And always, we need to ask ourselves honestly: are we picking sides based on assertions and talking points (Advocacy) or testable hypotheses (Science)?",
-  "content_length": 151,
-  "content_tokens": 32,
+  "content": "As we look at future science-based policy discussions, even beyond COVID, we need first to agree on the questions we are actually trying to answer. From there, we can begin to explore different possible solutions and debate their costs and benefits in a rational and civil manner. We need to ask ourselves honestly: are we picking sides based on assertions and talking points (Advocacy) or testable hypotheses (Science)?",
+  "content_length": 420,
+  "content_tokens": 84,
   "embedding": []
  }
 ]

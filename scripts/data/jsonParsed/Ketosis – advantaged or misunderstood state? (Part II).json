@@ -1,56 +1,36 @@
 [
  {
-  "title": "Does ketosis increase energy expenditure?",
+  "title": "Metabolic Advantage of Ketosis",
   "date": "January 1, 2013",
   "context": "Ketosis",
   "people": "Peter Attia",
-  "content": "The question of whether or not a person in ketosis has a higher resting energy expenditure than a person not in ketosis because of the caloric composition of what they consume/ingest has not been addressed sufficiently in a properly controlled trial. The study by Barry Sears sought to compare a non-ketogenic low carb (NLC) diet to a ketogenic low carb (KLC) diet. Despite the study participants having food provided, the KLC group was not actually in ketosis as evidenced by their B-OHB levels. Both groups experienced an increase in REE, but this study did not settle the 'dose-response' question.",
-  "content_length": 600,
-  "content_tokens": 130,
+  "content": "Is there a “metabolic advantage” to being in ketosis? Few topics in the nutrition blogosphere generate so much vitriolic rhetoric as this one. The question is whether or not, calorie-for-calorie, a person in ketosis has a higher resting energy expenditure. In other words, does a person in ketosis expend more energy than a person not in ketosis because of the caloric composition of what they consume/ingest? The question has not been addressed sufficiently in a properly controlled trial and, at best, we can look to lesser controlled trials and clinical observations to a make a best guess.",
+  "content_length": 593,
+  "content_tokens": 126,
   "embedding": []
  },
  {
-  "title": "Measuring TEE",
+  "title": "Ketosis and Energy Expenditure",
   "date": "January 1, 2013",
   "context": "Ketosis",
   "people": "Peter Attia",
-  "content": "Subjects being evaluated in such studies will typically be housed in a metabolic ward (don’t confuse a metabolic ward with a metabolic chamber; the ward is simply a fancy hospital unit; the chamber is where the measurements are made) under strict supervision and every few days will spend an entire 24 hour period in one such chamber in complete isolation (so no other consumption of oxygen or production of carbon dioxide will interfere with the measurement).  This is the ‘gold standard’ for measuring TEE, and shy of doing this it’s very difficult to measure differences within about 300 kcal/day.",
-  "content_length": 600,
-  "content_tokens": 122,
+  "content": "There is sufficient clinical evidence to suggest that carbohydrate restriction may increase total energy expenditure (TEE) in subjects, though there is great variability across studies and within subjects. The bigger question is if ketosis does so to a greater extent than would be expected/predicted based on just the further reduction in carbohydrate content. In other words, is there something “special” about ketosis that increases TEE beyond the dose effect of carbohydrate removal? That study has not been done properly, yet.",
+  "content_length": 531,
+  "content_tokens": 100,
   "embedding": []
  },
  {
-  "title": "Impact of Macronutrients on TEE",
+  "title": "Ketosis and Physical Performance",
   "date": "January 1, 2013",
   "context": "Ketosis",
   "people": "Peter Attia",
-  "content": "A broader question, which overlays this one, is whether any change in macronutrients impacts TEE. Despite the limitations we allude to in the summary of this review, there is a growing body of recent literature (for example this study, this study, and this study) that do suggest a thermogenic effect, specifically, of a ketogenic diet, possibly through fibroblast growth factor-21 (FGF21) which increases with B-OHB production by the liver.",
-  "content_length": 441,
-  "content_tokens": 103,
+  "content": "Does ketosis offer a physical performance advantage? Many frameworks exist to define physical performance which center around speed, strength, agility, and endurance. The answers to these questions are probably as follows: Does ketosis enhance aerobic capacity? Likely. Does ketosis enhance anaerobic power? No. Does ketosis enhance muscular strength? Unlikely. Does ketosis enhance muscular endurance? Likely.",
+  "content_length": 410,
+  "content_tokens": 77,
   "embedding": []
  },
  {
-  "title": "Physical Performance Advantage of Ketosis",
-  "date": "January 1, 2013",
-  "context": "Ketosis",
-  "people": "Peter Attia",
-  "content": "Does ketosis offer a physical performance advantage? Like the previous question this one needs to be defined correctly if we’re going to have any chance at addressing it. Many frameworks exist to define physical performance which center around speed, strength, agility, and endurance.  For clarity, let’s consider the following metrics which are easy to define and measure. Aerobic capacity, Anaerobic power, Muscular strength, Muscular endurance. There are certainly other metrics against which to evaluate physical performance (e.g., flexibility, coordination, speed), but I haven’t seen much debate around these metrics. To cut to the chase, the answers to these questions are probably as follows: Does ketosis enhance aerobic capacity? Likely, Does ketosis enhance anaerobic power? No, Does ketosis enhance muscular strength? Unlikely, Does ketosis enhance muscular endurance? Likely.",
-  "content_length": 888,
-  "content_tokens": 180,
-  "embedding": []
- },
- {
-  "title": "Animal Hearts as a Model for Exercise Physiology",
-  "date": "January 1, 2013",
-  "context": "Ketosis",
-  "people": "Peter Attia",
-  "content": "The heart is studied because the work action is (relatively) simple to measure: cardiac output, which is the product of stroke volume (how much blood the heart pumps out per beat) and heart rate (how many times the heart beats per minute). One can also measure oxygen consumption, all intermediate metabolites, and then calculate cardiac efficiency. Efficiency increases as work increases relative to oxygen consumption.",
-  "content_length": 420,
-  "content_tokens": 78,
-  "embedding": []
- },
- {
-  "title": "The Impact of Glucose, Insulin, and B-OHB on Muscular Efficiency",
+  "title": "Ketosis and Cardiac Efficiency",
   "date": "January 1, 2013",
   "context": "Ketosis",
   "people": "Peter Attia",
@@ -60,37 +40,27 @@
   "embedding": []
  },
  {
-  "title": "The Relationship Between Oxygen Consumption and Cardiac Efficiency",
+  "title": "Glucose Concentration and Energy",
   "date": "January 1, 2013",
   "context": "Ketosis",
   "people": "Peter Attia",
-  "content": "Oxygen consumption was significantly reduced in all arms relative to glucose alone, so we expect the cardiac efficiency to be much higher in all states. (Why? Because for less oxygen consumption, the hearts were able to deliver greater cardiac output and accomplish greater hydraulic work.) The figure on the bottom right shows this exactly.",
-  "content_length": 341,
-  "content_tokens": 63,
+  "content": "GI and GIK both significantly increase glucose concentration in the cell, while GK does not. The GI and GIK treatments both increase the number of GLUT4 transporters translocated to the cell surface so more glucose can flux in. GK does increase glucose concentration, but not significantly (in the statistical sense).",
+  "content_length": 317,
+  "content_tokens": 65,
   "embedding": []
  },
  {
-  "title": "Effects of GI, GK, and GIK on glucose concentration",
+  "title": "Gibbs Free Energy and ATP Production",
   "date": "January 1, 2013",
   "context": "Ketosis",
   "people": "Peter Attia",
-  "content": "The GI and GIK treatments both increase the number of GLUT4 transporters translocated to the cell surface so more glucose can flux in. GK does increase glucose concentration, but not significantly (in the statistical sense).",
-  "content_length": 224,
-  "content_tokens": 46,
+  "content": "Delta G, or Gibbs free energy, is the “free” (though a better term is probably “available” or “potential”) energy of a system. The more negative Delta G is, the more available (or potential or “free”) energy exists in the system. The Gibbs free energy of the GI, GK, and GIK states are all more negative than that of just glucose. In other words, these interventions offer more potential energy (with less oxygen consumption, which is the really amazing part).",
+  "content_length": 460,
+  "content_tokens": 114,
   "embedding": []
  },
  {
-  "title": "Delta G and its significance",
-  "date": "January 1, 2013",
-  "context": "Ketosis",
-  "people": "Peter Attia",
-  "content": "Delta G, or Gibbs free energy, is the “free” (though a better term is probably “available” or “potential”) energy of a system. The Gibbs free energy of the GI, GK, and GIK states are all more negative than that of just glucose. In other words, these interventions offer more potential energy (with less oxygen consumption, don’t forget, which is the really amazing part).",
-  "content_length": 371,
-  "content_tokens": 96,
-  "embedding": []
- },
- {
-  "title": "Substrate utilization shifts",
+  "title": "Substrate Utilization and ATP Production",
   "date": "January 1, 2013",
   "context": "Ketosis",
   "people": "Peter Attia",
@@ -100,13 +70,23 @@
   "embedding": []
  },
  {
+  "title": "Ketones and Metabolic Efficiency",
+  "date": "January 1, 2013",
+  "context": "Ketosis",
+  "people": "Peter Attia",
+  "content": "Recall that ketones make their way onto the metabolic playing field without going through PDH. Adding more insulin to the equation forces more pyruvate towards PDH into acetyl CoA. While B-OHB “mimics” the effect of additional insulin, it does so in a much cleaner fashion without the complex cascade of events brought on by additional insulin (e.g., decreased lipolysis) and, perhaps most importantly, avoids the logjam of impaired PDH due to insulin resistance.",
+  "content_length": 463,
+  "content_tokens": 106,
+  "embedding": []
+ },
+ {
   "title": "Ketones and Athletic Performance",
   "date": "January 1, 2013",
   "context": "Ketosis",
   "people": "Peter Attia",
-  "content": "Therapeutic levels of B-OHB could improve aerobic capacity and muscular endurance. Studies have shown that ingestion of B-OHB in the D-isoform led to significant increases in aerobic power and efficiency in several groups of elite athletes. However, these studies don’t exactly address the most relevant question, which has to do with nutritional ketosis. Trials should be forthcoming in the next few years.",
-  "content_length": 407,
-  "content_tokens": 83,
+  "content": "There is reason to believe that aerobic capacity and muscular endurance could be improved with sufficient B-OHB present to compliment glucose. It turns out this has been demonstrated repeatedly in subjects ingesting ketone esters, developed by Dr. Richard Veech (NIH) and Dr. Kieran Clarke (Oxford).",
+  "content_length": 299,
+  "content_tokens": 64,
   "embedding": []
  },
  {
@@ -114,29 +94,9 @@
   "date": "January 1, 2013",
   "context": "Ketosis",
   "people": "Peter Attia",
-  "content": "Ketones increase Gibbs free energy while reducing oxygen consumption, but should this imply TEE goes down? If each molecule of B-OHB gives your muscles more ATP for less oxygen, you should expend less not more energy at the same caloric intake, right?",
-  "content_length": 251,
-  "content_tokens": 53,
-  "embedding": []
- },
- {
-  "title": "The Hall Paradox",
-  "date": "January 1, 2013",
-  "context": "Ketosis",
-  "people": "Peter Attia",
-  "content": "According to Kevin, it is not generally appreciated how making ketones from fatty acids affects overall energy efficiency. Nevertheless, this can be examined by comparing the enthalpy of combustion of 4.5 moles of B-OHB, which is about -2,192 kcal, with the enthalpy of combustion of 1 mole of stearic acid (about -2,710 kcal) that was used to produce the 4.5 moles of ketones. Thus, there is about 20% energy loss in this process. Hence, the energy gain provided by the ketones is actually less than the energy cost of making them, at least in theory. This suggests that being in nutritional ketosis may require more overall system energy, while still increasing work potential. In other words, a person in nutritional ketosis may increase their overall energy expenditure, while at the same time increasing their muscular efficiency. In honor of Kevin, I refer to this as the Hall Paradox.",
-  "content_length": 891,
-  "content_tokens": 195,
-  "embedding": []
- },
- {
-  "title": "Importance of Exercise",
-  "date": "January 1, 2013",
-  "context": "Ketosis",
-  "people": "Peter Attia",
-  "content": "Exercise is clinically interesting and important for overall health.",
-  "content_length": 68,
-  "content_tokens": 11,
+  "content": "Being in nutritional ketosis may require more overall system energy, while still increasing work potential. A person in nutritional ketosis may increase their overall energy expenditure, while at the same time increasing their muscular efficiency.",
+  "content_length": 247,
+  "content_tokens": 41,
   "embedding": []
  }
 ]

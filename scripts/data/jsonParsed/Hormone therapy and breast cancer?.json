@@ -1,92 +1,22 @@
 [
  {
-  "title": "Excess risks of breast cancer associated with the use of HRT",
+  "title": "Hormone Replacement Therapy and Breast Cancer Risk",
   "date": "September 22, 2019",
   "context": "Medications, Supplements & Other Treatments",
   "people": "Peter Attia",
-  "content": "The Lancet published a study finding “definite” excess risks of breast cancer associated with the use of HRT (with the exception of vaginal estrogen), and the issue included an accompanying editorial entitled “Menopausal hormones: definitive evidence for breast cancer.”",
-  "content_length": 270,
-  "content_tokens": 55,
+  "content": "There are not many topics in clinical medicine more polarizing than hormone replacement therapy (HRT) for women suffering from menopausal symptoms. Recently, The Lancet published a study finding “definite” excess risks of breast cancer associated with the use of HRT (with the exception of vaginal estrogen). The investigators reported having analyzed the data records of 108,647 postmenopausal breast cancer patients collected from dozens of previously published reports as well as unpublished data sets, and compared each patient with up to four randomly selected matched controls without a breast cancer diagnosis. Even if their unclear assumptions are true and their difficult-to-understand calculations accurate, the Collaborative Group’s authors conclude that MHT administration would result in only one additional breast cancer for every 50 women who took it for 5 years, while taking estrogen alone would result in one additional breast cancer for every 200 women treated. Moreover, the authors fail to say that even if their finding of a small increased risk is valid,  breast cancer is currently curable in approximately 90% of newly diagnosed patients. Additionally, they fail to provide a balanced discussion of MHT’s benefits, which include relief from incapacitating menopausal symptoms, and reductions in the risks of cardiovascular disease (responsible for killing seven times more women than breast cancer), osteoporotic hip fracture, and Alzheimer’s Disease.",
+  "content_length": 1476,
+  "content_tokens": 275,
   "embedding": []
  },
  {
-  "title": "Response to the recent Lancet paper on hormone therapy and breast cancer risk",
+  "title": "Criticism of the Million Women Study",
   "date": "September 22, 2019",
   "context": "Medications, Supplements & Other Treatments",
   "people": "Peter Attia",
-  "content": "Avrum Bluming, MD, and Carol Tavris, PhD provided a response to the study. They argue that the data do not support the alarm and that the paper does not provide meaningful guidance to clinicians, and it sows confusion and fear among patients.",
-  "content_length": 242,
-  "content_tokens": 52,
-  "embedding": []
- },
- {
-  "title": "Objections to the study",
-  "date": "September 22, 2019",
-  "context": "Medications, Supplements & Other Treatments",
-  "people": "Peter Attia",
-  "content": "The investigators reported having analyzed the data records of 108,647 postmenopausal breast cancer patients collected from dozens of previously published reports as well as unpublished data sets, and compared each patient with up to four randomly selected matched controls without a breast cancer diagnosis. The complexity of the study design makes it difficult to appraise the results and most of us will take the results on face value. Even if their unclear assumptions are true and their difficult-to-understand calculations accurate, the Collaborative Group’s authors conclude that MHT administration would result in only one additional breast cancer for every 50 women who took it for 5 years, while taking estrogen alone would result in one additional breast cancer for every 200 women treated.",
-  "content_length": 801,
-  "content_tokens": 149,
-  "embedding": []
- },
- {
-  "title": "Benefits of HRT",
-  "date": "September 22, 2019",
-  "context": "Medications, Supplements & Other Treatments",
-  "people": "Peter Attia",
-  "content": "The authors fail to provide a balanced discussion of MHT’s benefits, which include relief from incapacitating menopausal symptoms, and reductions in the risks of cardiovascular disease (responsible for killing seven times more women than breast cancer), osteoporotic hip fracture, and Alzheimer’s Disease.",
-  "content_length": 305,
-  "content_tokens": 60,
-  "embedding": []
- },
- {
-  "title": "Criticisms of the Million Women Study",
-  "date": "September 22, 2019",
-  "context": "Medications, Supplements & Other Treatments",
-  "people": "Peter Attia",
-  "content": "The Million Women Study consisted only of 2 questionnaires separated by about 3 years and sent to over a million women. In spite of the grandiose title, only 44% of the sample responded to both surveys.",
-  "content_length": 202,
-  "content_tokens": 43,
-  "embedding": []
- },
- {
-  "title": "Increased risk of breast cancer",
-  "date": "September 22, 2019",
-  "context": "Medications, Supplements & Other Treatments",
-  "people": "Peter Attia",
-  "content": "The investigators estimated that for every 1,000 women taking combination estrogen/progestin for 5 years, there would be an extra 6 cases of diagnosed breast cancer, and for every 1,000 women taking estrogen alone for five years, there would be an extra 1.5 cases. Of that 1.4%, the increased risk of breast cancer was identified only in current hormone users but not in past users— even if past use had exceeded 15 years.",
-  "content_length": 422,
-  "content_tokens": 91,
-  "embedding": []
- },
- {
-  "title": "Criticism of the study",
-  "date": "September 22, 2019",
-  "context": "Medications, Supplements & Other Treatments",
-  "people": "Peter Attia",
-  "content": "The authors never explain or offer a biologic rationale for why current use is harmful and past use is not. This criticism has been leveled as well against The Collaborative Reanalysis,(6) The Nurses Health Study,(7) and the WHI.(8) The authors’ reliance on questionably generated numbers to the exclusion of biologic plausibility raises serious questions about the reliability of the conclusions they present.",
-  "content_length": 410,
-  "content_tokens": 85,
-  "embedding": []
- },
- {
-  "title": "Brief time from beginning therapy to diagnosis of breast cancer",
-  "date": "September 22, 2019",
-  "context": "Medications, Supplements & Other Treatments",
-  "people": "Peter Attia",
-  "content": "The average time from beginning therapy to diagnosis of breast cancer was brief (1.2 years), suggesting to clinicians that, in many cases, breast cancer had been present, but unidentified, before the women entered the study; the women who filled out the original questionnaire may have been aware of a problem in the breast, prompting their participation. The study appears to have been selecting this population with, not surprisingly, a high incidence of breast cancer. Perhaps, also not surprisingly, the median time from diagnosis to death from breast cancer in that study was only 1.7 years.",
-  "content_length": 596,
-  "content_tokens": 114,
-  "embedding": []
- },
- {
-  "title": "Small increased risk of breast cancer among women taking estrogen",
-  "date": "September 22, 2019",
-  "context": "Medications, Supplements & Other Treatments",
-  "people": "Peter Attia",
-  "content": "In a paper published eight years after the original Million Women Study report, the same investigators reported that the admittedly small increased risk of breast cancer seen among women taking estrogen was found only among those who started it within five years of reaching menopause. For those starting it more than five years after a final period, the incidence of breast cancer was the same as that found among never users.(9) How is this biologically plausible?",
-  "content_length": 466,
-  "content_tokens": 85,
+  "content": "The Million Women Study consisted only of 2 questionnaires separated by about 3 years and sent to over a million women. Only 44% of the sample responded to both surveys. The total incidence of breast cancer in this study, among all the women surveyed, was 1.4%. The investigators estimated that for every 1,000 women taking combination estrogen/progestin for 5 years, there would be an extra 6 cases of diagnosed breast cancer, and for every 1,000 women taking estrogen alone for five years, there would be an extra 1.5 cases. Of that 1.4%, the increased risk of breast cancer was identified only in current hormone users but not in past users— even if past use had exceeded 15 years. The authors never explain or offer a biologic rationale for why current use is harmful and past use is not. The average time from beginning therapy to diagnosis of breast cancer was brief (1.2 years), suggesting to clinicians that, in many cases, breast cancer had been present, but unidentified, before the women entered the study.",
+  "content_length": 1017,
+  "content_tokens": 212,
   "embedding": []
  },
  {
@@ -94,9 +24,29 @@
   "date": "September 22, 2019",
   "context": "Medications, Supplements & Other Treatments",
   "people": "Peter Attia",
-  "content": "The Collaborative Group on Hormonal Factors in Breast Cancer conducted an individual participant meta-analysis of the worldwide epidemiological evidence and found that the type and timing of menopausal hormone therapy is associated with breast cancer risk. Kotsopoulos also found definitive evidence for the link between menopausal hormones and breast cancer. The Million Women Study investigated the link between hormone replacement therapy and breast cancer, and found that it may increase the risk of developing breast cancer. The study was criticized by van der Mooren and Kenemans, and Shapiro et al. applied causal principles to the study. The Collaborative Group on Hormonal Factors in Breast Cancer also conducted a reanalysis of data from 51 epidemiological studies and found a link between breast cancer and hormone replacement therapy. Colditz et al. found that the use of estrogens and progestins may increase the risk of breast cancer in postmenopausal women. Rossouw et al. found that estrogen plus progestin may have risks and benefits in healthy postmenopausal women. Beral et al. found that the interval between menopause and starting hormone therapy may affect breast cancer risk.",
-  "content_length": 1198,
-  "content_tokens": 227,
+  "content": "Type and timing of menopausal hormone therapy in breast cancer risk: individual participant meta-analysis of the worldwide epidemiological evidence. Menopausal hormones: definitive evidence for breast cancer. Does hormone replacement therapy cause breast cancer? An application of causal principles to three studies. Breast cancer and hormone replacement therapy: Collaborative reanalysis of data from 51 epidemiological studies of 52,705 women with breast cancer and 108,411 women without breast cancer.",
+  "content_length": 504,
+  "content_tokens": 87,
+  "embedding": []
+ },
+ {
+  "title": "Estrogens, Progestins and Breast Cancer Risk",
+  "date": "September 22, 2019",
+  "context": "Medications, Supplements & Other Treatments",
+  "people": "Peter Attia",
+  "content": "The use of estrogens and progestins and the risk of breast cancer in postmenopausal women. Risks and benefits of estrogen plus progestin in healthy postmenopausal women: Principal results from the Women’s Health Initiative Randomized Controlled Trial.",
+  "content_length": 251,
+  "content_tokens": 53,
+  "embedding": []
+ },
+ {
+  "title": "Interval Between Menopause and Starting Hormone Therapy",
+  "date": "September 22, 2019",
+  "context": "Medications, Supplements & Other Treatments",
+  "people": "Peter Attia",
+  "content": "Breast Cancer risk in relation to the interval between menopause and starting hormone therapy.",
+  "content_length": 94,
+  "content_tokens": 18,
   "embedding": []
  }
 ]

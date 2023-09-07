@@ -1,22 +1,22 @@
 [
  {
-  "title": "The Four Horsemen of Chronic Disease",
+  "title": "Four Pillars of Chronic Disease",
   "date": "April 20, 2022",
   "context": "Preventing Chronic Disease",
   "people": "Peter Attia",
-  "content": "The following amounts over 80% of deaths in people over 50 who do not smoke… Atherosclerotic disease (comprised of cardiovascular disease and cerebrovascular disease) Cancer Neurodegenerative disease (Alzheimer’s disease being the most common) “Foundational disease” ⇒ a spectrum of everything hyperinsulinemia to insulin resistance to fatty liver disease to type 2 diabetes",
-  "content_length": 374,
-  "content_tokens": 84,
+  "content": "The four pillars of chronic disease account for over 80% of deaths in people over 50 who do not smoke. These include atherosclerotic disease (comprised of cardiovascular disease and cerebrovascular disease), cancer, neurodegenerative disease (Alzheimer’s disease being the most common), and 'foundational disease' which is a spectrum of everything from hyperinsulinemia to insulin resistance to fatty liver disease to type 2 diabetes.",
+  "content_length": 434,
+  "content_tokens": 93,
   "embedding": []
  },
  {
-  "title": "3 Components of Healthspan",
+  "title": "Three Components of Healthspan",
   "date": "April 20, 2022",
   "context": "Preventing Chronic Disease",
   "people": "Peter Attia",
-  "content": "Cognitive Physical/structural Emotional -With the cognitive piece… Most of the efforts we put into preserving cognition are basically directly in line with the efforts we will make to reduce the risk of dementia –With the physical component… This is really the first thing that starts to compromise quality of life (knee pain, back pain, etc.) It occurs decades before someone dies “There’s no time that’s too soon to start caring about [physical/structural health].” -With the emotional piece… By far least tethered to age The labs are not as relevant with this piece so it won’t be the focus of this episode",
-  "content_length": 609,
-  "content_tokens": 136,
+  "content": "The three components of healthspan include cognitive, physical/structural, and emotional health. Most efforts put into preserving cognition are directly in line with efforts to reduce the risk of dementia. The physical component, which includes issues like knee pain and back pain, is the first thing that starts to compromise quality of life and occurs decades before someone dies. Emotional health is least tethered to age.",
+  "content_length": 425,
+  "content_tokens": 79,
   "embedding": []
  }
 ]

@@ -1,62 +1,62 @@
 [
  {
-  "title": "Cocoa Flavanols and ASCVD",
+  "title": "Health Benefits of Cocoa",
   "date": "June 25, 2022",
   "context": "Medications, Supplements & Other Treatments",
   "people": "Peter Attia",
-  "content": "A recent 3.6-year study by Sesso et al. evaluated the effects of cocoa extracts on ASCVD. The 21,442-participant randomized control trial (RCT) evaluated the effects of cocoa extracts on ASCVD. Subjects were randomly assigned to receive either cocoa flavanols (500 mg per day) or placebo. The investigators evaluated the total number of cardiac events, including myocardial infarction (MI), stroke, cardiovascular (CV) mortality, and carotid artery surgery. The group taking cocoa supplements had a 27% relative risk reduction in ASCVD deaths compared to the placebo group.",
-  "content_length": 573,
-  "content_tokens": 126,
+  "content": "Cocoa comes from plants, and contains bioactive compounds called polyphenols which may have various beneficial effects on human health. The cocoa bean is high in a subclass of these compounds called flavanols, and in particular the flavanol (-)-epicatechin, which has been shown to increase levels of circulating nitric oxide – a key factor in maintaining vascular endothelial health. Nearly 875,000 deaths each year are attributed to atherosclerotic cardiovascular disease (ASCVD), so it is possible that cocoa could help delay the onset of ASCVD.",
+  "content_length": 548,
+  "content_tokens": 113,
   "embedding": []
  },
  {
-  "title": "Cocoa Flavanols and Blood Pressure",
+  "title": "Cocoa Supplementation and ASCVD",
   "date": "June 25, 2022",
   "context": "Medications, Supplements & Other Treatments",
   "people": "Peter Attia",
-  "content": "Small RCTs have found that flavanol-rich cocoa can lower blood pressure, inhibit platelet activation, and improve endothelial function. For instance, one small pilot study of five healthy men showed that consumption of 450 mg of cocoa flavanols resulted in an average 2.5 mmHg decrease in both systolic and diastolic blood pressure two hours after flavanol consumption. It also showed a consistent reduction in blood pressure over the course of the entire month: an average of 4 mmHg reduction in systolic and diastolic blood pressure, comparable to the effect size typically observed with blood pressure medications.",
-  "content_length": 617,
-  "content_tokens": 127,
+  "content": "A recent 3.6-year study sought to explore the idea of cocoa supplementation having a clinically-relevant effect on ASCVD. The randomized control trial evaluated the effects of cocoa extracts on ASCVD. Subjects were randomly assigned to receive either cocoa flavanols (500 mg per day) or placebo. The group taking cocoa supplements had a 27% relative risk reduction in ASCVD deaths compared to the placebo group.",
+  "content_length": 411,
+  "content_tokens": 82,
   "embedding": []
  },
  {
-  "title": "Equivalent Dose of Chocolate",
+  "title": "Cocoa and Blood Pressure",
   "date": "June 25, 2022",
   "context": "Medications, Supplements & Other Treatments",
   "people": "Peter Attia",
-  "content": "The cocoa supplements used in these studies are more concentrated in polyphenols than the everyday chocolate bars we might buy in a store. So how much dark chocolate is equivalent to the cocoa supplements used in this study? The supplements contained 500 mg flavanols per day, with 80 mg (-)-epicatechin. Dark chocolate is estimated to have about 23.4% nonfat cocoa solids. A one-ounce serving of dark chocolate, or about 30 g, is estimated to contain about 57 mg of flavanols and 10 mg  (-)-epicatechin – eight to ten-fold less than supplements.",
-  "content_length": 546,
+  "content": "Small RCTs have found that flavanol-rich cocoa can lower blood pressure, inhibit platelet activation, and improve endothelial function. There appear to be both acute effects within hours of consumption as well as longer-term effects over the course of months. One small pilot study showed that consumption of 450 mg of cocoa flavanols resulted in an average 2.5 mmHg decrease in both systolic and diastolic blood pressure two hours after flavanol consumption.",
+  "content_length": 459,
+  "content_tokens": 96,
+  "embedding": []
+ },
+ {
+  "title": "Cocoa Supplements vs Chocolate",
+  "date": "June 25, 2022",
+  "context": "Medications, Supplements & Other Treatments",
+  "people": "Peter Attia",
+  "content": "The cocoa supplements used in these studies are more concentrated in polyphenols than the everyday chocolate bars. So how much dark chocolate is equivalent to the cocoa supplements used in this study? The supplements contained 500 mg flavanols per day, with 80 mg (-)-epicatechin. A one-ounce serving of dark chocolate, or about 30 g, is estimated to contain about 57 mg of flavanols and 10 mg  (-)-epicatechin – eight to ten-fold less than supplements.",
+  "content_length": 453,
+  "content_tokens": 100,
+  "embedding": []
+ },
+ {
+  "title": "Cocoa Supplements and Smoking",
+  "date": "June 25, 2022",
+  "context": "Medications, Supplements & Other Treatments",
+  "people": "Peter Attia",
+  "content": "One of the largest modifying effects in the longer term study related to smoking history: while ever-smokers taking cocoa supplements were at significantly lower risk of CV events relative to those taking placebo, cocoa supplements did not appear to confer any CV benefit relative to placebo among never-smokers. Smoking is known to impair endothelium-dependent vasodilatation, a process that needs nitric oxide. While smoking inhibits nitric oxide synthase (the enzyme that makes nitric oxide) and increases its degradation, the cocoa flavanol (-)-epicatechin has been shown to increase circulating nitric oxide levels.",
+  "content_length": 620,
   "content_tokens": 123,
   "embedding": []
  },
  {
-  "title": "The Risks of Excessive Dark Chocolate Consumption",
+  "title": "Cocoa Supplements and Commercial Motivations",
   "date": "June 25, 2022",
   "context": "Medications, Supplements & Other Treatments",
   "people": "Peter Attia",
-  "content": "The high energy density of dark chocolate can induce weight gain and increase the risk for hypertension, dyslipidemia, diabetes, and cardiometabolic disorders in general.",
-  "content_length": 170,
-  "content_tokens": 34,
-  "embedding": []
- },
- {
-  "title": "Cocoa Supplements and Cardiovascular Health",
-  "date": "June 25, 2022",
-  "context": "Medications, Supplements & Other Treatments",
-  "people": "Peter Attia",
-  "content": "Cocoa supplements may provide meaningful benefit in lowering risk of ASCVD mortality, especially for those already at high risk of vascular-related diseases. Cocoa supplements may have a greater effect on smokers by acting in opposition to one of the mechanisms by which smoking harms the cardiovascular system.",
-  "content_length": 311,
-  "content_tokens": 56,
-  "embedding": []
- },
- {
-  "title": "Commercial Motivations Behind Cocoa Supplement Studies",
-  "date": "June 25, 2022",
-  "context": "Medications, Supplements & Other Treatments",
-  "people": "Peter Attia",
-  "content": "It’s always important to keep in mind any potential commercial motivations behind these studies, especially since taking these daily supplements (trade name Cocoavia) will cost upwards of $45/ month, and requires long-term commitment. Cocoavia supplements used in this study were provided by the manufacturer Mars Edge, which, notably, also funded this research, though the company was not directly involved in the trial design or data collection.",
-  "content_length": 447,
-  "content_tokens": 85,
+  "content": "It’s always important to keep in mind any potential commercial motivations behind these studies, especially since taking these daily supplements will cost upwards of $45/ month, and requires long-term commitment. The improved hazard rates for ASCVD death didn’t begin until one year after starting supplements. Despite skepticism over the research motivations, there appears to be no harm (other than accumulated monetary cost) in supplementing with cocoa extracts, as the worst side effects of supplements were nausea.",
+  "content_length": 519,
+  "content_tokens": 97,
   "embedding": []
  },
  {
@@ -64,19 +64,9 @@
   "date": "June 25, 2022",
   "context": "Medications, Supplements & Other Treatments",
   "people": "Peter Attia",
-  "content": "Supplementing with cocoa flavanols isn’t likely to change the possibility of having an ASCVD event, but it may reduce event severity, leading to better outcomes and fewer ASCVD deaths.",
-  "content_length": 184,
-  "content_tokens": 40,
-  "embedding": []
- },
- {
-  "title": "Benefits of Cocoa Flavanols",
-  "date": "June 25, 2022",
-  "context": "Medications, Supplements & Other Treatments",
-  "people": "Peter Attia",
-  "content": "While this benefit may be very small relative to other strategies like aerobic exercise, every advantage helps, and these data certainly merit consideration.",
-  "content_length": 157,
-  "content_tokens": 26,
+  "content": "Supplementing with cocoa flavanols isn’t likely to change the possibility of having an ASCVD event, but it may reduce event severity, leading to better outcomes and fewer ASCVD deaths. While this benefit may be very small relative to other strategies like aerobic exercise, every advantage helps, and these data certainly merit consideration.",
+  "content_length": 342,
+  "content_tokens": 66,
   "embedding": []
  }
 ]

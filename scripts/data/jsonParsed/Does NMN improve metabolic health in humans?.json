@@ -1,32 +1,92 @@
 [
  {
-  "title": "NMN improves muscle insulin sensitivity in postmenopausal pre-diabetic women",
+  "title": "High Dose of Nicotinamide Mononucleotide (NMN) Study",
   "date": "May 9, 2021",
   "context": "Medications, Supplements & Other Treatments",
   "people": "Peter Attia",
-  "content": "A study found that a high dose of nicotinamide mononucleotide (NMN) improved muscle insulin sensitivity in overweight or obese postmenopausal pre-diabetic women. The treatment group took 250 mg per day for 10 weeks versus a placebo group. At the conclusion of the study, the investigators repeated something called a hyperinsulinemic-euglycemic clamp which is considered the gold standard to measure how well muscles take up glucose. The NMN group was better at putting at least some amount of glucose into their muscles post-treatment, when insulin is present.",
-  "content_length": 561,
-  "content_tokens": 116,
+  "content": "A study tested the effect of a high dose of nicotinamide mononucleotide (NMN) in overweight or obese postmenopausal pre-diabetic women. It found one statistically significant difference between the placebo and treatment groups: improved muscle insulin sensitivity. NMN, like nicotinamide riboside, is an oral precursor to NAD+. As we age, cellular NAD+ levels decline. Because NAD+ is an important substrate for sirtuins, which play an important role in DNA repair, it is hypothesized that replacing NAD+ will be geroprotective (i.e., slow the aging process).",
+  "content_length": 559,
+  "content_tokens": 125,
   "embedding": []
  },
  {
-  "title": "NMN's limited effects on metabolic health",
+  "title": "NAD+ and Aging",
   "date": "May 9, 2021",
   "context": "Medications, Supplements & Other Treatments",
   "people": "Peter Attia",
-  "content": "In the study, improvements in insulin sensitivity did not lead to improvements in other related markers of metabolic health, except for one metric, despite a duration of 10 weeks. It would have been helpful to see a 24-hour area under the curve or AUC for insulin, or a 24-hour urinary C-peptide, to see if there was less overall secretion over the course of the day, which would lend more credence to NMN improving overall insulin sensitivity.",
-  "content_length": 444,
+  "content": "It’s not clear if NAD+ declines with age because we’re using more to repair increasingly damaged DNA, or if it declines for some other reason, which limits its availability for repair, but it does seem highly plausible that more cellular NAD+ is a good thing. It’s also hypothesized the NMN might be a more stable way to deliver this precursor than NR.",
+  "content_length": 352,
+  "content_tokens": 79,
+  "embedding": []
+ },
+ {
+  "title": "NMN Treatment and Glucose Disposal",
+  "date": "May 9, 2021",
+  "context": "Medications, Supplements & Other Treatments",
+  "people": "Peter Attia",
+  "content": "Commercial doses of NMN are typically sold at 50 to 150 mg, but the treatment group took 250 mg per day for 10 weeks versus a placebo group. At the conclusion of the study, the investigators repeated something called a hyperinsulinemic-euglycemic clamp which is considered the gold standard to measure how well muscles take up glucose. The NMN group was better at putting at least some amount of glucose into their muscles post-treatment, when insulin is present.",
+  "content_length": 463,
   "content_tokens": 95,
   "embedding": []
  },
  {
-  "title": "Supplementing NR or NMN for Geroprotection",
+  "title": "Clinical Significance of NMN Treatment",
   "date": "May 9, 2021",
   "context": "Medications, Supplements & Other Treatments",
   "people": "Peter Attia",
-  "content": "I still remain unconvinced that supplementing NR or NMN is geroprotective in a meaningful way. Is it possible the dose was still too low in this study, or that more time is needed? Yes, and that’s worth more investigation. But consider the recent results from the Interventions Testing Program (ITP), which sought to test this rigorously using NR (though not NMN). A good geroprotective candidate will have several lines of evidence pointing to its efficacy, including human studies showing improvements in outcomes related to quality of life and even mortality (consider metformin in cancer patients) and animal studies finding extension of lifespan (consider rapamycin in virtually every test model). The ITP uses hundreds of mice for each study, they carry out parallel studies at multiple sites, they use genetically heterozygous mice, and they have an open invitation for anyone to suggest a molecule to be studied. In fact, a company that was interested in making an NR supplement recommended it for testing by the ITP several years ago. When I discussed this topic on the podcast with Rich Miller, one of the architects of the ITP, the data was not yet published. It is now, and the results show that NR failed to increase lifespan. When you compare its results to date to NR and NMN, they’re just not in the same ballpark.",
-  "content_length": 1330,
-  "content_tokens": 280,
+  "content": "While the difference in glucose disposal is statistically significant, it is unclear if it is clinically significant. With such a small number of participants, including a massive response in one individual, which may have skewed the average glucose disposal rate in the NMN group upward, it is uncertain if these results can be applied outside the context of this study. There were also several findings in the study that call into question the efficacy of the intervention.",
+  "content_length": 475,
+  "content_tokens": 85,
+  "embedding": []
+ },
+ {
+  "title": "NMN Treatment and Metabolic Health",
+  "date": "May 9, 2021",
+  "context": "Medications, Supplements & Other Treatments",
+  "people": "Peter Attia",
+  "content": "Typically, when a treatment improves insulin sensitivity, there are improvements in other related markers of metabolic health, including body composition, liver and abdominal fat content, blood pressure, glucose, and insulin, but that didn’t happen in this study, except for one metric, which is surprising given a duration of 10 weeks.",
+  "content_length": 336,
+  "content_tokens": 64,
+  "embedding": []
+ },
+ {
+  "title": "Supplementing NR or NMN",
+  "date": "May 9, 2021",
+  "context": "Medications, Supplements & Other Treatments",
+  "people": "Peter Attia",
+  "content": "Supplementing NR or NMN may not be geroprotective in a meaningful way. It is possible the dose was still too low in this study, or that more time is needed. This is worth more investigation. It is also possible that the benefits are not quantifiable by the measurements used.",
+  "content_length": 275,
+  "content_tokens": 60,
+  "embedding": []
+ },
+ {
+  "title": "Interventions Testing Program (ITP) Results",
+  "date": "May 9, 2021",
+  "context": "Medications, Supplements & Other Treatments",
+  "people": "Peter Attia",
+  "content": "The Interventions Testing Program (ITP) sought to test the geroprotective effects of NR rigorously. A good geroprotective candidate will have several lines of evidence pointing to its efficacy, including human studies showing improvements in outcomes related to quality of life and even mortality, and animal studies finding extension of lifespan. The ITP uses hundreds of mice for each study, they carry out parallel studies at multiple sites, they use genetically heterozygous mice. The results show that NR failed to increase lifespan.",
+  "content_length": 538,
+  "content_tokens": 103,
+  "embedding": []
+ },
+ {
+  "title": "Comparison with Rapamycin",
+  "date": "May 9, 2021",
+  "context": "Medications, Supplements & Other Treatments",
+  "people": "Peter Attia",
+  "content": "Rapamycin has shown promising results in extending lifespan in various studies in yeast, worms, flies, mice, monkeys, and humans all suggesting geroprotection. When you compare its results to date to NR and NMN, they’re just not in the same ballpark.",
+  "content_length": 250,
+  "content_tokens": 57,
+  "embedding": []
+ },
+ {
+  "title": "Skepticism towards Life Extension Approach",
+  "date": "May 9, 2021",
+  "context": "Medications, Supplements & Other Treatments",
+  "people": "Peter Attia",
+  "content": "There is skepticism towards the approach of using NR and NMN for “life extension,” which is how it’s touted commercially. More data is needed to prove its effectiveness.",
+  "content_length": 169,
+  "content_tokens": 39,
   "embedding": []
  }
 ]

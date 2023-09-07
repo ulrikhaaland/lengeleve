@@ -1,42 +1,22 @@
 [
  {
-  "title": "Evening exercise may be more potent than morning workouts for improving metabolic health",
+  "title": "Evening Exercise and Metabolic Health",
   "date": "October 3, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "According to a recent study, evening exercise may be more potent than morning workouts for improving metabolic health in men eating a “fatty diet.” The study consisted of 24 men who were set up with continuous glucose monitors (CGMs) and meal deliveries. For each of the 11 days of the study, participants received pre-packed meals for breakfast, lunch, and dinner, each containing about a third of energy intake based on individual resting metabolic rate, with the macronutrient composition of about 65% fat, 15% carbohydrate, and 20% protein (which I’ll refer to as a low-carb, high-fat diet or LCHFD from here on out). For the first five days of the study, all of the participants ate the diet and then were randomized into one of three groups. The morning group exercised at 6:30 AM, the evening group exercised at 6:30 PM, and the control group did not exercise for the next five consecutive days while continuing the diet.",
-  "content_length": 928,
-  "content_tokens": 204,
+  "content": "Evening exercise may be more potent than morning workouts for improving metabolic health in men eating a “fatty diet.” Late-day workouts moderated the undesirable health effects of a greasy diet, while morning exercise did not. The exercise consisted of alternating days of short duration, high-intensity interval training and long duration, moderate intensity training, all performed on stationary bikes. After five days of “fatty eating,” low-density lipoprotein cholesterol (LDL-C) had climbed alongside “worrisome molecular patterns” in their blood. The morning exercise did not appear to mitigate these effects while evening exercise mitigated the impacts of the “poor diet.” The evening exercise group also experienced better overnight blood glucose control than the other two groups.",
+  "content_length": 790,
+  "content_tokens": 161,
   "embedding": []
  },
  {
-  "title": "The exercise routine",
+  "title": "Study Limitations",
   "date": "October 3, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "The exercise consisted of alternating days of short duration, high-intensity interval training and long duration, moderate intensity training, all performed on stationary bikes.",
-  "content_length": 177,
-  "content_tokens": 29,
-  "embedding": []
- },
- {
-  "title": "Results of the study",
-  "date": "October 3, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "After five days of “fatty eating,” low-density lipoprotein cholesterol (LDL-C) had climbed alongside “worrisome molecular patterns” in their blood. The morning exercise did not appear to mitigate these effects while evening exercise mitigated the impacts of the “poor diet.” The evening exercise group also experienced better overnight blood glucose control than the other two groups.",
-  "content_length": 384,
-  "content_tokens": 84,
-  "embedding": []
- },
- {
-  "title": "Limitations of the study",
-  "date": "October 3, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "One of the biggest potential problems with this study is sleep, or a lack thereof. Recall that the morning group commenced exercise at 6:30 AM. Is it possible that some of the participants needed to shift their sleep and wake times? Another limitation to the study is the timing of the blood draws and other tests between the two exercising groups. The evening exercise group was tested 12 hours after their last training session compared with 24 hours for the morning exercise group which could impact the results.",
-  "content_length": 515,
-  "content_tokens": 96,
+  "content": "A couple of obvious limitations to this study are the sample sizes and duration. This is an 11-day experiment with eight participants in each of the three groups. The investigators studied the effects of just five days of exercise in men who underwent a dramatic dietary change less than a week before engaging in the exercise. One of the biggest potential problems with this study is sleep, or a lack thereof. All but one participant in the morning group had their sleep pattern disrupted during the exercise portion of the study. Another limitation to the study is the timing of the blood draws and other tests between the two exercising groups.",
+  "content_length": 647,
+  "content_tokens": 120,
   "embedding": []
  },
  {
@@ -44,109 +24,39 @@
   "date": "October 3, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Their fasting triglyceride (TG) levels decreased from about 136 to 111 mg/dL (p = 0.03), which I would call somewhat encouraging. Their LDL-C on the other hand increased from 116 to 124 mg/dL (p = 0.049), which I wouldn’t exactly call disturbing, especially in light of the fact that these participants are just a handful of days into a dramatic change in their diets.",
-  "content_length": 368,
-  "content_tokens": 88,
+  "content": "Their fasting triglyceride (TG) levels decreased from about 136 to 111 mg/dL, which is somewhat encouraging. Their LDL-C on the other hand increased from 116 to 124 mg/dL, which is not exactly disturbing, especially in light of the fact that these participants are just a handful of days into a dramatic change in their diets. Also, after five days on the diet, 24-hour CGM glucose concentrations decreased from 101 to 95 mg/dL.",
+  "content_length": 428,
+  "content_tokens": 94,
   "embedding": []
  },
  {
-  "title": "Effect of Exercise on Glycemic Control",
+  "title": "Effects of Morning and Evening Exercise",
   "date": "October 3, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Cardiorespiratory fitness (measured by VO2peak) was improved by five days of exercise, regardless of the time of day of training. According to the study, only the evening group induced further improvements in glycemic control. The evening exercisers had lower nocturnal glucose levels — defined as the mean glucose concentration from 10:00 PM to 6:00 AM — compared to when they consumed the LCHFD alone. Their nocturnal glucose decreased from 95 to 88 mg/dL during this time. The morning exercisers? Their nocturnal glucose decreased from 99 to 94 mg/dL.",
-  "content_length": 554,
-  "content_tokens": 124,
+  "content": "Cardiorespiratory fitness (measured by VO2peak) was improved by five days of exercise, regardless of the time of day of training. According to the study, only the evening group induced further improvements in glycemic control. The evening exercisers had lower nocturnal glucose levels compared to when they consumed the LCHFD alone. Their nocturnal glucose decreased from 95 to 88 mg/dL during this time. The morning exercisers? Their nocturnal glucose decreased from 99 to 94 mg/dL.",
+  "content_length": 483,
+  "content_tokens": 106,
   "embedding": []
  },
  {
-  "title": "Fasting Biomarkers",
+  "title": "Further Improvements in Evening Exercisers",
   "date": "October 3, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Fasting blood glucose, insulin, cholesterol, triglycerides, and LDL-C concentrations significantly decreased only in the evening exercise group.",
-  "content_length": 144,
-  "content_tokens": 26,
+  "content": "Fasting blood glucose, insulin, cholesterol, triglycerides, and LDL-C concentrations significantly decreased only in the evening exercise group. Despite making dozens of comparisons of traditional biomarkers, the investigators did not adjust their p-values for multiple hypothesis testing, increasing the probability that at least some of the results may be statistically significant even though there is no underlying effect.",
+  "content_length": 426,
+  "content_tokens": 72,
   "embedding": []
  },
  {
-  "title": "The significance of differences in evening exercise group",
+  "title": "Exercise Timing and Potency",
   "date": "October 3, 2021",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "While a number of the results above were statistically significant in the evening exercise group, how clinically relevant are these differences?",
-  "content_length": 144,
-  "content_tokens": 23,
-  "embedding": []
- },
- {
-  "title": "The multiple comparisons problem",
-  "date": "October 3, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Despite making dozens of comparisons of traditional biomarkers, the investigators did not adjust their p-values for multiple hypothesis testing, increasing the probability that at least some of the results may be statistically significant even though there is no underlying effect.",
-  "content_length": 281,
-  "content_tokens": 46,
-  "embedding": []
- },
- {
-  "title": "Morning vs. evening exercise",
-  "date": "October 3, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Two examples are TG and fasting insulin levels where the morning exercisers, on average, experienced a larger absolute and relative drop in their numbers compared to the control group and the evening exercisers, yet only the evening exercisers had statistically significant decreases compared to the control group. How can this be? It’s likely due to the fact that there was less variation in the results of the evening exercisers.",
-  "content_length": 431,
-  "content_tokens": 82,
-  "embedding": []
- },
- {
-  "title": "Confidence in the results",
-  "date": "October 3, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Even so, with only eight participants per group and just five days of exercise, how confident should we be in the significance of these results, whether statistically or clinically?",
-  "content_length": 181,
-  "content_tokens": 33,
-  "embedding": []
- },
- {
-  "title": "Limitations of the study",
-  "date": "October 3, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "What we really want to know is how this would play out in the long-run. Is there an advantage of long-term evening exercise on a LCHFD compared to morning exercise in terms of metabolism and health outcomes? Unfortunately, the present study can’t answer this question.",
-  "content_length": 268,
-  "content_tokens": 58,
-  "embedding": []
- },
- {
-  "title": "Importance of Exercise Timing",
-  "date": "October 3, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "The investigators believe their results highlight the importance of exercise timing in order to increase the potency of exercise as medicine.",
-  "content_length": 141,
-  "content_tokens": 22,
-  "embedding": []
- },
- {
-  "title": "Limitations of the Study",
-  "date": "October 3, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "The short duration and sample size of the study alone are severe limitations to establishing any reliable or practical knowledge on its own. Additionally, the aforementioned sleep loss in the morning exercisers, and the discrepancy in the timing of the blood draws, can easily confound the true relationship between morning and evening exercise and metabolic outcomes (which were more mixed than the NYT and the investigators made them out to be).",
-  "content_length": 447,
-  "content_tokens": 79,
-  "embedding": []
- },
- {
-  "title": "Poor Interpretation of the Study",
-  "date": "October 3, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "To me, this highlights a poor interpretation of a study with poor explanatory power.",
-  "content_length": 84,
-  "content_tokens": 16,
+  "content": "The importance of exercise timing in order to increase the potency of exercise as medicine is highlighted. The short duration and sample size of the study alone are severe limitations to establishing any reliable or practical knowledge on its own. Sleep loss in the morning exercisers, and the discrepancy in the timing of the blood draws, can easily confound the true relationship between morning and evening exercise and metabolic outcomes.",
+  "content_length": 442,
+  "content_tokens": 77,
   "embedding": []
  }
 ]

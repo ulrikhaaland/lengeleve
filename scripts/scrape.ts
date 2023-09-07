@@ -315,6 +315,8 @@ const parse = async (scraped: Scraped): Promise<Chunk[]> => {
       content = await chatCompletetion(chunk.content);
     }
 
+    console.log(scraped.content);
+
     let parsed;
 
     try {
@@ -463,7 +465,7 @@ function splitString(input: string, maxLength: number = 3000): EncodedString[] {
   return result;
 }
 async function startScrape(results: any[]) {
-  for (let i = 10; i < results.length; i++) {
+  for (let i = 4; i < results.length; i++) {
     const row = results[i];
     await runScrape(row);
     // console.log(i);
@@ -474,7 +476,7 @@ async function startScrape(results: any[]) {
 async function main() {
   const results: any[] = [];
 
-  fs.createReadStream('scripts/data/csv/exercise_unique.csv')
+  fs.createReadStream('scripts/data/csv/chronic2_unique.csv')
     .pipe(csv())
     .on('data', (data: any) => results.push(data))
     .on('end', () => {

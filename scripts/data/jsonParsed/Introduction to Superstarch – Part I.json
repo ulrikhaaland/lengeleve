@@ -4,29 +4,29 @@
   "date": "October 22, 2012",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Superstarch is a product derived from corn starch that is used to improve athletic performance. It is produced by Generation UCAN. In this post, Peter Attia explains the evolution of sports nutrition products and how Superstarch is a step-function improvement over all existing products. He also shares a video explaining how our bodies use stored energy to generate motion.",
-  "content_length": 374,
-  "content_tokens": 72,
+  "content": "A product derived from corn starch, called Superstarch, is used to improve athletic performance. It is produced by Generation UCAN. It is suggested that consuming Superstarch is better than consuming Gatorade, Powerade, goo, gel, or other 'sports nutrition' products. To understand why, it's important to know how these products work.",
+  "content_length": 334,
+  "content_tokens": 73,
   "embedding": []
  },
  {
-  "title": "Interview with a Prolific Trainer",
+  "title": "Superstarch vs Other Sports Nutrition Products",
   "date": "October 22, 2012",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "In Part II of the post, Peter Attia shares an interview with one of the most prolific trainers of professional athletes who has transformed his training with Superstarch. The trainer has also used Superstarch to train some of the highest profile athletes in the country.",
-  "content_length": 270,
-  "content_tokens": 53,
+  "content": "Superstarch is referred to as 'superior technology'. If Superstarch is the latest iPhone, all other sports nutrition products are rotary phones. They simply don’t belong in the same sentence. Superstarch is a step-function improvement over all existing products.",
+  "content_length": 262,
+  "content_tokens": 57,
   "embedding": []
  },
  {
-  "title": "Revolutionizing Sports Nutrition",
+  "title": "Origins and Impact of Superstarch",
   "date": "October 22, 2012",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "Superstarch was originally developed to save the lives of children with a very rare genetic disorder. However, Peter Attia believes that this technology is going to revolutionize sports nutrition as we know it.",
-  "content_length": 210,
-  "content_tokens": 40,
+  "content": "This technology, while originally developed to save the lives of children with a very rare genetic disorder, is going to revolutionize sports nutrition as we know it.",
+  "content_length": 166,
+  "content_tokens": 31,
   "embedding": []
  }
 ]

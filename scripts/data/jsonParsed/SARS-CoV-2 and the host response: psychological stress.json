@@ -1,92 +1,32 @@
 [
  {
-  "title": "Psychological stress and its relation to response to SARS-CoV-2",
+  "title": "COVID-19 and Psychological Stress",
   "date": "June 7, 2020",
   "context": "COVID-19",
   "people": "Peter Attia",
-  "content": "I’ve been thinking a lot about psychological stress and how it relates to our response to SARS-CoV-2, the virus that causes COVID-19. Can psychological stress—when psychological distress exceeds a person’s ability to cope—suppress resistance to infection? In a classic New England Journal of Medicine paper from 1991, Sheldon Cohen and two of his colleagues tried to answer this question by conducting the following experiment. A JAMA letter published this week, suggests that psychological distress (and loneliness) is on the rise.",
-  "content_length": 532,
-  "content_tokens": 113,
+  "content": "There are two major drivers of infection by, and complications of, SARS-CoV-2: (1) pre-existing immunity and (2) host factors rendering one more, or less, susceptible to damage from the virus. Pre-existing immunity to SARS-CoV-2 is a topic being explored actively and, should it exist, one hypothesis is that it is mediated by previous exposure to other beta coronaviruses with the potential for cross-reactivity with the coronavirus of interest today. There are many host factors beyond pre-existing immunity that can render some people more, or less, susceptible to damage from the virus, but broadly can be separated into two major factors, those that are resilience-mediated and those that are immune-mediated. Exercise, for example—a physiological stressor—is related to both enhancement and diminution of the immune system, depending on the context. Moderate exercise appears to enhance the immune system and lower the risk of infections.",
+  "content_length": 944,
+  "content_tokens": 200,
   "embedding": []
  },
  {
-  "title": "Factors that render one more or less susceptible to damage from the virus",
+  "title": "Psychological Stress and Infection",
   "date": "June 7, 2020",
   "context": "COVID-19",
   "people": "Peter Attia",
-  "content": "Broadly speaking there are two major drivers of infection by, and complications of, SARS-CoV-2: (1) pre-existing immunity and (2) host factors rendering one more, or less, susceptible to damage from the virus. There are many host factors beyond pre-existing immunity that can render some people more, or less, susceptible to damage from the virus, but broadly can be separated into two major factors, those that are resilience-mediated and those that are immune-mediated. Resilience-mediated factors may include the number and location of ACE2 receptors, pre-existing pulmonary reserve, endothelial function, and chronic inflammatory states—such as obesity and type 2 diabetes.",
-  "content_length": 677,
-  "content_tokens": 142,
+  "content": "Psychological stress—when psychological distress exceeds a person’s ability to cope—can suppress resistance to infection. The rates of colds—which can be interpreted as the incidence of symptomatic infections—increased in a dose-response manner with increases in the stress-index score. The rates of infection overall—symptomatic or asymptomatic—also increased in a similar fashion. Higher levels of stress were associated with more than 2-fold risk of symptomatic infection, and nearly a 6-fold risk of overall infection. Higher levels of stress were highly associated with more infections, overall, and more symptomatic infections (colds).",
+  "content_length": 641,
+  "content_tokens": 131,
   "embedding": []
  },
  {
-  "title": "Study Design",
+  "title": "Reducing Psychological Stress",
   "date": "June 7, 2020",
   "context": "COVID-19",
   "people": "Peter Attia",
-  "content": "Nearly 400 healthy subjects, aged 18 to 54 were given nasal drops containing one of five respiratory viruses—rhinovirus type 2, 9, or 14, respiratory syncytial virus, or coronavirus type 229E—in doses intended to resemble what we generally see with person-to-person transmission. An additional 26 subjects were given saline nasal drops as a placebo. Starting two days before the viral challenge and continuing through six days after the challenge, subjects were quarantined in apartments—alone or with one or two others—and monitored daily for the development of symptoms of clinical colds. Approximately 28 days after the challenge, a serum sample was collected for serologic testing.",
-  "content_length": 685,
-  "content_tokens": 139,
-  "embedding": []
- },
- {
-  "title": "Psychological Stress Index",
-  "date": "June 7, 2020",
-  "context": "COVID-19",
-  "people": "Peter Attia",
-  "content": "A psychological stress index, and scoring system—calculated and grouped into quartiles—was based on three measures: (1) the number of major stressful events in the past year, (2) the degree to which the subject perceived that current demands exceeded his or her ability to cope, and (3) an index of current negative affect.",
-  "content_length": 323,
-  "content_tokens": 69,
-  "embedding": []
- },
- {
-  "title": "Results",
-  "date": "June 7, 2020",
-  "context": "COVID-19",
-  "people": "Peter Attia",
-  "content": "The rates of colds—which can be interpreted as the incidence of symptomatic infections—increased in a dose-response manner with increases in the stress-index score, with an odds ratio (OR) of 1.98 when comparing the highest and lowest quartile groups. The rates of infection overall—symptomatic or asymptomatic—also increased in a similar fashion, with an OR of 3.45. After adjusting for confounders, ORs were 2.16 and 5.81 for the rates of colds and infections, respectively, meaning that when the investigators tried to control for variables that could bias the results, the associations became larger: higher levels of stress were associated with more than 2-fold risk of symptomatic infection, and nearly a 6-fold risk of overall infection.",
-  "content_length": 744,
-  "content_tokens": 164,
-  "embedding": []
- },
- {
-  "title": "Limitations",
-  "date": "June 7, 2020",
-  "context": "COVID-19",
-  "people": "Peter Attia",
-  "content": "Confounding in a study like this can often lead to results showing a signal when there’s truly only noise. Even if we assume there’s a causal relationship, it doesn’t mean low levels of stress make us immune to infection or death, nor do high levels of stress guarantee them.",
-  "content_length": 275,
-  "content_tokens": 64,
-  "embedding": []
- },
- {
-  "title": "Psychological Stress and Disease",
-  "date": "June 7, 2020",
-  "context": "COVID-19",
-  "people": "Peter Attia",
-  "content": "Lowering psychological stress can reduce the risk of disease, both physical and mental, and psychological stress plays an important role in dealing with SARS-CoV-2. If psychological stress is a modifiable factor, the question becomes, how do we modify it in a favorable way?",
-  "content_length": 274,
-  "content_tokens": 57,
-  "embedding": []
- },
- {
-  "title": "Practices to Manage Psychological Stress",
-  "date": "June 7, 2020",
-  "context": "COVID-19",
-  "people": "Peter Attia",
-  "content": "Practicing mindfulness, stillness, and daily and deliberate meditation can reduce stress. Consistent physical exercise is also important for managing psychological stress. Talking to a mental health professional can help treat trauma. Paul Conti has spoken about the ubiquity of trauma and ways to overcome it.",
-  "content_length": 310,
-  "content_tokens": 56,
-  "embedding": []
- },
- {
-  "title": "Understanding the Host Response to SARS-CoV-2",
-  "date": "June 7, 2020",
-  "context": "COVID-19",
-  "people": "Peter Attia",
-  "content": "To protect ourselves from SARS-CoV-2, we need to understand the host response in as much detail as possible. The more reliable knowledge we can accumulate, the better we can understand this virus and how to move forward.",
-  "content_length": 220,
-  "content_tokens": 47,
+  "content": "Lowering psychological stress can reduce the risk of disease, both physical and mental. If psychological stress is a modifiable factor, the question becomes, how do we modify it in a favorable way? Practices to help manage psychological stress include consistent physical exercise, mindfulness or meditation, and talking to a mental health professional to see if there’s trauma being left untreated.",
+  "content_length": 399,
+  "content_tokens": 73,
   "embedding": []
  }
 ]

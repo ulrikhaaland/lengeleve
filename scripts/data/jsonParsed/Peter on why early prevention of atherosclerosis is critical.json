@@ -1,42 +1,52 @@
 [
  {
-  "title": "The Benefit Model for Prevention of Cardiovascular Disease",
+  "title": "Cardiovascular Disease Risk Assessment",
   "date": "April 15, 2022",
   "context": "Cardiovascular Disease",
   "people": "Peter Attia",
-  "content": "Allan, with the help of his colleagues, constructed an alternative to the present risk model. Published in JAMA Cardiology in 2017, The Benefit Model for Prevention of Cardiovascular Disease: An Opportunity to Harmonize Guidelines.",
-  "content_length": 231,
-  "content_tokens": 45,
+  "content": "The present risk model for cardiovascular disease is being reevaluated with the aim of constructing an alternative. This work is being done in collaboration with colleagues from McGill, Duke, and Harvard. The Benefit Model for Prevention of Cardiovascular Disease, published in JAMA Cardiology in 2017, presents an opportunity to harmonize guidelines.",
+  "content_length": 351,
+  "content_tokens": 64,
   "embedding": []
  },
  {
-  "title": "Atherosclerosis and Young People",
+  "title": "Heart Attack Statistics",
   "date": "April 15, 2022",
   "context": "Cardiovascular Disease",
   "people": "Peter Attia",
-  "content": "The textbook went through, in great detail, the pathological staging of atherosclerosis; it was also littered with autopsy sections of coronary arteries from people who had died for other reasons. Looking at their coronary arteries, one realizes they already have atherosclerosis; they have oxidized apoB-bearing particles engulfed by macrophages and thickened intima. Notably, many of these people who died from other causes, but their coronary arteries were studied in autopsy, these people were quite young. A 26-year-old male victim of a gunshot wound; or a 27-year-old female who died in a motor vehicle accident, etc.",
-  "content_length": 623,
-  "content_tokens": 130,
+  "content": "50% of people who have a heart attack die on their first heart attack. This statistic is a sobering fact, although it may not be as true today as it was 25 years ago. Currently, it is estimated that one third of first heart attack events are fatal.",
+  "content_length": 248,
+  "content_tokens": 55,
   "embedding": []
  },
  {
-  "title": "Experience with Heart Attacks",
+  "title": "Atherosclerosis in Young People",
   "date": "April 15, 2022",
   "context": "Cardiovascular Disease",
   "people": "Peter Attia",
-  "content": "Peter remembers from pathology class in med school something the professor said, “No doctor has more experience with what it is to have heart attacks than pathologists because 50% of the people who have a heart attack die on their first heart attack.“ So 50% of people who have a heart attack, their first presentation is death. It’s a very sobering fact. He doesn’t think this is true today, but it was 25 years ago. Maybe now one third of first events are fatal; sobering nonetheless.",
-  "content_length": 486,
-  "content_tokens": 110,
+  "content": "Autopsy sections of coronary arteries from young people who died from causes unrelated to heart disease reveal the presence of atherosclerosis. These individuals, some as young as 26 or 27, have oxidized apoB-bearing particles engulfed by macrophages and thickened intima in their coronary arteries. While they may not have calcification or the types of plaque that would rupture imminently, they nevertheless had atherosclerosis.",
+  "content_length": 430,
+  "content_tokens": 86,
   "embedding": []
  },
  {
-  "title": "Cardiology and Cardiovascular Research",
+  "title": "Research on Lipoprotein Metabolism",
   "date": "April 15, 2022",
   "context": "Cardiovascular Disease",
   "people": "Peter Attia",
-  "content": "Allan D. Sniderman, MD, is the Edwards Professor of Cardiology and Professor of Medicine at McGill University. He is Director of the Mike Rosenbloom Laboratory for Cardiovascular Research at Royal Victoria Hospital in Montreal.",
-  "content_length": 227,
-  "content_tokens": 46,
+  "content": "Studies have identified hyperTg hyperapoB as the most common dyslipoproteinemia associated with coronary artery disease. Further research has demonstrated apoB to be superior to LDL-cholesterol as a marker of the risk of vascular disease. Current research interests include understanding the regulation of plasma LDL, creating simplified but advanced diagnostic algorithms to recognize and treat those with and those at high risk of vascular disease, and developing new models to determine the absolute value of different strategies to identify and treat those at risk of vascular disease.",
+  "content_length": 589,
+  "content_tokens": 105,
+  "embedding": []
+ },
+ {
+  "title": "Cardiology Expertise",
+  "date": "April 15, 2022",
+  "context": "Cardiovascular Disease",
+  "people": "Peter Attia",
+  "content": "Edwards Professor of Cardiology and Professor of Medicine at a renowned university. Director of a Laboratory for Cardiovascular Research at a major hospital.",
+  "content_length": 157,
+  "content_tokens": 28,
   "embedding": []
  }
 ]

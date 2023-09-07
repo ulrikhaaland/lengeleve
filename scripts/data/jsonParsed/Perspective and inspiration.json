@@ -1,32 +1,12 @@
 [
  {
-  "title": "Teaching Squat Form",
+  "title": "Teaching Squats",
   "date": "December 2, 2018",
   "context": "Exercise & Physical Health",
   "people": "Peter Attia",
-  "content": "I’ve been teaching my daughter Olivia how to squat, a gift she lost, courtesy of all the sitting kids do in school. So we’re back to square one on form.",
-  "content_length": 152,
-  "content_tokens": 40,
-  "embedding": []
- },
- {
-  "title": "Bodyweight Squats",
-  "date": "December 2, 2018",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "I’ve told her she needs to do 500/week of bodyweight squats, and once she hits about 10,000, she might be ready to do some light goblet squats.",
-  "content_length": 143,
-  "content_tokens": 40,
-  "embedding": []
- },
- {
-  "title": "Inspiration from a Video",
-  "date": "December 2, 2018",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Anyway, recently I was looking at Twitter and saw this video. Some of you may have seen it, also. I said, “Hey Olivia, I want to show you something,” and she came over. I said, “What do you notice about this?” Olivia: She’s a girl? Me: And? Olivia: She’s young? Me: And? Olivia: She’s strong? Me: AND??? Olivia: Oh my god….",
-  "content_length": 323,
-  "content_tokens": 103,
+  "content": "Teaching how to squat, a gift lost, courtesy of all the sitting kids do in school. Back to square one on form. Needs to do 500/week of bodyweight squats, and once hits about 10,000, might be ready to do some light goblet squats.",
+  "content_length": 228,
+  "content_tokens": 58,
   "embedding": []
  }
 ]
