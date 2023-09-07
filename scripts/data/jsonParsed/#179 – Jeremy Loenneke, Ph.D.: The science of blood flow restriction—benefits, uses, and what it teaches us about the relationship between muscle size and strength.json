@@ -1,272 +1,272 @@
 [
- {
-  "title": "Blood Flow Restriction Training",
-  "date": "October 11, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Research focuses on skeletal muscle adaptations to exercise in combination with blood flow restriction (BFR). BFR training can produce hypertrophy using low loads. Increasing muscular strength may not be dependent on increasing muscle size. Practical applications for athletes and average people, as well as the situations for which BFR training would be most advantageous.",
-  "content_length": 373,
-  "content_tokens": 66,
-  "embedding": []
- },
- {
-  "title": "Muscle Structure and Strength",
-  "date": "October 11, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Reviews anatomy and terminology of muscle structure. Evidence that increasing muscular strength is not dependent on increasing the size of the muscle.",
-  "content_length": 150,
-  "content_tokens": 25,
-  "embedding": []
- },
- {
-  "title": "Practical Applications of BFR Training",
-  "date": "October 11, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Practical applications of blood flow restriction training for athletes and average people. Situations in which blood flow restriction training is most advantageous.",
-  "content_length": 164,
-  "content_tokens": 26,
-  "embedding": []
- },
- {
-  "title": "Mechanisms of BFR Training",
-  "date": "October 11, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "The mechanisms by which blood flow restriction training can produce so much hypertrophy at such low loads.",
-  "content_length": 106,
-  "content_tokens": 20,
-  "embedding": []
- },
- {
-  "title": "Optimizing Brain Health",
-  "date": "October 11, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Alzheimer's disease including the possibility of a vascular hypothesis as well as the factors that can impact disease risk such as type 2 diabetes, blood pressure, omega supplementation, exercise, sauna, and more. The role of omega-3 fatty acids (EPA and DHA) in brain health and prevention of neurodegeneration. Blood pressure: an important modifiable lifestyle factor that can affect Alzheimer's disease risk. Possible mechanisms by which exercise reduces the risk of Alzheimer's disease. The relationship between cardiorespiratory fitness and dementia risk. How exercise may reduce the risk of cancer. Impact of alcohol consumption on breast cancer risk and overall health. Exercise as an intervention for poor sleep habits. The longevity benefits of consuming adequate protein and strength training to preserve muscle mass and strength. Fasting: weighing the risk vs. reward.",
-  "content_length": 879,
-  "content_tokens": 167,
-  "embedding": []
- },
- {
-  "title": "Preventing Cardiovascular Disease",
-  "date": "October 11, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "The latest in diagnostic imaging, blood pressure, metabolic health, and more.",
-  "content_length": 77,
-  "content_tokens": 15,
-  "embedding": []
- },
- {
-  "title": "Weight Loss Drugs and Geroprotective Agents",
-  "date": "October 11, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Pros and cons of GLP-1 weight loss drugs and metformin as a geroprotective agent.",
-  "content_length": 81,
-  "content_tokens": 23,
-  "embedding": []
- },
- {
-  "title": "Cell and Gene Therapy",
-  "date": "October 11, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "The history of the cell, cell therapy, gene therapy, and more.",
-  "content_length": 62,
-  "content_tokens": 15,
-  "embedding": []
- },
- {
-  "title": "Muscle Adaptations to Exercise",
-  "date": "October 11, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Research focuses on skeletal muscle adaptations to exercise in combination with blood flow restriction. Blood flow restriction is a general term that applies to occluding some portion of the arterial inflow to a muscle. This allows an individual to exercise with a lower weight than they would normally use. Muscles are made of tubular fibers called myofibrils. The smallest unit is a sarcomere. Sarcomeres are made up of alternating thin and thick filaments. The thin filaments are made of actin, the thick filaments are made of myosin. Actin and myosin interact to cause muscle contraction; this happens during exercise. Contraction results in signaling for muscle adaptation.",
-  "content_length": 678,
-  "content_tokens": 140,
-  "embedding": []
- },
- {
-  "title": "Muscle Energy Generation and Exercise",
-  "date": "October 11, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Fast glycolytic muscles generate energy using anaerobic respiration and are used for high resistance exercise such as lifting heavy weights. Exercise can shift muscle to a different type, generally making the overall muscle fiber slower, more oxidative, and more efficient. The sarcomere, composed of fibers bordered by Z-lines, plays a crucial role in muscle contraction. When one decides to exercise, a signal goes from the nerve to the muscle, leading to a release of calcium which exposes binding sites. During muscle contraction, filaments slide past each other. Myosin interacts with actin to cause this movement, requiring ATP to break the bond between myosin and actin and to recock the myosin head then reattach to actin. This process requires more calcium. As long as calcium is present, or as long as signals for movement are being sent, the actin and myosin in sarcomeres will keep interacting producing muscle contraction.",
-  "content_length": 935,
-  "content_tokens": 195,
-  "embedding": []
- },
- {
-  "title": "Muscle Fiber Types",
-  "date": "October 11, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Muscle fiber types are classified according to the myosin heavy chain isoforms (MHC) they contain; this can be type I, IIA, IIB, and IIX. Type I are slow twitch, produce the smallest force, and are resistant to fatigue. Type IIA are fast twitch, produce a larger force, and are resistant to fatigue. Type IIX (aka Type IIB) are fast twitch, produce the largest force, and are easily fatigued. In general, type IIX are bigger and stronger, but fatigue much faster. Type IIA are more oxidative, they’re forceful and can sustain contraction for longer. Exercise causes type IIX to transition to type IIA. Type I fibers are a little slower and not as forceful, but they don’t fatigue easily.",
-  "content_length": 687,
-  "content_tokens": 166,
-  "embedding": []
- },
- {
-  "title": "Muscle Fiber Energy Access",
-  "date": "October 11, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "The type I fiber has lots of mitochondria surrounding the myofibrils within the sarcomere. It can readily access energy via oxidation of glucose and fatty acids using aerobic respiration. The type IIX fiber lacks mitochondria surrounding it. It’s restricted to anaerobic respiration, converting glucose to lactate using anaerobic glycolysis.",
-  "content_length": 341,
-  "content_tokens": 75,
-  "embedding": []
- },
- {
-  "title": "Muscle Strength and Hypertrophy",
-  "date": "October 11, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Exercise causes a muscle to get bigger. This could be due to an increase in fiber size, known as hypertrophy, or an increase in the number of cells in the muscle, known as hyperplasia. However, hyperplasia is not thought to play a big role in increased muscle size in adults. Changes in muscle size are thought to be due to hypertrophy; increased cell size. It’s assumed this increase in cell size is due to increased overall protein (actin, myosin, etc.) and other components that help support the cell.",
-  "content_length": 504,
-  "content_tokens": 117,
-  "embedding": []
- },
- {
-  "title": "Blood Flow Restriction Training",
-  "date": "October 11, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Blood flow restriction training involves reducing blood flow going into the limb but not completely occluding blood flow. The current method is to begin by taking the cuff up to the lowest pressure for which there is no blood flow at all; then change the pressure to a percentage of that. This ensures some blood flow during exercise. The cuff size used for blood flow restriction matters; it will change the pressure. Pressure and force are related by the area that the cuff takes up; so the wider the cuff, the lower the pressure needed to reach occlusion.",
-  "content_length": 558,
-  "content_tokens": 111,
-  "embedding": []
- },
- {
-  "title": "Blood Flow Restricted Exercise and Discomfort",
-  "date": "October 11, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Exercising at 40 mmHg versus 80 mmHG may be the difference between comfort and discomfort. Using a moderate pressure (40%) or a high pressure (80-90%) will give pretty much the same changes in muscle size and strength; the discomfort will be quite different. Discomfort studies applying 40% AOP and having people simply sit show a low variability from person to person; the study stopped at 4 minutes and everyone could do the exercise. Some people are going to experience that as more discomfort than other people. This doesn’t necessarily mean the blood flow is reduced by 40% either; that is different. The blood flow may differ from person to person depending on how big the muscle is and a variety of other things.",
-  "content_length": 719,
-  "content_tokens": 151,
-  "embedding": []
- },
- {
-  "title": "Details and Metrics Related to Exercise Under Blood Flow Restriction",
-  "date": "October 11, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "How much of the arterial flow of blood occurs at 40% AOP? How much venous pooling occurs? It also depends upon the position and exercise. Venous occlusion probably occurs because the thought is, it doesn’t take a lot of pressure to collapse the vein. During exercise the blood is pumping back out with the muscle pump. At rest there is usually venous pooling.",
-  "content_length": 359,
-  "content_tokens": 83,
-  "embedding": []
- },
- {
-  "title": "Considerations When Training with Blood Flow Restriction: Loading, Pace, Rest, and Risks",
-  "date": "October 11, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Choose a weight that is 20-30% of a 1-rep maximum weight. The slower the pace of exercise, the less repetition one is going to be able to do; this probably doesn’t matter too much overall for growth. Jeremy generally uses 30 second rest intervals. The safety profile overall is comparable to that of high load exercise or traditional exercise. Two common concerns are blood clotting and muscle damage. Blood flow restriction does not appear to increase the risk of blood clots or muscle damage. One will be sore after performing exercise under blood flow restriction, but when one looks at the muscle fiber it appears to be intact; there does not appear to be structural damage.",
-  "content_length": 678,
-  "content_tokens": 137,
-  "embedding": []
- },
- {
-  "title": "Blood Flow Restriction Studies and the Relationship Between Muscle Size and Muscle Strength",
-  "date": "October 11, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Comparing exercise of one arm under blood flow restriction to the other arm without restriction. Does the limb under blood flow restriction show gains in strength and/or size as compared to the other, unrestricted limb performing the same exercise. Yes, limbs trained under BFR show gains in strength and size. Jeremy notes that the response in the blood flow restriction subject will be better than a work-matched control, even if it’s the same person.",
-  "content_length": 453,
-  "content_tokens": 90,
-  "embedding": []
- },
- {
-  "title": "Blood Flow Restriction and Muscle Activation",
-  "date": "October 11, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Blood flow restriction by itself, in some ACL reconstruction post-surgery environment has shown to have some sort of benefit. Even if people walk very slowly under blood flow restriction there appears to be some adaptation, though not as much as seen with resistance exercise. With resistance exercise, blood flow occlusion is causing more of the muscle to activate sooner and then fatigue sooner than under a non-occluded condition. Blood flow restriction is just a tool to increase the time to failure and therefore act as a more efficient means to fatigue the various fibers. All of the benefits of blood flow restriction are not known.",
-  "content_length": 639,
-  "content_tokens": 121,
-  "embedding": []
- },
- {
-  "title": "Strength and Hypertrophy Relationship",
-  "date": "October 11, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Conventional wisdom is that once muscle growth is there, it is probably contributing to changes in strength. Neural changes occur first followed by large contributions from muscle hypertrophy. However, research in the low load realm has begun to question if muscle hypertrophy does increase strength. The correlation or association between strength and size is equally strong in the untrained as it is in the trained. The question here is, when a person begins to exercise and then they get stronger, is that due to changes in muscle size?",
-  "content_length": 539,
-  "content_tokens": 103,
-  "embedding": []
- },
- {
-  "title": "Muscle Growth and Strength Increase",
-  "date": "October 11, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "There are numerous times in the literature where greater changes in muscle size occur but strength doesn’t change. This leads to the belief that there could be quite a bit of disconnect with respect to muscle growth and the change in strength. Studies have shown that change in muscle size is not necessary for a change in strength nor does it appear to be contributing given that the strength is the same in these 2 groups.",
-  "content_length": 424,
-  "content_tokens": 82,
-  "embedding": []
- },
- {
-  "title": "Increasing Muscular Strength",
-  "date": "October 11, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "In practical terms, when someone is interested in getting as strong as possible, they don’t care whether muscle growth is a mechanism driving strength or not; they just want to get strong. There is a huge specificity component; train a good portion of time at or close to 1RM. If strength is desired for squatting or deadlift; then spend time training at 1RM with these exercises. Training to increase muscle growth typically requires a lot of recovery because a large volume of exercise is required to make a muscle grow. If strength is the goal, then perhaps less time can be devoted to high repetition exercise.",
-  "content_length": 614,
-  "content_tokens": 124,
-  "embedding": []
- },
- {
-  "title": "Other Explanations for Strength Increase",
-  "date": "October 11, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "No one disputes the neurologic component; is there another mechanism? Some have the opinion that the exercise-induced changes are probably predominantly neural. There could be some local changes at the muscle, and that might be able to explain why some groups get stronger; that it’s not just neural. Perhaps the muscle at the local level gets better at responding to forceful contractions. Maybe there are qualitative alterations in the local muscle that are not due to muscle size such as how the muscle deals with calcium and how the myosin head binds.",
-  "content_length": 555,
-  "content_tokens": 109,
-  "embedding": []
- },
- {
-  "title": "Blood Flow Restriction Training",
-  "date": "October 11, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Blood flow restriction (BFR) training is becoming more common among athletes for both rehabilitation and everyday training. It is perceived as a way to get a workout in without having to spend so much time recovering. It appears that when athletes are injured and working out with BFR, they get more out of it and have less pain during movement. BFR could be a valuable tool for bodybuilders depending on how they feel any given day. If one is not feeling good and has a heavy day at the gym, they could use BFR to achieve similar training with lighter weights. BFR can be used to promote muscle growth and help with exercise variety. If one is hurt, evidence is accumulating that it is helpful in rehabilitation.",
-  "content_length": 713,
-  "content_tokens": 145,
-  "embedding": []
- },
- {
-  "title": "BFR and Muscle Hypertrophy",
-  "date": "October 11, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Exercising with low load under BFR will allow someone to build strength but to a much smaller degree than they would under traditional exercise. The load cannot be too low, 20-30% is too low. Most studies demonstrate slightly superior hypertrophy resulting from exercise under BFR despite less total volume of exercise and lower load. Low load exercise with BFR produces more hypertrophy than exercise with a matched load.",
-  "content_length": 422,
-  "content_tokens": 85,
-  "embedding": []
- },
- {
-  "title": "Mechanisms of BFR",
-  "date": "October 11, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "One reason why BFR can produce so much hypertrophy using a low load is the response to metabolic challenge. As lactate pools, it may turn on some anabolic signaling pathways to activate growth. So exercising under BFR is thought to trap lactate in the muscle where it may augment muscle activation. Trapped metabolites (such as lactate) may cause the muscle to work harder than it normally would. Lactate may fatigue some of the cross-bridges formed during muscle contraction. When cross-bridges fatigue, more and more fibers may need to be recruited to complete the work.",
-  "content_length": 572,
-  "content_tokens": 121,
-  "embedding": []
- },
- {
-  "title": "Passive BFR Training",
-  "date": "October 11, 2021",
-  "context": "Exercise & Physical Health",
-  "people": "Peter Attia",
-  "content": "Passive BFR training can be used for someone with serious injury. For example, someone who had ACL surgery can apply BFR to their limb, inflate and deflate for a period of time, a couple times a day to slow muscle loss. Muscle growth does not occur, rather loss of muscle is slowed. BFR could be a tool to slow muscle loss in the elderly; this needs to be studied.",
-  "content_length": 364,
-  "content_tokens": 84,
-  "embedding": []
- }
+  {
+    "title": "Blood Flow Restriction Training",
+    "date": "October 11, 2021",
+    "context": "Exercise & Physical Health",
+    "people": "Peter Attia",
+    "content": "Research focuses on skeletal muscle adaptations to exercise in combination with blood flow restriction (BFR). BFR training can produce hypertrophy using low loads. Increasing muscular strength may not be dependent on increasing muscle size. Practical applications for athletes and average people, as well as the situations for which BFR training would be most advantageous.",
+    "content_length": 373,
+    "content_tokens": 66,
+    "embedding": []
+  },
+  {
+    "title": "Muscle Structure and Strength",
+    "date": "October 11, 2021",
+    "context": "Exercise & Physical Health",
+    "people": "Peter Attia",
+    "content": "Reviews anatomy and terminology of muscle structure. Evidence that increasing muscular strength is not dependent on increasing the size of the muscle.",
+    "content_length": 150,
+    "content_tokens": 25,
+    "embedding": []
+  },
+  {
+    "title": "Practical Applications of BFR Training",
+    "date": "October 11, 2021",
+    "context": "Exercise & Physical Health",
+    "people": "Peter Attia",
+    "content": "Practical applications of blood flow restriction training for athletes and average people. Situations in which blood flow restriction training is most advantageous.",
+    "content_length": 164,
+    "content_tokens": 26,
+    "embedding": []
+  },
+  {
+    "title": "Mechanisms of BFR Training",
+    "date": "October 11, 2021",
+    "context": "Exercise & Physical Health",
+    "people": "Peter Attia",
+    "content": "The mechanisms by which blood flow restriction training can produce so much hypertrophy at such low loads.",
+    "content_length": 106,
+    "content_tokens": 20,
+    "embedding": []
+  },
+  {
+    "title": "Optimizing Brain Health",
+    "date": "October 11, 2021",
+    "context": "Exercise & Physical Health",
+    "people": "Peter Attia",
+    "content": "Alzheimer's disease including the possibility of a vascular hypothesis as well as the factors that can impact disease risk such as type 2 diabetes, blood pressure, omega supplementation, exercise, sauna, and more. The role of omega-3 fatty acids (EPA and DHA) in brain health and prevention of neurodegeneration. Blood pressure: an important modifiable lifestyle factor that can affect Alzheimer's disease risk. Possible mechanisms by which exercise reduces the risk of Alzheimer's disease. The relationship between cardiorespiratory fitness and dementia risk. How exercise may reduce the risk of cancer. Impact of alcohol consumption on breast cancer risk and overall health. Exercise as an intervention for poor sleep habits. The longevity benefits of consuming adequate protein and strength training to preserve muscle mass and strength. Fasting: weighing the risk vs. reward.",
+    "content_length": 879,
+    "content_tokens": 167,
+    "embedding": []
+  },
+  {
+    "title": "Preventing Cardiovascular Disease",
+    "date": "October 11, 2021",
+    "context": "Exercise & Physical Health",
+    "people": "Peter Attia",
+    "content": "The latest in diagnostic imaging, blood pressure, metabolic health, and more.",
+    "content_length": 77,
+    "content_tokens": 15,
+    "embedding": []
+  },
+  {
+    "title": "Weight Loss Drugs and Geroprotective Agents",
+    "date": "October 11, 2021",
+    "context": "Exercise & Physical Health",
+    "people": "Peter Attia",
+    "content": "Pros and cons of GLP-1 weight loss drugs and metformin as a geroprotective agent.",
+    "content_length": 81,
+    "content_tokens": 23,
+    "embedding": []
+  },
+  {
+    "title": "Cell and Gene Therapy",
+    "date": "October 11, 2021",
+    "context": "Exercise & Physical Health",
+    "people": "Peter Attia",
+    "content": "The history of the cell, cell therapy, gene therapy, and more.",
+    "content_length": 62,
+    "content_tokens": 15,
+    "embedding": []
+  },
+  {
+    "title": "Muscle Adaptations to Exercise",
+    "date": "October 11, 2021",
+    "context": "Exercise & Physical Health",
+    "people": "Peter Attia",
+    "content": "Research focuses on skeletal muscle adaptations to exercise in combination with blood flow restriction. Blood flow restriction is a general term that applies to occluding some portion of the arterial inflow to a muscle. This allows an individual to exercise with a lower weight than they would normally use. Muscles are made of tubular fibers called myofibrils. The smallest unit is a sarcomere. Sarcomeres are made up of alternating thin and thick filaments. The thin filaments are made of actin, the thick filaments are made of myosin. Actin and myosin interact to cause muscle contraction; this happens during exercise. Contraction results in signaling for muscle adaptation.",
+    "content_length": 678,
+    "content_tokens": 140,
+    "embedding": []
+  },
+  {
+    "title": "Muscle Energy Generation and Exercise",
+    "date": "October 11, 2021",
+    "context": "Exercise & Physical Health",
+    "people": "Peter Attia",
+    "content": "Fast glycolytic muscles generate energy using anaerobic respiration and are used for high resistance exercise such as lifting heavy weights. Exercise can shift muscle to a different type, generally making the overall muscle fiber slower, more oxidative, and more efficient. The sarcomere, composed of fibers bordered by Z-lines, plays a crucial role in muscle contraction. When one decides to exercise, a signal goes from the nerve to the muscle, leading to a release of calcium which exposes binding sites. During muscle contraction, filaments slide past each other. Myosin interacts with actin to cause this movement, requiring ATP to break the bond between myosin and actin and to recock the myosin head then reattach to actin. This process requires more calcium. As long as calcium is present, or as long as signals for movement are being sent, the actin and myosin in sarcomeres will keep interacting producing muscle contraction.",
+    "content_length": 935,
+    "content_tokens": 195,
+    "embedding": []
+  },
+  {
+    "title": "Muscle Fiber Types",
+    "date": "October 11, 2021",
+    "context": "Exercise & Physical Health",
+    "people": "Peter Attia",
+    "content": "Muscle fiber types are classified according to the myosin heavy chain isoforms (MHC) they contain; this can be type I, IIA, IIB, and IIX. Type I are slow twitch, produce the smallest force, and are resistant to fatigue. Type IIA are fast twitch, produce a larger force, and are resistant to fatigue. Type IIX (aka Type IIB) are fast twitch, produce the largest force, and are easily fatigued. In general, type IIX are bigger and stronger, but fatigue much faster. Type IIA are more oxidative, they’re forceful and can sustain contraction for longer. Exercise causes type IIX to transition to type IIA. Type I fibers are a little slower and not as forceful, but they don’t fatigue easily.",
+    "content_length": 687,
+    "content_tokens": 166,
+    "embedding": []
+  },
+  {
+    "title": "Muscle Fiber Energy Access",
+    "date": "October 11, 2021",
+    "context": "Exercise & Physical Health",
+    "people": "Peter Attia",
+    "content": "The type I fiber has lots of mitochondria surrounding the myofibrils within the sarcomere. It can readily access energy via oxidation of glucose and fatty acids using aerobic respiration. The type IIX fiber lacks mitochondria surrounding it. It’s restricted to anaerobic respiration, converting glucose to lactate using anaerobic glycolysis.",
+    "content_length": 341,
+    "content_tokens": 75,
+    "embedding": []
+  },
+  {
+    "title": "Muscle Strength and Hypertrophy",
+    "date": "October 11, 2021",
+    "context": "Exercise & Physical Health",
+    "people": "Peter Attia",
+    "content": "Exercise causes a muscle to get bigger. This could be due to an increase in fiber size, known as hypertrophy, or an increase in the number of cells in the muscle, known as hyperplasia. However, hyperplasia is not thought to play a big role in increased muscle size in adults. Changes in muscle size are thought to be due to hypertrophy; increased cell size. It’s assumed this increase in cell size is due to increased overall protein (actin, myosin, etc.) and other components that help support the cell.",
+    "content_length": 504,
+    "content_tokens": 117,
+    "embedding": []
+  },
+  {
+    "title": "Blood Flow Restriction Training",
+    "date": "October 11, 2021",
+    "context": "Exercise & Physical Health",
+    "people": "Peter Attia",
+    "content": "Blood flow restriction training involves reducing blood flow going into the limb but not completely occluding blood flow. The current method is to begin by taking the cuff up to the lowest pressure for which there is no blood flow at all; then change the pressure to a percentage of that. This ensures some blood flow during exercise. The cuff size used for blood flow restriction matters; it will change the pressure. Pressure and force are related by the area that the cuff takes up; so the wider the cuff, the lower the pressure needed to reach occlusion.",
+    "content_length": 558,
+    "content_tokens": 111,
+    "embedding": []
+  },
+  {
+    "title": "Blood Flow Restricted Exercise and Discomfort",
+    "date": "October 11, 2021",
+    "context": "Exercise & Physical Health",
+    "people": "Peter Attia",
+    "content": "Exercising at 40 mmHg versus 80 mmHG may be the difference between comfort and discomfort. Using a moderate pressure (40%) or a high pressure (80-90%) will give pretty much the same changes in muscle size and strength; the discomfort will be quite different. Discomfort studies applying 40% AOP and having people simply sit show a low variability from person to person; the study stopped at 4 minutes and everyone could do the exercise. Some people are going to experience that as more discomfort than other people. This doesn’t necessarily mean the blood flow is reduced by 40% either; that is different. The blood flow may differ from person to person depending on how big the muscle is and a variety of other things.",
+    "content_length": 719,
+    "content_tokens": 151,
+    "embedding": []
+  },
+  {
+    "title": "Details and Metrics Related to Exercise Under Blood Flow Restriction",
+    "date": "October 11, 2021",
+    "context": "Exercise & Physical Health",
+    "people": "Peter Attia",
+    "content": "How much of the arterial flow of blood occurs at 40% AOP? How much venous pooling occurs? It also depends upon the position and exercise. Venous occlusion probably occurs because the thought is, it doesn’t take a lot of pressure to collapse the vein. During exercise the blood is pumping back out with the muscle pump. At rest there is usually venous pooling.",
+    "content_length": 359,
+    "content_tokens": 83,
+    "embedding": []
+  },
+  {
+    "title": "Considerations When Training with Blood Flow Restriction: Loading, Pace, Rest, and Risks",
+    "date": "October 11, 2021",
+    "context": "Exercise & Physical Health",
+    "people": "Peter Attia",
+    "content": "Choose a weight that is 20-30% of a 1-rep maximum weight. The slower the pace of exercise, the less repetition one is going to be able to do; this probably doesn’t matter too much overall for growth. Jeremy generally uses 30 second rest intervals. The safety profile overall is comparable to that of high load exercise or traditional exercise. Two common concerns are blood clotting and muscle damage. Blood flow restriction does not appear to increase the risk of blood clots or muscle damage. One will be sore after performing exercise under blood flow restriction, but when one looks at the muscle fiber it appears to be intact; there does not appear to be structural damage.",
+    "content_length": 678,
+    "content_tokens": 137,
+    "embedding": []
+  },
+  {
+    "title": "Blood Flow Restriction Studies and the Relationship Between Muscle Size and Muscle Strength",
+    "date": "October 11, 2021",
+    "context": "Exercise & Physical Health",
+    "people": "Peter Attia",
+    "content": "Comparing exercise of one arm under blood flow restriction to the other arm without restriction. Does the limb under blood flow restriction show gains in strength and/or size as compared to the other, unrestricted limb performing the same exercise. Yes, limbs trained under BFR show gains in strength and size. Jeremy notes that the response in the blood flow restriction subject will be better than a work-matched control, even if it’s the same person.",
+    "content_length": 453,
+    "content_tokens": 90,
+    "embedding": []
+  },
+  {
+    "title": "Blood Flow Restriction and Muscle Activation",
+    "date": "October 11, 2021",
+    "context": "Exercise & Physical Health",
+    "people": "Peter Attia",
+    "content": "Blood flow restriction by itself, in some ACL reconstruction post-surgery environment has shown to have some sort of benefit. Even if people walk very slowly under blood flow restriction there appears to be some adaptation, though not as much as seen with resistance exercise. With resistance exercise, blood flow occlusion is causing more of the muscle to activate sooner and then fatigue sooner than under a non-occluded condition. Blood flow restriction is just a tool to increase the time to failure and therefore act as a more efficient means to fatigue the various fibers. All of the benefits of blood flow restriction are not known.",
+    "content_length": 639,
+    "content_tokens": 121,
+    "embedding": []
+  },
+  {
+    "title": "Strength and Hypertrophy Relationship",
+    "date": "October 11, 2021",
+    "context": "Exercise & Physical Health",
+    "people": "Peter Attia",
+    "content": "Conventional wisdom is that once muscle growth is there, it is probably contributing to changes in strength. Neural changes occur first followed by large contributions from muscle hypertrophy. However, research in the low load realm has begun to question if muscle hypertrophy does increase strength. The correlation or association between strength and size is equally strong in the untrained as it is in the trained. The question here is, when a person begins to exercise and then they get stronger, is that due to changes in muscle size?",
+    "content_length": 539,
+    "content_tokens": 103,
+    "embedding": []
+  },
+  {
+    "title": "Muscle Growth and Strength Increase",
+    "date": "October 11, 2021",
+    "context": "Exercise & Physical Health",
+    "people": "Peter Attia",
+    "content": "There are numerous times in the literature where greater changes in muscle size occur but strength doesn’t change. This leads to the belief that there could be quite a bit of disconnect with respect to muscle growth and the change in strength. Studies have shown that change in muscle size is not necessary for a change in strength nor does it appear to be contributing given that the strength is the same in these 2 groups.",
+    "content_length": 424,
+    "content_tokens": 82,
+    "embedding": []
+  },
+  {
+    "title": "Increasing Muscular Strength",
+    "date": "October 11, 2021",
+    "context": "Exercise & Physical Health",
+    "people": "Peter Attia",
+    "content": "In practical terms, when someone is interested in getting as strong as possible, they don’t care whether muscle growth is a mechanism driving strength or not; they just want to get strong. There is a huge specificity component; train a good portion of time at or close to 1RM. If strength is desired for squatting or deadlift; then spend time training at 1RM with these exercises. Training to increase muscle growth typically requires a lot of recovery because a large volume of exercise is required to make a muscle grow. If strength is the goal, then perhaps less time can be devoted to high repetition exercise.",
+    "content_length": 614,
+    "content_tokens": 124,
+    "embedding": []
+  },
+  {
+    "title": "Other Explanations for Strength Increase",
+    "date": "October 11, 2021",
+    "context": "Exercise & Physical Health",
+    "people": "Peter Attia",
+    "content": "No one disputes the neurologic component; is there another mechanism? Some have the opinion that the exercise-induced changes are probably predominantly neural. There could be some local changes at the muscle, and that might be able to explain why some groups get stronger; that it’s not just neural. Perhaps the muscle at the local level gets better at responding to forceful contractions. Maybe there are qualitative alterations in the local muscle that are not due to muscle size such as how the muscle deals with calcium and how the myosin head binds.",
+    "content_length": 555,
+    "content_tokens": 109,
+    "embedding": []
+  },
+  {
+    "title": "Blood Flow Restriction Training",
+    "date": "October 11, 2021",
+    "context": "Exercise & Physical Health",
+    "people": "Peter Attia",
+    "content": "Blood flow restriction (BFR) training is becoming more common among athletes for both rehabilitation and everyday training. It is perceived as a way to get a workout in without having to spend so much time recovering. It appears that when athletes are injured and working out with BFR, they get more out of it and have less pain during movement. BFR could be a valuable tool for bodybuilders depending on how they feel any given day. If one is not feeling good and has a heavy day at the gym, they could use BFR to achieve similar training with lighter weights. BFR can be used to promote muscle growth and help with exercise variety. If one is hurt, evidence is accumulating that it is helpful in rehabilitation.",
+    "content_length": 713,
+    "content_tokens": 145,
+    "embedding": []
+  },
+  {
+    "title": "BFR and Muscle Hypertrophy",
+    "date": "October 11, 2021",
+    "context": "Exercise & Physical Health",
+    "people": "Peter Attia",
+    "content": "Exercising with low load under BFR will allow someone to build strength but to a much smaller degree than they would under traditional exercise. The load cannot be too low, 20-30% is too low. Most studies demonstrate slightly superior hypertrophy resulting from exercise under BFR despite less total volume of exercise and lower load. Low load exercise with BFR produces more hypertrophy than exercise with a matched load.",
+    "content_length": 422,
+    "content_tokens": 85,
+    "embedding": []
+  },
+  {
+    "title": "Mechanisms of BFR",
+    "date": "October 11, 2021",
+    "context": "Exercise & Physical Health",
+    "people": "Peter Attia",
+    "content": "One reason why BFR can produce so much hypertrophy using a low load is the response to metabolic challenge. As lactate pools, it may turn on some anabolic signaling pathways to activate growth. So exercising under BFR is thought to trap lactate in the muscle where it may augment muscle activation. Trapped metabolites (such as lactate) may cause the muscle to work harder than it normally would. Lactate may fatigue some of the cross-bridges formed during muscle contraction. When cross-bridges fatigue, more and more fibers may need to be recruited to complete the work.",
+    "content_length": 572,
+    "content_tokens": 121,
+    "embedding": []
+  },
+  {
+    "title": "Passive BFR Training",
+    "date": "October 11, 2021",
+    "context": "Exercise & Physical Health",
+    "people": "Peter Attia",
+    "content": "Passive BFR training can be used for someone with serious injury. For example, someone who had ACL surgery can apply BFR to their limb, inflate and deflate for a period of time, a couple times a day to slow muscle loss. Muscle growth does not occur, rather loss of muscle is slowed. BFR could be a tool to slow muscle loss in the elderly; this needs to be studied.",
+    "content_length": 364,
+    "content_tokens": 84,
+    "embedding": []
+  }
 ]

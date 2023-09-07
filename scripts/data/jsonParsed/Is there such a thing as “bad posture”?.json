@@ -1,12 +1,12 @@
 [
  {
-  "title": "Bad Posture",
+  "title": "Posture and Movement",
   "date": "January 25, 2022",
   "context": "Stability",
   "people": "Peter Attia",
-  "content": "Beth does not believe in there being a such thing as bad posture. She believes that moving around and never maintaining a single posture for too long is more important than superiority of any one particular posture.",
-  "content_length": 215,
-  "content_tokens": 40,
+  "content": "Is there such a thing as “bad posture”? The only time it’s bad posture is when you don’t have another option. Moving around and never maintaining a single posture for too long is more important than superiority of any one particular posture.",
+  "content_length": 241,
+  "content_tokens": 55,
   "embedding": []
  },
  {
@@ -14,19 +14,19 @@
   "date": "January 25, 2022",
   "context": "Stability",
   "people": "Peter Attia",
-  "content": "To counteract sitting, Beth suggests getting up and moving often and not sitting in the same position the whole time. Your pose perception just kind of turns off—“You forget that you’re supposed to move. . .if you don’t use it, it you lose it.”",
-  "content_length": 244,
-  "content_tokens": 62,
+  "content": "Get up and move often. Don’t sit in the same position the whole time. Your pose perception just kind of turns off—'You forget that you’re supposed to move. . .if you don’t use it, it you lose it.'",
+  "content_length": 196,
+  "content_tokens": 56,
   "embedding": []
  },
  {
-  "title": "Looking Down",
+  "title": "Cervical Strain from Looking Down",
   "date": "January 25, 2022",
   "context": "Stability",
   "people": "Peter Attia",
-  "content": "Beth says, “I honestly don’t know if I can answer that because there has been studies where no, it’s just like saying if you’re deadlifting with a flexed spine all the time, there has been studies that it doesn’t create any problems. But you would have to do an assessment to see the full picture of the human to see.”",
-  "content_length": 318,
-  "content_tokens": 84,
+  "content": "Too much looking down is going to create unbelievable cervical strain? There has been studies where no, it’s just like saying if you’re deadlifting with a flexed spine all the time, there has been studies that it doesn’t create any problems. But you would have to do an assessment to see the full picture of the human to see.",
+  "content_length": 325,
+  "content_tokens": 75,
   "embedding": []
  }
 ]
