@@ -10,7 +10,9 @@
     "scrape": "tsx scripts/scrape.ts",
     "embed": "tsx scripts/embed.ts",
     "csv": "tsx scripts/csv.ts",
-    "parse": "tsx scripts/parse.ts"
+    "parse": "tsx scripts/parse.ts",
+    "tune": "tsx scripts/fine_tune.ts"
+
   },
   "dependencies": {
     "@emotion/react": "^11.10.6",
