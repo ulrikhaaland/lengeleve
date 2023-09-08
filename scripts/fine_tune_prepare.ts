@@ -30,7 +30,7 @@ async function fetchDataFromSupabase(): Promise<TrainingContent[]> {
   const { data, error } = await supabase
     .from("training")
     .select("id, title, date, context, content")
-    .range(200, 300); // fetches rows 50 to 100 (0-based indexing)
+    .range(400, 500); // fetches rows 50 to 100 (0-based indexing)
 
   if (error) {
     console.error("Error fetching data:", error);
@@ -117,21 +117,33 @@ async function uploadToSupabase(content: TrainingContent): Promise<void> {
   }
 }
 
+async function fetchFineTunedResponses(): Promise<any[]> {
+  const { data, error } = await supabase
+    .from("fine_tuned_responses")
+    .select("*");
+  if (error || !data) {
+    console.error("Error fetching fine-tuned responses:", error);
+    return [];
+  }
+  return data;
+}
+
 async function main() {
   const contents = await fetchDataFromSupabase();
 
-  for (let i = 68; i < contents.length; i++) {
+  for (let i = 87; i < contents.length; i++) {
     const content = contents[i];
+    console.log("INDEX: " + i + " ID: " + content.chunkID);
     const analysis = await chatCompletetion(content);
     const parsedResponse: FineTuned[] = JSON.parse(analysis);
 
     content.questionsAnswers = parsedResponse;
 
     if (parsedResponse.length > 0) {
-      for (let qa of parsedResponse) {
-        console.log("Question: " + qa.question);
-        console.log("Answer: " + qa.answer);
-      }
+      // for (let qa of parsedResponse) {
+      //   console.log("Question: " + qa.question);
+      //   console.log("Answer: " + qa.answer);
+      // }
 
       await uploadToSupabase(content);
     }
@@ -143,15 +155,6 @@ main();
 type FineTuned = {
   question: string;
   answer: string;
-};
-
-type TrainingContentInsertResponse = {
-  id: number;
-  title: string;
-  date: string;
-  context: string;
-  content: string;
-  chunkID: number;
 };
 
 // const promptV1 = endent`

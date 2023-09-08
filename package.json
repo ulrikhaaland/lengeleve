@@ -11,8 +11,8 @@
     "embed": "tsx scripts/embed.ts",
     "csv": "tsx scripts/csv.ts",
     "parse": "tsx scripts/parse.ts",
-    "tune": "tsx scripts/fine_tune.ts"
-
+    "tune": "tsx scripts/fine_tune_prepare.ts",
+    "execution": "tsx scripts/fine_tune_execution.ts"
   },
   "dependencies": {
     "@emotion/react": "^11.10.6",
