@@ -1,10 +1,10 @@
-import { createClient } from "@supabase/supabase-js";
-import axios from "axios";
-import { loadEnvConfig } from "@next/env";
-import { Configuration, OpenAIApi } from "openai";
-import endent from "endent";
+import { createClient } from '@supabase/supabase-js';
+import axios from 'axios';
+import { loadEnvConfig } from '@next/env';
+import { Configuration, OpenAIApi } from 'openai';
+import endent from 'endent';
 
-loadEnvConfig("");
+loadEnvConfig('');
 
 const supabase = createClient(
   process.env.NEXT_PUBLIC_SUPABASE_URL!,
@@ -28,12 +28,12 @@ type TrainingContent = {
 
 async function fetchDataFromSupabase(): Promise<TrainingContent[]> {
   const { data, error } = await supabase
-    .from("training")
-    .select("id, title, date, context, content")
-    .range(400, 500); // fetches rows 50 to 100 (0-based indexing)
+    .from('training')
+    .select('id, title, date, context, content')
+    .range(800, 900); // fetches rows 50 to 100 (0-based indexing)
 
   if (error) {
-    console.error("Error fetching data:", error);
+    console.error('Error fetching data:', error);
     return [];
   }
 
@@ -48,7 +48,7 @@ async function fetchDataFromSupabase(): Promise<TrainingContent[]> {
   }));
 }
 
-const chatCompletetion = async (content: TrainingContent) => {
+async function chatCompletetion(content: TrainingContent) {
   let response: any;
 
   try {
@@ -76,33 +76,39 @@ const chatCompletetion = async (content: TrainingContent) => {
     `;
 
     response = await openai.createChatCompletion({
-      model: "gpt-4",
+      model: 'gpt-4',
       messages: [
         {
-          role: "user",
+          role: 'user',
           content: prompt,
         },
       ],
       temperature: 0.0,
       max_tokens: 2000,
     });
-  } catch (e) {
+  } catch (e: any) {
     console.log(e);
     console.log(configuration.apiKey);
+    response = e.response;
   }
 
   if (!response || response!.status !== 200) {
+    if (response?.status === 429) {
+      console.log('Too many requests, waiting 60 seconds');
+      await new Promise((resolve) => setTimeout(resolve, 60000));
+      return chatCompletetion(content);
+    }
     return null;
-    throw new Error("OpenAI API returned an error");
+    throw new Error('OpenAI API returned an error');
   } else {
     return response!.data.choices[0].message?.content;
   }
-};
+}
 
 async function uploadToSupabase(content: TrainingContent): Promise<void> {
   for (let qa of content.questionsAnswers) {
     const { error: qaError } = await supabase
-      .from("fine_tuned_responses")
+      .from('fine_tuned_responses')
       .insert([
         {
           question: qa.question,
@@ -112,38 +118,27 @@ async function uploadToSupabase(content: TrainingContent): Promise<void> {
       ]);
 
     if (qaError) {
-      console.error("Error inserting question/answer:", qaError);
+      console.error('Error inserting question/answer:', qaError);
     }
   }
-}
-
-async function fetchFineTunedResponses(): Promise<any[]> {
-  const { data, error } = await supabase
-    .from("fine_tuned_responses")
-    .select("*");
-  if (error || !data) {
-    console.error("Error fetching fine-tuned responses:", error);
-    return [];
-  }
-  return data;
 }
 
 async function main() {
   const contents = await fetchDataFromSupabase();
 
-  for (let i = 87; i < contents.length; i++) {
+  for (let i = 0; i < contents.length; i++) {
     const content = contents[i];
-    console.log("INDEX: " + i + " ID: " + content.chunkID);
+    console.log('INDEX: ' + i + ' ID: ' + content.chunkID);
     const analysis = await chatCompletetion(content);
     const parsedResponse: FineTuned[] = JSON.parse(analysis);
 
     content.questionsAnswers = parsedResponse;
 
     if (parsedResponse.length > 0) {
-      // for (let qa of parsedResponse) {
-      //   console.log("Question: " + qa.question);
-      //   console.log("Answer: " + qa.answer);
-      // }
+      for (let qa of parsedResponse) {
+        console.log('Question: ' + qa.question);
+        console.log('Answer: ' + qa.answer);
+      }
 
       await uploadToSupabase(content);
     }

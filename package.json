@@ -12,7 +12,8 @@
     "csv": "tsx scripts/csv.ts",
     "parse": "tsx scripts/parse.ts",
     "tune": "tsx scripts/fine_tune_prepare.ts",
-    "execution": "tsx scripts/fine_tune_execution.ts"
+    "execution": "tsx scripts/fine_tune_execution.ts",
+    "ask": "tsx scripts/ask_model.ts"
   },
   "dependencies": {
     "@emotion/react": "^11.10.6",
