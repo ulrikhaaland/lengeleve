@@ -39,7 +39,7 @@ export const OpenAIStream = async (prompt: PromptItem[], apiKey: string) => {
     },
     method: 'POST',
     body: JSON.stringify({
-      model: 'gpt-4',
+      model: 'ft:gpt-3.5-turbo-0613:galante::7wWWffSr',
       messages: prompt,
       max_tokens: 1000,
       temperature: 0.0,
