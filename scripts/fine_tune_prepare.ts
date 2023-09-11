@@ -30,7 +30,7 @@ async function fetchDataFromSupabase(): Promise<TrainingContent[]> {
   const { data, error } = await supabase
     .from('training')
     .select('id, title, date, context, content')
-    .range(800, 900); // fetches rows 50 to 100 (0-based indexing)
+    .range(1000, 1500); // fetches rows 50 to 100 (0-based indexing)
 
   if (error) {
     console.error('Error fetching data:', error);
@@ -53,7 +53,7 @@ async function chatCompletetion(content: TrainingContent) {
 
   try {
     const prompt = endent`
-    We're fine-tuning a language model. Assume expertise in exercise physiology, nutrition, longevity, and medicine. You'll analyze content about health, nutrition, and exercise.
+    We're fine-tuning a language model with a focus on exercise physiology, nutrition, longevity, and medicine. Your task is to analyze content about health, nutrition, and exercise and generate relevant questions and answers that provide a general understanding of the topic.
 
     Details:
     - Topic: ${content.context}
@@ -62,17 +62,22 @@ async function chatCompletetion(content: TrainingContent) {
     - Content: "${content.content}"
     
     Your tasks:
-    1. Identify questions that the content answers.
-    2. Formulate these questions as the general public would ask them.
-    3. Specify which part of the content answers each question.
-    4. You will respond only with a JSON list containg each question the content text answers and the part of the content text that answers that question as JSON format: {question: [the question the content text answers], answer: [the part of the content text that answers said question]}.
-    It is crucial to respond in the JSON Format as requested.
+    1. Identify key insights from the content.
+    2. Formulate questions that would be most valuable or enlightening to someone unfamiliar with the topic.
+    3. Extract or paraphrase answers from the content, ensuring they are concise, accurate, and in full sentences.
+    4. Respond only with a JSON list containing each question the content answers and the corresponding part of the content that answers that question. The format should be: {question: [the question the content answers], answer: [the part of the content that answers said question]}.
     
     Guidelines:
-    - Only provide clear, specific questions and answers.
-    - If an answer is partial, use your expertise to complete it.
-    - Ensure all answers are in complete sentences. If not, modify them accordingly.
-    - If the content provided does not provide any specific information or answer any questions. Please respond with an empty JSON list. 
+    - Ensure questions are directly relevant and provide a general understanding of the content.
+    - Avoid redundancy in questions and ensure answers don't overlap too much.
+    - If an answer is partial or not clear in the content, use your expertise to complete or clarify it.
+    - If the content does not provide any specific information or answer any questions, respond with an empty JSON list.
+    - Aim for diversity in the types of questions to cover various aspects of the content.
+
+    Example:
+    Content: "Vitamin C is essential for the body as it aids in the absorption of iron and promotes healthy skin."
+    Question: "Why is Vitamin C important for the body?"
+    Answer: "Vitamin C is essential for the body because it aids in the absorption of iron and promotes healthy skin."
     `;
 
     response = await openai.createChatCompletion({
@@ -126,7 +131,7 @@ async function uploadToSupabase(content: TrainingContent): Promise<void> {
 async function main() {
   const contents = await fetchDataFromSupabase();
 
-  for (let i = 0; i < contents.length; i++) {
+  for (let i = 4; i < contents.length; i++) {
     const content = contents[i];
     console.log('INDEX: ' + i + ' ID: ' + content.chunkID);
     const analysis = await chatCompletetion(content);
@@ -167,3 +172,49 @@ type FineTuned = {
 // It is crucial to respond in the JSON Format as requested. Another important thing: Don't return vague questions and answers, it is better to not return anything, than returning question and answer that are inadequate.
 // Finally, something that you must get right: If a question is partially answered, please expand upon the answer with your own knowledge, it is crucial to always give a complete answer to the question being asked.
 // Lastly, make sure to only return answers that have complete sentences, if they are not complete, you must complete them with your own knowledge.`;
+
+// const promptV2 = endent`
+// We're fine-tuning a language model. Assume expertise in exercise physiology, nutrition, longevity, and medicine. You'll analyze content about health, nutrition, and exercise.
+
+// Details:
+// - Topic: ${content.context}
+// - Date: ${content.date}
+// - Title: ${content.title}
+// - Content: "${content.content}"
+
+// Your tasks:
+// 1. Identify questions that the content answers.
+// 2. Formulate these questions as the general public would ask them.
+// 3. Specify which part of the content answers each question.
+// 4. You will respond only with a JSON list containg each question the content text answers and the part of the content text that answers that question as JSON format: {question: [the question the content text answers], answer: [the part of the content text that answers said question]}.
+// It is crucial to respond in the JSON Format as requested.
+
+// Guidelines:
+// - Only provide clear, specific questions and answers.
+// - If an answer is partial, use your expertise to complete it.
+// - Ensure all answers are in complete sentences. If not, modify them accordingly.
+// - If the content provided does not provide any specific information or answer any questions. Please respond with an empty JSON list.
+// `;
+
+// const promptV3 = endent`
+// We're fine-tuning a language model with a focus on exercise physiology, nutrition, longevity, and medicine. Your task is to analyze content about health, nutrition, and exercise and generate relevant questions and answers.
+
+// Details:
+// - Topic: ${content.context}
+// - Date: ${content.date}
+// - Title: ${content.title}
+// - Content: "${content.content}"
+
+// Your tasks:
+// 1. Identify key points and insights from the content.
+// 2. Formulate questions that the general public or a specific target audience (e.g., medical professionals) would ask about these key points.
+// 3. Extract or paraphrase answers from the content, ensuring they are concise, accurate, and in full sentences.
+// 4. Respond only with a JSON list containing each question the content answers and the corresponding part of the content that answers that question. The format should be: {question: [the question the content answers], answer: [the part of the content that answers said question]}.
+
+// Guidelines:
+// - Ensure questions are directly relevant and specific to the content.
+// - Avoid redundancy in questions and ensure answers don't overlap too much.
+// - If an answer is partial or not clear in the content, use your expertise to complete or clarify it.
+// - If the content does not provide any specific information or answer any questions, respond with an empty JSON list.
+// - Aim for diversity in the types of questions to cover various aspects of the content.
+// `;
