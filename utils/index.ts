@@ -1,5 +1,4 @@
 import { PromptItem } from '@/utils/getQueryPrompt';
-import { OpenAIModel } from '@/types';
 import { createClient } from '@supabase/supabase-js';
 import endent from 'endent';
 import {
