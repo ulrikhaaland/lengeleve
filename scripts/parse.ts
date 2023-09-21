@@ -1,7 +1,6 @@
 import fs from 'fs';
 import { Chapter, Chunk } from '@/types';
 import { encode } from 'gpt-3-encoder';
-import { OpenAIModel } from '@/types';
 import { Configuration, OpenAIApi } from 'openai';
 import { loadEnvConfig } from '@next/env';
 import { AMA44RAW } from './data/AMA44/AMA44RAW';
