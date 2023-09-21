@@ -30,7 +30,7 @@ async function fetchDataFromSupabase(): Promise<TrainingContent[]> {
   const { data, error } = await supabase
     .from('training')
     .select('id, title, date, context, content')
-    .range(1000, 1500); // fetches rows 50 to 100 (0-based indexing)
+    .range(2000, 2500); // fetches rows 50 to 100 (0-based indexing)
 
   if (error) {
     console.error('Error fetching data:', error);
@@ -65,12 +65,13 @@ async function chatCompletetion(content: TrainingContent) {
     1. Identify key insights from the content.
     2. Formulate questions that would be most valuable or enlightening to someone unfamiliar with the topic.
     3. Extract or paraphrase answers from the content, ensuring they are concise, accurate, and in full sentences.
-    4. Respond only with a JSON list containing each question the content answers and the corresponding part of the content that answers that question. The format should be: {question: [the question the content answers], answer: [the part of the content that answers said question]}.
+    4. Very Important: Respond only with a JSON list containing each question the content answers and the corresponding part of the content that answers that question. The format should be: {question: [the question the content answers], answer: [the part of the content that answers said question]}.
     
     Guidelines:
     - Ensure questions are directly relevant and provide a general understanding of the content.
     - Avoid redundancy in questions and ensure answers don't overlap too much.
     - If an answer is partial or not clear in the content, use your expertise to complete or clarify it.
+    - Acronyms should be spelled out in full. E.g "What is the RDA (recommended daily allowance) of Vitamin C?" instead of "What is the RDA of Vitamin C?"
     - If the content does not provide any specific information or answer any questions, respond with an empty JSON list.
     - Aim for diversity in the types of questions to cover various aspects of the content.
 
@@ -131,9 +132,10 @@ async function uploadToSupabase(content: TrainingContent): Promise<void> {
 async function main() {
   const contents = await fetchDataFromSupabase();
 
-  for (let i = 4; i < contents.length; i++) {
+  for (let i = 480; i < contents.length; i++) {
     const content = contents[i];
     console.log('INDEX: ' + i + ' ID: ' + content.chunkID);
+    await new Promise((resolve) => setTimeout(resolve, 2000));
     const analysis = await chatCompletetion(content);
     const parsedResponse: FineTuned[] = JSON.parse(analysis);
 

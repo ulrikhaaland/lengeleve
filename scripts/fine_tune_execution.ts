@@ -19,15 +19,31 @@ const configuration = new Configuration({
 export const openai = new OpenAIApi(configuration);
 
 async function fetchFineTunedResponses(): Promise<any[]> {
-  const { data, error } = await supabase
-    .from('fine_tuned_responses')
-    .select('*');
-    
-  if (error || !data) {
-    console.error('Error fetching fine-tuned responses:', error);
-    return [];
+  let fetchedData: any[] = [];
+  let offset = 0;
+  const limit = 1000; // Fetch 1000 rows at a time
+
+  while (true) {
+    const { data, error, count } = await supabase
+      .from('fine_tuned_responses')
+      .select('*', { count: 'exact' })
+      .range(offset, offset + limit - 1);
+
+    if (error || !data) {
+      console.error('Error fetching fine-tuned responses:', error);
+      return [];
+    }
+
+    fetchedData = [...fetchedData, ...data];
+
+    if (count !== null && fetchedData.length >= count) {
+      break;
+    }
+
+    offset += limit;
   }
-  return data;
+
+  return fetchedData;
 }
 
 async function formatDataForFineTuning(data: any[]): Promise<string> {

@@ -62,7 +62,7 @@ async function askModel(question: string, modelName: string): Promise<string> {
 async function main(question: string) {
   const fineTunedResponse = await askModel(
     question,
-    'ft:gpt-3.5-turbo-0613:galante::7wVDfVhM'
+    'ft:gpt-3.5-turbo-0613:galante::81Aiojgv'
   );
   const regularResponse = await askModel(question, 'gpt-3.5-turbo-0613');
 
