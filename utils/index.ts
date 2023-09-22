@@ -29,6 +29,11 @@ export const OpenAIStream = async (prompt: PromptItem[], apiKey: string) => {
   /// insert content prompt at index 0 of prompt array
   prompt.unshift(contentPrompt);
 
+  /// console log all the prompts
+  for(let i = 0; i < prompt.length; i++) {
+    console.log(prompt[i].content);
+  }
+
   console.log('Running OpenAIStream...');
 
   const res = await fetch('https://api.openai.com/v1/chat/completions', {
@@ -49,6 +54,8 @@ export const OpenAIStream = async (prompt: PromptItem[], apiKey: string) => {
   if (res.status !== 200) {
     const errorRes = await res.text();
     console.log(JSON.parse(errorRes));
+
+    console.log(res.body);
 
     throw new Error(errorRes);
   }
