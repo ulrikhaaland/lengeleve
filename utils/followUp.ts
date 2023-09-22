@@ -1,8 +1,10 @@
 import endent from "endent";
 import { openai } from "./openAIConfig";
 
-export async function getFollowUpQuestions(question: string,
-  previousQuestions: string[]) {
+export async function getFollowUpQuestions(
+  question: string,
+  previousQuestions: string[]
+) {
   let response;
 
   const content = endent`
@@ -47,8 +49,6 @@ export async function getFollowUpQuestions(question: string,
   } catch (e) {
     console.log(e);
     // await for 1 second and try again
-    await new Promise((resolve) => setTimeout(resolve, 1000));
-    return getFollowUpQuestions(question, previousQuestions);
     throw new Error("Error in GPT-3 request");
   }
 
