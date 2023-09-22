@@ -45,6 +45,10 @@ export default class GeneralStore {
         preQuestion?.replaceAll('"', "") ?? "What is longevity?"
       );
     } catch (error) {
+      /// wait for 1 second and try again
+      setTimeout(() => {
+        this.genPreQuestion();
+      }, 1000);
       console.log("Error generating pre-question:", error);
     }
   };

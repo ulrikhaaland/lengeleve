@@ -191,6 +191,8 @@ function Home() {
     let followUpQuestions: string[] = [];
 
     onFollowUpQuestions(query, questions).then((data) => {
+      /// await for two seconds before fetching follow up questions
+
       if (data) {
         followUpQuestions = data;
       }
@@ -257,7 +259,21 @@ function Home() {
     previousQuestions: string[]
   ): Promise<string[] | undefined> => {
     console.log("onFollowUpQuestions");
-    const followUp = await getFollowUpQuestions(query, previousQuestions);
+
+    let followUp;
+
+    try {
+      followUp = await getFollowUpQuestions(query, previousQuestions);
+    } catch (error) {
+      /// wait for two seconds then try again
+      await new Promise((resolve) => setTimeout(resolve, 2000));
+      try {
+        followUp = await getFollowUpQuestions(query, previousQuestions);
+      } catch (error) {
+        console.log(error);
+      }
+      console.log(error);
+    }
 
     /// parse json string
     if (followUp) {

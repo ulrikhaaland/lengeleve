@@ -22,33 +22,47 @@ function SearchBar({
 }: SearchBarProps) {
   const { generalStore } = useStore(); // Replace with your actual MobX context
   const [loading, setLoading] = useState(false);
+  const [preventNewQuestion, setPreventNewQuestion] = useState(false);
+  const [lastAskedQuestion, setLastAskedQuestion] = useState<string | null>(null);
 
   const handleKeyDown = (e: KeyboardEvent<HTMLInputElement>) => {
     if (
       e.key === "Enter" &&
       (query.length > 0 || generalStore.placeholder) &&
-      !disabled
+      !preventNewQuestion
     ) {
       onSearch();
     }
   };
 
   const onSearch = async () => {
-    if (disabled) return;
+    if (preventNewQuestion) return;
     let currentQuery = query.length === 0 ? generalStore.placeholder : query;
 
     setLoading(true);
+    setPreventNewQuestion(true);
+    setLastAskedQuestion(currentQuery);
     setQuery(""); // Clear the query
 
     await handleSearch(currentQuery); // Assuming handleSearch returns a promise
 
     setLoading(false);
+    setPreventNewQuestion(false);
 
     generalStore.setPreviousQuestions([
       ...generalStore.previousQuestions,
       currentQuery,
     ]);
     generalStore.genPreQuestion();
+  };
+
+  const handleInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const newValue = e.target.value;
+    setQuery(newValue);
+
+    if (loading && newValue === "" && lastAskedQuestion !== generalStore.placeholder) {
+      setQuery(generalStore.placeholder || "");
+    }
   };
 
   useEffect(() => {
@@ -65,11 +79,11 @@ function SearchBar({
         className="h-12 w-full rounded-full border border-zinc-600 pr-12 pl-11 focus:border-zinc-800 focus:outline-none focus:ring-1 focus:ring-zinc-800 sm:h-16 sm:py-2 sm:pr-16 sm:pl-16 sm:text-lg"
         type="text"
         placeholder={loading ? "Loading..." : generalStore.placeholder}
-        value={disabled || loading ? "" : query}
-        onChange={(e) => setQuery(e.target.value)}
+        value={query}
+        onChange={handleInputChange}
         onKeyDown={handleKeyDown}
       />
-      <button disabled={disabled || loading}>
+      <button disabled={preventNewQuestion || loading}>
         <IconArrowRight
           onClick={onSearch}
           className="absolute right-2 top-2.5 h-7 w-7 rounded-full bg-blue-500 p-1 hover:cursor-pointer hover:bg-blue-600 sm:right-3 sm:top-3 sm:h-10 sm:w-10 text-white"

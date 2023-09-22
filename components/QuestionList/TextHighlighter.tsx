@@ -21,9 +21,12 @@ const TextHighlighter: React.FC<TextHighlighterProps> = ({
 
   // Remove the first 4 characters if they are asterisks "****"
   let text = initialText.startsWith("****")
-    ? initialText.slice(4).replace(/^[\n\r]+/, "")
+    ? initialText.slice(4)
     : initialText;
 
+  // Remove leading line breaks
+  text = text.replace(/^[\n\r]+/, "");
+  
   const textRef = useRef<HTMLDivElement>(null);
   const [buttonVisible, setButtonVisible] = useState(false);
   const [buttonPosition, setButtonPosition] = useState<ButtonPosition>({
@@ -124,12 +127,6 @@ const TextHighlighter: React.FC<TextHighlighterProps> = ({
     };
   }, [onTextHighlighted]);
 
-  // useEffect(() => {
-  //   if (bgClicked) {
-  //     setButtonVisible(false);
-  //     setBgClicked(false);
-  //   }
-  // }, [bgClicked]);
   return (
     <div className="mt-2" ref={textRef} style={{ position: "relative" }}>
       <div dangerouslySetInnerHTML={{ __html: formattedTextWithStyles }} />
