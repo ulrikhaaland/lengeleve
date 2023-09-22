@@ -23,9 +23,10 @@ export const Answer: React.FC<AnswerProps> = ({ text }) => {
   useEffect(() => {
     let workingText = text;
     
-    // Explicitly remove the first 4 characters if they are asterisks "****"
-    // and also remove any line breaks that follow
-    workingText = workingText.replace(/^\*\*\*\*[\n\r]*/g, '');
+    // Remove the first 4 characters if they are asterisks "****"
+    if (workingText.startsWith("****")) {
+      workingText = workingText.slice(4).replace(/^[\n\r]+/, '');
+    }
 
     // Escape HTML characters
     const escapedText = escapeHtml(workingText);
@@ -33,6 +34,7 @@ export const Answer: React.FC<AnswerProps> = ({ text }) => {
     let isBold = false;
     let asteriskCount = 0;
     let processedText = "";
+    let wasBold = false;
     
     for (let i = 0; i < escapedText.length; i++) {
       const char = escapedText[i];
@@ -42,6 +44,7 @@ export const Answer: React.FC<AnswerProps> = ({ text }) => {
 
         if (asteriskCount === 2) {
           processedText += isBold ? "</strong>" : "<strong>";
+          wasBold = isBold;
           isBold = !isBold;
           asteriskCount = 0;
         }
@@ -55,6 +58,10 @@ export const Answer: React.FC<AnswerProps> = ({ text }) => {
           processedText += "<span class='dash'>&ndash;</span>";
         } else if (char === '\n') {
           processedText += "<br/>";
+          if (wasBold) {
+            processedText += "<br/>";
+            wasBold = false;
+          }
         } else {
           processedText += char;
         }

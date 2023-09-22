@@ -1,4 +1,5 @@
-import { makeObservable, observable, action } from 'mobx';
+import { getPreQuestion } from "@/utils/preQuestion";
+import { makeObservable, observable, action } from "mobx";
 
 export interface User {
   ageGroup?: string;
@@ -11,8 +12,8 @@ export interface User {
 }
 
 export enum ChatMode {
-  general = 'General',
-  specific = 'Specific',
+  general = "General",
+  specific = "Specific",
 }
 
 export default class GeneralStore {
@@ -20,6 +21,8 @@ export default class GeneralStore {
   user: User = {};
   hasAskedQuestion: boolean = false;
   chatMode: ChatMode = ChatMode.general;
+  previousQuestions: string[] = [];
+  placeholder: string = "What is longevity?";
 
   constructor() {
     makeObservable(this, {
@@ -27,11 +30,32 @@ export default class GeneralStore {
       user: observable,
       hasAskedQuestion: observable,
       chatMode: observable,
-      setUser: action,
-      setBgClicked: action,
-      setHasAskedQuestion: action,
+      placeholder: observable,
+      previousQuestions: observable,
+      setPlaceholder: action,
+      setPreviousQuestions: action,
+      genPreQuestion: action,
     });
+    this.genPreQuestion();
   }
+  genPreQuestion = async () => {
+    try {
+      const preQuestion = await getPreQuestion(this.previousQuestions);
+      this.setPlaceholder(
+        preQuestion?.replaceAll('"', "") ?? "What is longevity?"
+      );
+    } catch (error) {
+      console.log("Error generating pre-question:", error);
+    }
+  };
+
+  setPlaceholder = (placeholder: string) => {
+    this.placeholder = placeholder;
+  };
+
+  setPreviousQuestions = (questions: string[]) => {
+    this.previousQuestions = questions;
+  };
 
   setHasAskedQuestion = (hasAskedQuestion: boolean) => {
     this.hasAskedQuestion = hasAskedQuestion;

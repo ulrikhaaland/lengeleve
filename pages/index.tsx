@@ -10,7 +10,6 @@ import PageHeader from "@/components/PageHeader";
 import { useStore } from "@/stores/RootStoreProvider";
 import { observer } from "mobx-react";
 import { ChatMode } from "@/stores/general.store";
-import { getPreQuestion } from "@/utils/preQuestion";
 const { encode } = require("@nem035/gpt-3-encoder");
 
 const apiKey = process.env.NEXT_PUBLIC_OPENAI_API_KEY;
@@ -44,22 +43,6 @@ function Home() {
   const [showPassages, setShowPassages] = useState<boolean>(false);
   const [selectedIndex, setSelectedIndex] = useState<number | undefined>();
   const [highlightedText, setHighlightedText] = useState<string | undefined>();
-  const [preQuestion, setPreQuestion] = useState<string | undefined>();
-
-  let fetchingPreQuestion = false;
-
-  const fetchingPreQuestionRef = useRef(false);
-
-  useEffect(() => {
-    /// Fetch pre question
-    fetchingPreQuestionRef.current = true;
-    getPreQuestion(questions).then((data) => {
-      if (data) {
-        setPreQuestion(data.replaceAll('"', ""));
-      }
-      fetchingPreQuestionRef.current = false;
-    });
-  }, [questions]);
 
   const handleAnswer = async (q?: string, followUpQuestion?: boolean) => {
     if (!hasAskedQuestion) setHasAskedQuestion(true);
@@ -389,7 +372,6 @@ function Home() {
           handleSearch={handleAnswer}
           inputRef={inputRef}
           previousQuestions={questions}
-          preQuestion={preQuestion}
         ></SearchBar>
       </div>
     </>

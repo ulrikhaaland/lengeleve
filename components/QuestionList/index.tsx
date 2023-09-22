@@ -1,9 +1,9 @@
-import React, { useEffect, useRef, useState } from 'react';
-import { Answer } from '../Answer/Answer';
-import TextHighlighter from './TextHighlighter';
-import FadeInButton from './FadeInButton';
-import { Chunk } from '@/types';
-import { IconArrowRight } from '@tabler/icons-react';
+import React, { useEffect, useRef, useState } from "react";
+import { Answer } from "../Answer/Answer";
+import TextHighlighter from "./TextHighlighter";
+import FadeInButton from "./FadeInButton";
+import { Chunk } from "@/types";
+import { IconArrowRight } from "@tabler/icons-react";
 
 interface QuestionsListProps {
   questions: string[];
@@ -19,6 +19,19 @@ interface QuestionsListProps {
   passages: Chunk[][];
 }
 
+const LoadingAnswer = () => (
+  <>
+    <div className="font-bold text-2xl mt-6 w-full">Answer</div>
+    <div className="animate-pulse mt-2 pb-2 w-full">
+      <div className="h-4 bg-gray-300 rounded"></div>
+      <div className="h-4 bg-gray-300 rounded mt-2"></div>
+      <div className="h-4 bg-gray-300 rounded mt-2"></div>
+      <div className="h-4 bg-gray-300 rounded mt-2"></div>
+      <div className="h-4 bg-gray-300 rounded mt-2"></div>
+    </div>
+  </>
+);
+
 const QuestionsList: React.FC<QuestionsListProps> = ({
   questions,
   answers,
@@ -32,75 +45,69 @@ const QuestionsList: React.FC<QuestionsListProps> = ({
   onTextHighlighted,
   passages,
 }) => {
-  // eslint-disable-next-line react-hooks/exhaustive-deps
-  const loadingAnswerElement = (
-    <>
-      <div className='font-bold text-2xl mt-6 w-full'>Answer</div>
-      <div className='animate-pulse mt-2 pb-2 w-full'>
-        <div className='h-4 bg-gray-300 rounded'></div>
-        <div className='h-4 bg-gray-300 rounded mt-2'></div>
-        <div className='h-4 bg-gray-300 rounded mt-2'></div>
-        <div className='h-4 bg-gray-300 rounded mt-2'></div>
-        <div className='h-4 bg-gray-300 rounded mt-2'></div>
-      </div>
-    </>
-  );
+  const isLastQuestion = (index: number) => index === questions.length - 1;
+
+  const renderAnswer = (index: number) => {
+    if (isLastQuestion(index) && loading) return <LoadingAnswer />;
+    if (isLastQuestion(index) && answering) {
+      return (
+        <>
+          <div className="mt-6 items-center flex-row flex w-full justify-between pb-2">
+            <h2 className="font-bold text-2xl">Answer</h2>
+            <button
+              className="bg-gray-400 text-sm hover:bg-gray-700 text-white py-1 px-2 rounded inline-flex items-center transition duration-200"
+              onClick={() => setSelectedIndex(index)}
+            >
+              Go to passages ({passages[index].length})
+            </button>
+          </div>
+          <Answer text={answer} />
+        </>
+      );
+    }
+
+    if (answers[index]) {
+      return (
+        <>
+          <div className="mt-6 items-center flex-row flex w-full justify-between">
+            <h2 className="font-bold text-2xl">Answer</h2>
+            <button
+              className="bg-gray-400 text-sm hover:bg-gray-700 text-white py-1 px-2 rounded inline-flex items-center transition duration-200"
+              onClick={() => setSelectedIndex(index)}
+            >
+              Go to passages ({passages[index].length})
+            </button>
+          </div>
+          <TextHighlighter
+            text={answers[index]}
+            onTextHighlighted={(selectedText) => {
+              onTextHighlighted(selectedText);
+              setSelectedIndex(index);
+            }}
+          />
+        </>
+      );
+    }
+  };
+
   return (
     <>
-      {questions.map((q, i) => (
+      {questions.map((question, index) => (
         <div
-          key={i}
+          key={index}
           className={`${
-            i === questions.length - 1 ? '' : 'mt-6'
+            index === questions.length - 1 ? "" : "mt-6"
           } w-full flex flex-col mt-6`}
         >
-          <div className='font-bold text-2xl w-full'>Question</div>
-          <div className='mt-2'>{q}</div>
-          {i === questions.indexOf(questions[questions.length - 1]) &&
-          loading ? (
-            loadingAnswerElement
-          ) : i === questions.indexOf(questions[questions.length - 1]) &&
-            answering ? (
-            <>
-              <div className='mt-6 items-center flex-row flex w-full justify-between pb-2'>
-                <h2 className='font-bold text-2xl '>Answer</h2>{' '}
-                <button
-                  className='bg-gray-400 text-sm hover:bg-gray-700 text-white py-1 px-2 rounded inline-flex items-center transition duration-200'
-                  onClick={() => setSelectedIndex(i)}
-                >
-                  Go to passages ({passages[i].length})
-                </button>
-              </div>
-              <Answer text={answer} />
-            </>
-          ) : (
-            answers[i] && (
-              <>
-                <div className='mt-6 items-center flex-row flex w-full justify-between'>
-                  <h2 className='font-bold text-2xl '>Answer</h2>{' '}
-                  <button
-                    className='bg-gray-400 text-sm hover:bg-gray-700 text-white py-1 px-2 rounded inline-flex items-center transition duration-200'
-                    onClick={() => setSelectedIndex(i)}
-                  >
-                    Go to passages ({passages[i].length})
-                  </button>
-                </div>
-                <TextHighlighter
-                  text={answers[i]}
-                  onTextHighlighted={(selectedText) => {
-                    onTextHighlighted(selectedText);
-                    setSelectedIndex(i);
-                  }}
-                />
-              </>
-            )
-          )}
-          {i === questions.length - 1 && (
-            <div className='mt-6'>
-              {followUpQuestions.map((fuq, index) => (
+          <div className="font-bold text-2xl w-full">Question</div>
+          <div className="mt-2">{question}</div>
+          {renderAnswer(index)}
+          {isLastQuestion(index) && (
+            <div className="mt-6">
+              {followUpQuestions.map((fuq, fuqIndex) => (
                 <FadeInButton
-                  key={index}
-                  index={index}
+                  key={fuqIndex}
+                  index={fuqIndex}
                   text={fuq}
                   onClick={() => {
                     setQuery(fuq);
