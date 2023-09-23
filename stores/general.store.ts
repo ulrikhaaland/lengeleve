@@ -38,6 +38,7 @@ export default class GeneralStore {
     });
     this.genPreQuestion();
   }
+  
   genPreQuestion = async () => {
     try {
       const preQuestion = await getPreQuestion(this.previousQuestions);
@@ -48,7 +49,7 @@ export default class GeneralStore {
       /// wait for 1 second and try again
       setTimeout(() => {
         this.genPreQuestion();
-      }, 1000);
+      }, 3000);
       console.log("Error generating pre-question:", error);
     }
   };

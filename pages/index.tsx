@@ -169,6 +169,7 @@ function Home() {
     }
 
     if (!answerResponse.ok) {
+      
       setLoading(false);
       throw new Error(answerResponse.statusText);
     }

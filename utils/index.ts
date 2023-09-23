@@ -30,7 +30,7 @@ export const OpenAIStream = async (prompt: PromptItem[], apiKey: string) => {
   prompt.unshift(contentPrompt);
 
   /// console log all the prompts
-  for(let i = 0; i < prompt.length; i++) {
+  for (let i = 0; i < prompt.length; i++) {
     console.log(prompt[i].content);
   }
 
@@ -49,15 +49,15 @@ export const OpenAIStream = async (prompt: PromptItem[], apiKey: string) => {
       temperature: 0.0,
       stream: true,
     }),
-  });
+  }).catch((error) => {
+    console.error(error);
+    throw new Error(error as string);
+  }); 
 
   if (res.status !== 200) {
     const errorRes = await res.text();
-    console.log(JSON.parse(errorRes));
 
-    console.log(res.body);
-
-    throw new Error(errorRes);
+    // throw new Error(res.body);
   }
 
   const stream = new ReadableStream({
