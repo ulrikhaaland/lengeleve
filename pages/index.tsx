@@ -35,7 +35,7 @@ function Home() {
   const [answering, setAnswering] = useState<boolean>(false);
   const [userHasScrolled, setUserHasScrolled] = useState(false);
   const [showSettings, setShowSettings] = useState<boolean>(false);
-  const [matchCount, setMatchCount] = useState<number>(30);
+  const [matchCount, setMatchCount] = useState<number>(100);
   const [followUpQuestions, setFollowUpQuestions] = useState<string[]>([]);
   const [questions, setQuestions] = useState<string[]>([]);
   const [answers, setAnswers] = useState<string[]>([]);
@@ -95,7 +95,7 @@ function Home() {
     for (let i = 0; i < results.length; i++) {
       const chunk = results[i];
       tokens += chunk.content_tokens;
-      if (tokens > 2048) {
+      if (tokens > 4096) {
         tokens = tokens - chunk.content_tokens;
         continue;
       } else {
@@ -105,9 +105,9 @@ function Home() {
 
     setPassages((prev) => [...prev, filteredResults]);
 
-    if (tokens > 2048) {
+    if (tokens > 4096) {
       console.log(
-        "The total number of tokens in the passages exceeds the limit of 2048. Please try a different query."
+        "The total number of tokens in the passages exceeds the limit of 4096. Please try a different query."
       );
       console.log("Total number of tokens: " + tokens);
       // setLoading(false);

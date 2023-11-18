@@ -11,8 +11,8 @@
     "embed": "tsx scripts/embed.ts",
     "csv": "tsx scripts/csv.ts",
     "parse": "tsx scripts/parse.ts",
-    "tune": "tsx scripts/fine_tune.ts"
-
+    "tune": "tsx scripts/fine_tune.ts",
+    "chunks": "tsx scripts/get_chunks.ts"
   },
   "dependencies": {
     "@emotion/react": "^11.10.6",
@@ -26,6 +26,7 @@
     "@types/react": "18.0.28",
     "@types/react-dom": "18.0.11",
     "csv-parser": "^3.0.0",
+    "dotenv": "^16.3.1",
     "endent": "^2.1.0",
     "eslint": "8.34.0",
     "eslint-config-next": "13.1.6",
@@ -37,6 +38,7 @@
     "mobx-react-form": "^6.3.1",
     "mobx-state-tree": "^5.1.8",
     "next": "13.1.6",
+    "node-fetch": "^3.3.2",
     "papaparse": "^5.4.1",
     "puppeteer": "^19.10.1",
     "react": "18.2.0",
